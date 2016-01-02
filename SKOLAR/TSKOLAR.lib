@@ -13,6 +13,25 @@ LIBRARY TSkolar "TSkolar"
      óskilgreint       (9)   "" ""
      )
 
+    TYPE
+         tISCED11 = CLASSIFICATION
+         HIERARCHY
+           preprimary       "Leikskóli"                            "Early childhood education",
+           primaryEducation "Grunnskólastig, yngri en 12 ára"      "Primary school level",
+           lowerSecondary   "Grunnskólastig, eldri en 12 ára"      "Middle school level" ,
+           upperSecondary   "Framhaldsskólastig"                   "Secondary school level" =(
+                            general    "Nám til stúdentsprófs"     "High school",
+                             vocational "Nám til sveinsprófs"       "Vocational school or apprenticeship"),
+           postSecondary   = (general "Viðbótarstig" "Post-secondary but not university level",
+                              vocational "Nám til meistaraprófs"   "Vocational school - master trade- or craftsman"),
+           shortcycleTertiary,
+           Bachelor,
+           Masters,
+           Doctorate
+           
+         ENDCLASSIFICATION
+
+
     TYPE TSklEinka  = (Ríkisrekinn (0), Einkaskóli (1), Annað (9))
 
 END
