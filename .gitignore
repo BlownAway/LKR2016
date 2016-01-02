@@ -2,3 +2,14 @@
 *.msu
 *.msx
 
+#Library files
+*.bli
+*.bxi
+
+#Instrument files
+*.bdm
+*.bxi
+
+#Folders
+[Ii]nst/
+[Dd]ata/
