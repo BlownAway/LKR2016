@@ -1,0 +1,67 @@
+DATAMODEL tester
+LANGUAGES   = ISL "Íslenska", ENG "Enska"
+
+LIBRARIES
+    TMENNTUN   'Menntun\TMENNTUN',
+    TSTFELAG   'StFelag\TSTFELAG',
+    TSVEIT     'Sveit\TSVEIT',
+    TISTARF    'Istarf\TISTARF',
+    TFJARVERA  'Fjarvera\TFJARVERA',
+    TNÁM       'Nam\TNAM',
+    TBrottfall 'Brottfall\TBrottfall',
+    TISAT2008  'ISAT2008\TISAT2008',
+    TSkolar    'SKOLAR\TSKOLAR'
+
+USES
+    MENNTUN   'Menntun\MENNTUN',
+    STFELAG   'StFelag\STFELAG',
+    SVEIT     'Sveit\SVEIT',
+    ISTARF    'Istarf\ISTARF',
+    FJARVERA  'Fjarvera\FJARVERA',
+    NÁM       'Nam\NAM',
+    IÐN       'IDN\IDN',
+    ISAT2008  'ISAT2008\ISAT2008',
+    Skólar    'SKOLAR\SKOLAR'
+
+ATTRIBUTES = DontKnow, Refusal
+INCLUDE "IncludeFiles\Types.inc"
+INCLUDE "IncludeFiles\Stefjur.inc"
+INCLUDE "IncludeFiles\BlokkA.inc"
+INCLUDE "IncludeFiles\BlokkB.inc"
+INCLUDE "IncludeFiles\BlokkD.inc"
+INCLUDE "IncludeFiles\BlokkGd.inc"
+INCLUDE "IncludeFiles\BlokkI.inc"
+INCLUDE "IncludeFiles\BlokkJ.inc"
+INCLUDE "IncludeFiles\BlokkK.inc"
+INCLUDE "IncludeFiles\BlokkO.inc"
+FIELDS
+AllarSpurningar : TJáNei
+viðmiðunardagur : DateType
+persóna : Tpersóna
+O : BlokkO
+
+
+AUXFIELDS
+    vinnutími :0..220
+    Fæðár : 1900..2020
+
+
+    {Breytur sem tilheyra Types}
+    n : (karl2p "n",kona2p " ",karl3p "n",kona3p " ", óvíst3p "/n")
+    ur: (karl2p "ur",kona2p " ",karl3p "ur",kona3p " ",óvíst3p "(ur)")
+    ekkill: (karl2p "Ekkill",kona2p "Ekkja",karl3p "Ekkill",kona3p "Ekkja",óvíst "Ekkill/Ekkja")
+
+    sama_og_síðast,same_as_last_time: STRING
+
+    {Breytur sem tilheyra spurningaskjá}
+     haus           : STRING[500]
+     fsvar          : STRING[77]
+     strik          : STRING[50]
+RULES
+viðmiðunardagur:=sysdate
+persóna
+Fæðár
+O (viðmiðunardagur, persóna, FæðÁr)
+AllarSpurningar 
+
+ENDMODEL

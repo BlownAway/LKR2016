@@ -1,0 +1,14 @@
+LIBRARY TSkolar "TSkolar"
+    LANGUAGES = ISL, ENG
+    TYPE TSkolastig = (
+     Grunnskóli             (2) "Grunnskóli"     "Primary or middle school",
+     Framhaldsskóli         (3) "Framhaldsskóli" "High school",
+     Iðnskóli               (4) "Iðnskóli"       "Vocational school",
+     Háskóli                (5) "Háskóli"        "College or university",
+     Annað                  (6) "Annað nám"      "Other",
+     óskilgreintFramhald    (9) "" ""
+     )
+
+    TYPE TSklEinka  = (Ríkisrekinn (0), Einkaskóli (1), Annað (9))
+
+END

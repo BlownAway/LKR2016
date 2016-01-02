@@ -1,0 +1,25 @@
+{ÍSTARF.BLA - Athugun á flokkunarkerfi fyrir starfsheitaflokkun í vinnumarkaðs- og öðrum rannsóknum Hagstofu Íslands
+  ÓH (c) nóvember 2002
+  }
+
+
+DATAMODEL Istarf "Starfaflokkun"
+
+LIBRARIES
+    TIstarf 'TIstarf'
+
+SECONDARY
+  Tri   = Heiti(TRIGRAM)
+  Kóti  = Starfakóti
+
+FIELDS
+    Starfakóti  : TIStarf
+    Heiti       : STRING[80]
+    
+
+RULES
+    Heiti
+    Starfakóti
+
+ENDMODEL
+

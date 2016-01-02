@@ -1,0 +1,25 @@
+{   ISAT2008.BLA
+
+}
+
+
+
+DATAMODEL ISAT2008 "Flokkun atvinnugreina"
+
+LIBRARIES
+  TISAT2008  'TISAT2008'
+
+SECONDARY
+  Tri  = Atriðisorð(TRIGRAM)
+  ISAT = ISAT2008
+
+FIELDS
+  ISAT2008                         : TIsat2008
+  Atriðisorð  "Atvinnugreinar"    : STRING[250]
+  
+
+RULES
+  Atriðisorð
+  ISAT2008
+
+ENDMODEL

@@ -1,0 +1,67 @@
+3.3.1   ;Almenn ljósmyndun
+3.3.10  ;Feldskurður
+3.3.11  ;Flugvélavirkjun
+3.3.12  ;Framreiðsla
+3.3.13  ;Glerslípun og speglagerð
+3.3.14  ;Gull- og silfursmíði
+3.3.15  ;Hattasaumur
+3.3.159 ;Skóviðgerðir
+3.3.16  ;Hárgreiðsla
+3.3.17  ;Hárskurður
+3.3.18  ;Hársnyrtibraut
+3.3.19  ;Hljóðfærasmíði
+3.3.2   ;Annað iðnnám
+3.3.20  ;Húsamálun
+3.3.21  ;Húsasmíði
+3.3.22  ;Húsgagnabólstrun
+3.3.23  ;Húsgagnasmíði
+3.3.24  ;Járnsmíði
+3.3.25  ;Kjólasaumur
+3.3.26  ;Kjötiðn
+3.3.27  ;Klæðskurður karla
+3.3.28  ;Klæðskurður kvenna
+3.3.29  ;Kökugerð
+3.3.3   ;Bakaraiðn
+3.3.30  ;Leirkerasmíði
+3.3.31  ;Leturgröftur
+3.3.32  ;Ljósmyndun
+3.3.33  ;Matreiðsla
+3.3.34  ;Málmsteypa og rennismíði
+3.3.35  ;Málmsuða
+3.3.36  ;Mjólkuriðn
+3.3.37  ;Mótasmíði
+3.3.38  ;Múrsmíði
+3.3.39  ;Myndskurður
+3.3.4   ;Bakaraiðn og kökugerð
+3.3.40  ;Netagerð
+3.3.41  ;Persónuljósmyndun
+3.3.42  ;Pípulagnir
+3.3.43  ;Prentsmíði
+3.3.44  ;Prentun
+3.3.45  ;Rafeindavirkjun
+3.3.46  ;Rafsuða
+3.3.47  ;Rafveituvirkjun
+3.3.48  ;Rafvélavirkjun
+3.3.49  ;Rafvirkjun
+3.3.5   ;Bifreiðasmíði
+3.3.50  ;Reiðtygja- og aktygjasmíði
+3.3.51  ;Rennismíði
+3.3.52  ;Símsmíði
+3.3.53  ;Skipa- og bátasmíði
+3.3.54  ;Skósmíði
+3.3.55  ;Skrúðgarðyrkja
+3.3.56  ;Snyrtifræði
+3.3.57  ;Stálskipasmíði
+3.3.58  ;Stálsmíði
+3.3.59  ;Stálvirkjun
+3.3.6   ;Bifvélavirkjun
+3.3.60  ;Steinsmíði
+3.3.61  ;Sútaraiðn
+3.3.62  ;Tannsmíði
+3.3.63  ;Tágariðun
+3.3.64  ;Úrsmíði
+3.3.65  ;Veggfóðrun og dúkalögn
+3.3.66  ;Vélsmíðabraut
+3.3.7   ;Bílamálun
+3.3.8   ;Blikksmíði
+3.3.9   ;Bókband

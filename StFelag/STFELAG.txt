@@ -1,0 +1,379 @@
+0.0   ;Óþekkt stéttarfélag
+0.1   ;Greiðir ekki í stéttarfélag
+0.112 ;Efling - Stéttarfélag
+0.112 ;Félag starfsfólks í veitingahúsum
+0.112 ;Iðja, félag verksmiðjufólks, Reykjavík
+0.112 ;Starfsmannafélagið Sókn
+0.112 ;Verkakvennafélagið Framsókn 
+0.112 ;Verkalýðs- og sjómannafélagið Boðinn
+0.112 ;Verkamannafélagið Dagsbrún 
+0.115 ;Verkakvennafélagið Framtíðin 
+0.115 ;Verkalýðsfélagið Hlíf
+0.121 ;Framsýn - stéttarfélag
+0.121 ;Verkalýðsfélag Raufarhafnar
+0.121 ;Verkalýðsfélag Öxarfjarðar
+0.121 ;Verslunarmannafélag Húsavíkur og nágrennis
+0.126 ;Aldan - stéttafélag
+0.126 ;Verkakvennafélagið Aldan
+0.126 ;Verkalýðsfélagið Fram, Sauðárkróki
+0.130 ;Verkalýðsfélag Akraness
+0.132 ;Verkalýðs- og sjómannafélag Gerðahrepps
+0.132 ;Verkalýðs- og sjómannafélag Keflavíkur
+0.147 ;Báran - stéttarfélag
+0.147 ;Verkalýðs- og sjómannafélagið Bjarmi
+0.147 ;Verkalýðsfélagið Báran
+0.147 ;Verkalýðsfélagið Þór
+0.150 ;Verkalýðsfélag Grindavíkur
+0.155 ;Verkalýðs- og sjómannafélag Sandgerðis
+0.157 ;Stéttarfélag Vesturlands
+0.157 ;Verkalýðsfélagið Hörður
+0.157 ;Verkalýðsfélagið Valur
+0.159 ;Verkalýðsfélag Snæfellinga
+0.159 ;Verkalýðsfélag Snæfellsbæjar
+0.159 ;Verkalýðsfélag Stykkishólms
+0.159 ;Verkalýðsfélagið Stjarnan
+0.160 ;Jökull í Ólafsvík
+0.160 ;Verkalýðsfélagið Afturelding
+0.174 ;Verkalýðs- og sjómannafélag Bolungarvíkur
+0.183 ;Stéttarfélagið Samstaða
+0.183 ;Verkalýðs- og sjómannafélag Skagastrandar
+0.183 ;Verkalýðsfélag A-Húnvetninga
+0.183 ;Verkalýðsfélag Hrútfirðinga
+0.183 ;Verkalýðsfélagið Hvöt
+0.183 ;Verslunarmannafélag Húnvetninga
+0.194 ;Verkalýðsfélag Þórshafnar
+0.21  ;Félag bókagerðarnema
+0.22  ;Félag hárgreiðslu- og hárskeranema
+0.224 ;Verkalýðsfélag Suðurlands
+0.224 ;Verkalýðsfélagið Rangæingur
+0.224 ;Verkalýðsfélagið Samherjar
+0.224 ;Verkalýðsfélagið Víkingur
+0.225 ;Sjómannafélag Ísfirðinga
+0.225 ;Sveinafélag byggingarmanna
+0.225 ;Verkalýðs- og sjómannafélag Álftfirðinga
+0.225 ;Verkalýðs- og sjómannafélag Tálknafjarðar
+0.225 ;Verkalýðs- og sjómannafið Grettir
+0.225 ;Verkalýðsfélag Hólmavíkurm
+0.225 ;Verkalýðsfélag Kaldrananeshrepps
+0.225 ;Verkalýðsfélag Patreksfjarðar
+0.225 ;Verkalýðsfélag Vestfirðinga
+0.225 ;Verkalýðsfélagið Baldur
+0.225 ;Verkalýðsfélagið Brynja
+0.225 ;Verkalýðsfélagið Skjöldur
+0.225 ;Verkalýðsfélagið Súgandi
+0.225 ;Verkalýðsfélagið Vörn
+0.225 ;Verslunarmannafélag Bolungarvíkur
+0.225 ;Verslunarmannafélag Ísafjarða
+0.23  ;Félag tannsmiðanema
+0.235 ;Eining - Iðja
+0.235 ;Iðja, félag verksmiðjufólks, Akureyri
+0.235 ;Verkalýðsfélagið Eining
+0.235 ;Verkalýðsfélagið Vaka
+0.237 ;Drífandi stéttarfélag
+0.237 ;Verkakvennafélagið Snót
+0.237 ;Verkalýðsfélag Vestmannaeyja
+0.238 ;AFL starfsgreinafélag Austurlands
+0.238 ;Iðnaðarmannafélag Norðfjarðar
+0.238 ;Iðnsveinafélag Fljótsdalshéraðs
+0.238 ;Málm- og skipasmiðafélag Neskaupstaðar
+0.238 ;Verkalýðs- og sjómaannafélag Breiðdælinga
+0.238 ;Verkalýðs- og sjómamannafélag Stöðvarfjarðar
+0.238 ;Verkalýðs- og sjómannafélag Djúpavogs
+0.238 ;Verkalýðs- og sjómannafélag Fáskrúðsfjarðar
+0.238 ;Verkalýðsfélag Borgarfjarðar Eystri
+0.238 ;Verkalýðsfélag Fljótsdalshéraðs
+0.238 ;Verkalýðsfélag Norðfirðinga
+0.238 ;Verkalýðsfélag Reyðarfjarðar
+0.238 ;Verkalýðsfélag Skeggjastaðahrepps
+0.238 ;Verkalýðsfélag Vopnafjarðar
+0.238 ;Verkalýðsfélagið Jökull, Höfn
+0.238 ;Verkamannafélagið Árvakur
+0.238 ;Verkamannafélagið Fram, Seyðisfirði
+0.238 ;Vökull Stéttarfélag
+0.240 ;Sjómannasamband Íslands
+0.240 ;Þernufélag Íslands
+0.241 ;Matsveinafélag Íslands
+0.241 ;Sjómannafélag Íslands
+0.242 ;Sjómannafélag Hafnarfjarðar
+0.243 ;Sjómanna- og vélstjórafélag Grindavíkur
+0.249 ;Sjómannafélag Ólafsfjarðar
+0.250 ;Sjómannafélag Eyjafjarðar
+0.252 ;Sjómannafélagið Jötunn
+0.260 ;Farmanna og fiskimannasamband Íslands (FFSÍ)
+0.261 ;Félag bryta
+0.263 ;Skipstjóra- og stýrimannafélagið Verðandi
+0.264 ;Vísir, félag skipstjórnarmanna á Suðurnesjum
+0.280 ;Félag íslenskra skipstjórnarmanna
+0.280 ;Félag skipstjórnarmanna
+0.280 ;Skipstj.- og stýrimannafélag Norðlendinga
+0.280 ;Skipstjóra- og stýrimannafélagið Aldan
+0.280 ;Skipstjóra- og stýrimannafélagið Bylgjan
+0.280 ;Skipstjóra- og stýrimannafélagið Hafþór
+0.280 ;Skipstjóra- og stýrimannafélagið Kári
+0.280 ;Skipstjóra- og stýrimannafélagið Sindri
+0.280 ;Skipstjóra- og stýrimannafélagið Ægir
+0.280 ;Skipstjóra- og stýrirmannafélag Íslands
+0.30  ;Félag járniðnaðarnema
+0.300 ;Starfsmannafélag Kbbanka
+0.32  ;Félag nema í rafiðnum
+0.33  ;Félag nema í byggingariðnum
+0.34  ;Félag nema í bíliðnum
+0.366 ;Bifreiðastjórafélagið Sleipnir
+0.403 ;Iðnsveinafélag Skagafjarðar
+0.407 ;Iðnsveinafélag Stykkishólms
+0.409 ;Iðnsveinafélag Húnvetninga
+0.412 ;Félag bókagerðarmanna
+0.412 ;Félag grafískra teiknara
+0.42  ;Félag matvæla- og framreiðslunema
+0.421 ;Vélstjórafélag Ísafjarðar
+0.421 ;Vélstjórafélag Íslands
+0.421 ;Vélstjórafélag Reykjavíkur
+0.421 ;Vélstjórafélag Suðurnesja
+0.421 ;Vélstjórafélag Vestmannaeyja
+0.421 ;VM - Félag vélstjóra og málmtæknimanna
+0.422 ;Félag málmiðnaðarmanna
+0.423 ;Félag járniðnaðarmanna, Ísafirði
+0.431 ;Flugvirkjafélag Íslands
+0.432 ;Rafvirkjafélag Norðurlands
+0.433 ;Félag íslenskra línumanna
+0.433 ;Félag íslenskra rafvirkja
+0.434 ;Félag rafeindavirkja
+0.438 ;Félag rafiðnaðarmanna á Suðurlandi
+0.439 ;Rafiðnaðarfélag Suðurnesja
+0.440 ;Byggiðn - Félag byggingamanna
+0.440 ;Félag byggingamanna, Eyjafirði
+0.440 ;Félag starfsfólks í húsgagnaiðnaði
+0.446 ;Múrarafélag Skagafjarðar
+0.447 ;Múrarafélag Vesturlands
+0.448 ;Múrarafélag Ísfirðinga
+0.449 ;Málarafélag Akureyrar
+0.450 ;Múrarafélag Akureyrar
+0.453 ;Sveinafélag pípulagningarmanna
+0.454 ;Félag veggfóðrara og dúklagningarsveina
+0.455 ;Bíliðnafélagið, Félag Blikksmiða
+0.455 ;Félag blikksmiða
+0.455 ;Félag byggingariðnaðarmanna í Hafnarfirði
+0.455 ;Félag garðyrkjumanna
+0.455 ;Félag iðn- og tæknigreina
+0.455 ;Iðnsveinafélag Suðurnesja
+0.455 ;Málarafélag Reykjavíkur
+0.455 ;Múrarafélag Reykjavíkur
+0.455 ;Sunniðn
+0.455 ;Sveinafélag járniðnaðarmanna, Vestmannaeyjum
+0.455 ;Sveinafélag málmiðnaðarmanna
+0.455 ;Sveinafélag málmiðnaðarmanna í Rangárvallasýslu
+0.456 ;Múrarafélag Suðurnesja
+0.458 ;Byggingamannafélagið Árvakur
+0.458 ;Sveinafélag járniðnaðarmanna, Húsavík
+0.458 ;Þingiðn,félag iðnaðarm Þingsýsl.
+0.459 ;Múrarafélag Suðurlands
+0.467 ;Félag hársnyrtisveina
+0.480 ;Bakarasveinafélag Íslands
+0.480 ;Félag framreiðslumanna
+0.480 ;Félag íslenskra kjötiðnaðarmanna
+0.480 ;Félag matartækna
+0.480 ;Félag matreiðslumanna
+0.480 ;Félag nemenda í matvæla - og veitingagreinum 
+0.480 ;Matvæla- og veitingasamband Íslands (MATVÍS)
+0.51  ;Félag nema í fatagerðariðnum
+0.510 ;Landssamband íslenskra verslunarmanna
+0.511 ;Verslunarmannafélag Akraness
+0.511 ;Verslunarmannafélag Austurlands
+0.511 ;Verslunarmannafélag Hafnarfjarðar
+0.511 ;Verslunarmannafélag V-Húnvetninga
+0.511 ;Verslunarmannafélag Vestmannaeyja
+0.511 ;VR
+0.514 ;Verslunarmannafélag Árnessýslu
+0.514 ;Verslunarmannafélag Rangárvallasýslu
+0.514 ;Verslunarmannafélag Suðurlands
+0.52  ;Félag símsmiða
+0.520 ;Verzlunarmannafélag Skagafjarðar
+0.526 ;Félag verslunar- og skrifstofufólks á Akureyri
+0.532 ;Verslunarmannafélag Suðurnesja
+0.54  ;Félag tæknifólks í rafiðnaði
+0.542 ;Samtök starfsmanna fjármálafyrirtækja(SÍB)
+0.542 ;Starfsmannafélag Glitnis
+0.543 ;Félag flugumsjónarmanna á Íslandi
+0.550 ;Starfsmannafélagið Lífæð
+0.560 ;Félag lykilmanna
+0.601 ;Kjarafélag tæknifræðingafélags Íslands
+0.601 ;Stéttarfélag tæknifræðinga
+0.602 ;Félag prófessora við ríkisháskóla
+0.603 ;Stéttarfélag sjávarútvegsfræðinga
+0.604 ;Skurðlæknafélag Íslands
+0.609 ;Félag tækniteiknara
+0.610 ;Ljósmæðrafélag Íslands
+0.611 ;Félag íslenskra hjúkrunarfræðinga
+0.612 ;Lyfjafræðingafélag Íslands
+0.612 ;Stéttarfélag íslenskra lyfjafræðinga
+0.613 ;Læknafélag Íslands
+0.615 ;Dýralæknafélag Íslands
+0.616 ;Stéttarfélag sjúkraþjálfa í Mosfellsbæ
+0.616 ;Stéttarfélag sjúkraþjálfara
+0.618 ;Félag lífeindafræðinga
+0.619 ;Sjúkraliðafélag Íslands
+0.621 ;Félag tónlistarskólakennara
+0.623 ;Prestafélag Íslands
+0.624 ;Félag háskólakennara
+0.624 ;Kennarafélag Kennaraháskóla Íslands
+0.625 ;Félag háskólakennara á Akureyri
+0.626 ;Félag akademískra starfsmanna HR
+0.627 ;Félag grunnskólakennara
+0.629 ;Hið íslenska kennarafélag (HÍK)
+0.629 ;Kennarasamband Íslands (KÍ)
+0.629 ;Kennarasamsamband Íslands
+0.630 ;Lögreglufélag Reykjavíkur
+0.631 ;Skólastjórafélag Íslands
+0.632 ;Tollvarðafélag Íslands
+0.634 ;Póstmannafélag Íslands
+0.636 ;Félag íslenskra símamanna
+0.637 ;Landssamband lögreglumanna
+0.638 ;Starfsmannafélag Sinfóníuhljómsveitar Íslands
+0.639 ;Félag opinberra starfsmanna á Austurlandi
+0.640 ;Félag flugmálastarfsmanna Ríkisins
+0.641 ;Félag starfsmanna Stjórnarráðsins
+0.642 ;SFR Stéttarfélag í almannaþjónustu
+0.643 ;Starfsmannafélag Ríkisútvarpsins
+0.643 ;Starfsmannafélag Sjónvarps 
+0.644 ;Starfsmannafélag Fjallabyggðar
+0.647 ;Félag íslenskra flugumferðastjóra
+0.649 ;Starfsmannafélag Reykjanesbæjar
+0.649 ;Starfsmannafélag Suðurnesja
+0.650 ;Starfsmannafélag Akraness
+0.650 ;Starfsmannafélag Reykjavíkurborgar
+0.651 ;Starfsmannafélag Kópavogs
+0.652 ;Starfsmannafélag Hafnarfjarðar
+0.653 ;Félag opinberra starfsmanna í Húnavatnsýslu 
+0.653 ;Kjölur - stéttarfélag í starfsmanna í almannaþj.
+0.653 ;Starfsmannafélag Borgarbyggðar
+0.653 ;Starfsmannafélag Dalvíkurbyggðar
+0.653 ;Starfsmannafélag Siglufjarðarkaupstaðar
+0.656 ;Starfsmannafélag Dala- og Snæfellsnessýslu
+0.658 ;Starfsmannafélag Vestmannaeyja
+0.659 ;Starfsmannafélag Mosfellsbæjar
+0.660 ;Starfsmannafélag Fjarðarbyggðar
+0.661 ;Starfsmannafélag Skagafjarðar
+0.663 ;Félag opinberra starfsmanna á Suðurlandi
+0.663 ;Starfsmannafélag A-Skaftafellssýslu
+0.663 ;Starfsmannafélag Árborgar
+0.664 ;Starfsmannafélag Húsavíkur
+0.666 ;Starfsmannafélag Seltjarnarness
+0.667 ;Starfsmannafélag Garðabæjar
+0.668 ;Félag opinberra starfsmanna á Vestfjörðum
+0.670 ;Stéttarfélag bókasafns- og upplýsingafræðinga
+0.671 ;Kjarafélag viðskipta- og hagfræðinga
+0.672 ;Stéttarfélag lögfræðinga
+0.674 ;Félag íslenskra náttúrufræðinga
+0.674 ;Kjarafélag arkitekta
+0.675 ;Stéttarfélag verkfræðinga
+0.676 ;Iðjuþjálfafélag Íslands
+0.676 ;Kjarafélag iðjuþjálfa
+0.677 ;Félag framhaldsskólakennara
+0.678 ;Félag stjórnenda í framhaldsskólum
+0.679 ;Félag íslenskra fræða, kjaradeild
+0.679 ;Fræðagarður
+0.680 ;Stéttarfélag háskólamanna á matv- og næringasviði
+0.682 ;Stéttarfélag byggingafræðinga
+0.683 ;Stéttarfélag tölvunarfræðinga
+0.684 ;Arkitektafélag Íslands
+0.686 ;Félag fréttamanna
+0.688 ;Félag starfsmanna Alþingis
+0.689 ;Félagsráðgjafafélag Íslands
+0.690 ;Sálfræðingafélag Íslands
+0.691 ;Starfsmannafélag Ríkisendurskoðunar
+0.692 ;Félag háskólamenntaðra starfsmanna Stjórnarráðs
+0.693 ;Félag íslenskra félagsvísindamanna
+0.695 ;Félag geislafræðinga
+0.910 ;Félag íslenskra atvinnuflugmanna
+0.910 ;Frjálsa flugmannafélagið (FFF) 
+0.912 ;Félag íslenskra flugliða
+0.912 ;Flugfreyjufélag Íslands
+0.928 ;Félag íslenskra loftskeytamanna
+0.930 ;Verkstjórasamband Íslands (VSSÍ)
+0.931 ;Verkstjórafélag Reykjavíkur
+0.932 ;Verkstjórafélag Suðurnesja
+0.933 ;Verkstjórafélagið Þór
+0.934 ;Verkstjórafélag Hafnarfjarðar
+0.936 ;Verkstjórafélag Akureyrar og nágrennis
+0.937 ;Verkstjórafélag Akraness
+0.938 ;Verkstjórafélag Borgarness og nágrennis
+0.939 ;Verkstjórafélag Snæfellsness
+0.941 ;Verkstjórafélag Vestfjarða
+0.942 ;Verkstjórafélag Norðurlands vestra
+0.944 ;Verkstjórafélag Austurlands
+0.946 ;Verkstjórafélag Vestmannaeyja
+0.947 ;Verkstjórafélag Suðurlands
+0.949 ;Þroskaþjálfafélag Íslands
+0.950 ;Félag leikskólakennara
+0.951 ;Mjólkurfræðingafélag Íslands
+0.952 ;Félag íslenskra hljómlistarmanna
+0.954 ;Félag íslenskra leikara
+0.955 ;Félag leiðsögumanna
+0.956 ;Blaðamannafélag Íslands
+0.957 ;Félag leikstjóra á Íslandi
+0.958 ;Leikarafélag Íslands
+0.959 ;Tannsmiðafélag Íslands
+0.961 ;Félag sýningarmanna við kvikmyndahús
+0.962 ;Félag tanntækna/aðstoðarfólks tannlækna
+0.963 ;Félag stjórnenda leikskóla
+0.965 ;Félag íslenskra listdansara
+0.981 ;Landsamband iðnverkafólks
+0.981 ;Starfsgreinasamband Íslands
+0.981 ;Verkamannasamband Íslands
+0.981 ;Þjónustusamband Íslands
+0.982 ;Rafiðnaðarsamband Íslands
+0.983 ;Samiðn, samband iðnfélaga
+0.984 ;Múrarafélag A-Skaftafellinga
+0.984 ;Múrarasamband Íslands
+0.986 ;Landssamband slökkviliðs- og sjúkraflutningsmanna
+0.990 ;Alþýðusamband Íslands
+0.996 ;Iðnnemasamband Íslands (INSÍ)
+0.997 ;Bandalag starfsmanna ríkis og bæja (BSRB)
+0.999 ;Bandalag háskólamanna (BHM)
+1.000 ;Vinnuveitendafélög
+1.100 ;Samtök atvinnulífsins
+1.101 ;Meistarafélög
+1.102 ;Önnur félög vinnuveitenda
+2.100 ;Bifreiðastjórafélagið Keilir
+2.100 ;Bifreiðastjórafélagið Ökuþór
+2.100 ;Bílstjórafélag Húsavíkur
+2.100 ;Bílstjórafélag S-Þingeyjarsýslu
+2.100 ;Ekill, vörubílstjórafélag
+2.100 ;Félag vörubifreiðaeigenda, Hafnarfirði
+2.100 ;Landsamband vörubifreiðastjóra
+2.100 ;Trausti, félag sendibílstjóra
+2.100 ;Vörubílstjórafélag A-Skaftafellssýslu
+2.100 ;Vörubílstjórafélag Dalasýslu
+2.100 ;Vörubílstjórafélag Grindavíkur
+2.100 ;Vörubílstjórafélag Ísfirðinga
+2.100 ;Vörubílstjórafélag Mýrarsýslu
+2.100 ;Vörubílstjórafélag Norðfjarðar
+2.100 ;Vörubílstjórafélag Norðmýlinga
+2.100 ;Vörubílstjórafélag Skagafjarðarsýslu
+2.100 ;Vörubílstjórafélag Strandasýslu
+2.100 ;Vörubílstjórafélag Suðurnesja
+2.100 ;Vörubílstjórafélag V-Húnvetninga
+2.100 ;Vörubílstjórafélagið Drífandi
+2.100 ;Vörubílstjórafélagið Fákur
+2.100 ;Vörubílstjórafélagið Fylkir
+2.100 ;Vörubílstjórafélagið Mjölnir
+2.100 ;Vörubílstjórafélagið Múli
+2.100 ;Vörubílstjórafélagið Neisti, Blönduósi
+2.100 ;Vörubílstjórafélagið Neisti, Vík
+2.100 ;Vörubílstjórafélagið Skjöldur
+2.100 ;Vörubílstjórafélagið Snæfell
+2.100 ;Vörubílstjórafélagið Valur
+2.100 ;Vörubílstjórafélagið Vémundur
+2.100 ;Vörubílstjórafélagið Þjótur
+2.100 ;Vörubílstjórafélagið Þór
+2.100 ;Vörubílstjórafélagið Þróttur
+2.100 ;Vörubílstjórafélagið Ökuþór
+2.100 ;Vörubílstjórafélagið Öxull
+2.100 ;Vörubílstjórafélög
+2.200 ;Félög leigu- og sendibílstjóra
+2.300 ;Bændasamtök Íslands
+2.400 ;Landssamband smábátaeigenda
+2.600 ;Verkfræðingafélag Íslands
+2.700 ;Tæknifræðingafélag Íslands
+2.900 ;Ýmis fagfélög
+2.901 ;Rithöfundasamband Íslands

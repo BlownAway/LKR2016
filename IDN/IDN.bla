@@ -1,0 +1,24 @@
+{   Iðn.BLA
+    ÓH (c) okt. 2002
+
+}
+DATAMODEL Iðn "Iðngreinar"
+
+LIBRARIES
+  TNám  '..\NAM\TNAM'
+
+SECONDARY
+  Tri  = Iðngrein(TRIGRAM)
+
+
+FIELDS
+  Iðnkóti                    : TNAM
+  Iðngrein                   : STRING[90]
+
+
+RULES
+  Iðngrein
+  Iðnkóti
+
+ENDMODEL
+

@@ -1,0 +1,108 @@
+PROCESS LookupManager  "Manage the lookup dialogues in the survey"
+USES tester
+     Skólar 'SKOLAR\SKOLAR'
+     Nám    'Namsleidir\Namsleidir'
+
+INPUTFILE Skólalisti: Skólar('SKOLAR\SKOLAR',blaise)
+SETTINGS
+ LINKFIELDS
+     SkoliID
+INPUTFILE Námsgreinar: Nám('Namsleidir\Namsleidir',blaise)
+
+TEMPORARYFILE survey : tester
+SETTINGS
+    INTERCHANGE = TRANSIT
+
+AUXFIELDS
+  dialogResult : (Fannst, EkkertFannst)
+  searchtext   : STRING
+
+DIALOGBOX SkolarLookup
+  LOOKUP Skólalisti
+    SEARCH = YES
+    SEARCHTEXT = '^searchtext'
+    FIELDS Skolaheiti
+  BUTTON dialogResult
+    CAPTION = 'Velja'
+    STORE = YES
+    VALUE = Fannst
+  BUTTON dialogResult
+    STORE = No
+    CAPTION = 'Hætta við'
+    VALUE = EkkertFannst
+
+DIALOGBOX NamLookup
+  LOOKUP Námsgreinar
+    SEARCH = YES
+    SEARCHTEXT = '^searchtext'
+    FIELDS Námsgrein
+           StigNáms
+  BUTTON dialogResult
+    CAPTION = 'Velja'
+    STORE = YES
+    VALUE = Fannst
+  BUTTON dialogResult
+    STORE = No
+    CAPTION = 'Hætta við'
+    VALUE = EkkertFannst
+
+
+PROCEDURE prc_skoliLookup
+    searchtext := survey.GETVALUE('O.OSkHvaða')
+    IF ROUTERSTATUS = BLRSPREEDIT THEN
+        SkolarLookup
+        IF dialogResult = Fannst  THEN
+          survey.putvalue('O.OSkHvaða_b',Skólalisti.Skolaheiti)
+          survey.putvalue('O.Namsstig',STR(ORD(Skólalisti.stig)))
+          survey.putvalue('O.OSklID',STR(skólalisti.skoliID))
+          survey.PUTVALUE(ACTIVEFIELD,'Fannst')
+          survey.checkrules
+        ELSE
+          Skólalisti.GET(9999)
+          survey.putvalue('O.OSkHvaða_b',Skólalisti.Skolaheiti)
+          survey.putvalue('O.OSklID',STR(skólalisti.skoliID))
+          survey.PUTVALUE(ACTIVEFIELD,'EkkertFannst')
+          survey.checkrules
+        ENDIF
+    ENDIF
+    SETALIENROUTERACTION(BLRANEXTQUESTION)
+ENDPROCEDURE
+
+PROCEDURE prc_namLookup
+    searchtext := survey.GETVALUE('O.ONamHvað')
+    IF ROUTERSTATUS = BLRSPREEDIT THEN
+        NamLookup
+        IF dialogResult = Fannst  THEN
+          survey.putvalue('O.ONamHvað_b',Námsgreinar.Námsgrein)
+          survey.putvalue('O.skóti',Námsgreinar.StigNáms)
+          survey.putvalue('O.OSklKóti',STR(Námsgreinar.fastanumer))
+          survey.PUTVALUE(ACTIVEFIELD,'Fannst')
+          
+        ELSE
+          Skólalisti.GET(9999)
+          survey.putvalue('O.ONamHvað_b',Námsgreinar.Námsgrein)
+          survey.putvalue('O.OSklKóti',STR(skólalisti.skoliID))
+          survey.PUTVALUE(ACTIVEFIELD,'EkkertFannst')
+          survey.checkrules
+        ENDIF
+    ENDIF
+    SETALIENROUTERACTION(BLRANEXTQUESTION)
+ENDPROCEDURE
+
+
+
+DIALOGBOX Test2
+    SIZE = (360,200)
+    CONTROL Skólalisti.Skolaheiti
+        POSITION = (120,25)
+    CONTROL Skólalisti.Stig
+        POSITION = (120,50)
+    BUTTON
+        CAPTION = 'OK'
+        SIZE = (75,25)
+
+MANIPULATE
+  searchtext := parameter(1)
+  NamLookup
+  Test2
+

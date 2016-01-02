@@ -1,0 +1,555 @@
+0.0.0 ;Kjalarnes
+0.0.0 ;Reykjavík
+0.0.0 ;Rvk
+1.0.0 ;Kópavogur
+1.1.0 ;Seltjarnarnes
+1.3.0 ;Garðabær
+1.4.0 ;Hafnarfjörður
+1.6.3 ;Álftanes
+1.6.3 ;Bessastaðahreppur
+1.6.4 ;Mosfellsbær
+1.6.6 ;Kjósarhreppur
+2.0.0 ;Hafnahreppur
+2.0.0 ;Hafnir
+2.0.0 ;Keflavík
+2.0.0 ;Keflavíkurflugvöllur
+2.0.0 ;Keflavíkurvöllur
+2.0.0 ;Njarðvík
+2.0.0 ;Reykjanesbær
+2.3.0 ;Grindavík
+2.5.3 ;Sandgerði
+2.5.4 ;Garður
+2.5.4 ;Gerðahreppur
+2.5.4 ;Sveitarfélagið Garður
+2.5.6 ;Sveitarfélagið Vogar
+2.5.6 ;Vatnsleysustrandarhr
+2.5.6 ;Vogar á vatnsleysuströnd
+3.0.0 ;Akranes
+3.5.11;Hvalfjarðarstrandarhr
+3.5.11;Hvalfjarðarströnd
+3.5.11;Hvalfjarðarsveit
+3.5.11;Innri-Akraneshreppur
+3.5.11;Leirár-og Melahreppur
+3.5.11;Skilmannahreppur
+3.5.6 ;Skorradalshreppur
+3.6.9 ;Andakílshreppur
+3.6.9 ;Álftaneshreppur
+3.6.9 ;Borgarbyggð
+3.6.9 ;Borgarfjarðarsveit
+3.6.9 ;Borgarhreppur
+3.6.9 ;Borgarnes
+3.6.9 ;Hálsahreppur
+3.6.9 ;Hraunhreppur
+3.6.9 ;Hvítársíðuhreppur
+3.6.9 ;Kolbeinsstaðahreppur
+3.6.9 ;Lundarreykjadalshr
+3.6.9 ;Norðurárdalshreppur
+3.6.9 ;Reykholtsdalshreppur
+3.6.9 ;Stafholtstungnahr
+3.6.9 ;Þverárhlíðarhreppur
+3.7.10;Helgafellssveit
+3.7.11;Stykkishólmsbær
+3.7.11;Stykkishólmur
+3.7.13;Eyja- og Miklaholtsh
+3.7.13;Eyjarhreppur
+3.7.13;Miklaholtshreppur
+3.7.14;Breiðuvíkurhreppur
+3.7.14;Fróðárhreppur
+3.7.14;Hellissandur
+3.7.14;Neshreppur
+3.7.14;Ólafsvík
+3.7.14;Ólafsvíkurhreppur
+3.7.14;Rif
+3.7.14;Snæfellsbær
+3.7.14;Staðarsveit
+3.7.9 ;Eyrarsveit
+3.7.9 ;Grundarfjörður
+3.8.11;Búðardalur
+3.8.11;Dalabyggð
+3.8.11;Fellsstrandarhreppur
+3.8.11;Haukadalshreppur
+3.8.11;Hvammshreppur (Dalabyggð)
+3.8.11;Hörðudalahreppur
+3.8.11;Klofningshreppur
+3.8.11;Laxárdalshreppur
+3.8.11;Miðdalahreppur
+3.8.11;Saurbæjarhreppur (Dalabyggð)
+3.8.11;Skarðshreppur (Dalabyggð)
+3.8.11;Skógarstrandarhreppur
+3.8.11;Suðurdalahreppur
+4.1.0 ;Bolungarvík
+4.2.0 ;Auðkúluhreppur
+4.2.0 ;Eyrarhreppur
+4.2.0 ;Flateyrarhreppur
+4.2.0 ;Flateyri
+4.2.0 ;Grunnavíkurhreppur
+4.2.0 ;Hnífsdalur
+4.2.0 ;Ísafjarðarbær
+4.2.0 ;Ísafjörður
+4.2.0 ;Mosvallahreppur
+4.2.0 ;Mýrahreppur (Ísafjarðarbæ)
+4.2.0 ;Snæfjallahreppur
+4.2.0 ;Suðureyrarhreppur
+4.2.0 ;Suðureyri
+4.2.0 ;Þingeyrarhreppur
+4.2.0 ;Þingeyri
+4.5.2 ;Flateyjarhreppur á Breiðaf
+4.5.2 ;Geirdalshreppur
+4.5.2 ;Múlahreppur
+4.5.2 ;Reykhólahreppur
+4.6.4 ;Tálknafjarðarhreppur
+4.6.7 ;Barðastrandarhreppur
+4.6.7 ;Barðaströnd
+4.6.7 ;Bíldudalshreppur
+4.6.7 ;Bíldudalur
+4.6.7 ;Ketildalahreppur
+4.6.7 ;Patreksfjörður
+4.6.7 ;Patrekshreppur
+4.6.7 ;Rauðasandshreppur
+4.6.7 ;Vesturbyggð
+4.8.3 ;Reykjarfjarðarhreppur
+4.8.3 ;Súðavíkurhreppur
+4.8.3 ;Ögurhreppur
+4.9.1 ;Árneshreppur
+4.9.11;Broddaneshreppur
+4.9.11;Fellshreppur (Strandabyggð)
+4.9.11;Hólmav og kirkjbhr.
+4.9.11;Hólmavíkurhreppur
+4.9.11;Kirkjubólshreppur
+4.9.11;Nauteyrarhreppur
+4.9.11;Óspakseyrarhreppur
+4.9.11;Strandabyggð
+4.9.2 ;Kaldrananeshreppur
+4.9.4 ;Hrófbergshreppur
+5.2.0 ;Fellshreppur (Skagafirði)
+5.2.0 ;Fljót
+5.2.0 ;Fljótahreppur
+5.2.0 ;Haganeshreppur
+5.2.0 ;Hofshreppur (Skagafirði)
+5.2.0 ;Hofsós
+5.2.0 ;Holtshreppur
+5.2.0 ;Hólahreppur
+5.2.0 ;Lýtingsstaðahreppur
+5.2.0 ;Rípurhreppur
+5.2.0 ;Sauðárkrókur
+5.2.0 ;Seyluhreppur
+5.2.0 ;Skagafjörður
+5.2.0 ;Skarðshreppur (Skagafirði)
+5.2.0 ;Skefilsstaðahreppur
+5.2.0 ;Staðarhreppur (Skagafirði)
+5.2.0 ;Varmahlíð
+5.2.0 ;Viðvíkurhreppur
+5.5.8 ;Bæjarhreppur (Strandasýslu)
+5.5.8 ;Fremri-Torfustaðahr
+5.5.8 ;Húnaþing vestra
+5.5.8 ;Hvammstangahreppur
+5.5.8 ;Hvammstangi
+5.5.8 ;Kirkjuhvammshreppur
+5.5.8 ;Staðarhreppur (Húnaþingi)
+5.5.8 ;Ytri-Torfustaðahr
+5.5.8 ;Þorkelshólshreppur
+5.5.8 ;Þverárhreppur
+5.6.11;Skagabyggð
+5.6.11;Skagahreppur
+5.6.11;Vindhælishreppur
+5.6.12;Áshreppur
+5.6.12;Bólstaðarhlíðarhr
+5.6.12;Húnavatnshreppur
+5.6.12;Sveinsstaðahreppur
+5.6.12;Svínavatnshreppur
+5.6.12;Torfalækjarhreppur
+5.6.4 ;Blönduós
+5.6.4 ;Engihlíðarhreppur
+5.6.9 ;Höfðahreppur
+5.6.9 ;Skagaströnd
+5.7.6 ;Akrahreppur
+6.0.0 ;Akureyri
+6.0.0 ;Grímseyjarhreppur
+6.0.0 ;Hríseyjarhreppur
+6.1.0 ;Fjallahreppur
+6.1.0 ;Húsavík
+6.1.0 ;Kelduneshreppur
+6.1.0 ;Norðurþing
+6.1.0 ;Presthólahreppur
+6.1.0 ;Raufarhafnarhreppur
+6.1.0 ;Reykjahreppur
+6.1.0 ;Öxarfjarðarhreppur
+6.2.50;Fjallabyggð
+6.2.50;Ólafsfjörður
+6.2.50;Siglufjörður
+6.4.0 ;Árskógshreppur
+6.4.0 ;Dalvík
+6.4.0 ;Dalvíkurbyggð
+6.4.0 ;Svarfaðardalshreppur
+6.5.13;Eyjafjarðarsveit
+6.5.13;Hrafnagilshreppur
+6.5.13;Saurbæjarhreppur (Eyjafjarðarsveit)
+6.5.13;Öngulstaðahreppur
+6.5.14;Arnarneshreppur
+6.5.15;Glæsibæjarhreppur
+6.5.15;Hörgárbyggð
+6.5.15;Hörgársveit
+6.5.15;Skriðuhreppur
+6.5.15;Öxnadalshreppur
+6.6.1 ;Svalbarðsstrandarhr
+6.6.11;Tjörneshreppur
+6.6.12;Aðaldælahreppur
+6.6.12;Bárðdælahreppur
+6.6.12;Flateyjarhreppur á Skjálf
+6.6.12;Hálshreppur
+6.6.12;Ljósavatnshreppur
+6.6.12;Reykdælahreppur
+6.6.12;Þingeyjarsveit
+6.6.2 ;Grenivík
+6.6.2 ;Grýtubakkahreppur
+6.6.7 ;Skútustaðahreppur
+6.7.6 ;Svalbarðshreppur
+6.7.9 ;Langanesbyggð
+6.7.9 ;Sauðaneshreppur
+6.7.9 ;Skeggjastaðahreppur
+6.7.9 ;Þórshafnarhreppur
+7.0.0 ;Seyðisfjarðarhreppur
+7.0.0 ;Seyðisfjörður
+7.3.0 ;Austurbyggð
+7.3.0 ;Eskifjörður
+7.3.0 ;Fjarðabyggð
+7.3.0 ;Helgustaðahreppur
+7.3.0 ;Mjóafjarðarhreppur
+7.3.0 ;Neskaupstaður
+7.3.0 ;Norðfjarðarhreppur
+7.3.0 ;Reyðarfjarðarhreppur
+7.3.0 ;Reyðarfjörður
+7.5.2 ;Vopnafjarðarhreppur
+7.5.5 ;Fljótsdalshreppur
+7.5.9 ;Borgarfjarðarhreppur
+7.6.13;Breiðdalshreppur
+7.6.17;Beruneshreppur
+7.6.17;Búlandshreppur
+7.6.17;Djúpavogshreppur
+7.6.17;Geithellnahreppur
+7.6.19;Búðahreppur
+7.6.19;Fáskrúðsfjarðarhr
+7.6.19;Stöðvarhreppur
+7.6.20;Austur-Hérað
+7.6.20;Egilsstaðir
+7.6.20;Eiðahreppur
+7.6.20;Fellahreppur
+7.6.20;Fljótsdalshérað
+7.6.20;Hjaltastaðarhreppur
+7.6.20;Hlíðarhreppur
+7.6.20;Jökuldalshreppur
+7.6.20;Norður-Hérað
+7.6.20;Skriðdalshreppur
+7.6.20;Tunguhreppur
+7.6.20;Vallahreppur
+7.7.8 ;Borgarhafnarhreppur
+7.7.8 ;Bæjarhreppur (Austur-Skaftafellssýslu)
+7.7.8 ;Hofshreppur (Hornafirði)
+7.7.8 ;Hornafjarðarbær
+7.7.8 ;Hornafjörður
+7.7.8 ;Höfn í Hornafirði
+7.7.8 ;Mýrahreppur (Hornafirði)
+7.7.8 ;Nesjahreppur
+8.0.0 ;Vestmannaeyjar
+8.2.0 ;Árborg
+8.2.0 ;Eyrarbakkahreppur
+8.2.0 ;Eyrarbakki
+8.2.0 ;Sandvíkurhreppur
+8.2.0 ;Selfoss
+8.2.0 ;Stokkseyrarhreppur
+8.2.0 ;Stokkseyri
+8.5.8 ;Dyrhólahreppur
+8.5.8 ;Hvammshreppur (V-Skaftafellssýslu)
+8.5.8 ;Mýrdalshreppur
+8.5.9 ;Álftavershreppur
+8.5.9 ;Hörglandshreppur
+8.5.9 ;Kirkjubæjarhreppur
+8.5.9 ;Leiðvallahreppur
+8.5.9 ;Skaftárhreppur
+8.5.9 ;Skaftártunguhreppur
+8.6.10;Ásahreppur
+8.6.13;Austur-Eyjafjallahr
+8.6.13;Austur-Landeyjahr
+8.6.13;Fljótshlíðarhreppur
+8.6.13;Hvolhreppur
+8.6.13;Rangárþing eystra
+8.6.13;Vestur-Eyjafjallahr
+8.6.13;Vestur-Landeyjahr
+8.6.14;Djúpárhreppur
+8.6.14;Holta- og Landsveit
+8.6.14;Holtahreppur
+8.6.14;Landmannahreppur
+8.6.14;Rangárvallahreppur
+8.6.14;Rangárþing ytra
+8.7.10;Hrunamannahreppur
+8.7.16;Hveragerði
+8.7.17;Selvogshreppur
+8.7.17;Þorlákshöfn
+8.7.17;Ölfus
+8.7.19;Grafningshreppur
+8.7.19;Grímsnes- og Grafningshreppur
+8.7.19;Grímsneshreppur
+8.7.20;Gnúpverjahreppur
+8.7.20;Skeiða-Gnúpverjahrepp
+8.7.20;Skeiðahreppur
+8.7.21;Biskupstungnahreppur
+8.7.21;Bláskógabyggð
+8.7.21;Laugardalshreppur
+8.7.21;Þingvallahreppur
+8.7.22;Flóahreppur
+8.7.22;Gaulverjabæjarhreppur
+8.7.22;Hraungerðishreppur
+8.7.22;Villingaholtshreppur
+8.9.0 ;Utan skrár
+8.9.99;Óþekkt, Íslandi
+9.1.1 ;Danmörk
+9.1.2 ;Finnland
+9.1.3 ;Færeyjar
+9.1.4 ;Grænland
+9.1.5 ;Noregur
+9.1.6 ;Svíþjóð
+9.1.7 ;Álandseyjar
+9.1.8 ;Svalbarði/Jan Mayen
+9.2.1 ;Albanía
+9.2.10;Búlgaría
+9.2.11;Eistland
+9.2.13;Frakkland
+9.2.14;Georgía
+9.2.15;Gíbraltar
+9.2.16;Grikkland
+9.2.17;Holland
+9.2.18;Hvíta-Rússland
+9.2.19;Írland
+9.2.2 ;Andorra
+9.2.20;Ítalía
+9.2.21;Júgóslavía
+9.2.22;Króatía
+9.2.23;Lettland
+9.2.24;Liechtenstein
+9.2.25;Litháen
+9.2.26;Lúxemborg
+9.2.27;Malta
+9.2.28;Moldóva
+9.2.29;Mónakó
+9.2.3 ;Armenía
+9.2.30;Páfagarður
+9.2.31;Portúgal
+9.2.32;Pólland
+9.2.33;Rúmenía
+9.2.34;Rússland
+9.2.35;San Marínó
+9.2.36;Slóvakía
+9.2.37;Slóvenía
+9.2.38;Sovétríkin
+9.2.39;Spánn
+9.2.4 ;Aserbaídsjan
+9.2.40;Sviss
+9.2.41;Tékkland
+9.2.42;Tékkóslóvakía
+9.2.43;Ungverjaland
+9.2.44;Úkraína
+9.2.45;Þýskaland
+9.2.46;Makedónía
+9.2.47;Serbía og Svartfland
+9.2.48;Jersey
+9.2.49;Guernsey
+9.2.5 ;Austur-Þýskaland
+9.2.50;Svartfjallaland
+9.2.51;Mön
+9.2.52;Serbía
+9.2.53;Kósóvó
+9.2.6 ;Austurríki
+9.2.7 ;Belgía
+9.2.8 ;Bosnía og Hersegóvína
+9.2.9 ;Bretland
+9.2.99;Evrópa ótilgreint
+9.3.1 ;Arúba
+9.3.10;Dóminíka
+9.3.11;Dóminíska lýðveldið
+9.3.12;El Salvador
+9.3.13;Gvadelúpeyjar
+9.3.14;Gvatemala
+9.3.15;Haítí
+9.3.16;Hollensku Antillur
+9.3.17;Hondúras
+9.3.18;Jamaíka
+9.3.19;Bandar. Jómfrúaeyjar
+9.3.2 ;Bahamaeyjar
+9.3.20;Bresku Jómfrúaeyjar
+9.3.21;Kanada
+9.3.22;Kúba
+9.3.23;Martiník
+9.3.24;Mexíkó
+9.3.25;Níkaragva
+9.3.26;Panama
+9.3.27;Púertó Ríkó
+9.3.28;St. Kitts og Nevis
+9.3.29;Sankti Lúsía
+9.3.3 ;Bandaríkin
+9.3.30;Trínidad og Tóbagó
+9.3.31;Bonaire
+9.3.32;Curacao
+9.3.33;Sint Maarten
+9.3.34;St. Pierre/Miquelon
+9.3.4 ;Bandaríska Samóa
+9.3.5 ;Barbados
+9.3.6 ;Belís
+9.3.7 ;Bermúdaeyjar
+9.3.8 ;Cayman-eyjar
+9.3.9 ;Kostaríka
+9.4.1 ;Angvilla
+9.4.10;Grenada
+9.4.11;Guam
+9.4.12;Guyana
+9.4.13;Kólumbía
+9.4.14;Montserrat
+9.4.15;Paragvæ
+9.4.16;Perú
+9.4.17;St.Vincent/Grenadines
+9.4.18;Súrínam
+9.4.19;Turks- og Caicoseyjar
+9.4.2 ;Antígva og Barbúda
+9.4.20;Úrúgvæ
+9.4.21;Venesúela
+9.4.22;Franska Gvæjana
+9.4.3 ;Argentína
+9.4.4 ;Bólivía
+9.4.5 ;Brasilía
+9.4.6 ;Chile
+9.4.7 ;Ekvador
+9.4.8 ;Falklandseyjar
+9.4.9 ;Fídjieyjar
+9.4.99;Ameríka ótilgreint
+9.5.1 ;Alsír
+9.5.10;Fílabeinsströndin
+9.5.11;Gabon
+9.5.12;Gambía
+9.5.13;Gana
+9.5.14;Gínea
+9.5.15;Gínea-Bissá
+9.5.16;Grænhöfðaeyjar
+9.5.17;Kamerún
+9.5.18;Kenía
+9.5.19;Kongó
+9.5.2 ;Angóla
+9.5.20;Kómoreyjar
+9.5.21;Lesótó
+9.5.22;Líbería
+9.5.23;Líbía
+9.5.24;Madagaskar
+9.5.25;Malaví
+9.5.26;Malí
+9.5.27;Marokkó
+9.5.28;Máritíus
+9.5.29;Miðafríka
+9.5.3 ;Benín
+9.5.30;Miðbaugs-Gínea
+9.5.31;Mósambík
+9.5.32;Namibía
+9.5.33;Níger
+9.5.34;Nígería
+9.5.35;Réunion
+9.5.36;Rúanda
+9.5.37;Saír
+9.5.38;Sambía
+9.5.39;Saó Tóme og Prinsípe
+9.5.4 ;Botsvana
+9.5.40;Senegal
+9.5.41;Seychelles-eyjar
+9.5.42;Simbabve
+9.5.43;Síerra Leóne
+9.5.44;Sómalía
+9.5.45;Suður-Afríka
+9.5.46;Súdan
+9.5.47;Svasíland
+9.5.48;Tansanía
+9.5.49;Tógó
+9.5.5 ;Búrkína Fasó
+9.5.50;Tsad
+9.5.51;Túnis
+9.5.52;Úganda
+9.5.53;Palestína
+9.5.54;Austur-Kongó
+9.5.55;Suður-Súdan
+9.5.56;Máritanía
+9.5.57;Erítrea
+9.5.58;Vestur-Sahara
+9.5.6 ;Búrúndí
+9.5.7 ;Díbútí
+9.5.8 ;Egyptaland
+9.5.9 ;Eþíópía
+9.5.99;Afríka ótilgreint
+9.6.1 ;Afganistan
+9.6.10;Írak
+9.6.11;Íran
+9.6.12;Ísrael
+9.6.13;Japan
+9.6.14;Jemen
+9.6.15;Jórdanía
+9.6.16;Kambódía
+9.6.17;Kasakstan
+9.6.18;Katar
+9.6.19;Kirgisistan
+9.6.2 ;Bangladess
+9.6.20;Kína
+9.6.21;Kúveit
+9.6.22;Kýpur
+9.6.23;Laos
+9.6.24;Líbanon
+9.6.25;Makaó
+9.6.26;Malasía
+9.6.27;Maldíveyjar
+9.6.28;Mongólía
+9.6.29;Mjanmar
+9.6.3 ;Barein
+9.6.30;Nepal
+9.6.31;Norður-Kórea
+9.6.32;Óman
+9.6.33;Pakistan
+9.6.34;Sameinuð arabafurstad
+9.6.35;Sádi-Arabía
+9.6.36;Singapúr
+9.6.37;Srí Lanka
+9.6.38;Suður-Jemen
+9.6.39;Suður-Kórea
+9.6.4 ;Brúnei
+9.6.40;Sýrland
+9.6.41;Tadjikistan
+9.6.42;Taíland
+9.6.43;Taívan
+9.6.44;Turkmenistan
+9.6.45;Tyrkland
+9.6.46;Úsbekistan
+9.6.47;Víetnam
+9.6.48;Austur-Tímor
+9.6.5 ;Bútan
+9.6.6 ;Filippseyjar
+9.6.7 ;Hong Kong
+9.6.8 ;Indland
+9.6.9 ;Indónesía
+9.6.99;Asía ótilgreint
+9.7.1 ;Ástralía
+9.7.10;Norfolkeyja
+9.7.11;Nýja-Kaledónía
+9.7.12;Nýja-Sjáland
+9.7.13;Palá
+9.7.14;Papúa Nýja-Gínea
+9.7.15;Pitcairn
+9.7.16;Salómonseyjar
+9.7.17;Samóa
+9.7.18;Tonga
+9.7.19;Tókelaú
+9.7.2 ;Cookseyjar
+9.7.20;Túvalú
+9.7.21;Vanúatú
+9.7.22;Franska Pólýnesía
+9.7.3 ;Jólaey
+9.7.4 ;Kíribatí
+9.7.5 ;Kókoseyjar
+9.7.6 ;Marshall-eyjar
+9.7.7 ;Míkrónesía
+9.7.8 ;Nárú
+9.7.9 ;Niue
+9.7.99;Eyjaálfa ótilgreint
+9.9.0 ;Ríkisfangslaus
+9.9.99;Útlönd, ótilgreint

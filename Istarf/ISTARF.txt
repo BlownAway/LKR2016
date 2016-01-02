@@ -1,0 +1,4394 @@
+0.1.1.0 ;Herflugmaður
+0.1.1.0 ;Herforingi
+0.1.1.0 ;Hermaður
+0.1.1.0 ;Liðsforingi
+0.1.1.0 ;Lífeyrisþegi
+0.1.1.0 ;Hermenn
+1.1.1.0 ;Kjörnir fulltrúar
+1.1.1.0 ;Alþingismaður
+1.1.1.0 ;Borgarfulltrúi
+1.1.1.0 ;Borgarráðsmaður
+1.1.1.0 ;Borgarstjórnarfulltrúi
+1.1.1.0 ;Bæjarfulltrúi
+1.1.1.0 ;Bæjarráðsmaður
+1.1.1.0 ;Forseti alþingis
+1.1.1.0 ;Forseti borgarstjórnar
+1.1.1.0 ;Forseti bæjarráðs
+1.1.1.0 ;Forseti íslands
+1.1.1.0 ;Héraðsnefndarmaður
+1.1.1.0 ;Hreppsnefndarmaður
+1.1.1.0 ;Nefndarformaður í nefnd á vegum ríkisins
+1.1.1.0 ;Nefndarformaður í nefnd á vegum sveitarfélags
+1.1.1.0 ;Nefndarmaður í nefnd á vegum ríkisins
+1.1.1.0 ;Nefndarmaður í nefnd á vegum sveitarfélags
+1.1.1.0 ;Oddviti
+1.1.1.0 ;Ráðherra
+1.1.1.0 ;Sveitarstjórnarmaður
+1.1.1.0 ;Nefndarmaður í nefnd, stjórn eða ráði á vegum opinberra aðila
+1.1.1.0 ;Kjörnir fulltrúar
+1.1.2.0 ;Aðalræðismaður
+1.1.2.0 ;Aðstoðarmaður ráðherra
+1.1.2.0 ;Aðstoðarmaður sveitarstjóra
+1.1.2.0 ;Aðstoðarríkislögreglustjóri (aðallega við stjórnun)
+1.1.2.0 ;Aðstoðarríkisskattstjóri
+1.1.2.0 ;Borgarritari
+1.1.2.0 ;Borgarstjóri
+1.1.2.0 ;Bæjarritari
+1.1.2.0 ;Bæjarstjóri
+1.1.2.0 ;Erindreki með fullt umboðsvald
+1.1.2.0 ;Fastafulltrúi hjá alþjóðastofnun
+1.1.2.0 ;Forsetaritari
+1.1.2.0 ;Hreppsstjóri
+1.1.2.0 ;Konsúll
+1.1.2.0 ;Lögreglustjóri (aðallega við stjórnun)
+1.1.2.0 ;Ráðuneytisstjóri
+1.1.2.0 ;Ríkisendurskoðandi
+1.1.2.0 ;Ríkislögreglustjóri
+1.1.2.0 ;Ríkissaksóknari
+1.1.2.0 ;Ríkissáttasemjari
+1.1.2.0 ;Ríkisskattstjóri
+1.1.2.0 ;Ríkistollstjóri
+1.1.2.0 ;Ræðismaður
+1.1.2.0 ;Sendifulltrúi í utanríkisþjónustu
+1.1.2.0 ;Sendiherra
+1.1.2.0 ;Skattrannsóknarstjóri
+1.1.2.0 ;Skattstjóri
+1.1.2.0 ;Skólastjóri lögregluskólans
+1.1.2.0 ;Skrifstofustjóri alþingis
+1.1.2.0 ;Skrifstofustjóri ráðuneytis
+1.1.2.0 ;Staðgengill ráðuneytisstjóra
+1.1.2.0 ;Sveitarstjóri
+1.1.2.0 ;Sýslumaður
+1.1.2.0 ;Tollstjóri
+1.1.2.0 ;Tollstjórinn í reykjavík
+1.1.2.0 ;Umboðsmaður alþingis
+1.1.2.0 ;Umboðsmaður barna
+1.1.2.0 ;Varalögreglustjóri
+1.1.2.0 ;Vararíkisendurskoðandi
+1.1.2.0 ;Vararíkislögreglustjóri
+1.1.2.0 ;Vararíkissaksóknari
+1.1.2.0 ;Æðstu embættismenn ríkis og sveitarstjórna
+1.1.2.0 ;Æðstu embættismenn ríkis og sveitarstjórna
+1.1.4.1 ;Æðstu stjórnendur stjórnmálaflokka og flokkssamtaka
+1.1.4.1 ;Formaður stjórnmálaflokks
+1.1.4.1 ;Framkvæmdastjóri stjórnmálaflokks
+1.1.4.1 ;Kosningastjóri stjórnmálaflokks
+1.1.4.1 ;Skrifstofustjóri stjórnmálaflokks
+1.1.4.1 ;Æðstu stjórnendur stjórnmálaflokka og flokkssamtaka
+1.1.4.2 ;Formaður atvinnulífssamtaka
+1.1.4.2 ;Forseti heildarsamtaka stéttarfélaga
+1.1.4.2 ;Framkvæmdastjóri atvinnulífssamtaka
+1.1.4.2 ;Framkvæmdastjóri heildarsamtaka stéttarfélaga
+1.1.4.2 ;Framkvæmdastjóri stéttarfélags
+1.1.4.2 ;Skrifstofustjóri atvinnulífssamtaka
+1.1.4.2 ;Skrifstofustjóri heildarsamtaka stéttarfélaga
+1.1.4.2 ;Skrifstofustjóri stéttarfélags
+1.1.4.2 ;Æðstu stjórnendur stéttafélaga og heildarsamtaka þeirra, samtaka vinnuveitenda og annarra samtaka atvinnulífs
+1.1.4.2 ;Æðstu stjórnendur stéttafélaga og heildarsamtaka þeirra, samtaka vinnuveitenda og annarra samtaka atvinnulífs
+1.1.4.3 ;Æðstu stjórnendur líknarsamtaka og annarra sérhagsmunasamtaka
+1.1.4.3 ;Formaður dýraverndunarfélags
+1.1.4.3 ;Formaður náttúruverndarsamtaka
+1.1.4.3 ;Formaður neytendasamtaka
+1.1.4.3 ;Formaður umhverfisverndarsamtaka
+1.1.4.3 ;Framkvæmdastjóri íþróttasamtaka
+1.1.4.3 ;Framkvæmdastjóri líknarsamtaka
+1.1.4.3 ;Skrifstofustjóri líknarsamtaka
+1.1.4.3 ;Æðstu stjórnendur líknarsamtaka og annarra sérhagsmunasamtaka
+1.2.1.0 ;Aðstoðarbankastjóri
+1.2.1.0 ;Aðstoðarforstjóri
+1.2.1.0 ;Aðstoðarframkvæmdastjóri
+1.2.1.0 ;Aðstoðarlögreglustjóri (aðallega við stjórnun)
+1.2.1.0 ;Aðstoðarrektor
+1.2.1.0 ;Aðstoðarskólameistari
+1.2.1.0 ;Bankastjóri
+1.2.1.0 ;Borgarbókavörður (aðallega við stjórnun)
+1.2.1.0 ;Brunamálastjóri
+1.2.1.0 ;Búnaðarmálastjóri
+1.2.1.0 ;Fangelsismálastjóri
+1.2.1.0 ;Ferðamálastjóri
+1.2.1.0 ;Flugmálastjóri
+1.2.1.0 ;Flugvallarstjóri
+1.2.1.0 ;Forstjóri
+1.2.1.0 ;Forstjóri fangelsismálastofnunar
+1.2.1.0 ;Forstjóri stofnunar á vegum ríkisins
+1.2.1.0 ;Framkvæmdastjóri
+1.2.1.0 ;Framkvæmdastjóri almannavarna ríkisins
+1.2.1.0 ;Framkvæmdastjóri líkamsræktarstöðvar (fleiri en 10 starfsmenn)
+1.2.1.0 ;Framkvæmdastjóri samskiptafyrirtækis
+1.2.1.0 ;Framkvæmdastjóri stofnunar á vegum ríkisins
+1.2.1.0 ;Gistihússtjóri (fleiri en 10 starfsmenn)
+1.2.1.0 ;Hafnarstjóri
+1.2.1.0 ;Hagstofustjóri
+1.2.1.0 ;Háskólarektor
+1.2.1.0 ;Háskólaritari
+1.2.1.0 ;Hitaveitustjóri
+1.2.1.0 ;Hótelstjóri
+1.2.1.0 ;Konrektor
+1.2.1.0 ;Landgræðslustjóri
+1.2.1.0 ;Landlæknir
+1.2.1.0 ;Landsbókavörður
+1.2.1.0 ;Leikhússtjóri
+1.2.1.0 ;Orkumálastjóri
+1.2.1.0 ;Rafveitustjóri
+1.2.1.0 ;Rektor
+1.2.1.0 ;Rektor framhaldsskóla
+1.2.1.0 ;Rektor háskóla
+1.2.1.0 ;Samlagsstjóri (10 eða fleiri starfsmenn)
+1.2.1.0 ;Seðlabankastjóri
+1.2.1.0 ;Sjónvarpsstjóri
+1.2.1.0 ;Skipulagsstjóri ríkisins
+1.2.1.0 ;Skógræktarstjóri
+1.2.1.0 ;Skólameistari framhaldsskóla
+1.2.1.0 ;Skólameistari háskóla
+1.2.1.0 ;Skólastjóri framhaldsskóla
+1.2.1.0 ;Sláturhússtjóri
+1.2.1.0 ;Sparisjóðsstjóri (fleiri en 10 starfsmenn)
+1.2.1.0 ;Stjórnarformaður fyrirtækis
+1.2.1.0 ;Stjórnarmaður fyrirtækis
+1.2.1.0 ;Útgerðarmaður
+1.2.1.0 ;Útvarpsstjóri
+1.2.1.0 ;Vallarstjóri flugvallar (fleiri en 10 starfsmenn)
+1.2.1.0 ;Veðurstofustjóri
+1.2.1.0 ;Vegamálastjóri
+1.2.1.0 ;Veiðimálastjóri
+1.2.1.0 ;Veitustjóri (fleiri en 10 starfsmenn)
+1.2.1.0 ;Yfirdýralæknir
+1.2.1.0 ;Yfirflugumferðarstjóri
+1.2.1.0 ;Þjóðleikhússtjóri
+1.2.1.0 ;Þjóðminjavörður
+1.2.1.0 ;Forstöðumaður stofnunar
+1.2.1.0 ;Forstjórar og aðalframkvæmdastjórar fyrirtækja og stofnana (10 eða fleiri starfsmenn)
+1.2.1.0 ;Forstjórar og aðalframkvæmdastjórar fyrirtækja og stofnana (10 eða fleiri starfsmenn)
+1.2.2.1 ;Yfirmenn framleiðslu- og rekstrardeilda í landbúnaði, skógrækt og veiðum
+1.2.2.1 ;Aðstoðargarðyrkjustjóri
+1.2.2.1 ;Bústjóri
+1.2.2.1 ;Deildarstjóri í fiskeldisstöð
+1.2.2.1 ;Deildarstjóri í fiskveiðum
+1.2.2.1 ;Deildarstjóri í garðyrkju
+1.2.2.1 ;Deildarstjóri í landbúnaði
+1.2.2.1 ;Deildarstjóri í skógrækt
+1.2.2.1 ;Garðyrkjustjóri
+1.2.2.1 ;Staðarhaldari í landabúnaði (fleiri en 10 starfsmenn)
+1.2.2.1 ;Útgerðarstjóri
+1.2.2.1 ;Yfirverkstjóri í garðyrkju
+1.2.2.1 ;Staðarhaldari (10 eða fleiri starfsmenn)
+1.2.2.1 ;Yfirmenn framleiðslu- og rekstrardeilda í landbúnaði, skógrækt og veiðum
+1.2.2.2 ;Deildarstjóri í iðnaði (fiskiðnaður meðtalinn)
+1.2.2.2 ;Deildarstjóri í orkuveitu
+1.2.2.2 ;Deildarstjóri í stóriðju
+1.2.2.2 ;Framkvæmdastjóri í frystihúsi (10 starfsmenn eða fleiri)
+1.2.2.2 ;Framleiðslustjóri í iðnaði (fiskiðnaður meðtalinn)
+1.2.2.2 ;Frystihússtjóri
+1.2.2.2 ;Gæðastjóri  (aðalega við stjórnun)
+1.2.2.2 ;Verksmiðjustjóri í iðnaði
+1.2.2.2 ;Verkstjóri í frystihúsi (aðallega við stjórnun)
+1.2.2.2 ;Verkstjóri í orkuveitu (aðallega við stjórnun)
+1.2.2.2 ;Yfirverkstjóri í frystihúsi (aðallega við stjórnun)
+1.2.2.2 ;Yfirverkstjóri í orkuveitu
+1.2.2.2 ;Yfirverkstjóri í stóriðju
+1.2.2.2 ;Yfirmenn framleiðslu- og rekstrardeilda í iðnaði
+1.2.2.2 ;Yfirmenn framleiðslu- og rekstrardeilda í iðnaði
+1.2.2.3 ;Yfirmenn framleiðslu- og rekstrardeilda í byggingariðnaði og mannvirkjagerð
+1.2.2.3 ;Byggingarstjóri
+1.2.2.3 ;Deildarstjóri í byggingariðnaði
+1.2.2.3 ;Deildarstjóri í mannvirkjagerð
+1.2.2.3 ;Deildarstjóri við gangnagerð
+1.2.2.3 ;Yfirverkstjóri í byggingariðnaði (aðallega við stjórnun)
+1.2.2.3 ;Yfirmenn framleiðslu- og rekstrardeilda í byggingariðnaði og mannvirkjagerð
+1.2.2.4 ;Aðstoðarverslunarstjóri (aðallega við stjórnun)
+1.2.2.4 ;Afgreiðslustjóri í heildsölu
+1.2.2.4 ;Afgreiðslustjóri í smásölu
+1.2.2.4 ;Deildarstjóri í heildsölu
+1.2.2.4 ;Deildarstjóri í smásölu
+1.2.2.4 ;Deildarstjóri söludeildar
+1.2.2.4 ;Kaupfélagsstjóri
+1.2.2.4 ;Sölustjóri í heildsölu
+1.2.2.4 ;Sölustjóri í smásölu
+1.2.2.4 ;Verslunarstjóri (aðallega við stjórnun)
+1.2.2.4 ;Yfirmenn framleiðslu- og rekstrardeilda í heildsölu og smásölu
+1.2.2.4 ;Yfirmenn framleiðslu- og rekstrardeilda í heildsölu og smásölu
+1.2.2.5 ;Yfirmenn framleiðslu- og rekstrardeilda í hótel- og veitingahúsarekstri
+1.2.2.5 ;Deildarstjóri í hótelrekstri
+1.2.2.5 ;Deildarstjóri í veitingahúsarekstri
+1.2.2.5 ;Skemmtanastjóri (aðallega við stjórnun)
+1.2.2.5 ;Veitingastjóri (aðallega við stjórnun)
+1.2.2.5 ;Yfirkokkur (10 eða fleiri starfsmenn)
+1.2.2.5 ;Yfirmatsveinn
+1.2.2.5 ;Yfirþjónn (10 eða fleiri starfsmenn)
+1.2.2.5 ;Yfirmenn framleiðslu- og rekstrardeilda í hótel- og veitingahúsarekstri
+1.2.2.6 ;Afgreiðslustjóri í flutningafyrirtæki
+1.2.2.6 ;Afgreiðslustjóri í vöruflutningafyrirtæki
+1.2.2.6 ;Deildarstjóri í fjarskiptafyrirtæki
+1.2.2.6 ;Deildarstjóri í flutningafyrirtæki
+1.2.2.6 ;Deildarstjóri í samgöngufyrirtæki
+1.2.2.6 ;Deildarstjóri í samskiptafyrirtæki
+1.2.2.6 ;Deildarstjóri í vöruflutningum
+1.2.2.6 ;Deildarstjóri í vörugeymslufyrirtæki
+1.2.2.6 ;Pósthúsútibússtjóri
+1.2.2.6 ;Póstmeistari
+1.2.2.6 ;Póstrekstrarstjóri
+1.2.2.6 ;Póstútibússtjóri
+1.2.2.6 ;Póstvarðstjóri
+1.2.2.6 ;Símstöðvarstjóri
+1.2.2.6 ;Stöðvarstjóri á pósthúsi (aðallega við stjórnun)
+1.2.2.6 ;Stöðvarstjóri pósthúss
+1.2.2.6 ;Yfirmenn framleiðslu- og rekstardeilda í samgögnum og flutningum
+1.2.2.6 ;Yfirmenn framleiðslu- og rekstrardeilda í samgöngum og flutningum
+1.2.2.7 ;Yfirmenn framleiðslu- og rekstrardeilda í þjónustufyrirtækjum
+1.2.2.7 ;Bankaútibússtjóri
+1.2.2.7 ;Deildarstjóri í banka
+1.2.2.7 ;Deildarstjóri í endurskoðun
+1.2.2.7 ;Deildarstjóri í gagnavinnslu
+1.2.2.7 ;Deildarstjóri í hugbúnaðarfyrirtæki
+1.2.2.7 ;Deildarstjóri í tryggingafyrirtæki
+1.2.2.7 ;Deildarstjóri í þjónustufyrirtæki
+1.2.2.7 ;Deildarstjóri við gæðaeftirlit
+1.2.2.7 ;Útibússtjóri banka
+1.2.2.7 ;Útibússtjóri sparisjóðs
+1.2.2.7 ;Yfirmenn framleiðslu- og rekstrardeilda í þjónustufyrirtækjum
+1.2.2.8 ;Deildarstjóri í rekstri heimilisþjónustu
+1.2.2.8 ;Deildarstjóri í ræstingarekstri
+1.2.2.8 ;Deildarstjóri í ræstingaþjónustu
+1.2.2.8 ;Deildarstjóri við heimilishjálp
+1.2.2.8 ;Deildarstjóri við persónulega umönnun
+1.2.2.8 ;Deildarstjóri við rekstur heimilishjálpar
+1.2.2.8 ;Yfirmenn framleiðslu- og rekstrardeilda fyrirtækja í heimilishjálp, ræstingum og svipuðum rekstri
+1.2.2.8 ;Yfirmenn framleiðslu- og rekstrardeilda fyrirtækja í heimilishjálp, ræstingum og svipuðum rekstri
+1.2.2.9 ;Yfirmenn framleiðslu- og rekstrardeilda ót.a.s.
+1.2.2.9 ;Aðalbókavörður (aðallega við stjórnun)
+1.2.2.9 ;Aðstoðardagskrárstjóri
+1.2.2.9 ;Aðstoðarleikskólastjóri (aðallega við stjórnun)
+1.2.2.9 ;Aðstoðarskólastjóri grunnskóla
+1.2.2.9 ;Dagskrárstjóri
+1.2.2.9 ;Deildarmeinatæknir
+1.2.2.9 ;Deildarstjóri á skattstofu
+1.2.2.9 ;Deildarstjóri í almannatryggingum
+1.2.2.9 ;Deildarstjóri í ferðaþjónustu
+1.2.2.9 ;Deildarstjóri í félagsþjónustu
+1.2.2.9 ;Deildarstjóri í framhaldsskóla
+1.2.2.9 ;Deildarstjóri í háskóla
+1.2.2.9 ;Deildarstjóri í heilbrigðisstofnun
+1.2.2.9 ;Deildarstjóri í líkamsræktarstöð
+1.2.2.9 ;Deildarstjóri í ráðuneyti
+1.2.2.9 ;Endurmenntunarstjóri
+1.2.2.9 ;Flugafgreiðslustjóri
+1.2.2.9 ;Forseti háskóladeildar
+1.2.2.9 ;Forstöðulæknir
+1.2.2.9 ;Forstöðumaður
+1.2.2.9 ;Forstöðumaður fangelsis
+1.2.2.9 ;Forstöðumaður félagsmiðstöðvar (aðallega við stjórnun)
+1.2.2.9 ;Forstöðumaður framleiðslu- og rekstrardeildar ótalið a.s.
+1.2.2.9 ;Fréttastjóri (aðallega við stjórnun)
+1.2.2.9 ;Fræðslustjóri
+1.2.2.9 ;Gatnamálastjóri
+1.2.2.9 ;Héraðsstjóri hjá vegagerð
+1.2.2.9 ;Hjúkrunarforstjóri
+1.2.2.9 ;Hjúkrunarframkvæmdastjóri
+1.2.2.9 ;Kvikmyndaframleiðandi
+1.2.2.9 ;Leiklistarstjóri
+1.2.2.9 ;Leikskólastjóri
+1.2.2.9 ;Listdansstjóri
+1.2.2.9 ;Lækningaforstjóri
+1.2.2.9 ;Menningarmálastjóri
+1.2.2.9 ;Menningarstjóri
+1.2.2.9 ;Miðborgarstjóri
+1.2.2.9 ;Safnstjóri (með fleiri en 10 starfsmenn)
+1.2.2.9 ;Skólastjóri grunnskóla
+1.2.2.9 ;Skólastjóri sérskóla (aðallega við stjórnun)
+1.2.2.9 ;Slökkviliðsstjóri
+1.2.2.9 ;Umdæmisstjóri ótalið a.s.
+1.2.2.9 ;Umdæmisstjóri vegagerðar
+1.2.2.9 ;Umsjónarfóstra
+1.2.2.9 ;Útgáfustjóri (aðallega við stjórnun)
+1.2.2.9 ;Varaslökkviliðsstjóri
+1.2.2.9 ;Yfirfóstra (aðallega við stjórnun)
+1.2.2.9 ;Yfirkennari (aðallega við stjórnun)
+1.2.2.9 ;Yfirlandvörður
+1.2.2.9 ;Deildarstjóri leigumiðlunar
+1.2.2.9 ;Deildarstjóri sambýlis
+1.2.2.9 ;Safnstjóri í stofnun eða fyrirtæki
+1.2.2.9 ;Yfirmenn framleiðslu- og rekstrardeilda ót.a.s.
+1.2.3.1 ;Aðalbókari (aðallega við stjórnun)
+1.2.3.1 ;Aðalféhirðir (aðallega við stjórnun)
+1.2.3.1 ;Aðalgjaldkeri (aðallega við stjórnun)
+1.2.3.1 ;Borgarbókari
+1.2.3.1 ;Borgargjaldkeri
+1.2.3.1 ;Bæjargjaldkeri
+1.2.3.1 ;Deildarstjóri í fjármáladeild
+1.2.3.1 ;Fjármálastjóri
+1.2.3.1 ;Gjaldheimtustjóri
+1.2.3.1 ;Innheimtustjóri
+1.2.3.1 ;Ríkisbókari
+1.2.3.1 ;Ríkisféhirðir (aðallega við stjórnun)
+1.2.3.1 ;Skrifstofustjóri í fjármála- og stjórnunardeild
+1.2.3.1 ;Yfirmaður í endurskoðunardeild
+1.2.3.1 ;Skrifstofustjóri
+1.2.3.1 ;Yfirmenn fjármála- og stjórnunardeilda
+1.2.3.1 ;Yfirmenn fjármála- og stjórnunardeilda
+1.2.3.2 ;Yfirmenn starfsmannahalds
+1.2.3.2 ;Deildarstjóri í starfsmannahaldi
+1.2.3.2 ;Ráðningarstjóri
+1.2.3.2 ;Skrifstofustjóri í starfsmannahaldi
+1.2.3.2 ;Starfsmannastjóri
+1.2.3.2 ;Deildarstjóri starfsþróunardeildar
+1.2.3.2 ;Yfirmenn starfsmannahalds
+1.2.3.3 ;Afgreiðslustjóri (aðallega við stjórnun)
+1.2.3.3 ;Deildarstjóri á sölu- og markaðssviði
+1.2.3.3 ;Markaðsstjóri
+1.2.3.3 ;Skrifstofustjóri á sölu- og markaðssviði
+1.2.3.3 ;Sölustjóri (aðallega við stjórnun)
+1.2.3.3 ;Sölustjóri (stoðdeild)
+1.2.3.3 ;Yfirmenn sölu- og markaðsdeilda
+1.2.3.3 ;Yfirmenn sölu- og markaðsdeilda
+1.2.3.4 ;Yfirmenn almannatengsla- og auglýsingadeilda
+1.2.3.4 ;Auglýsingastjóri (aðallega við stjórnun)
+1.2.3.4 ;Deildarstjóri í almannatengslum
+1.2.3.4 ;Skrifstofustjóri í almannatengslum
+1.2.3.4 ;Yfirmenn almannatengsla- og auglýsingadeilda
+1.2.3.5 ;Birgðastjóri (aðallega við stjórnun)
+1.2.3.5 ;Deildarstjóri á birgðasviði
+1.2.3.5 ;Deildarstjóri á dreifingarsviði
+1.2.3.5 ;Deildarstjóri á innheimtusviði
+1.2.3.5 ;Deildarstjóri dreifingar- og innkaupadeildar
+1.2.3.5 ;Dreifingastjóri (aðallega við stjórnun)
+1.2.3.5 ;Flutningastjóri (aðallega við stjórnun)
+1.2.3.5 ;Innkaupastjóri (aðallega við stjórnun)
+1.2.3.5 ;Lagerstjóri (aðallega við stjórnun)
+1.2.3.5 ;Skrifstofustjóri á dreifingarsviði
+1.2.3.5 ;Skrifstofustjóri á innkaupasviði
+1.2.3.5 ;Skrifstofustjóri á dreifingarsviði
+1.2.3.5 ;Yfirmenn innkaupa-, birgða- og dreifingardeilda
+1.2.3.5 ;Yfirmenn innkaupa-, birgða- og dreifingardeilda
+1.2.3.6 ;Yfirmenn tölvudeilda
+1.2.3.6 ;Deildarstjóri tölvudeildar
+1.2.3.6 ;Deildarstjóri tölvusviðs
+1.2.3.6 ;Yfirmenn tölvudeilda
+1.2.3.7 ;Deildarstjóri rannsóknar- og þróunardeildar
+1.2.3.7 ;Deildarstjóri rannsóknardeildar
+1.2.3.7 ;Deildarstjóri þróunardeildar
+1.2.3.7 ;Tilraunastjóri (aðallega við stjórnun)
+1.2.3.7 ;Þróunarstjóri (aðallega við stjórnun)
+1.2.3.7 ;Yfirmenn rannsóknar- og þróunardeilda
+1.2.3.7 ;Yfirmenn rannsóknar- og þróunardeilda
+1.2.3.9 ;Yfirmenn annarra deilda ót.a.s.
+1.2.3.9 ;Bæjarverkstjóri
+1.2.3.9 ;Deildarstjóri stoðdeildar
+1.2.3.9 ;Félagsmálastjóri
+1.2.3.9 ;Forstöðumaður bílastæðasjóðs
+1.2.3.9 ;Forstöðumaður dagvistar (umönnun aldraðra)
+1.2.3.9 ;Forstöðumaður dagvistar (umönnun barna)
+1.2.3.9 ;Forstöðumaður fasteignastofu
+1.2.3.9 ;Forstöðumaður höfuðborgarstofu
+1.2.3.9 ;Forstöðumaður íþróttahúss (aðallega við stjórnun)
+1.2.3.9 ;Forstöðumaður sundlaugar (aðallega við stjórnun)
+1.2.3.9 ;Forstöðumaður umhverfis- og tæknisviðs
+1.2.3.9 ;Forstöðumaður vinnuskóla (aðallega við stjórnun)
+1.2.3.9 ;Forstöðumaður æskulýðsmiðstöðvar (aðallega við stjórnun)
+1.2.3.9 ;Framkvæmdastjóri íþróttaráðs
+1.2.3.9 ;Framkvæmdastjóri safns (10 starfsmenn eða fleiri)
+1.2.3.9 ;Framkvæmdastjóri skipulagssjóðs
+1.2.3.9 ;Framkvæmdastjóri umhverfis- og heilbrigðisstofu
+1.2.3.9 ;Hjúkrunarfræðslustjóri
+1.2.3.9 ;Ræstingastjóri
+1.2.3.9 ;Skipaþjónustustjóri
+1.2.3.9 ;Skrifstofustjóri stoðdeildar
+1.2.3.9 ;Tollgæslustjóri
+1.2.3.9 ;Umhverfisstjóri
+1.2.3.9 ;Upplýsingastjóri
+1.2.3.9 ;Verkstjóri áhaldahúss (aðallega við stjórnun)
+1.2.3.9 ;Verkstjóri vélaverkstæðis (aðallega við stjórnun)
+1.2.3.9 ;Yfirmaður fasteigna og/eða framkvæmda
+1.2.3.9 ;Æfingastjóri
+1.2.3.9 ;Öryggisstjóri ríkisins
+1.2.3.9 ;Yfirmaður í eignaumsýslu
+1.2.3.9 ;Yfirmenn annarra deilda ót.a.s.
+1.3.1.1 ;Framkvæmdastjóri í fiskveiðum (færri en 10 starfsmenn)
+1.3.1.1 ;Framkvæmdastjóri í landbúnaði (færri en 10 starfsmenn)
+1.3.1.1 ;Framkvæmdastjóri í skógrækt (færri en 10 starfsmenn)
+1.3.1.1 ;Framkvæmdastjóri í útgerð (færri en 10 starfsmenn)
+1.3.1.1 ;Staðarhaldari í landabúnaði (færri en 10 starfsmenn)
+1.3.1.1 ;Framkvæmdastjórar í lítilla fyrirtækja í landbúnaði, skógrækt, veiðum og fiskveiðum (færri en 10 starfsmenn)
+1.3.1.1 ;Framkvæmdastjórar lítilla fyrirtækja í landbúnaði, skógrækt, veiðum og fiskveiðum (færri en 10 starfsmenn)
+1.3.1.2 ;Framkvæmdastjórar iðnfyrirtækja (færri en 10 starfsmenn)
+1.3.1.2 ;Framkvæmdastjóri í frystihúsi (færri en 10 starfsmenn)
+1.3.1.2 ;Framkvæmdastjóri í iðnaði (færri en 10 starfsmenn)
+1.3.1.2 ;Frystihússtjóri (færri en 10 starfsmenn)
+1.3.1.2 ;Prentsmiðjustjóri (færri en 10 starfsmenn)
+1.3.1.2 ;Rafveitustjóri (færri en 10 starfsmenn)
+1.3.1.2 ;Framkvæmdastjórar í iðnfyrirtækjum (færri en 10 starfsmenn)
+1.3.1.3 ;Framkvæmdastjóri í byggingariðnaði (færri en 10 starfsmenn)
+1.3.1.3 ;Framkvæmdastjóri smáfyrirtækis í byggingariðnaði (færri en 10 starfsmenn)
+1.3.1.3 ;Framkvæmdastjóri verktakafyrirtækis (færri en 10 starfsmenn)
+1.3.1.3 ;Framkvæmdastjórar í byggingariðnaði og mannvirkjagerð (færri en 10 starfsmenn)
+1.3.1.3 ;Framkvæmdastjórar í byggingariðnaði og mannvirkjagerð (færri en 10 starfsmenn)
+1.3.1.4 ;Framkvæmdastjórar í heildsölu- og smásölu (færri en 10 starfsmenn)
+1.3.1.4 ;Framkvæmdastjóri fiskmarkaðar (færri en 10 starfsmenn)
+1.3.1.4 ;Framkvæmdastjóri í heildsölu (færri en 10 starfsmenn)
+1.3.1.4 ;Framkvæmdastjóri í smásölu (færri en 10 starfsmenn)
+1.3.1.4 ;Framkvæmdastjórar í heildsölu- og smásölu (færri en 10 starfsmenn)
+1.3.1.5 ;Framkvæmdastjóri í veitingahúsarekstri (færri en 10 starfsmenn)
+1.3.1.5 ;Framkvæmdastjóri veitingastaðar (færri en 10 starfsmenn)
+1.3.1.5 ;Gistihússtjóri (færri en 10 starfsmenn)
+1.3.1.5 ;Hótelstjóri (færri en 10 starfsmenn)
+1.3.1.5 ;Veitingahússtjóri (færri en 10 starfsmenn)
+1.3.1.5 ;Framkvæmdastjórar í hótel- eða veitingahúsarekstri (færri en 10 starfsmenn)
+1.3.1.5 ;Framkvæmdastjórar í hótel- eða veitingahúsarekstri (færri en 10 starfsmenn)
+1.3.1.6 ;Framkvæmdastjórar í samskiptum, samgöngum og vöruflutningum (færri en 10 starfsmenn)
+1.3.1.6 ;Flugvallarstjóri (færri en 10 starfsmenn)
+1.3.1.6 ;Framkvæmdastjóri í fjarskiptarekstri (færri en 10 starfsmenn)
+1.3.1.6 ;Framkvæmdastjóri í flutningarekstri (færri en 10 starfsmenn)
+1.3.1.6 ;Framkvæmdastjóri við rekstur vörugeymslu (færri en 10 starfsmenn)
+1.3.1.6 ;Framkvæmdastjóri vörugeymslufyrirtækis (færri en 10 starfsmenn)
+1.3.1.6 ;Hafnarstjóri (færri en 10 starfsmenn)
+1.3.1.6 ;Vallarstjóri flugvallar (færri en 10 starfsmenn)
+1.3.1.6 ;Framkvæmdastjórar í samskiptum, samgöngum og vöruflutningum (færri en 10 starfsmenn)
+1.3.1.7 ;Framkvæmdastjóri í tryggingarekstri (færri en 10 starfsmenn)
+1.3.1.7 ;Framkvæmdastjóri þjónustufyrirtækis (færri en 10 starfsmenn)
+1.3.1.7 ;Sparisjóðsstjóri (færri en 10 starfsmenn)
+1.3.1.7 ;Framkvæmdastjórar í þjónustufyrirtækjum (færri en 10 starfsmenn)
+1.3.1.7 ;Framkvæmdastjórar þjónustufyrirtækja (færri en 10 starfsmenn)
+1.3.1.8 ;Framkvæmdastjórar fyrirtækja í heimilisþjónustu, ræstingum og skyldum rekstri (færri en 10 starfsmenn)
+1.3.1.8 ;Framkvæmdastjóri heimilisþjónustu (færri en 10 starfsmenn)
+1.3.1.8 ;Framkvæmdastjóri í ræstingarrekstri (færri en 10 starfsmenn)
+1.3.1.8 ;Framkvæmdastjóri sorphreinsunarstöðvar (færri en 10 starfsmenn)
+1.3.1.8 ;Framkvæmdastjórar fyrirtækja í heimilisþjónustu, ræstingum og skyldum rekstri (færri en 10 starfsmenn)
+1.3.1.9 ;Bókasafnsstjóri (færri en 10 starfsmenn)
+1.3.1.9 ;Bókaútgefandi (færri en starfsmenn)
+1.3.1.9 ;Forstöðumaður safns (færri en 10 starfsmenn)
+1.3.1.9 ;Forstöðumaður stofnunar (færri en 10 starfsmenn)
+1.3.1.9 ;Framkvæmdastjóri happdrættis (færri en 10 starfsmenn)
+1.3.1.9 ;Framkvæmdastjóri í æskulýðs- og tómstundarekstri (færri en 10 starfsmenn)
+1.3.1.9 ;Framkvæmdastjóri íþróttafélags (færri en 10 starfsmenn)
+1.3.1.9 ;Framkvæmdastjóri líkamsræktarstöðvar (færri en 10 starfsmenn)
+1.3.1.9 ;Framkvæmdastjóri safns (færri en 10 starfsmenn)
+1.3.1.9 ;Framkvæmdastjóri við umhverfisvernd (færri en 10 starfsmenn)
+1.3.1.9 ;Leikskólastjóri  (færri en 10 starfsmenn)
+1.3.1.9 ;Mjólkurbússtjóri (færri en 10 starfsmenn)
+1.3.1.9 ;Mjólkursamlagsstjóri (færri en 10 starfsmenn)
+1.3.1.9 ;Safnstjóri (færri en 10 starfsmenn)
+1.3.1.9 ;Skólastjóri tónlistarskóla (aðallega við stjórnun) (færri en 10 starfsmenn)
+1.3.1.9 ;Útvarpsstjóri einkarekinnar útvarpsstöðvar (færri en 10 starfsmenn)
+1.3.1.9 ;Veitustjóri (færri en 10 starfsmenn)
+1.3.1.9 ;Þjóðgarðsvörður (aðallega við stjórnun og færri en 10 starfsmenn)
+1.3.1.9 ;Skólastjóri lítils einkaskóla (aðallega við stjórnun)
+1.3.1.9 ;Framkvæmdastjórar og forstöðumenn lítilla fyrirtækja og stofnana (5-9 starfsmenn)
+1.3.1.9 ;Talsmaður neytenda
+1.3.1.9 ;Framkvæmdastjórar fyrirtækja og stofnana ót.a.s. (færri en 10 starfsmenn)
+1.3.1.9 ;Framkvæmdastjórar fyrirtækja og stofnana ót.a.s. (færri en 10 starfsmenn)
+2.1.1.1 ;Sérfræðistörf í eðlis- og stjörnufræði
+2.1.1.1 ;Eðlisfræðingur
+2.1.1.1 ;Fræðimaður á sviði eðlisfræði
+2.1.1.1 ;Fræðimaður á sviði stjörnufræði
+2.1.1.1 ;Geimverkfræðingur
+2.1.1.1 ;Hljóðeðlisfræðingur
+2.1.1.1 ;Kjarneðlisfræðingur
+2.1.1.1 ;Rannsóknarmaður á sviði eðlisfræði
+2.1.1.1 ;Rannsóknarmaður á sviði stjörnufræði
+2.1.1.1 ;Sérfræðingur á sviði geislavarna
+2.1.1.1 ;Stjörnufræðingur
+2.1.1.1 ;Verkefnastjóri á sviði eðlis- og stjörnufræði
+2.1.1.1 ;Sérfræðistörf í eðlis- og stjörnufræði
+2.1.1.2 ;Loftslagsfræðingur
+2.1.1.2 ;Rannsóknarmaður á sviði veðurfræði
+2.1.1.2 ;Veðurfræðingur
+2.1.1.2 ;Verkefnastjóri á sviði veðurfræði
+2.1.1.2 ;Sérfræðistörf í veðurfræði
+2.1.1.2 ;Sérfræðistörf í veðurfræði
+2.1.1.3 ;Sérfræðistörf í efnafræði
+2.1.1.3 ;Efnafræðingur
+2.1.1.3 ;Efnafræðingur í lyfjafræði
+2.1.1.3 ;Hafefnafræðingur
+2.1.1.3 ;Jarðefnafræðingur
+2.1.1.3 ;Lyfjafræðingur í efnaiðnaði
+2.1.1.3 ;Rannsóknarmaður á sviði efnafræði
+2.1.1.3 ;Rannsóknarmaður í raungreinum
+2.1.1.3 ;Verkefnastjóri á sviði efnafræði
+2.1.1.3 ;Sérfræðistörf í efnafræði
+2.1.1.4 ;Haffræðingur
+2.1.1.4 ;Hagráðunautur
+2.1.1.4 ;Jarðeðlisfræðingur
+2.1.1.4 ;Jarðfræðingur
+2.1.1.4 ;Jarðskjálftafræðingur
+2.1.1.4 ;Jarðskjálftaverkfræðingur
+2.1.1.4 ;Jarðverkfræðingur
+2.1.1.4 ;Jöklafræðingur
+2.1.1.4 ;Landfræðingur á sviði jarðeðlisfræði
+2.1.1.4 ;Mannvirkjajarðfræðingur
+2.1.1.4 ;Rannsóknarmaður á sviði jarðeðlisfræði
+2.1.1.4 ;Rannsóknarmaður á sviði jarðfræði
+2.1.1.4 ;Vatnafræðingur
+2.1.1.4 ;Verkefnastjóri á sviði jarð- og jarðeðlisfræði
+2.1.1.4 ;Sérfræðistörf í jarð- og jarðeðlisfræði
+2.1.1.4 ;Sérfræðistörf í jarð- og jarðeðlisfræði
+2.1.2.1 ;Sérfræðistörf í stærðfræði og tryggingafræði
+2.1.2.1 ;Aðgerðafræðingur
+2.1.2.1 ;Afleiðumiðlari
+2.1.2.1 ;Rannsóknarmaður á sviði stærðfræði
+2.1.2.1 ;Rannsóknarmaður á sviði tryggingafræði
+2.1.2.1 ;Sérfræðingur í áhættustýringu
+2.1.2.1 ;Stærðfræðingur
+2.1.2.1 ;Tryggingafræðingur
+2.1.2.1 ;Tryggingastærðfræðingur
+2.1.2.1 ;Verkefnastjóri  á sviði stærð- og tryggingafræði
+2.1.2.1 ;Sérfræðistörf í stærð- og tryggingafræði
+2.1.2.2 ;Aðferðafræðingur
+2.1.2.2 ;Lýðfræðingur
+2.1.2.2 ;Rannsóknarmaður á sviði tölfræði
+2.1.2.2 ;Reiknifræðingur
+2.1.2.2 ;Sérfræðingur á sviði tölfræði
+2.1.2.2 ;Sérfræðingur í hagskýrslugerð
+2.1.2.2 ;Tölfræðingur
+2.1.2.2 ;Hagskýrslugerðarmaður
+2.1.2.2 ;Verkefnastjóri á sviði tölfræði
+2.1.2.2 ;Sérfræðistörf í tölfræði
+2.1.2.2 ;Sérfræðistörf í tölfræði
+2.1.3.1 ;Sérfræðistörf við hönnun tölvukerfa og tölvunarfræðingar
+2.1.3.1 ;Hugbúnaðarsérfræðingur
+2.1.3.1 ;Hugbúnaðarverkfræðingur
+2.1.3.1 ;Hönnuður hugbúnaðar
+2.1.3.1 ;Hönnuður tölvukerfa
+2.1.3.1 ;Sérfræðingur í upplýsingafræði og -tækni
+2.1.3.1 ;Tölvunarfræðingur í þróunarstarfi
+2.1.3.1 ;Tölvunarverkfræðingur
+2.1.3.1 ;Tölvuveirufræðingur
+2.1.3.1 ;Tölvuverkfræðingur
+2.1.3.1 ;Þrívíddarhönnuður
+2.1.3.1 ;Rannsóknamaður við hönnun tölvukerfa og tölvunarfræðingar
+2.1.3.1 ;Verkefnastjóri við hönnun tölvukerfa og tölvunarfræðingar
+2.1.3.1 ;Sérfræðistörf við hönnun tölvukerfa og tölvunarfræðingar
+2.1.3.2 ;Forritari
+2.1.3.2 ;Forritari gagnagrunna
+2.1.3.2 ;Forritari samskiptakerfa
+2.1.3.2 ;Kerfisforritari
+2.1.3.2 ;Kerfishönnuður
+2.1.3.2 ;Rannsóknamaður við forritun
+2.1.3.2 ;Verkefnastjóri við forritun
+2.1.3.2 ;Sérfræðistörf við forritun
+2.1.3.2 ;Sérfræðistörf við forritunar
+2.1.3.9 ;Sérfræðistörf í tölvufræði ófl.a.
+2.1.3.9 ;Gagnagrunnsstjóri
+2.1.3.9 ;Gagnasafnsfræðingur
+2.1.3.9 ;Kerfisfræðingur (með háskólapróf)
+2.1.3.9 ;Margmiðlunarsérfræðingur
+2.1.3.9 ;Sérfræðingur á sviði tölvuöryggismála
+2.1.3.9 ;Sérfræðingur á tölvusviði ótalið a.s.
+2.1.3.9 ;Sérfræðingur við tölvugreiningu
+2.1.3.9 ;Sérfræðingur við tölvuráðgjöf
+2.1.3.9 ;Tölvunarfræðingur ótalið a.s.
+2.1.3.9 ;Tölvurekstrarfræðingur
+2.1.3.9 ;Rannsóknamaður á sviði tölvufræði ót.a.s.
+2.1.3.9 ;Verkefnastjóri á sviði tölvufræði ót.a.s.
+2.1.3.9 ;Sérfræðistörf í tölvufræði ót.a.s.
+2.1.4.1 ;Arkitekt
+2.1.4.1 ;Borgarskipulagsfræðingur
+2.1.4.1 ;Byggingarfulltrúi
+2.1.4.1 ;Garðaarkitekt
+2.1.4.1 ;Húsameistari
+2.1.4.1 ;Húsgagnaarkitekt
+2.1.4.1 ;Húsgagnahönnuður (með háskólapróf)
+2.1.4.1 ;Hönnuður (með háskólapróf)
+2.1.4.1 ;Innanhúsarkitekt (með háskólapróf)
+2.1.4.1 ;Landslagsarkitekt (með háskólapróf)
+2.1.4.1 ;Skipulagsarkitekt (með háskólapróf)
+2.1.4.1 ;Skipulagsfræðingur
+2.1.4.1 ;Skipulagsfulltrúi
+2.1.4.1 ;Skrúðgarðaarkitekt
+2.1.4.1 ;Umferðarskipulagsfræðingur
+2.1.4.1 ;Umferðarverkfræðingur
+2.1.4.1 ;Umhverfisfræðingur
+2.1.4.1 ;Umhverfisverkfræðingur
+2.1.4.1 ;Rannsóknamaður á sviði byggingarlistar og skipulagsfræði
+2.1.4.1 ;Verkefnastjóri á sviði byggingarlistar og skipulagsfræði
+2.1.4.1 ;Sérfræðistörf í byggingarlist og skipulagsfræði
+2.1.4.1 ;Sérfræðistörf í byggingarlist og skipulagsfræði
+2.1.4.2 ;Sérfræðistörf í byggingarverkfræði
+2.1.4.2 ;Borgarverkfræðingur
+2.1.4.2 ;Byggingartæknifræðingur
+2.1.4.2 ;Byggingarverkfræðingur
+2.1.4.2 ;Bæjartæknifræðingur
+2.1.4.2 ;Bæjarverkfræðingur
+2.1.4.2 ;Rannsóknarmaður á sviði byggingarverkfræði
+2.1.4.2 ;Ráðgjafaverkfræðingur í byggingarverkfræði
+2.1.4.2 ;Verkefnastjóri á sviði byggingarverkfræði
+2.1.4.2 ;Sérfræðistörf í byggingarverkfræði
+2.1.4.3 ;Rafmagnstæknifræðingur
+2.1.4.3 ;Rafmagnsverkfræðingur
+2.1.4.3 ;Raforkuverkfræðingur
+2.1.4.3 ;Rannsóknarmaður á sviði rafmagnsverkfræði
+2.1.4.3 ;Ráðgjafaverkfræðingur á sviði rafmagnsverkfræði
+2.1.4.3 ;Verkefnastjóri á sviði rafmagnsverkfræði
+2.1.4.3 ;Sérfræðistörf í rafmagnsverkfræði
+2.1.4.3 ;Sérfræðistörf í rafmagnsverkfræði
+2.1.4.4 ;Sérfræðistörf í rafeinda- og fjarskiptaverkfræði
+2.1.4.4 ;Fjarskiptatæknifræðingur
+2.1.4.4 ;Fjarskiptaverkfræðingur
+2.1.4.4 ;Rafeindatæknifræðingur
+2.1.4.4 ;Rafeindaverkfræðingur
+2.1.4.4 ;Ráðgjafaverkfræðingur á sviði fjarskiptaverkfræði
+2.1.4.4 ;Ráðgjafaverkfræðingur á sviði rafeindaverkfræði
+2.1.4.4 ;Rannsóknarmaður á sviði fjarskiptaverkfræði
+2.1.4.4 ;Rannsóknarmaður á sviði rafeindaverkfræði
+2.1.4.4 ;Rannsóknarmaður á sviði rafeinda- eða fjarskiptaverkfræði
+2.1.4.4 ;Verkefnastjóri á sviði rafeinda- og fjarskiptaverkfræði
+2.1.4.4 ;Sérfræðistörf í rafeinda- og fjarskiptaverkfræði
+2.1.4.5 ;Flugvélaverkfræðingur
+2.1.4.5 ;Rannsóknarmaður á sviði vélaverkfræði
+2.1.4.5 ;Ráðgjafaverkfræðingur á sviði vélaverkfræði
+2.1.4.5 ;Skipatæknifræðingur
+2.1.4.5 ;Skipaverkfræðingur
+2.1.4.5 ;Vélaverkfræðingur
+2.1.4.5 ;Véltæknifræðingur
+2.1.4.5 ;Ráðgjafarverkfræðingur í flugvélaverkfræði
+2.1.4.5 ;Ráðgjafarverkfræðingur í skipaverkfræði
+2.1.4.5 ;Verkefnastjóri á sviði vélaverkfræði
+2.1.4.5 ;Sérfræðistörf í vélaverkfræði
+2.1.4.5 ;Sérfræðistörf í vélaverkfræði
+2.1.4.6 ;Sérfræðistörf í efnaverkfræði
+2.1.4.6 ;Eðlisverkfræðingur
+2.1.4.6 ;Efnatæknifræðingur
+2.1.4.6 ;Efnaverkfræðingur
+2.1.4.6 ;Eldsneytisverkfræðingur
+2.1.4.6 ;Iðntæknifræðingur á matvælasviði
+2.1.4.6 ;Matvælaefnafræðingur
+2.1.4.6 ;Matvælaefnaverkfræðingur
+2.1.4.6 ;Matvælafræðingur
+2.1.4.6 ;Matvælaiðnfræðingur
+2.1.4.6 ;Mjólkurtæknifræðingur
+2.1.4.6 ;Mjólkurverkfræðingur
+2.1.4.6 ;Rannsóknarmaður á sviði efnaverkfræði
+2.1.4.6 ;Ráðgjafaverkfræðingur á sviði efnaverkfræði
+2.1.4.6 ;Verkefnastjóri á sviði efnaverkfræði
+2.1.4.6 ;Sérfræðistörf í efnaverkfræði
+2.1.4.7 ;Jarðvinnsluverkfræðingur
+2.1.4.7 ;Málmfræðingur (með háskólapróf)
+2.1.4.7 ;Námatæknifræðingur
+2.1.4.7 ;Námaverkfræðingur
+2.1.4.7 ;Rannsóknarmaður á sviði námaverkfræði
+2.1.4.7 ;Ráðgjafaverkfræðingur á sviði námaverkfræði
+2.1.4.7 ;Verkefnastjóri á sviði námaverkfræði
+2.1.4.7 ;Sérfræðistörf í námaverkfræði
+2.1.4.7 ;Sérfræðistörf í námaverkfræði
+2.1.4.8 ;Sérfræðistörf við kortagerð og landmælingar
+2.1.4.8 ;Flugkortagerðarmaður (með háskólapróf)
+2.1.4.8 ;Kortagerðarmaður (með háskólapróf)
+2.1.4.8 ;Landmælingaverkfræðingur
+2.1.4.8 ;Myndmælingamaður (með háskólapróf)
+2.1.4.8 ;Mælingatæknifræðingur
+2.1.4.8 ;Mælingaverkfræðingur
+2.1.4.8 ;Rannsóknarmaður á sviði kortagerðar og landmælinga
+2.1.4.8 ;Ráðgjafaverkfræðingur á sviði kortagerðar og landmælinga
+2.1.4.8 ;Sjókortagerðarmaður (með háskólapróf)
+2.1.4.8 ;Sjómælingamaður (með háskólapróf)
+2.1.4.8 ;Verkefnastjóri við kortagerð og landmælingar
+2.1.4.8 ;Sérfræðistörf við kortagerð og landmælingar
+2.1.4.9 ;Hagræðingartæknifræðingur
+2.1.4.9 ;Hagræðingarverkfræðingur
+2.1.4.9 ;Hagræðingur
+2.1.4.9 ;Heilsu-, heilbrigðis- og hreinlætisverkfræðingur
+2.1.4.9 ;Iðntæknifræðingur á sjálfvirknisviði
+2.1.4.9 ;Iðntæknifræðingur á vöruþróunarsviði
+2.1.4.9 ;Iðntæknifræðingur ótalið a.s.
+2.1.4.9 ;Iðnverkfræðingur
+2.1.4.9 ;Orkutæknifræðingur
+2.1.4.9 ;Rekstrarverkfræðingur
+2.1.4.9 ;Sjávarútvegsfræðingur
+2.1.4.9 ;Tæknifræðingur ótalið a.s.
+2.1.4.9 ;Útvegsfræðingur
+2.1.4.9 ;Verkfræðingur ótalið a.s.
+2.1.4.9 ;Yfirverkfræðingur
+2.1.4.9 ;Rannsóknamaður á sviði arkitektúr og verkfræði ót.a.s.
+2.1.4.9 ;Verkefnastjóri á sviði arkitektúr og verkfræði ót.a.s.
+2.1.4.9 ;Sérfræðistörf í arkitektúr og verkfræði ót.a.s.
+2.1.4.9 ;Sérfræðistörf í arkitektúr og verkfræði ót.a.s.
+2.2.1.1 ;Sérfræðistörf í líffræði, grasafræði, dýrafræði og skyldum greinum
+2.2.1.1 ;Búfjársjúkdómafræðingur
+2.2.1.1 ;Búvísindafræðingur
+2.2.1.1 ;Dýrafræðingur
+2.2.1.1 ;Erfðafræðingur
+2.2.1.1 ;Fiskeldisfræðingur
+2.2.1.1 ;Fiskifræðingur
+2.2.1.1 ;Fiskilíffræðingur
+2.2.1.1 ;Fisksjúkdómafræðingur
+2.2.1.1 ;Fósturfræðingur
+2.2.1.1 ;Frumulíffræðingur
+2.2.1.1 ;Fuglafræðingur
+2.2.1.1 ;Gerlafræðingur
+2.2.1.1 ;Grasafræðingur
+2.2.1.1 ;Gróðurvistfræðingur
+2.2.1.1 ;Jurtaerfðafræðingur
+2.2.1.1 ;Kynbótadómari
+2.2.1.1 ;Líffræðingur
+2.2.1.1 ;Náttúrufræðingur
+2.2.1.1 ;Sameindaerfðafræðingur
+2.2.1.1 ;Sameindalíffræðingur
+2.2.1.1 ;Sjávarlíffræðingur
+2.2.1.1 ;Skordýrafræðingur
+2.2.1.1 ;Sýklafræðingur
+2.2.1.1 ;Taugalíffræðingur
+2.2.1.1 ;Vatnalíffræðingur
+2.2.1.1 ;Vatnavistfræðingur
+2.2.1.1 ;Vefjafræðingur
+2.2.1.1 ;Vistfræðingur
+2.2.1.1 ;Örverufræðingur
+2.2.1.1 ;Ónæmisfræðingur
+2.2.1.1 ;Rannsóknamaður á sviði líffræði, grasafræði og dýrafræði og skyldum greinum
+2.2.1.1 ;Verkefnastjóri á sviði líffræði, grasafræði og dýrafræði og skyldum greinum
+2.2.1.1 ;Sérfræðistörf í líffræði, grasafræði og dýrafræði og skyldum greinum
+2.2.1.2 ;Eiturefnafræðingur
+2.2.1.2 ;Lífeðlisfræðingur
+2.2.1.2 ;Lífefnafræðingur
+2.2.1.2 ;Líffærafræðingur
+2.2.1.2 ;Líftæknifræðingur
+2.2.1.2 ;Lyfjafræðingur við rannsóknir
+2.2.1.2 ;Lyftæknifræðingur
+2.2.1.2 ;Meinafræðingur
+2.2.1.2 ;Meinatæknir
+2.2.1.2 ;Ónæmisfræðingur (í rannsóknum)
+2.2.1.2 ;Sjávarlífefnafræðingur
+2.2.1.2 ;Taugalífeðlisfræðingur
+2.2.1.2 ;Taugameinafræðingur
+2.2.1.2 ;Yfirmeinatæknir
+2.2.1.2 ;Lyfjafræðingur
+2.2.1.2 ;Lífeindafræðingur (meinatæknir)
+2.2.1.2 ;Rannsóknamaður á sviði lyfja- og meinafræði
+2.2.1.2 ;Verkefnastjóri á sviði lyfja- og meinafræði
+2.2.1.2 ;Nemi í lyfja- og meinafræði
+2.2.1.2 ;Sérfræðistörf í lyfja- og meinafræði
+2.2.1.2 ;Sérfræðistörf í lyfja- og meinafræði
+2.2.1.3 ;Sérfræðistörf við búfjár- og jarðræktun
+2.2.1.3 ;Búfjárfræðingur
+2.2.1.3 ;Fóðurfræðingur
+2.2.1.3 ;Garðplöntufræðingur
+2.2.1.3 ;Garðyrkjufræðingur
+2.2.1.3 ;Jarðræktarfræðingur
+2.2.1.3 ;Jarðvegsfræðingur
+2.2.1.3 ;Kynbótafræðingur
+2.2.1.3 ;Plöntufræðingur
+2.2.1.3 ;Plöntumeinafræðingur
+2.2.1.3 ;Plöntusjúkdómafræðingur
+2.2.1.3 ;Skógfræðingur
+2.2.1.3 ;Skógræktarfræðingur
+2.2.1.3 ;Skógtæknifræðingur
+2.2.1.3 ;Skrúðgarðyrkjufræðingur
+2.2.1.3 ;Rannsóknamaður á sviði búfjár- og jarðræktunnar
+2.2.1.3 ;Verkefnastjóri á sviði búfjár- og jarðræktunnar
+2.2.1.3 ;Sérfræðistörf við búfjár- og jarðræktun
+2.2.1.4 ;Alifuglaráðunautur
+2.2.1.4 ;Búnaðarhagfræðiráðunautur
+2.2.1.4 ;Búnaðarráðunautur
+2.2.1.4 ;Búnaðarráðunautur lífrænn búskapur og landnýting
+2.2.1.4 ;Bútækniráðunautur
+2.2.1.4 ;Byggingar- og bútækniráðunautur
+2.2.1.4 ;Fiskeldisráðunautur
+2.2.1.4 ;Garðyrkjuráðunautur
+2.2.1.4 ;Héraðsfulltrúi
+2.2.1.4 ;Héraðsráðunautur
+2.2.1.4 ;Hlunninda- og jarðræktarráðunautur
+2.2.1.4 ;Hrossaræktarráðunautur
+2.2.1.4 ;Jarðræktarráðunautur
+2.2.1.4 ;Landbúnaðarráðunautur
+2.2.1.4 ;Landnýtingarráðunautur
+2.2.1.4 ;Landsráðunautur
+2.2.1.4 ;Loðdýraræktarráðunautur
+2.2.1.4 ;Nautgriparæktarráðunautur
+2.2.1.4 ;Sauðfjárræktarráðunautur
+2.2.1.4 ;Skógræktarráðunautur
+2.2.1.4 ;Svínaræktarráðunautur
+2.2.1.4 ;Ylræktarráðunautur
+2.2.1.4 ;Rannsóknamaður á sviði landbúnaðar- og skógræktarráðgjafar
+2.2.1.4 ;Verkefnastjóri á sviði landbúnaðar- og skógræktarráðgjafar
+2.2.1.4 ;Sérfræðistörf við landbúnaðar- og skógræktarráðgjöf
+2.2.1.4 ;Sérfræðistörf við landbúnaðar- og skógræktarráðgjöf
+2.2.2.1 ;Sérfræðistörf við lækningar
+2.2.2.1 ;Aðstoðarborgarlæknir
+2.2.2.1 ;Aðstoðarlandlæknir
+2.2.2.1 ;Aðstoðarlæknir
+2.2.2.1 ;Atvinnulæknir
+2.2.2.1 ;Augnlæknir
+2.2.2.1 ;Barna- og unglingageðlæknir
+2.2.2.1 ;Barnaefnaskiptalæknir
+2.2.2.1 ;Barnagjörgæslulæknir
+2.2.2.1 ;Barnahjartalæknir
+2.2.2.1 ;Barnakrabbameinslæknir
+2.2.2.1 ;Barnalæknir
+2.2.2.1 ;Barnaskurðlæknir
+2.2.2.1 ;Barnataugalæknir
+2.2.2.1 ;Beinasérfræðingur
+2.2.2.1 ;Blóðsjúkdóma- og krabbameinslæknir barna
+2.2.2.1 ;Blóðsjúkdómalæknir
+2.2.2.1 ;Borgarlæknir
+2.2.2.1 ;Bráðalæknir
+2.2.2.1 ;Brjóstholsskurðlæknir
+2.2.2.1 ;Bæklunarlæknir
+2.2.2.1 ;Bæklunarskurðlæknir
+2.2.2.1 ;Deildarlæknir
+2.2.2.1 ;Efnaskipta- og innkirtlalæknir
+2.2.2.1 ;Endurhæfinga- og taugalæknir
+2.2.2.1 ;Endurhæfingalæknir
+2.2.2.1 ;Farsóttalæknir
+2.2.2.1 ;Fæðinga- og kvenlæknir
+2.2.2.1 ;Fötlunarlæknir barna
+2.2.2.1 ;Geð- og endurhæfingalæknir
+2.2.2.1 ;Geð- og fíknisjúkdómalæknir
+2.2.2.1 ;Geðlæknir
+2.2.2.1 ;Gigtarlæknir
+2.2.2.1 ;Gjörgæslulæknir
+2.2.2.1 ;Glákulæknir
+2.2.2.1 ;Handarskurðlæknir
+2.2.2.1 ;Háls-, nef- og eyrnalæknir
+2.2.2.1 ;Heila- og taugaskurðlæknir
+2.2.2.1 ;Heilsugæslulæknir
+2.2.2.1 ;Heimilislæknir
+2.2.2.1 ;Hjartalæknir
+2.2.2.1 ;Húð- og kynsjúkdómalæknir
+2.2.2.1 ;Húðsjúkdómalæknir
+2.2.2.1 ;Innkirtla- og efnaskiptasjúkdómalæknir
+2.2.2.1 ;Innkirtlakvensjúkdómalæknir
+2.2.2.1 ;Krabbameinslæknir
+2.2.2.1 ;Kvenkrabbameinslæknir
+2.2.2.1 ;Kvensjúkdómalæknir
+2.2.2.1 ;Lungnalæknir
+2.2.2.1 ;Lyflæknir
+2.2.2.1 ;Lýtalæknir
+2.2.2.1 ;Lýtaskurðlæknir
+2.2.2.1 ;Læknakandídat
+2.2.2.1 ;Læknir
+2.2.2.1 ;Læknir í klíniskri taugalífeðlisfræði
+2.2.2.1 ;Læknir í læknisfræðilegri erfðafræði
+2.2.2.1 ;Meltinga- og næringasjúkdómalæknir
+2.2.2.1 ;Meltinga- og næringasjúkdómarlæknir barna
+2.2.2.1 ;Nýburalæknir
+2.2.2.1 ;Nýrnalæknir
+2.2.2.1 ;Nýrnalæknir barna
+2.2.2.1 ;Ofnæmis- og ónæmislæknir
+2.2.2.1 ;Ofnæmis- og ónæmislæknir barna
+2.2.2.1 ;Réttargeðlæknir
+2.2.2.1 ;Réttarlæknir
+2.2.2.1 ;Röntgenlæknir
+2.2.2.1 ;Sérfræðilæknir
+2.2.2.1 ;Sérfræðingur í lækningum
+2.2.2.1 ;Sérgreinalæknir
+2.2.2.1 ;Skólalæknir
+2.2.2.1 ;Skurðlæknir
+2.2.2.1 ;Slysa- og bráðalæknir barna
+2.2.2.1 ;Smitsjúkdómalæknir
+2.2.2.1 ;Smitsjúkdómalæknir barna
+2.2.2.1 ;Sóttvarnarlæknir
+2.2.2.1 ;Svæfinga- og gjörgæslulæknir
+2.2.2.1 ;Svæfingalæknir
+2.2.2.1 ;Tauga- og geðlæknir
+2.2.2.1 ;Taugalæknir
+2.2.2.1 ;Taugaskurðlæknir
+2.2.2.1 ;Yfirlæknir
+2.2.2.1 ;Þvagfæraskurðlæknir
+2.2.2.1 ;Æðaskurðlæknir
+2.2.2.1 ;Öldrunarlæknir
+2.2.2.1 ;Geislalækningasérfræðingur
+2.2.2.1 ;Sérfræðingur í magasjúkdómum
+2.2.2.1 ;Sérfræðingur  í meinafræði
+2.2.2.1 ;Rannsóknamaður á sviði lækninga
+2.2.2.1 ;Lækna kandidat
+2.2.2.1 ;Hjartaskurðlæknir
+2.2.2.1 ;Verkefnastjóri við lækningar
+2.2.2.1 ;Læknanemi
+2.2.2.1 ;Sérfræðistörf við lækningar
+2.2.2.2 ;Barnatannlæknir
+2.2.2.2 ;Sérfræðingur í tannréttingum
+2.2.2.2 ;Skurðlæknir í munn- og kjálkaskurðlækningum
+2.2.2.2 ;Tannlæknir
+2.2.2.2 ;Rannsóknamaður á sviði tannlækningar
+2.2.2.2 ;Verkefnastjóri við tannlækningar
+2.2.2.2 ;Nemi við tannlækningar
+2.2.2.2 ;Sérfræðistörf við tannlækningar
+2.2.2.2 ;Sérfræðistörf við tannlækningar
+2.2.2.3 ;Sérfræðistörf við dýralækningar
+2.2.2.3 ;Dýralæknir
+2.2.2.3 ;Eftirlitsdýralæknir
+2.2.2.3 ;Faranddýralæknir
+2.2.2.3 ;Héraðsdýralæknir
+2.2.2.3 ;Sérgreinadýralæknir
+2.2.2.3 ;Rannsóknamaður á sviði dýralækninga
+2.2.2.3 ;Verkefnastjóri á sviði dýralækninga
+2.2.2.3 ;Sérfræðistörf við dýralækningar
+2.2.2.4 ;Apótekari
+2.2.2.4 ;Lyfjafræðingur í apóteki
+2.2.2.4 ;Lyfjafræðingur við lyfjaeftirlit
+2.2.2.4 ;Lyfsali
+2.2.2.4 ;Sjúkrahúslyfjafræðingur
+2.2.2.4 ;Verkefnastjóri í lyfjaverslunum og lyfjabúðum sjúkrahúsa
+2.2.2.4 ;Sérfræðistörf í lyfjaverslunum og lyfjabúðum sjúkrahúsa
+2.2.2.4 ;Sérfræðistörf í lyfjaverslunum og lyfjabúðum sjúkrahúsa
+2.2.2.5 ;Sérfræðistörf við geislafræði
+2.2.2.5 ;Geislafræðingur
+2.2.2.5 ;Röntgentæknir
+2.2.2.5 ;Rannsóknamaður á sviði geislafræði
+2.2.2.5 ;Verkefnastjóri við geislafræði
+2.2.2.5 ;Sérfræðistörf við geislafræði
+2.2.2.6 ;Iðjuþjálfi
+2.2.2.6 ;Sjúkraþjálfari
+2.2.2.6 ;Yfirsjúkraþjálfari
+2.2.2.6 ;Rannsóknamaður á sviði sjúkraþjálfunar
+2.2.2.6 ;Verkefnastjóri við sjúkraþjálfun
+2.2.2.6 ;Sérfræðistörf við sjúkraþjálfun
+2.2.2.6 ;Sérfræðistörf við sjúkraþjálfun
+2.2.2.9 ;Sérfræðistörf í heilbrigðisgreinum (nema í hjúkrun) ót.a.s.
+2.2.2.9 ;Heilbrigðisfulltrúi
+2.2.2.9 ;Heyrnarfræðingur
+2.2.2.9 ;Lífeindafræðingur
+2.2.2.9 ;Líffræðingur á heilbrigðissviði
+2.2.2.9 ;Næringarfræðingur
+2.2.2.9 ;Stoðtækjafræðingur
+2.2.2.9 ;Talmeinafræðingur
+2.2.2.9 ;Perfusionist
+2.2.2.9 ;Rannsóknamaður í heilbrigðisgreinum (nema í hjúkrun) ót.a.s.
+2.2.2.9 ;Verkefnastjóri í heilbrigðisgreinum (nema í hjúkrun) ót.a.s.
+2.2.2.9 ;Sérfræðistörf í heilbrigðisgreinum (nema í hjúkrun) ót.a.s.
+2.2.3.0 ;Barnahjúkrunarfræðingur
+2.2.3.0 ;Deildarhjúkrunarfræðingur
+2.2.3.0 ;Geðhjúkrunarfræðingur
+2.2.3.0 ;Heilsugæsluhjúkrunarfræðingur
+2.2.3.0 ;Hjúkrunarfræðingur
+2.2.3.0 ;Hjúkrunarfræðingur við heimahjúkrun
+2.2.3.0 ;Hjúkrunarstjóri
+2.2.3.0 ;Ljósmóðir
+2.2.3.0 ;Röntgenhjúkrunarfræðingur
+2.2.3.0 ;Skólahjúkrunarfræðingur
+2.2.3.0 ;Skurðhjúkrunarfræðingur
+2.2.3.0 ;Svæfingahjúkrunarfræðingur
+2.2.3.0 ;Yfirhjúkrunarfræðingur
+2.2.3.0 ;Yfirljósmóðir
+2.2.3.0 ;Rannsóknamaður í hjúkrunar- og ljósmóðurfræði
+2.2.3.0 ;Verkefnastjóri í hjúkrunar- og ljósmóðurfræði
+2.2.3.0 ;Nemi í hjúkrunar- eða ljósmóðurfræði
+2.2.3.0 ;Sérfræðistörf í hjúkrunar- og ljósmóðurfræði
+2.2.3.0 ;Störf hjúkrunarfræðinga og ljósmæðra
+2.3.1.0 ;Kennsla á háskólastigi
+2.3.1.0 ;Aðjúnkt
+2.3.1.0 ;Dósent
+2.3.1.0 ;Fræðimaður við kennslu á háskólastigi
+2.3.1.0 ;Gestakennari á háskólastigi
+2.3.1.0 ;Háskólakennari
+2.3.1.0 ;Kennari á háskólastigi
+2.3.1.0 ;Kennari í kennaradeild tónlistarskóla
+2.3.1.0 ;Kennari í tækniháskóla
+2.3.1.0 ;Lektor
+2.3.1.0 ;Prófdómari í háskóla
+2.3.1.0 ;Prófessor
+2.3.1.0 ;Rannsóknarmaður við kennslu á háskólastigi
+2.3.1.0 ;Sendikennari á háskólastigi
+2.3.1.0 ;Stundakennari á háskólastigi
+2.3.1.0 ;Sviðsstjóri í háskóla
+2.3.1.0 ;Aðstoðarskorarstjóri, staðgengill forstöðumanns (aðalega við kennslu)
+2.3.1.0 ;Deildarstjóri í háskóla (aðalega við kennslu)
+2.3.1.0 ;Æfingakennari á háskólastigi
+2.3.1.0 ;Verkefnastjóri við kennslu á háskólastigi
+2.3.1.0 ;Kennaranemi á háskólastigi
+2.3.1.0 ;Kennsla á háskólastigi
+2.3.2.0 ;Einkakennari á framhaldsskólastigi
+2.3.2.0 ;Fagdeildarstjóri
+2.3.2.0 ;Fagmálastjóri
+2.3.2.0 ;Fjölbrautarskólakennari
+2.3.2.0 ;Framhaldsskólakennari
+2.3.2.0 ;Gestakennari á framhaldsskólastigi
+2.3.2.0 ;Húsmæðrakennari
+2.3.2.0 ;Hússtjórnarkennari
+2.3.2.0 ;Íþróttakennari í framhaldsskóla
+2.3.2.0 ;Kennari á framhaldsskólastigi
+2.3.2.0 ;Leiðbeinandi í framhaldsskóla
+2.3.2.0 ;Menntaskólakennari
+2.3.2.0 ;Prófdómari í framhaldsskóla
+2.3.2.0 ;Sérgreinakennari í framhaldsskóla
+2.3.2.0 ;Skólastjóri framhaldsskóla (aðallega við kennslu)
+2.3.2.0 ;Stundakennari á framhaldsskólastigi
+2.3.2.0 ;Sviðsstjóri í framhaldsskóla
+2.3.2.0 ;Yfirkennari (aðallega við kennslu)
+2.3.2.0 ;Deildarstjóri í framhaldsskóla (aðallega við kennslu)
+2.3.2.0 ;Æfingakennari á framhaldsskólastigi
+2.3.2.0 ;Áfangastjóri í framhaldsskóla
+2.3.2.0 ;Aðstoðarskólastjóri í framhaldsskóla (aðallega við kennslu)
+2.3.2.0 ;Rannsóknamaður við kennslu á framhaldskólastigi
+2.3.2.0 ;Verkefnastjóri við kennslu á framhaldsskólastigi
+2.3.2.0 ;Kennaranemi á framhaldsskólastigi
+2.3.2.0 ;Kennsla á framhaldsskólastigi
+2.3.2.0 ;Kennsla á framhaldsskólastigi
+2.3.3.1 ;Kennsla á grunnskólastigi
+2.3.3.1 ;Blindrakennari
+2.3.3.1 ;Grunnskólakennari
+2.3.3.1 ;Handavinnukennari í grunnskóla
+2.3.3.1 ;Handmenntakennari
+2.3.3.1 ;Handmenntakennari í grunnskóla
+2.3.3.1 ;Heimilisfræðikennari
+2.3.3.1 ;Íþróttakennari í grunnskóla
+2.3.3.1 ;Kennari á grunnskólastigi
+2.3.3.1 ;Leiðbeinandi í grunnskóla
+2.3.3.1 ;Myndmenntakennari í grunnskóla
+2.3.3.1 ;Skólastjóri grunnskóla (aðallega við kennslu)
+2.3.3.1 ;Tónmenntakennari í grunnskóla
+2.3.3.1 ;Stundakennari á grunnskólastigi
+2.3.3.1 ;Æfingakennari á grunnskólastigi
+2.3.3.1 ;Rannsóknamaður við kennslu á grunnskólastigi
+2.3.3.1 ;Verkefnastjóri við kennslu á grunnskólastigi
+2.3.3.1 ;Kennaranemi á grunnskólastigi
+2.3.3.1 ;Kennsla á grunnskólastigi
+2.3.3.2 ;Aðstoðarleikskólastjóri (aðallega við kennslu)
+2.3.3.2 ;Deildarstjóri í leikskóla
+2.3.3.2 ;Leikskólakennari
+2.3.3.2 ;Leikskólastjóri (aðallega við kennslu)
+2.3.3.2 ;Æfingakennari á leikskólastigi
+2.3.3.2 ;Leikskólasérkennari
+2.3.3.2 ;Rannsóknamaður við kennslu á leikskólastigi
+2.3.3.2 ;Verkefnastjóri við kennsla á leikskólastigi
+2.3.3.2 ;Kennaranemi á leikskólastigi
+2.3.3.2 ;Kennsla á leikskólastigi
+2.3.3.2 ;Kennsla á leikskólastigi
+2.3.4.1 ;Sérfræðistörf við sérkennslu
+2.3.4.1 ;Sérkennari
+2.3.4.1 ;Talkennari
+2.3.4.1 ;Heyrnleysingjakennari
+2.3.4.1 ;Rannsóknamaður við sérkennslu
+2.3.4.1 ;Verkefnastjóri við sérkennslu
+2.3.4.1 ;Sérfræðistörf við sérkennslu
+2.3.4.2 ;Deildarþroskaþjálfi
+2.3.4.2 ;Stuðningsfulltrúi (með háskólapróf)
+2.3.4.2 ;Yfirþroskaþjálfi
+2.3.4.2 ;Þroskaþjálfi
+2.3.4.2 ;Rannsóknamaður á sviði þroskaþjálfunar
+2.3.4.2 ;Verkefnastjóri á sviði þroskaþjálfunar
+2.3.4.2 ;Þroskaþjálfanemi
+2.3.4.2 ;Sérfræðistörf við þroskaþjálfun
+2.3.4.2 ;Sérfræðistörf við þroskaþjálfun
+2.3.5.1 ;Sérfræðistörf tengd námstækni, kennslu- og uppeldisfræði
+2.3.5.1 ;Áfangastjóri
+2.3.5.1 ;Félagsfræðingur við námsrannsóknir
+2.3.5.1 ;Kennari í fullorðinsfræðslu
+2.3.5.1 ;Kennslufræðingur
+2.3.5.1 ;Kennslufræðingur við námsrannsóknir
+2.3.5.1 ;Kennsluráðgjafi
+2.3.5.1 ;Kennsluráðgjafi kennara
+2.3.5.1 ;Kennsluráðunautur
+2.3.5.1 ;Kennslustjóri
+2.3.5.1 ;Leikskólaráðgjafi
+2.3.5.1 ;Menntaráðgjafi
+2.3.5.1 ;Menntunarfræðingur
+2.3.5.1 ;Námsefnisráðgjafi
+2.3.5.1 ;Námsráðgjafi
+2.3.5.1 ;Námsstjóri
+2.3.5.1 ;Próffræðingur
+2.3.5.1 ;Prófstjóri
+2.3.5.1 ;Ráðgjafi um kennslu fyrir útlendinga
+2.3.5.1 ;Sérfræðingur við námsrannsóknir
+2.3.5.1 ;Sérkennslufulltrúi
+2.3.5.1 ;Sérkennsluráðgjafi
+2.3.5.1 ;Uppeldisfræðingur við kennslu og uppeldisfræði
+2.3.5.1 ;Uppeldisfræðingur við námsrannsóknir
+2.3.5.1 ;Verkefnastjóri við námsrannsóknir
+2.3.5.1 ;Uppeldisfræðingur
+2.3.5.1 ;Verkefnastjóri á sviði námstækni, kennslu- og uppeldisfræði
+2.3.5.1 ;Sérfræðistörf við námstækni, kennslu- og uppeldisfræði
+2.3.5.2 ;Eftirlitskennari
+2.3.5.2 ;Fagmenntaráðgjafi
+2.3.5.2 ;Fagráðgjafi
+2.3.5.2 ;Sérfræðingur í fræðslumálum
+2.3.5.2 ;Verkefnastjóri í menntastofnun
+2.3.5.2 ;Verkefnastörf við skólaeftirlit
+2.3.5.2 ;Sérfræðistörf við skólaeftirlit
+2.3.5.2 ;Sérfræðistörf við skólaeftirlit
+2.3.5.9 ;Önnur sérfræðistörf tengd kennslu ófl.a.
+2.3.5.9 ;Forstöðumaður frístundaheimilis
+2.3.5.9 ;Grunnskólakennari við kennslu í leikskóla
+2.3.5.9 ;Íþróttafulltrúi ríkisins
+2.3.5.9 ;Ráðgjafi í kennslu í ískensku fyrir útlendinga
+2.3.5.9 ;Sérfræðingur við kennslu
+2.3.5.9 ;Rannsóknamaður á sviði kennslu ót.a.s.
+2.3.5.9 ;Verkefnastjóri tengd kennslu ót.a.s.
+2.3.5.9 ;Önnur sérfræðistörf tengd kennslu ót.a.s.
+2.4.1.1 ;Endurskoðandi
+2.4.1.1 ;Innri endurskoðandi
+2.4.1.1 ;Löggiltur endurskoðandi
+2.4.1.1 ;Verkefnastjóri við endurskoðun
+2.4.1.1 ;Sérfræðistörf við endurskoðun
+2.4.1.1 ;Sérfræðistörf við endurskoðun
+2.4.1.2 ;Sérfræðistörf við starfsráðgjöf og starfsmannahald
+2.4.1.2 ;Atvinnuráðgjafi
+2.4.1.2 ;Jafnréttisráðgjafi
+2.4.1.2 ;Sérfræðingur í starfsmannahaldi
+2.4.1.2 ;Starfsmannaráðgjafi
+2.4.1.2 ;Starfsráðgjafi
+2.4.1.2 ;Starfsþróunarstjóri
+2.4.1.2 ;Verkefnastjóri í starfsmannahaldi
+2.4.1.2 ;Rannsóknamaður á sviði starfsráðgjafar og starfsmannahalds
+2.4.1.2 ;Verkefnastjóri við starfsráðgjöf og starfsmannahald
+2.4.1.2 ;Sérfræðistörf við starfsráðgjöf og starfsmannahald
+2.4.1.3 ;Auglýsingaráðgjafi
+2.4.1.3 ;Blaðafulltrúi
+2.4.1.3 ;Fræðslufulltrúi
+2.4.1.3 ;Markaðsfræðingur
+2.4.1.3 ;Markaðsráðgjafi
+2.4.1.3 ;Samskiptafræðingur
+2.4.1.3 ;Sérfræðingur í almannatengslum
+2.4.1.3 ;Upplýsingafulltrúi (með háskólapróf)
+2.4.1.3 ;Viðskiptafræðingur í almannatengslum
+2.4.1.3 ;Viðskiptafræðingur í upplýsingamiðlun
+2.4.1.3 ;Vinnumarkaðsfræðingur
+2.4.1.3 ;Rannsóknamaður á sviði almannatengsla, markaðsmála og upplýsingamiðlunnar
+2.4.1.3 ;Verkefnastjóri við almannatengsl, markaðsmál og upplýsingamiðlun
+2.4.1.3 ;Sérfræðistörf við almannatengsl, markaðsmál og upplýsingamiðlun
+2.4.1.3 ;Sérfræðistörf við almannatengsl, markaðsmál og upplýsingamiðlun
+2.4.1.9 ;Sérfræðistörf í viðskiptagreinum ót.a.s.
+2.4.1.9 ;Alþjóðamarkaðsfræðingur
+2.4.1.9 ;Alþjóðaviðskiptafræðingur
+2.4.1.9 ;Efnahagsráðgjafi ríkisstjórnar
+2.4.1.9 ;Efnahagssérfræðingur
+2.4.1.9 ;Einkaleyfismiðlari
+2.4.1.9 ;Fjármálasérfræðingur
+2.4.1.9 ;Iðntæknifræðingur á markaðssviði
+2.4.1.9 ;Löggiltur verðbréfamiðlari
+2.4.1.9 ;Rekstrarhagfræðingur ótalið a.s.
+2.4.1.9 ;Rekstrarráðgjafi
+2.4.1.9 ;Rekstrartæknifræðingur
+2.4.1.9 ;Sérfræðingur við eignastýringu
+2.4.1.9 ;Stjórnunarráðgjafi
+2.4.1.9 ;Viðskiptafræðingur á fjármálasviði
+2.4.1.9 ;Viðskiptafræðingur ótalið a.s.
+2.4.1.9 ;Viðskiptafræðingur við fjármálaráðgjöf
+2.4.1.9 ;Vörustjórnunarfræðingur
+2.4.1.9 ;Rannsóknamaður á sviði viðskiptagreina ót.a.s.
+2.4.1.9 ;Rekstrarfræðingur
+2.4.1.9 ;Verkefnastjóri í viðskiptagreinum ót.a.s.
+2.4.1.9 ;Sérfræðistörf í viðskiptagreinum ót.a.s.
+2.4.2.1 ;Borgarlögmaður
+2.4.2.1 ;Bæjarlögmaður
+2.4.2.1 ;Héraðsdómslögmaður
+2.4.2.1 ;Hæstaréttarlögmaður
+2.4.2.1 ;Lögfræðingur hjá umboðsmanni alþingis
+2.4.2.1 ;Lögfræðingur hjá umboðsmanni barna
+2.4.2.1 ;Löglærður fulltrúi í opinberri stjórnsýslu
+2.4.2.1 ;Lögmaður
+2.4.2.1 ;Málfærslumaður
+2.4.2.1 ;Ríkislögmaður
+2.4.2.1 ;Saksóknari
+2.4.2.1 ;Sýslufulltrúi
+2.4.2.1 ;Lögfræðingur
+2.4.2.1 ;Rannsóknamaður á sviði lögfræði
+2.4.2.1 ;Verkefnastjóri við lögmannsstörf
+2.4.2.1 ;Lögmannsstörf
+2.4.2.1 ;Lögmannsstörf
+2.4.2.2 ;Dómarastörf
+2.4.2.2 ;Dómarafulltrúi
+2.4.2.2 ;Dómari
+2.4.2.2 ;Dómari í kjaradómi
+2.4.2.2 ;Dómsstjóri
+2.4.2.2 ;Forseti hæstaréttar
+2.4.2.2 ;Gerðardómari
+2.4.2.2 ;Héraðsdómari
+2.4.2.2 ;Hæstaréttardómari
+2.4.2.2 ;Kjaradómari
+2.4.2.2 ;Meðdómari
+2.4.2.2 ;Rannsóknamaður við dómarastörf
+2.4.2.2 ;Verkefnastjóri við dómarastörf
+2.4.2.2 ;Dómarastörf
+2.4.2.9 ;Dánardómstjóri
+2.4.2.9 ;Hæstaréttarritari
+2.4.2.9 ;Lögfræðingur fyrirtækis
+2.4.2.9 ;Lögfræðingur hagsmunasamtaka
+2.4.2.9 ;Lögfræðingur ótalið a.s.
+2.4.2.9 ;Lögfræðingur við fasteignasölu
+2.4.2.9 ;Lögfræðingur við samningagerð og ráðgjöf
+2.4.2.9 ;Löglærður fulltrúi
+2.4.2.9 ;Lögspekingur
+2.4.2.9 ;Lögtaksfulltrúi
+2.4.2.9 ;Regluvörður
+2.4.2.9 ;Viðskiptalögfræðingur
+2.4.2.9 ;Þjóðréttarfræðingur
+2.4.2.9 ;Lögfræðingur í samningagerð og ráðgjöf
+2.4.2.9 ;Lögfræðingur í opinberri stjórnsýslu eða stofnun
+2.4.2.9 ;Verkefnastjóri á sviði lögfræði ót.a.s.
+2.4.2.9 ;Sérfræðistörf í lögfræði ót.a.s.
+2.4.2.9 ;Sérfræðistörf í lögfræði ót.a.s.
+2.4.3.1 ;Sérfræðistörf við skjala- og safnfræði
+2.4.3.1 ;Fornminjavörður
+2.4.3.1 ;Forstöðumaður listasafns
+2.4.3.1 ;Forstöðumaður minjasafns
+2.4.3.1 ;Handritavörður
+2.4.3.1 ;Héraðsskjalavörður
+2.4.3.1 ;Listfræðingur
+2.4.3.1 ;Minjafræðingur
+2.4.3.1 ;Minjavörður (með háskólapróf)
+2.4.3.1 ;Safnfræðingur
+2.4.3.1 ;Safnvörður
+2.4.3.1 ;Safnvörður í listasafni
+2.4.3.1 ;Safnvörður í minjasafni
+2.4.3.1 ;Skjalavörður (með háskólapróf)
+2.4.3.1 ;Þjóðminjafræðingur
+2.4.3.1 ;Þjóðskjalavörður
+2.4.3.1 ;Rannsóknamaður á sviði skjala- og safnfræði
+2.4.3.1 ;Verkefnastjóri á sviði skjala- og safnfræði
+2.4.3.1 ;Sérfræðistörf við skjala- og safnfræði
+2.4.3.2 ;Borgarbókavörður
+2.4.3.2 ;Bókasafns- og upplýsingafræðingur
+2.4.3.2 ;Bókasafnsfræðingur
+2.4.3.2 ;Deildarbókavörður
+2.4.3.2 ;Forstöðumaður bókasafns
+2.4.3.2 ;Háskólabókavörður
+2.4.3.2 ;Upplýsingafræðingur
+2.4.3.2 ;Rannsóknamaður á sviði bókasafns- og upplýsingafræði
+2.4.3.2 ;Verkefnastjóri á sviði bókasafns- og upplýsingafræði
+2.4.3.2 ;Sérfræðistörf við bókasafns- og upplýsingafræði
+2.4.3.2 ;Sérfræðistörf við bókasafns- og upplýsingafræði
+2.4.4.1 ;Sérfræðistörf í hagfræði
+2.4.4.1 ;Borgarhagfræðingur
+2.4.4.1 ;Hagfræðingur
+2.4.4.1 ;Hagverkfræðingur
+2.4.4.1 ;Svæðahagfræðingur
+2.4.4.1 ;Þjóðhagfræðingur
+2.4.4.1 ;Þróunarhagfræðingur
+2.4.4.1 ;Hagmælingafræðingur
+2.4.4.1 ;Rannsóknamaður á sviði hagfræði
+2.4.4.1 ;Verkefnastjóri á sviði hagfræði
+2.4.4.1 ;Sérfræðistörf í hagfræði
+2.4.4.2 ;Afbrotafræðingur
+2.4.4.2 ;Borgarlandfræðingur
+2.4.4.2 ;Ferðamálafræðingur
+2.4.4.2 ;Félagsfræðingur
+2.4.4.2 ;Fjölmiðlafræðingur
+2.4.4.2 ;Fornleifafræðingur
+2.4.4.2 ;Kynjafræðingur
+2.4.4.2 ;Landfræðingur
+2.4.4.2 ;Mannfræðingur
+2.4.4.2 ;Samskiptafræðingur í félags- og mannfræði
+2.4.4.2 ;Uppeldisfræðingur við atferlisrannsóknir
+2.4.4.2 ;Þjóðfélagsfræðingur
+2.4.4.2 ;Þjóðfræðingur
+2.4.4.2 ;Þjóðháttafræðingur
+2.4.4.2 ;Rannsóknamaður á sviði félags- og mannfræði
+2.4.4.2 ;Verkefnastjóri á sviði félags- og mannfræði
+2.4.4.2 ;Sérfræðistörf í félags- og mannfræði
+2.4.4.2 ;Sérfræðistörf í félagsfræði og mannfræði
+2.4.4.3 ;Sérfræðistörf í heimspeki, sagnfræði og stjórnmálafræði
+2.4.4.3 ;Alþjóðastjórnmálafræðingur
+2.4.4.3 ;Heimspekingur
+2.4.4.3 ;Hugmyndafræðingur
+2.4.4.3 ;Rökfræðingur
+2.4.4.3 ;Sagnfræðingur
+2.4.4.3 ;Stjórnmálafræðingur
+2.4.4.3 ;Stjórnsýslufræðingur
+2.4.4.3 ;Söguritari
+2.4.4.3 ;Varnarmálafulltrúi
+2.4.4.3 ;Ættfræðingur
+2.4.4.3 ;Rannsóknamaður á sviði heimspeki, sagnfræði og stjórnmálafræði
+2.4.4.3 ;Verkefnastjóri á sviði heimspeki, sagnfræði og stjórnmálafræði
+2.4.4.3 ;Sérfræðistörf í heimspeki, sagnfræði og stjórnmálafræði
+2.4.4.4 ;Bókmenntafræðingur
+2.4.4.4 ;Bókmenntaþýðandi
+2.4.4.4 ;Dómtúlkur
+2.4.4.4 ;Handritafræðingur
+2.4.4.4 ;Hljóðfræðingur
+2.4.4.4 ;Íðorðafræðingur
+2.4.4.4 ;Íslenskufræðingur
+2.4.4.4 ;Lestrarsérfræðingur
+2.4.4.4 ;Málfarsráðunautur
+2.4.4.4 ;Málfræðingur
+2.4.4.4 ;Málvísindamaður
+2.4.4.4 ;Orðabókarhöfundur
+2.4.4.4 ;Orðabókarritstjóri
+2.4.4.4 ;Orðabókarsmiður
+2.4.4.4 ;Ráðstefnutúlkur
+2.4.4.4 ;Skjalaþýðandi
+2.4.4.4 ;Táknmálsfræðingur
+2.4.4.4 ;Táknmálstúlkur (með háskólapróf)
+2.4.4.4 ;Textafræðingur
+2.4.4.4 ;Textaráðgjafi
+2.4.4.4 ;Textaþýðandi
+2.4.4.4 ;Tungumálafræðingur
+2.4.4.4 ;Túlkur
+2.4.4.4 ;Þýðandi
+2.4.4.4 ;Rannsóknamaður á sviði málvísinda og þýðinga
+2.4.4.4 ;Verkefnastjóri tengd málvísindum og þýðingum
+2.4.4.4 ;Sérfræðistörf tengd málvísindum og þýðingum
+2.4.4.4 ;Sérfræðistörf tengd málvísindum og þýðingum
+2.4.4.5 ;Sérfræðistörf í sálfræði
+2.4.4.5 ;Sálfræðingur
+2.4.4.5 ;Sálgreinir
+2.4.4.5 ;Skólasálfræðingur
+2.4.4.5 ;Vinnusálfræðingur
+2.4.4.5 ;Rannsóknamaður á sviði sálfræði
+2.4.4.5 ;Verkefnastjóri í sálfræði
+2.4.4.5 ;Sérfræðistörf í sálfræði
+2.4.4.6 ;Félagsráðgjafi
+2.4.4.6 ;Rannsóknamaður á sviði félagsráðgjafar
+2.4.4.6 ;Verkefnastjóri á sviði félagsráðgjafar
+2.4.4.6 ;Sérfræðistörf í félagsráðgjöf
+2.4.4.6 ;Sérfræðistörf í félagsráðgjöf
+2.4.5.1 ;Störf rithöfunda, blaðamanna og annarra höfunda ritaðs máls
+2.4.5.1 ;Blaðamaður
+2.4.5.1 ;Bókmenntagagnrýnandi
+2.4.5.1 ;Bókmenntaráðunautur
+2.4.5.1 ;Dagskrárframleiðandi
+2.4.5.1 ;Dagskrárgerðarmaður
+2.4.5.1 ;Fréttamaður
+2.4.5.1 ;Fréttaritari
+2.4.5.1 ;Fréttastjóri
+2.4.5.1 ;Gagnrýnandi
+2.4.5.1 ;Íþróttafréttamaður
+2.4.5.1 ;Leikskáld
+2.4.5.1 ;Listgagnrýnandi
+2.4.5.1 ;Ljóðskáld
+2.4.5.1 ;Myndasöguhöfundur
+2.4.5.1 ;Prófarkalesari
+2.4.5.1 ;Rithöfundur (bókmenntarit)
+2.4.5.1 ;Rithöfundur (fræðirit)
+2.4.5.1 ;Ritstjóri
+2.4.5.1 ;Skáld
+2.4.5.1 ;Skáldkona
+2.4.5.1 ;Textagerðarmaður
+2.4.5.1 ;Textahöfundur
+2.4.5.1 ;Útvarpsmaður
+2.4.5.1 ;Veðurfréttamaður (með háskólapróf)
+2.4.5.1 ;Þáttastjórnandi
+2.4.5.1 ;Verkefnastjóri rithöfunda, blaðamanna og annarra höfunda ritaðs máls
+2.4.5.1 ;Störf rithöfunda, blaðamanna og annarra höfunda ritaðs máls
+2.4.5.2 ;Auglýsingateiknari (með a.m.k. 3 ára háskólanám)
+2.4.5.2 ;Búningahönnuður (með a.m.k. 3 ára háskólanám)
+2.4.5.2 ;Fjöllistamaður
+2.4.5.2 ;Formlistamaður (í leikhúsi)
+2.4.5.2 ;Forvörður
+2.4.5.2 ;Glerlistakona
+2.4.5.2 ;Glerlistamaður
+2.4.5.2 ;Grafíklistamaður
+2.4.5.2 ;Grafískur hönnuður (með a.m.k. 3 ára háskólanám)
+2.4.5.2 ;Leikmyndahöfundur
+2.4.5.2 ;Leirlistakona
+2.4.5.2 ;Leirlistamaður
+2.4.5.2 ;Listamaður
+2.4.5.2 ;Listmálari
+2.4.5.2 ;Málverkaviðgerðarmaður
+2.4.5.2 ;Módelsmiður (höggmyndir)
+2.4.5.2 ;Myndhöggvari
+2.4.5.2 ;Myndlistakona
+2.4.5.2 ;Myndlistamaður
+2.4.5.2 ;Skopmyndateiknari
+2.4.5.2 ;Teiknari
+2.4.5.2 ;Textílhönnuður
+2.4.5.2 ;Textíllistakona
+2.4.5.2 ;Textíllistamaður
+2.4.5.2 ;Veflistakona
+2.4.5.2 ;Veflistamaður
+2.4.5.2 ;Verkefnastjóri myndhöggvara, listmálara og annarra slíkra listamanna
+2.4.5.2 ;Störf myndhöggvara, listmálara og annarra slíkra listamanna
+2.4.5.2 ;Störf myndhöggvara, listmálara og annarra slíkra listamanna
+2.4.5.3 ;Störf tónskálda, tónlistarmanna og söngvara
+2.4.5.3 ;Einleikari
+2.4.5.3 ;Einsöngvari
+2.4.5.3 ;Fiðluleikari
+2.4.5.3 ;Flautuleikari
+2.4.5.3 ;Hljóðfæraleikari
+2.4.5.3 ;Hljómsveitarstjóri
+2.4.5.3 ;Klarinettuleikari
+2.4.5.3 ;Konsertmeistari
+2.4.5.3 ;Kontrabassaleikari
+2.4.5.3 ;Kórstjóri
+2.4.5.3 ;Organisti
+2.4.5.3 ;Organleikari
+2.4.5.3 ;Orgelleikari
+2.4.5.3 ;Óbóleikari
+2.4.5.3 ;Óperustjóri
+2.4.5.3 ;Óperusöngkona
+2.4.5.3 ;Óperusöngvari
+2.4.5.3 ;Píanóleikari
+2.4.5.3 ;Sellóleikari
+2.4.5.3 ;Semballeikari
+2.4.5.3 ;Slagverksleikari
+2.4.5.3 ;Söngkona
+2.4.5.3 ;Söngmálastjóri þjóðkirkjunnar
+2.4.5.3 ;Söngstjóri
+2.4.5.3 ;Söngþjálfi
+2.4.5.3 ;Tónfræðingur
+2.4.5.3 ;Tónlistarfræðingur
+2.4.5.3 ;Tónlistarfulltrúi
+2.4.5.3 ;Tónlistarmaður
+2.4.5.3 ;Tónlistarráðgjafi
+2.4.5.3 ;Tónlistarráðunautur
+2.4.5.3 ;Tónlistarstjóri
+2.4.5.3 ;Tónmeistari
+2.4.5.3 ;Tónskáld
+2.4.5.3 ;Trompetleikari
+2.4.5.3 ;Túbuleikari
+2.4.5.3 ;Þverflautuleikari
+2.4.5.3 ;Söngvari
+2.4.5.3 ;Verkefnastjóri tónskálda, tónlistarmanna og söngvara
+2.4.5.3 ;Störf tónskálda, tónlistarmanna og söngvara
+2.4.5.4 ;Atvinnudansari
+2.4.5.4 ;Ballettdansari
+2.4.5.4 ;Danshöfundur
+2.4.5.4 ;Listdansari
+2.4.5.4 ;Listdanshöfundur
+2.4.5.4 ;Verkefnastjóri danshöfunda og listdansara
+2.4.5.4 ;Störf danshöfunda og listdansara
+2.4.5.4 ;Störf danshöfunda og listdansara
+2.4.5.5 ;Störf leikara og leikstjóra
+2.4.5.5 ;Auglýsingaleikstjóri
+2.4.5.5 ;Brúðuleikari
+2.4.5.5 ;Brúðuleikhússtjóri
+2.4.5.5 ;Hvíslari í leikhúsi
+2.4.5.5 ;Kvikmyndagerðarmaður
+2.4.5.5 ;Kvikmyndaleikari
+2.4.5.5 ;Kvikmyndaleikstjóri
+2.4.5.5 ;Leikari
+2.4.5.5 ;Leikhúsfræðingur
+2.4.5.5 ;Leikkona
+2.4.5.5 ;Leiklistarfræðingur
+2.4.5.5 ;Leikstjóri
+2.4.5.5 ;Leiksviðsstjóri
+2.4.5.5 ;Leikþulur
+2.4.5.5 ;Skemmtikraftur
+2.4.5.5 ;Sviðslistamaður
+2.4.5.5 ;Sviðsstjóri (í sjónvarpi)
+2.4.5.5 ;Uppistandari
+2.4.5.5 ;Upplesari
+2.4.5.5 ;Sýningarstjóri (í leikhúsi)
+2.4.5.5 ;Kvikmyndafræðingur
+2.4.5.5 ;Verkefnastjóri leikara og leikstjóra
+2.4.5.5 ;Störf leikara og leikstjóra
+2.4.6.0 ;Abbadís
+2.4.6.0 ;Allsherjargoði
+2.4.6.0 ;Ábóti
+2.4.6.0 ;Biskup íslands
+2.4.6.0 ;Biskupsritari
+2.4.6.0 ;Djákni
+2.4.6.0 ;Dómprófastur
+2.4.6.0 ;Fangaprestur
+2.4.6.0 ;Farprestur
+2.4.6.0 ;Forstöðumaður safnaðar
+2.4.6.0 ;Guðfræðingur
+2.4.6.0 ;Indverskur bænaprestur
+2.4.6.0 ;Íslamskur bænaprestur
+2.4.6.0 ;Munkur
+2.4.6.0 ;Nunna
+2.4.6.0 ;Prestur
+2.4.6.0 ;Prófastur
+2.4.6.0 ;Rabbíni
+2.4.6.0 ;Safnaðarprestur
+2.4.6.0 ;Sjúkrahúsprestur
+2.4.6.0 ;Sóknarprestur
+2.4.6.0 ;Vígslubiskup
+2.4.6.0 ;Zenprestur
+2.4.6.0 ;Verkefnastjórn tengd trúarbragða og trúfræði
+2.4.6.0 ;Sérfræðistörf tengd trúarbragða og trúfræði
+2.4.6.0 ;Sérfræðistörf tengd trúarbragðafræði og trúfræði
+3.1.1.1 ;Tækni- og rannsóknarstörf í eðlisfræði, efnafræði, stjörnufræði, veðurfræði, jarðfræði o. fl.
+3.1.1.1 ;Aðstoðarmaður á rannsóknarstofu á sviði eðlisfræði
+3.1.1.1 ;Aðstoðarmaður á rannsóknarstofu á sviði stjörnufræði
+3.1.1.1 ;Aðstoðarmaður eðlisfræðings
+3.1.1.1 ;Aðstoðarmaður efnafræðings
+3.1.1.1 ;Aðstoðarmaður stjörnufræðings
+3.1.1.1 ;Aðstoðarmaður veðurfræðings
+3.1.1.1 ;Efnatæknir
+3.1.1.1 ;Lífsýnafulltrúi á sviði efnafræði
+3.1.1.1 ;Vatnamælingamaður
+3.1.1.1 ;Veðurathugunarmaður
+3.1.1.1 ;Tækni- og rannsóknarstörf í eðlisfræði, efnafræði, stjörnufræði, veðurfræði, jarðfræði o. fl.
+3.1.1.2 ;Byggingarfræðingur
+3.1.1.2 ;Byggingariðnfræðingur
+3.1.1.2 ;Byggingartæknir
+3.1.1.2 ;Kortagerðarmaður (án háskólaprófs)
+3.1.1.2 ;Landmælingamaður
+3.1.1.2 ;Landmælingamaður við mælingar og skoðanir
+3.1.1.2 ;Mælingamaður í byggingariðnaði
+3.1.1.2 ;Mælingamaður við landmælingar
+3.1.1.2 ;Uppmælingamaður í byggingariðnaði
+3.1.1.2 ;Tækni- og rannsóknarstörf í byggingarverkfræði, byggingariðnaði, mannvirkjagerð, landmælingum o.þ.h.
+3.1.1.2 ;Tækni- og rannsóknarstörf í byggingarverkfræði, byggingariðnaði, mannvirkjagerð, landmælingum o.þ.h.
+3.1.1.3 ;Tækni- og rannsóknarstörf í rafmagnsverkfræði, rafvirkjun o.þ.h.
+3.1.1.3 ;Hönnuður rafkerfa
+3.1.1.3 ;Rafbylgjumælingamaður
+3.1.1.3 ;Raffræðingur
+3.1.1.3 ;Rafiðnfræðingur
+3.1.1.3 ;Raflagnahönnuður
+3.1.1.3 ;Rafmagnsiðnfræðingur
+3.1.1.3 ;Rafmagnstæknir
+3.1.1.3 ;Raftæknifræðingur
+3.1.1.3 ;Raftæknir
+3.1.1.3 ;Tækni- og rannsóknarstörf í rafmagnsverkfræði, rafvirkjun o.þ.h.
+3.1.1.4 ;Fjarskiptafræðingur
+3.1.1.4 ;Fjarskiptatæknir í rafeinda- og fjarskiptatækni
+3.1.1.4 ;Rafeindatæknir
+3.1.1.4 ;Símtæknir
+3.1.1.4 ;Fjarskiptatæknir
+3.1.1.4 ;Tækni- og rannsóknarstörf í rafeinda- og fjarskiptatækni
+3.1.1.4 ;Tækni- og rannsóknarstörf í rafeinda- og fjarskiptatækni
+3.1.1.5 ;Tækni- og rannsóknarstörf í véltækni
+3.1.1.5 ;Flugvélatæknir
+3.1.1.5 ;Ráðunautur um vélar og vélbúnað
+3.1.1.5 ;Vélaiðnfræðingur
+3.1.1.5 ;Vélfræðingur
+3.1.1.5 ;Vélfræðingur í iðnaði
+3.1.1.5 ;Vélstjóri í frystihúsi
+3.1.1.5 ;Vélstjóri í iðnaði
+3.1.1.5 ;Vélstjóri í orkuveri
+3.1.1.5 ;Vélstjóri við orkuvinnslu
+3.1.1.5 ;Véltæknir
+3.1.1.5 ;Ráðunautur um vélar og verkfæri
+3.1.1.5 ;Tækni- og rannsóknarstörf í véltækni
+3.1.1.6 ;Aðstoðarmaður efnaverkfræðings
+3.1.1.6 ;Efnaverktæknir
+3.1.1.6 ;Iðnfræðingur í efnaverksmiðju
+3.1.1.6 ;Tækni og rannsóknarstörf í efnaverkfræði
+3.1.1.6 ;Tækni og rannsóknarstörf í efnaverkfræði
+3.1.1.7 ;Tækni- og rannsóknarstörf við vinnslu hráefna úr jörðu
+3.1.1.7 ;Iðnfræðingur við jarðvinnslu
+3.1.1.7 ;Iðnfræðingur við málmblöndun
+3.1.1.7 ;Málmtæknir
+3.1.1.7 ;Málmvinnslutæknir
+3.1.1.7 ;Námatæknir
+3.1.1.7 ;Verkefnastjóri á sviði tækni- og rannsóknarstarfa tengd vinnslu hráefna úr jörðu
+3.1.1.7 ;Tækni- og rannsóknarstörf við vinnslu hráefna úr jörðu
+3.1.1.8 ;Kortateiknari
+3.1.1.8 ;Staðfræðingur
+3.1.1.8 ;Tækniteiknari
+3.1.1.8 ;Verkefnastjóri við tækniteiknun
+3.1.1.8 ;Störf við tækniteiknun
+3.1.1.8 ;Störf við tækniteiknun
+3.1.1.9 ;Tækni- og rannsóknarstörf í eðlisfræði, efnafræði og verkfræði ófl.a.
+3.1.1.9 ;Aðstoðarmaður málmfræðings
+3.1.1.9 ;Aðstoðarmaður námaverkfræðings
+3.1.1.9 ;Aðstoðarmaður sérfræðings á rannsóknarstofu
+3.1.1.9 ;Aðstoðarmaður sérfræðings á rannsóknarstofu ótalin a.s.
+3.1.1.9 ;Aðstoðarmaður sérfræðings innan eðlis-, efna- og verkfræði ótalið a.s.
+3.1.1.9 ;Framleiðslutæknir
+3.1.1.9 ;Hagræðingartæknir
+3.1.1.9 ;Iðnrekstrarfræðingur
+3.1.1.9 ;Málmfræðingur (án háskólaprófs)
+3.1.1.9 ;Mjólkuriðnfræðingur
+3.1.1.9 ;Mjólkurtæknir
+3.1.1.9 ;Mælingamaður í skipaiðnaði
+3.1.1.9 ;Rekstrarfræðingur á sviði iðnaðar
+3.1.1.9 ;Rekstrariðnfræðingur
+3.1.1.9 ;Starfsmaður við vöruþróun
+3.1.1.9 ;Útgerðartæknir
+3.1.1.9 ;Útvegstæknir
+3.1.1.9 ;Öryggisráðgjafi
+3.1.1.9 ;Tækni- og rannsóknarstörf í eðlisfræði, efnafræði og verkfræði ót.a.s.
+3.1.2.0 ;Kerfisfræðingur (án háskólaprófs)
+3.1.2.0 ;Kerfisfræðingur í notendaþjónustu
+3.1.2.0 ;Kerfisstjóri
+3.1.2.0 ;Netsérfræðingur
+3.1.2.0 ;Netstjóri
+3.1.2.0 ;Tæknilegur ráðgjafi við tölvukerfi
+3.1.2.0 ;Tæknimaður við tölvur
+3.1.2.0 ;Tölvari
+3.1.2.0 ;Tölvutæknir
+3.1.2.0 ;Tölvuumsjónarmaður
+3.1.2.0 ;Yfirkerfisfræðingur
+3.1.2.0 ;Kerfisfræðingur
+3.1.2.0 ;Verkefnastjóri á tölvusviði
+3.1.2.0 ;Tæknistörf á tölvusviði
+3.1.2.0 ;Tæknistörf á tölvusviði
+3.1.3.1 ;Tæknistörf við ljósmyndun, mynd- og hljóðupptöku, ljósastýringu o.þ.h.
+3.1.3.1 ;Blaðaljósmyndari
+3.1.3.1 ;Dagskrárklippari
+3.1.3.1 ;Dagskrárritstjóri
+3.1.3.1 ;Filmuklippari
+3.1.3.1 ;Fréttaljósmyndari
+3.1.3.1 ;Hljóðmaður
+3.1.3.1 ;Hljóðmeistari
+3.1.3.1 ;Hljóðtæknimaður
+3.1.3.1 ;Hljóðtæknir
+3.1.3.1 ;Hljóðupptökumaður
+3.1.3.1 ;Kvikmyndatökumaður
+3.1.3.1 ;Ljósamyndafræðingur
+3.1.3.1 ;Ljósmyndameistari
+3.1.3.1 ;Ljósmyndari
+3.1.3.1 ;Magnaravörður
+3.1.3.1 ;Myndatökumaður
+3.1.3.1 ;Myndbandsstjóri
+3.1.3.1 ;Myndbandsupptökumaður
+3.1.3.1 ;Myndmeistari
+3.1.3.1 ;Myndupptökutæknir
+3.1.3.1 ;Rótari
+3.1.3.1 ;Tæknimaður í stúdíói
+3.1.3.1 ;Upptökustjóri
+3.1.3.1 ;Verkefnastjóri við ljósmyndum, mynd- og hljóðupptöku, ljósastýringu o.þ.h
+3.1.3.1 ;Nemi við ljósmyndum, mynd- og hljóðupptöku, ljósastýringu o.þ.h
+3.1.3.1 ;Tæknistörf við ljósmyndun, mynd- og hljóðupptöku, ljósastýringu o.þ.h.
+3.1.3.2 ;Dagskrártæknimaður
+3.1.3.2 ;Dagskrártæknimeistari
+3.1.3.2 ;Fjarskiptatæknir við hljóð- og myndsendingar
+3.1.3.2 ;Flugfjarskiptamaður
+3.1.3.2 ;Flugradíómaður
+3.1.3.2 ;Kvikmyndasýningarmaður
+3.1.3.2 ;Loftsiglingafræðingur
+3.1.3.2 ;Loftskeytamaður
+3.1.3.2 ;Myndasmiður
+3.1.3.2 ;Myndflutningatæknimaður
+3.1.3.2 ;Skoðunarmaður við útvarpseftirlit
+3.1.3.2 ;Sýningarstjóri í kvikmyndahúsi
+3.1.3.2 ;Tæknimaður í fjarskiptum
+3.1.3.2 ;Tæknimaður við myndflutninga
+3.1.3.2 ;Tæknimaður við sjónvarp
+3.1.3.2 ;Tæknimaður við útsendingu
+3.1.3.2 ;Tæknimaður við útvarp
+3.1.3.2 ;Tæknistjóri
+3.1.3.2 ;Útsendingarstjóri
+3.1.3.2 ;Útsendingartæknimaður
+3.1.3.2 ;Verkefnastjóri við fjarskipta-, hljóð- og myndsendingar
+3.1.3.2 ;Nemi við fjarskipta-, hljóð- og myndsendingar
+3.1.3.2 ;Tæknistörf við fjarskipta-, hljóð- og myndsendingar
+3.1.3.2 ;Tæknistörf við fjarskipta-, hljóð- og myndsendingar
+3.1.3.3 ;Tæknistörf við sjúkdómsgreininga- og lækningatæki
+3.1.3.3 ;Heyrnarmælingamaður
+3.1.3.3 ;Hjartalínuritari
+3.1.3.3 ;Hjartatækjatæknir (perfusionist)
+3.1.3.3 ;Lækningatækjatæknir
+3.1.3.3 ;Sjónsviðsmælingamaður
+3.1.3.3 ;Sjóntækjatæknir
+3.1.3.3 ;Sneiðmyndatæknir
+3.1.3.3 ;Tækniljósmyndari
+3.1.3.3 ;Tæknimaður við lækningatæki
+3.1.3.3 ;Verkefnastjóri við sjúkdómsgreininga- og lækningatæki
+3.1.3.3 ;Nemi við sjúkdómsgreininga- og lækningatæki
+3.1.3.3 ;Tæknistörf við sjúkdómsgreininga- og lækningatæki
+3.1.3.9 ;Fjölmiðlatæknir
+3.1.3.9 ;Ljósamaður
+3.1.3.9 ;Ljósameistari
+3.1.3.9 ;Ljósameistari í leikhúsi
+3.1.3.9 ;Sviðsstjóri í leikhúsi
+3.1.3.9 ;Sýningarstjóri í leikhúsi
+3.1.3.9 ;Tæknistjóri í leikhúsi
+3.1.3.9 ;Verkefnastjóri við ljós-, hljóð- og myndtækni ót.a.s.
+3.1.3.9 ;Nemi við ljós-, hljóð- og myndtækni ót.a.s.
+3.1.3.9 ;Tæknistörf við ljós-, hljóð- og myndtækni ót.a.s.
+3.1.3.9 ;Tæknistörf við ljós-, hljóð- og myndtækni ófl.a.
+3.1.4.1 ;Tæknistörf um borð í skipum með vélvirk, rafvirk og rafeindavirk tæki
+3.1.4.1 ;Fyrsti vélstjóri
+3.1.4.1 ;Skipavélfræðingur
+3.1.4.1 ;Vélstjóri á skipi
+3.1.4.1 ;Vélstjóri með 4. stigs vélstjórnarpróf
+3.1.4.1 ;Yfirvélstjóri
+3.1.4.1 ;Verkefnastjóri um borð í skipum með vélvirk, rafvirk og rafeindavirk tæki
+3.1.4.1 ;Nemi um borð í skipum með vélvirk, rafvirk og rafeindavirk tæki
+3.1.4.1 ;Tæknistörf um borð í skipum með vélvirk, rafvirk og rafeindavirk tæki
+3.1.4.2 ;Hafnsögumaður
+3.1.4.2 ;Lóðs
+3.1.4.2 ;Siglingafræðingur á sjó
+3.1.4.2 ;Skipherra
+3.1.4.2 ;Skipherra á varðskipi
+3.1.4.2 ;Skipherra í landhelgisgæslunni
+3.1.4.2 ;Skipstjóri á dráttarbáti
+3.1.4.2 ;Skipstjóri á farskipi
+3.1.4.2 ;Skipstjóri á farþegaskipi
+3.1.4.2 ;Skipstjóri á ferju
+3.1.4.2 ;Skipstjóri á hafnsögubáti
+3.1.4.2 ;Skipstjóri á sanddæluskipi
+3.1.4.2 ;Skipstjóri á vöruflutningaskipi
+3.1.4.2 ;Stýrimaður á farskipi
+3.1.4.2 ;Stýrimaður á farþegaskipi
+3.1.4.2 ;Stýrimaður á varðskipi
+3.1.4.2 ;Stýrimaður á vöruflutningaskipi
+3.1.4.2 ;Verkefnastjóri við stjórn hafnsögubáta, farþegaskipa, varðskipa og vöruflutningaskipa
+3.1.4.2 ;Nemi við stjórn hafnsögubáta, farþegaskipa, varðskipa og vöruflutningaskipa
+3.1.4.2 ;Störf stjórnenda hafnsögubáta, farþegaskipa, varðskipa og vöruflutningaskipa
+3.1.4.2 ;Störf stjórnenda hafnsögubáta, farþegaskipa, varðskipa og vöruflutningaskipa
+3.1.4.3 ;Störf stjórnenda flugvéla og annarra loftfara
+3.1.4.3 ;Flugleiðsögumaður
+3.1.4.3 ;Flugmaður
+3.1.4.3 ;Flugstjóri
+3.1.4.3 ;Flugvélstjóri
+3.1.4.3 ;Siglingafræðingur í loftfari
+3.1.4.3 ;Þyrluflugmaður
+3.1.4.3 ;Verkefnastjóri við stjórn flugvéla og annarra loftfara
+3.1.4.3 ;Nemi við stjórn flugvéla og annarra loftfara
+3.1.4.3 ;Störf stjórnenda flugvéla og annarra loftfara
+3.1.4.4 ;Flugumferðarstjóri
+3.1.4.4 ;Flugumsjónarmaður
+3.1.4.4 ;Verkefnastjóri við flugumsjón
+3.1.4.4 ;Flugumferðarnemi
+3.1.4.4 ;Sérfræðistörf við flugumsjón
+3.1.4.4 ;Sérfræðistörf við flugumsjón
+3.1.4.5 ;Tækni- og rannsóknarstörf tengd flugöryggi
+3.1.4.5 ;Eftirlitsmaður með flugöryggistækjum
+3.1.4.5 ;Flugöryggistækjaeftirlitsmaður
+3.1.4.5 ;Radíóeftirlitsmaður
+3.1.4.5 ;Verkefnastjóri við tækni- og rannsóknarstörf tengd flugöryggi
+3.1.4.5 ;Tækni- og rannsóknarstörf tengd flugöryggi
+3.1.5.1 ;Brunaeftirlitsmaður
+3.1.5.1 ;Byggingareftirlitsmaður
+3.1.5.1 ;Eldvarnareftirlitsmaður
+3.1.5.1 ;Eldvarnarfulltrúi
+3.1.5.1 ;Verkefnstjóri við tækni- og rannsóknarstörf tengd byggingar- og brunaeftirlit
+3.1.5.1 ;Tækni- og rannsóknarstörf við byggingar- og brunaeftirlit
+3.1.5.1 ;Tækni- og rannsóknarstörf við byggingar- og brunaeftirlit
+3.1.5.2 ;Tækni- og rannsóknarstörf við öryggis-, hollustu- og gæðaeftirlit
+3.1.5.2 ;Bifreiðaeftirlitsmaður
+3.1.5.2 ;Eftirlitsmaður
+3.1.5.2 ;Eftirlitsmaður með gæðamálum
+3.1.5.2 ;Eftirlitsmaður með stöðlum
+3.1.5.2 ;Fasteignamatsmaður
+3.1.5.2 ;Ferskfiskeftirlitsmaður
+3.1.5.2 ;Ferskfiskmatsmaður
+3.1.5.2 ;Fiskmatsmaður við gæðaeftirlit
+3.1.5.2 ;Gæðaeftirlitsmaður
+3.1.5.2 ;Gæðaeftirlitsmaður við fiskverkun
+3.1.5.2 ;Gæðaeftirlitsmaður við framleiðslulínu
+3.1.5.2 ;Gæðamatsmaður
+3.1.5.2 ;Gæðastjóri í fiskvinnslu
+3.1.5.2 ;Kjötmatsmaður
+3.1.5.2 ;Ljósaskoðunarmaður
+3.1.5.2 ;Matsmaður
+3.1.5.2 ;Matvælaeftirlitsmaður
+3.1.5.2 ;Mjólkureftirlitsmaður
+3.1.5.2 ;Rafmagnseftirlitsmaður
+3.1.5.2 ;Síldarmatsmaður
+3.1.5.2 ;Skinnamatsmaður
+3.1.5.2 ;Skoðunarmaður bifreiða
+3.1.5.2 ;Tjónaeftirlitsmaður
+3.1.5.2 ;Ullarmatsmaður
+3.1.5.2 ;Vegaeftirlitsmaður
+3.1.5.2 ;Vinnueftirlitsmaður
+3.1.5.2 ;Yfireftirlitsmaður
+3.1.5.2 ;Yfirfiskmatsmaður
+3.1.5.2 ;Öryggiseftirlitsmaður
+3.1.5.2 ;Gæðastjóri (ekki við stjórnun)
+3.1.5.2 ;Skipaeftirlitsmaður
+3.1.5.2 ;Umhverfiseftirlitsmaður
+3.1.5.2 ;Vélaeftirlitsmaður
+3.1.5.2 ;Eftirlitsmaður í mengunareftirliti
+3.1.5.2 ;Verkefnstjóri við tækni- og rannsóknarstörf tengd öryggis-, hollustu- og gæðaeftirlit
+3.1.5.2 ;Tækni- og rannsóknarstörf við öryggis-, hollustu- og gæðaeftirlit
+3.2.1.1 ;Aðstoðarmaður á rannsóknarstofu í líffræði
+3.2.1.1 ;Aðstoðarmaður lífefnafræðings
+3.2.1.1 ;Aðstoðarmaður meinafræðings
+3.2.1.1 ;Aðstoðarmaður meinatæknis
+3.2.1.1 ;Fiskeldisfræðingur með diplómapróf
+3.2.1.1 ;Frumugreinir
+3.2.1.1 ;Gerlatæknir
+3.2.1.1 ;Hamskeri
+3.2.1.1 ;Lífsýnafulltrúi á sviði líffræði
+3.2.1.1 ;Líftæknir
+3.2.1.1 ;Rannsóknarmaður í líffræði
+3.2.1.1 ;Tæknir á rannsóknarstofu í fiskiðnaði
+3.2.1.1 ;Tæknir á rannsóknarstofu í matvælaframleiðslu
+3.2.1.1 ;Uppstoppari
+3.2.1.1 ;Tækni- og rannsóknarstörf í líffræði, læknisfræði o.þ.h.
+3.2.1.1 ;Tækni- og rannsóknarstörf í líffræði, læknisfræði o.þ.h.
+3.2.1.2 ;Tækni- og rannsóknarstörf á sviði jarðfræði og bú- og skógræktar
+3.2.1.2 ;Aðstoðarmaður jarðeðlisfræðings
+3.2.1.2 ;Aðstoðarmaður jarðfræðings
+3.2.1.2 ;Búfræðingur
+3.2.1.2 ;Bústjórnartæknir
+3.2.1.2 ;Bútæknir
+3.2.1.2 ;Jarðræktartæknir
+3.2.1.2 ;Jarðvegstæknir
+3.2.1.2 ;Skógræktartæknir
+3.2.1.2 ;Tækni- og rannsóknarstörf við bú- og skógrækt
+3.2.2.2 ;Hreinlætiseftirlitsmaður
+3.2.2.2 ;Hreinlætistæknir
+3.2.2.2 ;Hundaeftirlitsmaður
+3.2.2.2 ;Meindýraeyðir
+3.2.2.2 ;Sýkingarvarnarstjóri
+3.2.2.2 ;Umhverfisfulltrúi
+3.2.2.2 ;Verkefnastjóri við tækni- og ráðgjafarstörf tengd hreinlæti, heilbrigði og umhverfismálum
+3.2.2.2 ;Tækni- og ráðgjafarstörf tengd hreinlæti, heilbrigði og umhverfismálum
+3.2.2.2 ;Tækni- og ráðgjafarstörf tengd hreinlæti, heilbrigði og umhverfismálum
+3.2.2.3 ;Tækni- og ráðgjafarstörf tengd mataræði og næringu
+3.2.2.3 ;Kokkur í tilraunaeldhúsi
+3.2.2.3 ;Matarfræðingur
+3.2.2.3 ;Næringarráðgjafi
+3.2.2.3 ;Næringartæknir
+3.2.2.3 ;Verkefnastjóri við tækni- og ráðgjafarstörf tengd mataræði og næringu
+3.2.2.3 ;Tækni- og ráðgjafarstörf tengd mataræði og næringu
+3.2.2.4 ;Gleraugnafræðingur
+3.2.2.4 ;Ljósafræðingur
+3.2.2.4 ;Ljósahönnuður
+3.2.2.4 ;Lýsingahönnuður
+3.2.2.4 ;Optiker
+3.2.2.4 ;Sjónfræðingur
+3.2.2.4 ;Sjóntækjafræðingur
+3.2.2.4 ;Sjóntæknir
+3.2.2.4 ;Verkefnastjóri á sviði ljósa- og sjóntækjafræði
+3.2.2.4 ;Ljósa- og sjóntækjafræðingar
+3.2.2.4 ;Ljósa- og sjóntækjafræðingar
+3.2.2.5 ;Tækni- og ráðgjafarstörf við tannhirðu og tannlækningar
+3.2.2.5 ;Tannfræðingur
+3.2.2.5 ;Tanntæknir
+3.2.2.5 ;Verkefnastjóri á sviði tækni- og ráðgjafarstarfa við tannhirðu og tannlækningar
+3.2.2.5 ;Tækni- og ráðgjafarstörf við tannhirðu og tannlækningar
+3.2.2.6 ;Fótaaðgerðafræðingur
+3.2.2.6 ;Hnykkir
+3.2.2.6 ;Kírópraktor
+3.2.2.6 ;Leiðbeinandi í sjúkraleikfimi
+3.2.2.6 ;Nuddfræðingur
+3.2.2.6 ;Sjúkraleikfimikennari
+3.2.2.6 ;Sjúkranuddari
+3.2.2.6 ;Verkefnastjóri á sviði fótaaðgerða, sjúkranuddi, hnykklækningum o.þ.h.
+3.2.2.6 ;Nemi í fótaaðgerðum, sjúkranuddi, hnykklækningum o.þ.h.
+3.2.2.6 ;Störf tengd fótaaðgerðum, sjúkranuddi, hnykklækningum o.þ.h.
+3.2.2.6 ;Störf tengd fótaaðgerðum, sjúkranuddi, hnykklækningum o.þ.h.
+3.2.2.7 ;Tækni- og ráðgjafarstörf við dýralækningar
+3.2.2.7 ;Dýraráðgjafi
+3.2.2.7 ;Frjótæknir
+3.2.2.7 ;Starfsmaður við umönnun og aðhlynningu dýra
+3.2.2.7 ;Sæðingarmaður
+3.2.2.7 ;Tækni- og ráðgjafarstörf við dýralækningar
+3.2.2.8 ;Lyfjatæknir
+3.2.2.8 ;Verkefnastjóri á sviði lyfjatækni
+3.2.2.8 ;Lyfjatæknanemi
+3.2.2.8 ;Störf lyfjatækna
+3.2.2.8 ;Störf lyfjatækna
+3.2.2.9 ;Störf tengd meðferð ýmissa líkamskvilla eða fötlunar
+3.2.2.9 ;Augnþjálfi
+3.2.2.9 ;Blindraþjálfi
+3.2.2.9 ;Heilsuráðgjafi
+3.2.2.9 ;Heyrnartæknir
+3.2.2.9 ;Hómópati
+3.2.2.9 ;Smáskammtalæknir
+3.2.2.9 ;Talþjálfi
+3.2.2.9 ;Heilbrigðistæknir
+3.2.2.9 ;Heyrnar- og talmeinafræðingur
+3.2.2.9 ;Verkefnastjóri í meðferð  ýmissa líkamskvilla eða fötlunar
+3.2.2.9 ;Störf tengd meðferð  ýmissa líkamskvilla eða fötlunar
+3.2.3.1 ;Aðstoðarmaður við svæfingar
+3.2.3.1 ;Sjúkraliði við almenna hjúkrun
+3.2.3.1 ;Sjúkraliði við heimahjúkrun
+3.2.3.1 ;Sjúkraliði
+3.2.3.1 ;Sjúkraliðanemi
+3.2.3.1 ;Störf sjúkraliða við almenna hjúkrun
+3.2.3.1 ;Störf sjúkraliða við almenna hjúkrun
+3.2.3.2 ;Störf sjúkraliða við fæðingarhjúkrun
+3.2.3.2 ;Sjúkraliði við fæðingarhjúkrun
+3.2.3.2 ;Yfirsetukona
+3.2.3.2 ;Störf sjúkraliða við fæðingarhjúkrun
+3.2.4.1 ;Alþýðulæknir
+3.2.4.1 ;Grasalæknir
+3.2.4.1 ;Nálastungulæknir
+3.2.4.1 ;Náttúrulæknir
+3.2.4.1 ;Svæðanuddari
+3.2.4.1 ;Verkefnastjóri við óhefðbundar lækningar, alþýðulækningar
+3.2.4.1 ;Störf við óhefðbundar lækningar, alþýðulækningar
+3.2.4.1 ;Störf við óhefðbundnar lækningar
+3.2.4.2 ;Störf við óhefðbundnar lækningar
+3.2.4.2 ;Heilari
+3.2.4.2 ;Huglæknir
+3.2.4.2 ;Lækningamiðill
+3.2.4.2 ;Miðill
+3.2.4.2 ;Reikimeistari
+3.2.4.2 ;Verkefnastjóri á sviði  óhefðbundna lækninga, huglækninga
+3.2.4.2 ;Störf við óhefðbundar lækningar, huglækningar
+3.3.1.0 ;Aðstoðarmaður kennara
+3.3.1.0 ;Uppeldisfulltrúi við grunnskóla
+3.3.1.0 ;Aðstoðarkennsla á grunnskólastigi
+3.3.1.0 ;Aðstoðarkennsla á grunnskólastigi
+3.3.2.0 ;Aðstoðarkennsla og uppeldisstörf í leikskólum
+3.3.2.0 ;Aðstoðarleikskólakennari
+3.3.2.0 ;Aðstoðarmaður leikskólakennara
+3.3.2.0 ;Leikskólaþjálfi
+3.3.2.0 ;Uppeldisfulltrúi í leikskóla
+3.3.2.0 ;Aðstoðarkennsla og uppeldisstörf í leikskólum
+3.3.3.0 ;Handmenntaþjálfi
+3.3.3.0 ;Meðferðarfulltrúi við þroskahjálp
+3.3.3.0 ;Samfélagsþjálfi
+3.3.3.0 ;Stuðningsfulltrúi (án háskólaprófs)
+3.3.3.0 ;Táknmálstúlkur (án háskólaprófs)
+3.3.3.0 ;Uppeldisfulltrúi á sambýli
+3.3.3.0 ;Uppeldisfulltrúi á unglingaheimili
+3.3.3.0 ;Verkefnastjóri við þjálfun og umönnun fatlaðra
+3.3.3.0 ;Störf fulltrúa við þjálfun og umönnun fatlaðra
+3.3.3.0 ;Störf fulltrúa við þjálfun og umönnun fatlaðra
+3.3.4.0 ;Störf annarra leiðbeinenda og þjálfa
+3.3.4.0 ;Ballettkennari
+3.3.4.0 ;Danskennari
+3.3.4.0 ;Flugkennari
+3.3.4.0 ;Frístundaráðgjafi
+3.3.4.0 ;Föndurkennari
+3.3.4.0 ;Golfkennari
+3.3.4.0 ;Handavinnuleiðbeinandi
+3.3.4.0 ;Heimilisiðnaðarkennari
+3.3.4.0 ;Hljóðfærakennari
+3.3.4.0 ;Hundaþjálfari
+3.3.4.0 ;Íþróttakennari utan skólakerfis
+3.3.4.0 ;Jazzballettkennari
+3.3.4.0 ;Júdóþjálfari
+3.3.4.0 ;Kennari utan skólakerfis
+3.3.4.0 ;Listdanskennari
+3.3.4.0 ;Prófdómari í ökuskóla
+3.3.4.0 ;Raddþjálfi
+3.3.4.0 ;Reiðkennari
+3.3.4.0 ;Skautaþjálfari
+3.3.4.0 ;Skíðakennari
+3.3.4.0 ;Skólastjóri tónlistarskóla (aðallega við kennslu)
+3.3.4.0 ;Skylmingaþjálfari
+3.3.4.0 ;Starfsleiðbeinandi
+3.3.4.0 ;Starfsþjálfi
+3.3.4.0 ;Tónlistarkennari við einkakennslu
+3.3.4.0 ;Tónlistarkennari við einkaskóla
+3.3.4.0 ;Tónlistarkennari við tónlistarskóla
+3.3.4.0 ;Tölvukennari utan skólakerfis
+3.3.4.0 ;Vinnuvélakennari
+3.3.4.0 ;Ökukennari
+3.3.4.0 ;Yfirkennari í tónlistarskóla
+3.3.4.0 ;Verkefnastjóri annarra leiðbeinenda og þjálfa
+3.3.4.0 ;Störf annarra leiðbeinenda og þjálfa
+3.4.1.1 ;Fjármálaráðgjafi (verðbréf)
+3.4.1.1 ;Gjaldeyrismiðlari
+3.4.1.1 ;Sérfræðingur á verðbréfasviði
+3.4.1.1 ;Sérfræðingur við sölu verðbréfa
+3.4.1.1 ;Sjóðsstjóri
+3.4.1.1 ;Verðbréfamiðlari
+3.4.1.1 ;Verðbréfasali
+3.4.1.1 ;Viðskiptafræðingur á verðbréfasviði
+3.4.1.1 ;Víxlari
+3.4.1.1 ;Fjármálaráðgjafi
+3.4.1.1 ;Verkefnastjóri við ráðgjöf og sölu verðbréfa
+3.4.1.1 ;Störf tengd ráðgjöf og sölu verðbréfa
+3.4.1.1 ;Störf tengd ráðgjöf og sölu verðbréfa
+3.4.1.2 ;Störf tengd ráðgjöf og sölu trygginga
+3.4.1.2 ;Áhættugreinandi (tryggingar)
+3.4.1.2 ;Fjármálaráðgjafi (tryggingar)
+3.4.1.2 ;Tryggingaráðgjafi
+3.4.1.2 ;Tryggingasali
+3.4.1.2 ;Tæknilegur ráðgjafi (tryggingar)
+3.4.1.2 ;Vátryggingamiðlari
+3.4.1.2 ;Vátryggingaráðgjafi
+3.4.1.2 ;Vátryggingasölumaður
+3.4.1.2 ;Öryggisráðgjafi (tryggingar)
+3.4.1.2 ;Verkefnastjóri við ráðgjöf og sölu trygginga
+3.4.1.2 ;Störf tengd ráðgjöf og sölu trygginga
+3.4.1.3 ;Fasteignamiðlari
+3.4.1.3 ;Fasteignasali
+3.4.1.3 ;Leigumiðlari
+3.4.1.3 ;Leigusali
+3.4.1.3 ;Löggiltur fasteignasali
+3.4.1.3 ;Verkefnastjóri við fasteignasölu og fasteignaumsýslu
+3.4.1.3 ;Störf tengd fasteignasölu og fasteignaumsýslu
+3.4.1.3 ;Störf tengd fasteignasölu og fasteignaumsýslu
+3.4.1.4 ;Störf tengd ráðgjöf og sölu ferðaþjónustu
+3.4.1.4 ;Ferðafræðingur
+3.4.1.4 ;Ferðamálafulltrúi
+3.4.1.4 ;Ferðamálaráðgjafi
+3.4.1.4 ;Ferðaráðgjafi
+3.4.1.4 ;Ráðgjafi á ferðaskrifstofu
+3.4.1.4 ;Sölumaður í ferðaþjónustu
+3.4.1.4 ;Verkefnastjóri við ráðgjöf og sölu ferðaþjónustu
+3.4.1.4 ;Störf tengd ráðgjöf og sölu ferðaþjónustu
+3.4.1.5 ;Notendaráðgjafi fyrir tæknibúnað
+3.4.1.5 ;Sölumaður í fiskheildsölu
+3.4.1.5 ;Sölumaður lækningatækja
+3.4.1.5 ;Sölumaður sérhæfðrar vöru og þjónustu
+3.4.1.5 ;Sölumaður tæknibúnaðar
+3.4.1.5 ;Söluráðgjafi
+3.4.1.5 ;Tölvuráðgjafi
+3.4.1.5 ;Umboðssali
+3.4.1.5 ;Verkefnastjóri við ráðgjöf og sölu sérhæfðs tæknibúnaðar
+3.4.1.5 ;Störf tengd ráðgjöf og sölu sérhæfðs tæknibúnaðar
+3.4.1.5 ;Störf tengd ráðgjöf og sölu sérhæfðs tæknibúnaðar
+3.4.1.6 ;Innkaupastörf í fyrirtækjum og stofnunum
+3.4.1.6 ;Innkaupafulltrúi
+3.4.1.6 ;Innkaupastjóri (ekki við stjórnun)
+3.4.1.6 ;Starfsmaður við hráefnisinnkaup
+3.4.1.6 ;Umboðskaupandi
+3.4.1.6 ;Innkaupastörf í fyrirtækjum og stofnunum
+3.4.1.7 ;Mælingamaður við matsgerð
+3.4.1.7 ;Skattmatsmaður
+3.4.1.7 ;Skoðunarmaður fasteigna
+3.4.1.7 ;Tjónamatsmaður
+3.4.1.7 ;Tjónaskoðunarmaður
+3.4.1.7 ;Tryggingamatsmaður
+3.4.1.7 ;Uppboðshaldari
+3.4.1.7 ;Verðmatsmaður
+3.4.1.7 ;Verkefnastjóri við matsgerð og uppboðshaldi
+3.4.1.7 ;Störf tengd matsgerð og uppboðshaldi
+3.4.1.7 ;Störf tengd matsgerð og uppboðshaldi
+3.4.1.8 ;Störf þjónustufulltrúa og sérhæfð störf í bankastofnunum
+3.4.1.8 ;Bankafulltrúi
+3.4.1.8 ;Fjármálafulltrúi (í bankastofnunum)
+3.4.1.8 ;Fjármálafulltrúi (sölu-,ráðgjafa-og fjármálaþjónustu)
+3.4.1.8 ;Sérfræðingur í banka (bankavinnsla)
+3.4.1.8 ;Þjónustufulltrúi í banka
+3.4.1.8 ;Verkefnastjóri á sviði sérhæfðra starfa í bankastofnunum
+3.4.1.8 ;Störf þjónustufulltrúa og sérhæfð störf í bankastofnunum
+3.4.1.9 ;Auglýsingafulltrúi
+3.4.1.9 ;Birgðastjóri
+3.4.1.9 ;Dreifingastjóri (ekki við stjórnun)
+3.4.1.9 ;Fulltrúi fjármálastjóra
+3.4.1.9 ;Markaðsfulltrúi
+3.4.1.9 ;Svæðisfulltrúi
+3.4.1.9 ;Svæðisstjóri
+3.4.1.9 ;Sölufulltrúi
+3.4.1.9 ;Verslunarfræðingur
+3.4.1.9 ;Þjónustufulltrúi (ekki í banka)
+3.4.1.9 ;Þjónustustjóri (ekki í banka)
+3.4.1.9 ;Fjármálafulltrúi
+3.4.1.9 ;Endurskoðunarfulltrúi
+3.4.1.9 ;Verkefnastjóri við sölu og ráðgjöf ót.a.s.
+3.4.1.9 ;Sérhæfð störf tengd sölu og ráðgjöf ót.a.s.
+3.4.1.9 ;Sérhæfð störf tengd sölu og ráðgjöf ófl.a.
+3.4.2.1 ;Störf við viðskipta- og vörumiðlun
+3.4.2.1 ;Fulltrúi við útreikning á flutningagjöldum
+3.4.2.1 ;Hráefnismiðlari
+3.4.2.1 ;Skipamiðlari
+3.4.2.1 ;Skipasali
+3.4.2.1 ;Umboðsmaður fyrir flutninga
+3.4.2.1 ;Viðskiptafulltrúi
+3.4.2.1 ;Viðskiptamiðlari
+3.4.2.1 ;Vörumiðlari
+3.4.2.1 ;Verkefnastjóri við viðskipta- og vörumiðlun
+3.4.2.1 ;Störf við viðskipta- og vörumiðlun
+3.4.2.2 ;Flutningamiðlari
+3.4.2.2 ;Tollvörumiðlari
+3.4.2.2 ;Verkefnastjóri við tollvöru- og vöruflutningamiðlun
+3.4.2.2 ;Störf við tollvöru- og vöruflutningamiðlun
+3.4.2.2 ;Störf við tollvöru og vöruflutningamiðlun
+3.4.2.3 ;Störf við vinnumiðlun
+3.4.2.3 ;Atvinnumiðlari
+3.4.2.3 ;Fulltrúi í vinnumiðlun
+3.4.2.3 ;Vinnumiðlari
+3.4.2.3 ;Vinnumiðlunarfulltrúi
+3.4.2.3 ;Verkefnastjóri við vinnumiðlun
+3.4.2.3 ;Störf við vinnumiðlun
+3.4.2.9 ;Auglýsingasali
+3.4.2.9 ;Auglýsingatæknir
+3.4.2.9 ;Sérfræðingur í auglýsingadeild
+3.4.2.9 ;Sölumaður auglýsinga
+3.4.2.9 ;Umboðsmaður íþróttamanna
+3.4.2.9 ;Umboðsmaður listamanna
+3.4.2.9 ;Umboðsmaður rithöfunda
+3.4.2.9 ;Verkefnastjóri við viðskiptaþjónustu ót.a.s.
+3.4.2.9 ;Störf við viðskiptaþjónustu ót.a.s.
+3.4.2.9 ;Störf við viðskiptaþjónustu ót.a.s.
+3.4.3.1 ;Störf fulltrúa og ritara tengd stjórnun
+3.4.3.1 ;Dómritari
+3.4.3.1 ;Einkaritari
+3.4.3.1 ;Flugrekstrarstjóri
+3.4.3.1 ;Fulltrúi forstöðumanns
+3.4.3.1 ;Fulltrúi í starfsmannahaldi
+3.4.3.1 ;Fulltrúi rektors
+3.4.3.1 ;Fulltrúi skólameistara
+3.4.3.1 ;Fulltrúi starfsmannastjóra
+3.4.3.1 ;Læknafulltrúi
+3.4.3.1 ;Læknaritari
+3.4.3.1 ;Ráðningarfulltrúi
+3.4.3.1 ;Rekstrarfulltrúi
+3.4.3.1 ;Rekstrarstjóri
+3.4.3.1 ;Ritstjórnarfulltrúi
+3.4.3.1 ;Skólaritari
+3.4.3.1 ;Stjórnunarritari
+3.4.3.1 ;Stöðvarstjóri
+3.4.3.1 ;Umdæmisfulltrúi
+3.4.3.1 ;Störf fulltrúa og ritara tengd stjórnun
+3.4.3.2 ;Aðstoðarmaður dómara
+3.4.3.2 ;Aðstoðarmaður lögfræðings
+3.4.3.2 ;Aðstoðarmaður umboðsmanns Alþingis
+3.4.3.2 ;Dómararitari
+3.4.3.2 ;Héraðsdómfulltrúi
+3.4.3.2 ;Kæruskrárritari
+3.4.3.2 ;Lóðarskrárritari
+3.4.3.2 ;Lögfræðiritari
+3.4.3.2 ;Ritari lögmanns
+3.4.3.2 ;Störf fulltrúa- og ritara tengd lögfræði
+3.4.3.2 ;Störf fulltrúa- og ritara tengd lögfræði
+3.4.3.3 ;Störf bókara
+3.4.3.3 ;Bókari
+3.4.3.3 ;Bókhaldari
+3.4.3.3 ;Fjárhagsáætlunarfulltrúi
+3.4.3.3 ;Fulltrúi aðalbókara
+3.4.3.3 ;Aðalbókari (ekki við stjórnun)
+3.4.3.3 ;Verkefnastjóri við bókhald
+3.4.3.3 ;Störf bókara
+3.4.3.4 ;Aðstoðarmaður stærðfræðings
+3.4.3.4 ;Aðstoðarmaður tryggingafræðings
+3.4.3.4 ;Aðstoðarmaður tölfræðings
+3.4.3.4 ;Fluggagnafræðingur
+3.4.3.4 ;Fulltrúi við hagskýrslugerð
+3.4.3.4 ;Lífeyrisskrárfulltrúi
+3.4.3.4 ;Tryggingafulltrúi
+3.4.3.4 ;Störf fulltrúa og ritara tengd tölfræði og stærðfræði
+3.4.3.4 ;Störf fulltrúa og ritara tengd tölfræði og stærðfræði
+3.4.3.6 ;Upplýsingafulltrúar
+3.4.3.6 ;Fulltrúi í almannatengslum
+3.4.3.6 ;Kynningarfulltrúi
+3.4.3.6 ;Kynningarráðgjafi
+3.4.3.6 ;Kynningarstjóri
+3.4.3.6 ;Upplýsingafulltrúi (án háskólaprófs)
+3.4.3.6 ;Upplýsingafulltrúi
+3.4.3.7 ;Bókavörður (án háskólaprófs)
+3.4.3.7 ;Minjavörður (án háskólaprófs)
+3.4.3.7 ;Safnvörður (án háskólaprófs)
+3.4.3.7 ;Skjalavörður (án háskólaprófs)
+3.4.3.7 ;Skólasafnvörður
+3.4.3.7 ;Störf skjala-, safn- og bókavarða
+3.4.3.7 ;Störf skjala-, safn- og bókavarða
+3.4.3.9 ;Störf fulltrúa og ritara tengd stjórnun ót.a.s.
+3.4.3.9 ;Atvinnumálafulltrúi
+3.4.3.9 ;Daggæslufulltrúi
+3.4.3.9 ;Daggæsluráðgjafi
+3.4.3.9 ;Dagvistarfulltrúi
+3.4.3.9 ;Deildarfulltrúi á Alþingi
+3.4.3.9 ;Hjúkrunarritari
+3.4.3.9 ;Jafnréttisfulltrúi
+3.4.3.9 ;Menningarfulltrúi
+3.4.3.9 ;Póstfulltrúi
+3.4.3.9 ;Póstmálafulltrúi
+3.4.3.9 ;Sendiráðsritari
+3.4.3.9 ;Sendiráðunautur
+3.4.3.9 ;Skólafulltrúi
+3.4.3.9 ;Fræðslufulltrúi (án háskólaprófs)
+3.4.3.9 ;Störf fulltrúa og ritara tengd stjórnun ót.a.s.
+3.4.4.1 ;Fulltrúi við vegabréfaskoðun
+3.4.4.1 ;Lögreglumaður við útlendingaeftirlit
+3.4.4.1 ;Lögreglumaður við vegabréfaskoðun
+3.4.4.1 ;Starfsmaður við vegabréfaskoðun
+3.4.4.1 ;Tollgæslumaður
+3.4.4.1 ;Tollvörður
+3.4.4.1 ;Útlendingaeftirlitsmaður
+3.4.4.1 ;Yfirtollvörður
+3.4.4.1 ;Verkefnastjóri á sviði tollgæslu og útlendingaeftirlits
+3.4.4.1 ;Störf við tollgæslu og útlendingaeftirlit
+3.4.4.1 ;Störf við tollgæslu og útlendingaeftirlit
+3.4.4.2 ;Störf við opinbera gjaldheimtu
+3.4.4.2 ;Fulltrúi á skattstofu
+3.4.4.2 ;Gjaldheimtufulltrúi
+3.4.4.2 ;Innheimtufulltrúi
+3.4.4.2 ;Opinber gjaldheimtumaður
+3.4.4.2 ;Opinber innheimtufulltrúi
+3.4.4.2 ;Skattheimtumaður
+3.4.4.2 ;Verkefnastjóri við opinbera gjaldheimtu
+3.4.4.2 ;Störf við opinbera gjaldheimtu
+3.4.4.3 ;Fulltrúi hjá atvinnuleysistryggingasjóði
+3.4.4.3 ;Fulltrúi hjá Tryggingastofnun ríkisins
+3.4.4.3 ;Fulltrúi hjá vinnumálastofnun
+3.4.4.3 ;Verkefnastjóri á sviði úthlutun bóta og lífeyris almannatrygginga og atvinnuleysisbóta
+3.4.4.3 ;Störf fulltrúa við úthlutun bóta og lífeyris almannatrygginga og atvinnuleysisbóta
+3.4.4.3 ;Störf fulltrúa við úthlutun bóta og lífeyris almannatrygginga og atvinnuleysisbóta
+3.4.4.4 ;Störf fulltrúa við leyfisveitingar, útgáfu skilríkja o.þ.h.
+3.4.4.4 ;Fulltrúi við útgáfu atvinnuleyfa
+3.4.4.4 ;Fulltrúi við útgáfu byggingarleyfa
+3.4.4.4 ;Fulltrúi við útgáfu persónuskilríkja
+3.4.4.4 ;Fulltrúi við útgáfu ökuleyfa
+3.4.4.4 ;Fulltrúi við vegabréfaútgáfu
+3.4.4.4 ;Verkefnastjóri á sviði leyfisveitingar, útgáfu skilríkja o.þ.h
+3.4.4.4 ;Störf fulltrúa við leyfisveitingar, útgáfu skilríkja o.þ.h
+3.4.4.9 ;Eftirlitsmaður með mál og vog
+3.4.4.9 ;Eftirlitsmaður með verðlagi
+3.4.4.9 ;Forðagæslumaður
+3.4.4.9 ;Löggildingareftirlitsmaður
+3.4.4.9 ;Nefndarritari
+3.4.4.9 ;Opinber skattheimtumaður við skoðun og verðmat eigna
+3.4.4.9 ;Skoðunarmaður kvikmynda
+3.4.4.9 ;Verðlagseftirlitsmaður
+3.4.4.9 ;Vínveitingaeftirlitsmaður
+3.4.4.9 ;Verkefnastjóri á sviði tollgæslu-, skattheimtu- og annarra opinberra fulltrúa ót.a.s.
+3.4.4.9 ;Störf tollgæslu-, skattheimtu- og annarra opinberra fulltrúa ót.a.s.
+3.4.4.9 ;Störf tollgæslu-, skattheimtu- og annarra opinberra fulltrúa ót.a.s.
+3.4.5.0 ;Störf við lögreglurannsóknir
+3.4.5.0 ;Lögreglufulltrúi í rannsóknardeild
+3.4.5.0 ;Rannsóknarlögreglumaður
+3.4.5.0 ;Rannsóknarlögregluþjónn
+3.4.5.0 ;Verkefnastjóri við lögreglurannsóknir
+3.4.5.0 ;Störf við lögreglurannsóknir
+3.4.6.0 ;Aðstoðarfélagsmálafulltrúi
+3.4.6.0 ;Aðstoðarmaður félagsráðgjafa
+3.4.6.0 ;Áfengisráðgjafi
+3.4.6.0 ;Áfengisvarnarfulltrúi
+3.4.6.0 ;Áfengisvarnarráðunautur
+3.4.6.0 ;Blindraráðgjafi
+3.4.6.0 ;Erindreki á félagsmálasviði
+3.4.6.0 ;Félagsmálafulltrúi
+3.4.6.0 ;Fjölskylduráðgjafi
+3.4.6.0 ;Forstöðumaður félagsmiðstöðvar (ekki við stjórnun)
+3.4.6.0 ;Forstöðumaður æskulýðsstöðvar (ekki við stjórnun)
+3.4.6.0 ;Forvarnarfulltrúi
+3.4.6.0 ;Fulltrúi á félagsmálastofnun
+3.4.6.0 ;Íþróttafulltrúi
+3.4.6.0 ;Íþróttafulltrúi við ráðgjöf í félagsþjónustu
+3.4.6.0 ;Kennslufulltrúi
+3.4.6.0 ;Leikskólafulltrúi
+3.4.6.0 ;Meðferðarfulltrúi við æskulýðsmál
+3.4.6.0 ;Meðferðarfulltrúi vímuefnaneytenda
+3.4.6.0 ;Ráðgjafi hjá íþrótta- og tómstundaráði
+3.4.6.0 ;Ráðgjafi í félagsþjónustu
+3.4.6.0 ;Starfsmaður hjá barnaverndarstofu
+3.4.6.0 ;Tómstunda- og íþróttafulltrúi
+3.4.6.0 ;Tómstundafulltrúi
+3.4.6.0 ;Tómstundaráðgjafi
+3.4.6.0 ;Unglingafulltrúi
+3.4.6.0 ;Unglingaráðgjafi
+3.4.6.0 ;Vímuefnaráðgjafi
+3.4.6.0 ;Æskulýðs- og íþróttafulltrúi
+3.4.6.0 ;Æskulýðsfulltrúi
+3.4.6.0 ;Öldrunarfulltrúi
+3.4.6.0 ;Meðferðarfulltrúi
+3.4.6.0 ;Verkefnastjóri við ráðgjöf í félags-, tómstunda og æskulýðsmálum
+3.4.6.0 ;Störf við ráðgjöf í félags-, tómstunda og æskulýðsmálum
+3.4.6.0 ;Störf við ráðgjöf í félags-, tómstunda- og æskulýðsmálum.
+3.4.7.1 ;Störf við hönnun og útstillingu
+3.4.7.1 ;Auglýsingahönnuður
+3.4.7.1 ;Auglýsingateiknari (með minna en 3 ára háskólanám)
+3.4.7.1 ;Blómaskreytingamaður
+3.4.7.1 ;Blómaskreytir
+3.4.7.1 ;Búningahönnuður
+3.4.7.1 ;Fatahönnuður
+3.4.7.1 ;Fréttateiknari
+3.4.7.1 ;Gluggaskreytingamaður
+3.4.7.1 ;Grafískur hönnuður
+3.4.7.1 ;Hátískuhönnuður
+3.4.7.1 ;Hreinteiknari
+3.4.7.1 ;Húðflúrari
+3.4.7.1 ;Húðflúrskreytingamaður
+3.4.7.1 ;Húðskreytir
+3.4.7.1 ;Húsgagnahönnuður
+3.4.7.1 ;Hönnuður (án háskólaprófs)
+3.4.7.1 ;Iðnhönnuður
+3.4.7.1 ;Innanhúsarkitekt (án háskólaprófs)
+3.4.7.1 ;Innanhúshönnuður
+3.4.7.1 ;Innanhúsráðgjafi
+3.4.7.1 ;Leikmyndagerðarmaður
+3.4.7.1 ;Leikmyndahönnuður
+3.4.7.1 ;Leikmyndameistari
+3.4.7.1 ;Leikmyndateiknari
+3.4.7.1 ;Leiktjaldamálari
+3.4.7.1 ;Listhönnuður
+3.4.7.1 ;Listtæknir
+3.4.7.1 ;Margmiðlunarfræðingur
+3.4.7.1 ;Margmiðlunarhönnuður
+3.4.7.1 ;Skóhönnuður
+3.4.7.1 ;Skrautritari
+3.4.7.1 ;Skreytingamaður við hönnun
+3.4.7.1 ;Skreytingameistari
+3.4.7.1 ;Sniðteiknari
+3.4.7.1 ;Stílisti
+3.4.7.1 ;Sviðsmyndahönnuður
+3.4.7.1 ;Tattóeringarmaður
+3.4.7.1 ;Tattógerðarmaður
+3.4.7.1 ;Tískuhönnuður
+3.4.7.1 ;Tískuteiknari
+3.4.7.1 ;Útlitshönnuður
+3.4.7.1 ;Útlitsteiknari
+3.4.7.1 ;Útstillingarhönnuður
+3.4.7.1 ;Vefhönnuður
+3.4.7.1 ;Vefsíðustjóri
+3.4.7.1 ;Vefsmiður
+3.4.7.1 ;Vefstjóri
+3.4.7.1 ;Veftæknir
+3.4.7.1 ;Verkefnastjóri við hönnun og útstillingu
+3.4.7.1 ;Störf við hönnun og útstillingu
+3.4.7.2 ;Bingóupplesari
+3.4.7.2 ;Kynnir á skemmtistað
+3.4.7.2 ;Plötusnúður
+3.4.7.2 ;Sjónvarpsþulur
+3.4.7.2 ;Útvarpsþulur
+3.4.7.2 ;Veðurfréttamaður (án háskólaprófs)
+3.4.7.2 ;Þulur
+3.4.7.2 ;Hvíslari
+3.4.7.2 ;Verkefnastjóri við dagskrárkynningar í útvarpi og sjónvarpi og skyld störf
+3.4.7.2 ;Störf við dagskrárkynningar í útvarpi og sjónvarpi og skyld störf
+3.4.7.2 ;Störf við dagskrárkynningar í útvarpi og sjónvarpi og skyld störf
+3.4.7.3 ;Störf við hljóðfæraleik, söng og dans á skemmtistöðum, götum o.þ.h.
+3.4.7.3 ;Bassaleikari
+3.4.7.3 ;Dansari á skemmtistað
+3.4.7.3 ;Danshljómsveitarstjóri
+3.4.7.3 ;Fatafella
+3.4.7.3 ;Gítarleikari
+3.4.7.3 ;Götudansari
+3.4.7.3 ;Götusöngvari
+3.4.7.3 ;Hljóðfæraleikari á skemmtistað
+3.4.7.3 ;Hljóðfæraleikari í danshljómsveit
+3.4.7.3 ;Hljómlistamaður
+3.4.7.3 ;Nektardansari
+3.4.7.3 ;Poppari
+3.4.7.3 ;Popphljómsveitarmaður
+3.4.7.3 ;Poppsöngvari
+3.4.7.3 ;Söngvari á matsölustað
+3.4.7.3 ;Söngvari á skemmtistað
+3.4.7.3 ;Söngvari í kór
+3.4.7.3 ;Trommuleikari
+3.4.7.3 ;Störf við hljóðfæraleik, söng og dans á skemmtistöðum, götum o.þ.h.
+3.4.7.4 ;Áhugaleikari
+3.4.7.4 ;Áhættuleikari
+3.4.7.4 ;Brúðuleikstjóri
+3.4.7.4 ;Dávaldur
+3.4.7.4 ;Eftirherma
+3.4.7.4 ;Fimleikamaður
+3.4.7.4 ;Götulistamaður
+3.4.7.4 ;Loftfimleikamaður
+3.4.7.4 ;Sjónhverfingamaður
+3.4.7.4 ;Tamningamaður í fjölleikahúsi
+3.4.7.4 ;Trúður
+3.4.7.4 ;Töframaður
+3.4.7.4 ;Verkefnastjóri trúða, sjónhverfingarmanna og loftfimleikamanna
+3.4.7.4 ;Störf trúða, sjónhverfingarmanna og loftfimleikamanna
+3.4.7.4 ;Störf trúða, sjónhverfingarmanna og loftfimleikamanna
+3.4.7.5 ;Störf íþróttamanna, þjálfara og annarra við iðkun íþrótta
+3.4.7.5 ;Atvinnumaður í íþróttum
+3.4.7.5 ;Blakþjálfari
+3.4.7.5 ;Einkaþjálfari
+3.4.7.5 ;Fimleikaþjálfari
+3.4.7.5 ;Frjálsíþróttamaður
+3.4.7.5 ;Frjálsíþróttaþjálfari
+3.4.7.5 ;Heilsuþjálfari
+3.4.7.5 ;Íþróttadómari
+3.4.7.5 ;Íþróttafræðingur
+3.4.7.5 ;Íþróttaleiðbeinandi
+3.4.7.5 ;Íþróttamaður
+3.4.7.5 ;Íþróttaráðgjafi
+3.4.7.5 ;Íþróttaþjálfari
+3.4.7.5 ;Jógakennari
+3.4.7.5 ;Knapi
+3.4.7.5 ;Knattspyrnumaður
+3.4.7.5 ;Knattspyrnuþjálfari
+3.4.7.5 ;Líkamsræktarkennari
+3.4.7.5 ;Líkamsræktarþjálfari
+3.4.7.5 ;Skákmaður
+3.4.7.5 ;Stórmeistari í skák
+3.4.7.5 ;Sundkennari
+3.4.7.5 ;Sundþjálfari
+3.4.7.5 ;Yogakennari
+3.4.7.5 ;Þjálfari
+3.4.7.5 ;Þolfimikennari
+3.4.7.5 ;Verkefnastjóri íþróttamanna, þjálfara og annarra við iðkun íþrótta
+3.4.7.5 ;Störf íþróttamanna, þjálfara og annarra við iðkun íþrótta
+3.4.8.0 ;Abbadís
+3.4.8.0 ;Aðstoðarmaður við trúmálastörf
+3.4.8.0 ;Ábóti
+3.4.8.0 ;Foringi í hjálpræðisher
+3.4.8.0 ;Herforingi í hjálpræðisher
+3.4.8.0 ;Kassapredikari
+3.4.8.0 ;Kristniboði
+3.4.8.0 ;Leiðbeinandi við trúmálastörf
+3.4.8.0 ;Liðsforingi í hjálpræðisher
+3.4.8.0 ;Meðhjálpari
+3.4.8.0 ;Sálgæslufulltrúi
+3.4.8.0 ;Trúboði
+3.4.8.0 ;Leikmunkur
+3.4.8.0 ;Leiknunna
+3.4.8.0 ;Leikpredikari
+3.4.8.0 ;Störf leikpredikara, trúboða o.þ.h.
+3.4.8.0 ;Störf leikpredikara, trúboða o.þ.h.
+4.1.1.1 ;Hrað- og vélritarar
+4.1.1.1 ;Hraðritari
+4.1.1.1 ;Skrifstofumaður við vélritun
+4.1.1.1 ;Textaritari við skrifstofustörf
+4.1.1.1 ;Vélritari
+4.1.1.1 ;Textaritari
+4.1.1.1 ;Hrað- og vélritarar
+4.1.1.2 ;Ritari á telextæki
+4.1.1.2 ;Ritari við fjarritun
+4.1.1.2 ;Ritari við ritvinnslu
+4.1.1.2 ;Ritvinnsluritari
+4.1.1.2 ;Skrifstofumaður við rit- og skjávinnslu
+4.1.1.2 ;Ritvinnuritarar
+4.1.1.2 ;Ritvinnsluritarar
+4.1.1.3 ;Gagnaritarar
+4.1.1.3 ;Gagnaritari
+4.1.1.3 ;Skráningarritari
+4.1.1.3 ;Skrifstofumaður við gagnaskráningu
+4.1.1.3 ;Skrifstofumaður við tölvuskráningu
+4.1.1.3 ;Gagnaritarar
+4.1.1.4 ;Bókfærsluritari
+4.1.1.4 ;Ritari við bókhaldsvél
+4.1.1.4 ;Skrifstofumaður við bókhaldsvél
+4.1.1.4 ;Bókfærlsuritarar
+4.1.1.4 ;Bókfærsluritarar
+4.1.1.5 ;Almennir ritarar
+4.1.1.5 ;Bréfaritari
+4.1.1.5 ;Ritari við skjalavörslu
+4.1.1.5 ;Skrifstofumaður við almenn skrifstofustörf
+4.1.1.5 ;Textainnritari
+4.1.1.5 ;Almennir ritarar
+4.1.2.1 ;Bókhaldsritari
+4.1.2.1 ;Launafulltrúi
+4.1.2.1 ;Launaritari
+4.1.2.1 ;Launaskrárritari
+4.1.2.1 ;Ritari við bókhald
+4.1.2.1 ;Skrifstofumaður við bókfærslu
+4.1.2.1 ;Skrifstofumaður við greiðslukortaviðskipti
+4.1.2.1 ;Skrifstofumaður við kostnaðarútreikninga
+4.1.2.1 ;Skrifstofumaður við launaútreikninga
+4.1.2.1 ;Skrifstofumaður við reikningagerð
+4.1.2.1 ;Skrifstofumaður við útskrift reikninga
+4.1.2.1 ;Skrifstofumaður við viðskiptamannabókhald
+4.1.2.1 ;Skrifstofustörf við bókhald og launaútreikninga
+4.1.2.1 ;Skrifstofustörf við bókhald og launaútreikninga
+4.1.2.2 ;Skrifstofustörf við bankastarfsemi, tölfræði og tryggingar
+4.1.2.2 ;Bankaritari
+4.1.2.2 ;Lífeyrisskrárritari
+4.1.2.2 ;Ritari í fjármálafyrirtæki
+4.1.2.2 ;Ritari í skattheimtu
+4.1.2.2 ;Ritari í tryggingarfyrirtæki
+4.1.2.2 ;Ritari í verðbréfafyrirtæki
+4.1.2.2 ;Skrifstofumaður á skattstofu
+4.1.2.2 ;Skrifstofumaður í greiðslukortafyrirtæki
+4.1.2.2 ;Skrifstofumaður við bakvinnslu í banka
+4.1.2.2 ;Tölfræðiritari
+4.1.2.2 ;Skrifstofustörf við  bankastarfsemi, tölfræði og tryggingar
+4.1.3.1 ;Aðfangaritari
+4.1.3.1 ;Birgðaritari
+4.1.3.1 ;Birgðavörður
+4.1.3.1 ;Lagermaður með lagerumsjón
+4.1.3.1 ;Lagerritari
+4.1.3.1 ;Skrifstofumaður við aðfangaeftirlit
+4.1.3.1 ;Skrifstofumaður við birgðavörslu
+4.1.3.1 ;Tækjavörður
+4.1.3.1 ;Umsjónarmaður með lager
+4.1.3.1 ;Umsjónarmaður með vörugeymslu
+4.1.3.1 ;Vigtarmaður
+4.1.3.1 ;Vörustjóri (ekki við stjórnun)
+4.1.3.1 ;Vogarmaður
+4.1.3.1 ;Birgðaritarar
+4.1.3.1 ;Birgðaritarar
+4.1.3.2 ;Framleiðsluritarar
+4.1.3.2 ;Framleiðsluritari
+4.1.3.2 ;Innkauparitari
+4.1.3.2 ;Ritari við framleiðsluáætlanir
+4.1.3.2 ;Skrifstofumaður við framleiðslueftirlit
+4.1.3.2 ;Skrifstofumaður við framleiðslustjórn
+4.1.3.2 ;Framleiðsluritarar
+4.1.3.3 ;Aðstoðarmaður flugumferðarstjóra
+4.1.3.3 ;Aðstoðarmaður flugumsjónarmanns
+4.1.3.3 ;Farmskrárritari
+4.1.3.3 ;Flutningaritari
+4.1.3.3 ;Ritari í flutningaþjónustu
+4.1.3.3 ;Ritari við flugumsjón
+4.1.3.3 ;Skrifstofumaður við vöruflutninga
+4.1.3.3 ;Starfsmaður við tollskýrslugerð
+4.1.3.3 ;Tollskýrsluritari
+4.1.3.3 ;Flutningaritarar
+4.1.3.3 ;Flutningaritarar
+4.1.4.1 ;Störf við bóka- og skjalavörslu
+4.1.4.1 ;Afgreiðsluritari á bókasafni
+4.1.4.1 ;Bókasafnsritari
+4.1.4.1 ;Bókavörður við almenna afgreiðslu
+4.1.4.1 ;Hljómplötuvörður
+4.1.4.1 ;Leikmunavörður
+4.1.4.1 ;Myndvörður
+4.1.4.1 ;Safnaritari
+4.1.4.1 ;Segulbandavörður
+4.1.4.1 ;Skjalaritari
+4.1.4.1 ;Skjalasafnsritari
+4.1.4.1 ;Upplýsingaritari á bókasafni
+4.1.4.1 ;Upplýsingaritari á skjalasafni
+4.1.4.1 ;Ættfræðiritari
+4.1.4.1 ;Störf við bóka- og skjalavörslu
+4.1.4.2 ;Póstflokkunarmaður
+4.1.4.2 ;Yfirpóstafgreiðslumaður
+4.1.4.2 ;Yfirpóstflokkunarmaður
+4.1.4.2 ;Störf við póstflokkun
+4.1.4.2 ;Störf við póstflokkun
+4.1.4.3 ;Skrifstofustörf við kótun og skjalaflokkun
+4.1.4.3 ;Handritalesari
+4.1.4.3 ;Kótunarritari
+4.1.4.3 ;Skrifstofumaður við skjalaflokkun
+4.1.4.3 ;Yfirlesari
+4.1.4.3 ;Skrifstofustörf við kótun og skjalaflokkun
+4.1.4.4 ;Skrifari
+4.1.4.4 ;Störf skrifara
+4.1.4.4 ;Störf skrifara
+4.1.4.5 ;Störf bréfbera
+4.1.4.5 ;Bréfberi
+4.1.4.5 ;Landpóstur
+4.1.4.5 ;Póstberi
+4.1.4.5 ;Póstmaður
+4.1.4.5 ;Störf bréfbera
+4.1.9.0 ;Ritari í starfsmannahaldi
+4.1.9.0 ;Ritari ótalið a.s.
+4.1.9.0 ;Ritari við almenn skrifstofustörf
+4.1.9.0 ;Skrifstofumaður í starfsmannahaldi
+4.1.9.0 ;Skrifstofumaður ótalið a.s.
+4.1.9.0 ;Skrifstofumaður við ljósritun
+4.1.9.0 ;Önnur almenn skrifstofustörf
+4.1.9.0 ;Önnur almenn skrifstofustörf
+4.2.1.1 ;Störf afgreiðslugjaldkera og miðasala
+4.2.1.1 ;Afgreiðslugjaldkeri
+4.2.1.1 ;Afgreiðslumaður í sundlaug
+4.2.1.1 ;Féhirðir á skrifstofu
+4.2.1.1 ;Gjaldkeri á ferðaskrifstofu
+4.2.1.1 ;Gjaldkeri á skrifstofu
+4.2.1.1 ;Miðasali
+4.2.1.1 ;Yfirgjaldkeri
+4.2.1.1 ;Fjármálastjóri (aðallega gjaldkerastörf)
+4.2.1.1 ;Störf afgreiðslugjaldkera og miðasala
+4.2.1.2 ;Bankagjaldkeri
+4.2.1.2 ;Gjaldkeri á pósthúsi
+4.2.1.2 ;Gjaldkeri í banka
+4.2.1.2 ;Gjaldkeri í sparisjóði
+4.2.1.2 ;Póstafgreiðslumaður á kassa
+4.2.1.2 ;Sparisjóðsgjaldkeri
+4.2.1.2 ;Gjaldkerastörf í bönkum og pósthúsum
+4.2.1.2 ;Gjaldkerastörf í bönkum og pósthúsum
+4.2.1.3 ;Störf við fjárvörslu á spilaborðum og veðmang
+4.2.1.3 ;Féhirðir við spilaborð
+4.2.1.3 ;Starfsmaður við getraunamiðasölu
+4.2.1.3 ;Starfsmaður við lottómiðasölu
+4.2.1.3 ;Veðmangari
+4.2.1.3 ;Störf við fjárvörslu á spilaborðum og veðmang
+4.2.1.4 ;Peningalánari
+4.2.1.4 ;Veðlánari
+4.2.1.4 ;Veðlánastörf
+4.2.1.4 ;Veðlánastörf
+4.2.1.5 ;Innheimtustörf
+4.2.1.5 ;Innheimtumaður á skrifstofu
+4.2.1.5 ;Rukkari
+4.2.1.5 ;Skrifstofumaður við innheimtu
+4.2.1.5 ;Starfsmaður við söfnun áheita eða styrkja
+4.2.1.5 ;Innheimtustörf
+4.2.2.1 ;Farmiðasali
+4.2.2.1 ;Skrifstofumaður í ferðaþjónustu
+4.2.2.1 ;Skrifstofumaður við farmiðasölu
+4.2.2.1 ;Sölumaður farmiða
+4.2.2.1 ;Störf við farmiðasölu
+4.2.2.1 ;Störf við farmiðasölu
+4.2.2.2 ;Störf við móttöku og upplýsingagjöf
+4.2.2.2 ;Afgreiðsluritari
+4.2.2.2 ;Bankastarfsmaður við móttöku og afgreiðslu viðskiptavina
+4.2.2.2 ;Flugafgreiðslufólk
+4.2.2.2 ;Flugafgreiðslukona
+4.2.2.2 ;Flugafgreiðslumaður
+4.2.2.2 ;Gestamóttökustjóri
+4.2.2.2 ;Hjúkrunarritari við móttöku
+4.2.2.2 ;Hlaðfreyja
+4.2.2.2 ;Læknaritari í móttöku
+4.2.2.2 ;Móttökufulltrúi
+4.2.2.2 ;Móttökuritari
+4.2.2.2 ;Móttökuritari á verkstæði
+4.2.2.2 ;Móttökuritari hjá tannlækni
+4.2.2.2 ;Móttökustjóri í gestamóttöku
+4.2.2.2 ;Ritari í smáauglýsingamóttöku
+4.2.2.2 ;Ritari við upplýsingagjöf
+4.2.2.2 ;Ritsímaritari
+4.2.2.2 ;Skrifstofumaður við móttöku smáauglýsinga
+4.2.2.2 ;Starfsmaður við innritun farþega
+4.2.2.2 ;Upplýsingaritari hjá símaskrá
+4.2.2.2 ;Upplýsingaritari í þjónustuveri
+4.2.2.2 ;Upplýsingaritari við móttöku og upplýsingagjöf
+4.2.2.2 ;Upplýsingatæknir
+4.2.2.2 ;Upplýsingaritari
+4.2.2.2 ;Störf við móttöku og upplýsingagjöf
+4.2.2.3 ;Símamær
+4.2.2.3 ;Símastúlka
+4.2.2.3 ;Símavörður
+4.2.2.3 ;Skrifstofumaður við símavörslu
+4.2.2.3 ;Talsímavörður
+4.2.2.3 ;Störf við símavörslu
+4.2.2.3 ;Störf við símavörslu
+5.1.1.1 ;Störf þjóna um borð í flugvélum og skipum
+5.1.1.1 ;Flugfreyja
+5.1.1.1 ;Flugþjónn
+5.1.1.1 ;Skipsþerna
+5.1.1.1 ;Skipsþjónn
+5.1.1.1 ;Yfirflugfreyja
+5.1.1.1 ;Yfirflugþjónn
+5.1.1.1 ;Hlaðþjónn
+5.1.1.1 ;Störf þjóna um borð í flugvélum og skipum
+5.1.1.2 ;Bílfreyja
+5.1.1.2 ;Bílþjónn
+5.1.1.2 ;Ferjuþjónn
+5.1.1.2 ;Lestarvörður
+5.1.1.2 ;Upplýsingastörf og farmiðaeftirlit í almenningsfarartækjum
+5.1.1.2 ;Upplýsingastörf og farmiðaeftirlit í almenningsfarartækjum
+5.1.1.3 ;Störf leiðsögumanna
+5.1.1.3 ;Fararstjóri
+5.1.1.3 ;Ferðaþjónustubóndi aðallega við leiðsögn
+5.1.1.3 ;Fjallaleiðsögumaður
+5.1.1.3 ;Leiðsögumaður
+5.1.1.3 ;Svæðisleiðsögumaður
+5.1.1.3 ;Störf leiðsögumanna
+5.1.2.1 ;Bryti á heimili
+5.1.2.1 ;Bústýra
+5.1.2.1 ;Ferðaþjónustubóndi aðallega við hússtjórn
+5.1.2.1 ;Húsbóndi á heimavist
+5.1.2.1 ;Húsmóðir á heimavist
+5.1.2.1 ;Húsráðandi á heimavist
+5.1.2.1 ;Kjallarameistari
+5.1.2.1 ;Matartæknir við hússtjórn
+5.1.2.1 ;Prófastur á heimavist
+5.1.2.1 ;Ráðskona
+5.1.2.1 ;Ráðsmaður á heimili
+5.1.2.1 ;Ráðsmaður á heimili (bryti á heimili)
+5.1.2.1 ;Leirmunavörður
+5.1.2.1 ;Línstjóri
+5.1.2.1 ;Ráðsmaður á stofnun
+5.1.2.1 ;Hússtjórnarstörf
+5.1.2.1 ;Hússtjórnarstörf
+5.1.2.2 ;Störf við matseld
+5.1.2.2 ;Bryti á skipi
+5.1.2.2 ;Kokkur
+5.1.2.2 ;Matartæknir við matseld
+5.1.2.2 ;Matráðskona
+5.1.2.2 ;Matráðsmaður
+5.1.2.2 ;Matráður
+5.1.2.2 ;Matreiðslukona
+5.1.2.2 ;Matreiðslumaður
+5.1.2.2 ;Matreiðslumeistari
+5.1.2.2 ;Matselja í fyrirtæki
+5.1.2.2 ;Matsveinn
+5.1.2.2 ;Matsveinn á hóteli
+5.1.2.2 ;Matsveinn á skipi
+5.1.2.2 ;Pizzugerðarmaður
+5.1.2.2 ;Pítsugerðarmaður
+5.1.2.2 ;Smurbrauðsdama
+5.1.2.2 ;Yfirkokkur (aðallega við matseld)
+5.1.2.2 ;Matselja
+5.1.2.2 ;Smurbrauðsmaður
+5.1.2.2 ;Nemi við matreiðslu
+5.1.2.2 ;Störf við matseld
+5.1.2.3 ;Barþjónn
+5.1.2.3 ;Framreiðslumaður
+5.1.2.3 ;Framreiðslumeistari
+5.1.2.3 ;Kaffibarþjónn
+5.1.2.3 ;Veitingakona
+5.1.2.3 ;Veitingamaður
+5.1.2.3 ;Veitingaþjónn
+5.1.2.3 ;Vínþjónn
+5.1.2.3 ;Yfirþerna
+5.1.2.3 ;Yfirþjónn (aðallega við þjónustu)
+5.1.2.3 ;Þerna
+5.1.2.3 ;Þjónn
+5.1.2.3 ;Nemi við framreiðslu og þjónustu
+5.1.2.3 ;Störf framreiðslufólks og þjóna
+5.1.2.3 ;Störf framreiðslufólks og þjóna
+5.1.3.1 ;Störf við barnagæslu
+5.1.3.1 ;Aðstoðarmaður grunnskólakennara (við umönnun barna)
+5.1.3.1 ;Au-Pair
+5.1.3.1 ;Barnfóstra
+5.1.3.1 ;Dagforeldri
+5.1.3.1 ;Dagmamma
+5.1.3.1 ;Dagmóðir
+5.1.3.1 ;Forstöðumaður gæsluvallar
+5.1.3.1 ;Frístundaleiðbeinandi
+5.1.3.1 ;Leiðbeinandi við félagsstörf
+5.1.3.1 ;Leikskólaleiðbeinandi
+5.1.3.1 ;Skólaliði við barnagæslu
+5.1.3.1 ;Starfsmaður á gæsluvelli
+5.1.3.1 ;Starfsmaður í leikskóla
+5.1.3.1 ;Starfsmaður í skólaathvarfi
+5.1.3.1 ;Starfsmaður við gæslu skólabarna
+5.1.3.1 ;Starfsmaður við stuðningsstörf í leikskóla
+5.1.3.1 ;Umönnunarkona barna
+5.1.3.1 ;Umönnunarmaður barna
+5.1.3.1 ;Stuðningsfulltrúi við gæslu barna og unglinga
+5.1.3.1 ;Leiðbeinandi
+5.1.3.1 ;Skólaliði
+5.1.3.1 ;Störf við barnagæslu
+5.1.3.2 ;Aðstoðarmaður á heilsugæslustöð
+5.1.3.2 ;Aðstoðarmaður geislafræðings
+5.1.3.2 ;Aðstoðarmaður iðjuþjálfa
+5.1.3.2 ;Aðstoðarmaður sjúkraþjálfara
+5.1.3.2 ;Aðstoðarmaður talmeinafræðings
+5.1.3.2 ;Aðstoðarmaður tannlæknis
+5.1.3.2 ;Aðstoðarmaður við skólahjúkrun
+5.1.3.2 ;Aðstoðarmaður við umönnun
+5.1.3.2 ;Gangastúlka
+5.1.3.2 ;Gæslukona á geðdeild
+5.1.3.2 ;Klínikdama
+5.1.3.2 ;Klínka
+5.1.3.2 ;Starfsmaður á elliheimili
+5.1.3.2 ;Starfsmaður á réttargeðdeild
+5.1.3.2 ;Starfsmaður á sambýli fatlaðra
+5.1.3.2 ;Starfsmaður á sjúkrahúsi
+5.1.3.2 ;Starfsmaður við dagvist aldraðra
+5.1.3.2 ;Umönnunarkona aldraðra
+5.1.3.2 ;Umönnunarmaður aldraðra
+5.1.3.2 ;Vökukona
+5.1.3.2 ;Vökumaður
+5.1.3.2 ;Aðstoðarstörf á stofnunum og læknastofum
+5.1.3.2 ;Aðstoðarstörf á stofnunum og læknastofum
+5.1.3.3 ;Umönnunarstörf á einkaheimilum
+5.1.3.3 ;Heimilishjálp
+5.1.3.3 ;Starfsmaður við heimilishjálp
+5.1.3.3 ;Starfsmaður við umönnun á einkaheimili
+5.1.3.3 ;Starfsmaður þjónustuíbúða
+5.1.3.3 ;Umönnunstörf á einkaheimilum
+5.1.3.9 ;Aðstoðarmaður á rannsóknarstofu ótalið a.s.
+5.1.3.9 ;Aðstoðarmaður dýralæknis
+5.1.3.9 ;Aðstoðarmaður lyfjafræðings
+5.1.3.9 ;Aðstoðarmaður lyfjatæknis
+5.1.3.9 ;Aðstoðarmaður meinatæknis
+5.1.3.9 ;Félagsliði
+5.1.3.9 ;Gæslumaður í dýragarði
+5.1.3.9 ;Hundasnyrtir
+5.1.3.9 ;Starfsmaður við sótthreinsun
+5.1.3.9 ;Starfsmaður við umhirðu dýra
+5.1.3.9 ;Aðstoðar- og umönnunarstörf ót.a.s.
+5.1.3.9 ;Aðstoðar- og umönnunarstörf ót.a.s.
+5.1.4.1 ;Störf við snyrtingu (þó ekki líksnyrtingu)
+5.1.4.1 ;Búningaskiptir í leikhúsi
+5.1.4.1 ;Fegrunarsérfræðingur
+5.1.4.1 ;Fótsnyrtir
+5.1.4.1 ;Förðunarfræðingur
+5.1.4.1 ;Förðunarmeistari
+5.1.4.1 ;Hárgreiðsludama
+5.1.4.1 ;Hárgreiðslukona
+5.1.4.1 ;Hárgreiðslumaður
+5.1.4.1 ;Hárgreiðslumeistari
+5.1.4.1 ;Hárskerameistari
+5.1.4.1 ;Hárskeri
+5.1.4.1 ;Hárskurðarmaður
+5.1.4.1 ;Hárskurðarmeistari
+5.1.4.1 ;Hársnyrtikona
+5.1.4.1 ;Hársnyrtimaður
+5.1.4.1 ;Hársnyrtir
+5.1.4.1 ;Ilmolíutæknir
+5.1.4.1 ;Leikgervahönnuður
+5.1.4.1 ;Listförðunarfræðingur
+5.1.4.1 ;Naglafræðingur
+5.1.4.1 ;Naglasnyrtifræðingur
+5.1.4.1 ;Nuddari
+5.1.4.1 ;Nuddkona
+5.1.4.1 ;Rafnuddari
+5.1.4.1 ;Rakarameistari
+5.1.4.1 ;Rakari
+5.1.4.1 ;Snyrtifræðingur
+5.1.4.1 ;Snyrtir
+5.1.4.1 ;Snyrtisérfræðingur
+5.1.4.1 ;Útlitsráðgjafi
+5.1.4.1 ;Nemi við snyrtingu
+5.1.4.1 ;Störf við snyrtingu (þó ekki líksnyrtingu)
+5.1.4.2 ;Einkaþjónn
+5.1.4.2 ;Fósturforeldri
+5.1.4.2 ;Fylgdarkona
+5.1.4.2 ;Fylgdarmaður
+5.1.4.2 ;Starfsmaður við liðveislu
+5.1.4.2 ;Stuðningsforeldri
+5.1.4.2 ;Stuðningsmaður
+5.1.4.2 ;Tilsjónarmaður
+5.1.4.2 ;Störf fylgdarmanna og einkaþjóna
+5.1.4.2 ;Störf fylgdarmanna og einkaþjóna
+5.1.4.3 ;Störf við útfararstjórn og líksnyrtingu
+5.1.4.3 ;Líksnyrtir
+5.1.4.3 ;Útfararstjóri
+5.1.4.3 ;Störf við útfararstjórn og líksnyrtingu
+5.1.4.9 ;Lagskona
+5.1.4.9 ;Lagsmaður
+5.1.4.9 ;Leiðbeinandi á íþrótta- og leikjanámskeiði
+5.1.4.9 ;Leiðbeinandi hjá KFUM & KFUK
+5.1.4.9 ;Leiðbeinandi í félagsmiðstöð
+5.1.4.9 ;Listmeðferðarfræðingur
+5.1.4.9 ;Starfsmaður í félagsmiðstöð
+5.1.4.9 ;Tómstundaleiðbeinandi
+5.1.4.9 ;Önnur þjónusta við einstaklinga ót.a.s.
+5.1.4.9 ;Önnur þjónusta við einstaklinga ót.a.s.
+5.1.5.1 ;Stjörnuspámenn
+5.1.5.1 ;Stjörnuspámaður
+5.1.5.1 ;Stjörnuspekingur
+5.1.5.2 ;Lófalesari
+5.1.5.2 ;Spákona
+5.1.5.2 ;Spámaður
+5.1.5.2 ;Spámiðill
+5.1.5.2 ;Spámenn
+5.1.6.1 ;Slökkviliðsstörf og brunavarsla
+5.1.6.1 ;Brunavörður
+5.1.6.1 ;Eiturefnakafari
+5.1.6.1 ;Reykkafari
+5.1.6.1 ;Slökkviliðsmaður
+5.1.6.1 ;Varðstjóri á slökkvistöð
+5.1.6.1 ;Slökkviliðsstörf og brunavarsla
+5.1.6.2 ;Aðalvarðstjóri í lögreglu
+5.1.6.2 ;Aðstoðaryfirlögregluþjónn
+5.1.6.2 ;Héraðslögreglumaður
+5.1.6.2 ;Lögreglufulltrúi í víkingasveit
+5.1.6.2 ;Lögreglumaður í víkingasveit
+5.1.6.2 ;Lögreglumaður við almenna löggæslu
+5.1.6.2 ;Lögregluvarðstjóri
+5.1.6.2 ;Lögregluþjónn
+5.1.6.2 ;Yfirlögregluþjónn
+5.1.6.2 ;Yfirvarðstjóri
+5.1.6.2 ;Lögreglufulltrúi við löggæslu
+5.1.6.2 ;Lögreglumaður á lögreglustöð
+5.1.6.2 ;Lögreglumaður við umferðargæslu
+5.1.6.2 ;Stöðvarmaður á lögreglustöð
+5.1.6.2 ;Lögreglumaður
+5.1.6.2 ;Nemi við löggæslu
+5.1.6.2 ;Störf við löggæslu
+5.1.6.2 ;Störf við löggæslu
+5.1.6.3 ;Störf við fangavörslu
+5.1.6.3 ;Fangavörður
+5.1.6.3 ;Störf við fangavörslu
+5.1.6.4 ;Forstöðumaður íþróttahúss (ekki við stjórnun)
+5.1.6.4 ;Húsvörður
+5.1.6.4 ;Kirkjuvörður
+5.1.6.4 ;Ráðsmaður á safni
+5.1.6.4 ;Ræstingamaður með húsvörsluskyldu
+5.1.6.4 ;Skálavörður
+5.1.6.4 ;Umsjónarmaður fasteigna (ekki við stjórnun)
+5.1.6.4 ;Umsjónarmaður leiksviðs
+5.1.6.4 ;Störf við húsvörslu
+5.1.6.4 ;Störf við húsvörslu
+5.1.6.9 ;Önnur gæslu-, eftirlits- og björgunarstörf ófl.a.
+5.1.6.9 ;Baðvörður
+5.1.6.9 ;Bátsmaður á varðskipi
+5.1.6.9 ;Björgunarsveitarmaður
+5.1.6.9 ;Dómvörður
+5.1.6.9 ;Flugvallareftirlitsmaður
+5.1.6.9 ;Flugvallarvörður
+5.1.6.9 ;Gæslumaður á geðdeild
+5.1.6.9 ;Hafnarvörður
+5.1.6.9 ;Háseti á varðskipi
+5.1.6.9 ;Hreindýraeftirlitsmaður
+5.1.6.9 ;Kirkjugarðsvörður
+5.1.6.9 ;Landgræðsluvörður
+5.1.6.9 ;Landvörður
+5.1.6.9 ;Lífvörður
+5.1.6.9 ;Mæðiveikivörður
+5.1.6.9 ;Réttargæslumaður
+5.1.6.9 ;Réttarþjónn
+5.1.6.9 ;Sjúkraflutningamaður
+5.1.6.9 ;Skógarvörður
+5.1.6.9 ;Starfsmaður á réttargeðdeild við gæslu
+5.1.6.9 ;Starfsmaður íþróttahúss
+5.1.6.9 ;Starfsmaður sundlaugar
+5.1.6.9 ;Sundlaugarvörður
+5.1.6.9 ;Svæðisumsjónarmaður
+5.1.6.9 ;Svæðisvörður
+5.1.6.9 ;Umsjónarmaður íþróttahúss
+5.1.6.9 ;Umsjónarmaður sundlaugar
+5.1.6.9 ;Vallarstjóri á íþróttaleikvangi
+5.1.6.9 ;Varðmaður
+5.1.6.9 ;Veiðieftirlitsmaður
+5.1.6.9 ;Veiðivörður
+5.1.6.9 ;Yfirhafnarvörður
+5.1.6.9 ;Þjóðgarðsvörður (ekki við stjórnun)
+5.1.6.9 ;Öryggisfulltrúi
+5.1.6.9 ;Öryggisvörður við gæslu-, eftirlits- og björgunarstörf ótalið a.s.
+5.1.6.9 ;Öryggisvörður
+5.1.6.9 ;Gæslumaður í heimavist
+5.1.6.9 ;Önnur gæslu-, eftirlits- og björgunarstörf ót.a.s.
+5.2.1.0 ;Fyrirsæta
+5.2.1.0 ;Módel
+5.2.1.0 ;Tískusýningarmaður
+5.2.1.0 ;Tískusýningarstúlka
+5.2.1.0 ;Tískusýningarstörf og önnur sýningarstörf
+5.2.1.0 ;Tískusýningarstörf og önnur sýningarstörf
+5.2.2.1 ;Afgreiðslu- og sölustörf í dagvöruverslunum, bakaríum, bensínstöðvum, lagerum, sjoppum, vídeóleigum og lík störf
+5.2.2.1 ;Aðstoðarverslunarstjóri
+5.2.2.1 ;Aðstoðarverslunarstjóri (aðallega við afgreiðslu)
+5.2.2.1 ;Afgreiðsla á skyndibitastað
+5.2.2.1 ;Afgreiðsludama
+5.2.2.1 ;Afgreiðslukona
+5.2.2.1 ;Afgreiðslumaður
+5.2.2.1 ;Afgreiðslumaður á kaffiteríu
+5.2.2.1 ;Afgreiðslumaður á lager
+5.2.2.1 ;Afgreiðslumaður á matsölustað
+5.2.2.1 ;Afgreiðslumaður á pítsastað
+5.2.2.1 ;Afgreiðslumaður á skyndibitastað
+5.2.2.1 ;Afgreiðslumaður á sólbaðsstofu
+5.2.2.1 ;Afgreiðslumaður í blómabúð
+5.2.2.1 ;Afgreiðslumaður í dagvöruverslun
+5.2.2.1 ;Afgreiðslumaður í kjötborði í verslun
+5.2.2.1 ;Afgreiðslumaður í ljósmyndavöruverslun
+5.2.2.1 ;Afgreiðslumaður í lyfjaverslun
+5.2.2.1 ;Afgreiðslumaður í myndbandaleigu
+5.2.2.1 ;Afgreiðslumaður í sjoppu
+5.2.2.1 ;Afgreiðslumaður í stórmarkaði
+5.2.2.1 ;Afgreiðslumaður í vídeóleigu
+5.2.2.1 ;Afgreiðslustúlka
+5.2.2.1 ;Bensínafgreiðslumaður
+5.2.2.1 ;Bóksali
+5.2.2.1 ;Deildarstjóri við afgreiðslu í verslun
+5.2.2.1 ;Fornmunasali
+5.2.2.1 ;Kaupkona
+5.2.2.1 ;Kaupmaður
+5.2.2.1 ;Lagermaður við afgreiðslu
+5.2.2.1 ;Olíuafgreiðslumaður
+5.2.2.1 ;Starfsmaður við röðun í hillur
+5.2.2.1 ;Starfsmaður við uppröðun í hillur
+5.2.2.1 ;Sölumaður við afgreiðslu og sölu
+5.2.2.1 ;Vaktstjóri í verslun (ekki við stjórnun)
+5.2.2.1 ;Verslunarkona
+5.2.2.1 ;Verslunarmaður
+5.2.2.1 ;Verslunarstjóri (aðallega við afgreiðslu)
+5.2.2.1 ;Vörukynnir
+5.2.2.1 ;Deildarstjóri söludeildar í verslun (aðallega við afgreiðslu)
+5.2.2.1 ;Pakkhúsmaður við afgreiðslu
+5.2.2.1 ;Sölumaður í smásölu
+5.2.2.1 ;Sölumaður
+5.2.2.1 ;Afgreiðslumaður í heildsölu
+5.2.2.1 ;Afgreiðslu- og sölustörf í dagvöruverslunum, bakaríum, bensínstöðvum, lagerum, sjoppum, myndbandaleigum og lík störf
+5.2.2.2 ;Farandsali
+5.2.2.2 ;Húsgöngusali
+5.2.2.2 ;Símasölumaður
+5.2.2.2 ;Spyrill í spurningakönnun
+5.2.2.2 ;Störf við húsgöngu- og símasölu
+5.2.2.2 ;Störf við húsgöngu- og símasölu
+5.2.2.3 ;Afgreiðslustörf á kassa í verslunum og stórmörkuðum
+5.2.2.3 ;Afgreiðslukona á afgreiðslukassa
+5.2.2.3 ;Afgreiðslumaður á afgreiðslukassa
+5.2.2.3 ;Kassadama
+5.2.2.3 ;Afgreiðslustörf á kassa í verslunum og stórmörkuðum
+5.2.2.4 ;Afgreiðslumaður á bílaleigu
+5.2.2.4 ;Afgreiðslumaður í heildsölu
+5.2.2.4 ;Afgreiðslumaður í málningarvöruverslun
+5.2.2.4 ;Afgreiðslumaður í pípulagnadeild
+5.2.2.4 ;Afgreiðslumaður í pípulagningaverslun
+5.2.2.4 ;Afgreiðslumaður í raflagnadeild
+5.2.2.4 ;Afgreiðslumaður í raflagnaverslun
+5.2.2.4 ;Afgreiðslumaður í sérvöruverslun
+5.2.2.4 ;Bifreiðasali
+5.2.2.4 ;Bílasali
+5.2.2.4 ;Listmunasali
+5.2.2.4 ;Sölumaður í bílasölu
+5.2.2.4 ;Sölumaður í heildsölu
+5.2.2.4 ;Sérhæft afgreiðslu- og sölufólk
+5.2.2.4 ;Afgreiðslu- og sölustörf í sérvöruverslunum og heildsölum
+5.2.2.4 ;Afgreiðslu- og sölustörf í sérvöruverslunum og heildsölum
+5.2.3.0 ;Afgreiðslu- og sölustörf í sölubásum og á mörkuðum
+5.2.3.0 ;Afgreiðslumaður í sölutjaldi
+5.2.3.0 ;Pylsusali
+5.2.3.0 ;Sölumaður á útimarkaði
+5.2.3.0 ;Afgreiðslu- og sölustörf í sölubásum og á mörkuðum
+6.1.1.1 ;Akuryrkjubóndi
+6.1.1.1 ;Grænmetisbóndi
+6.1.1.1 ;Kartöflubóndi
+6.1.1.1 ;Kornræktarbóndi
+6.1.1.1 ;Akuryrkju- og grænmetisbændur
+6.1.1.1 ;Akuryrkju- og grænmetisbændur
+6.1.1.3 ;Garðyrkju- og ylræktarbændur og garðyrkjumenn
+6.1.1.3 ;Blómaræktandi
+6.1.1.3 ;Ferðaþjónustubóndi með garðyrkjurækt
+6.1.1.3 ;Ferðaþjónustubóndi með ylrækt
+6.1.1.3 ;Garðyrkjubóndi
+6.1.1.3 ;Garðyrkjubóndi með ferðaþjónustu
+6.1.1.3 ;Garðyrkjuiðnfræðingur
+6.1.1.3 ;Garðyrkjumaður
+6.1.1.3 ;Garðyrkjumeistari
+6.1.1.3 ;Gróðurhúsabóndi
+6.1.1.3 ;Skrúðgarðastjóri
+6.1.1.3 ;Skrúðgarðyrkjubóndi
+6.1.1.3 ;Skrúðgarðyrkjumaður
+6.1.1.3 ;Skrúðgarðyrkjumeistari
+6.1.1.3 ;Skrúðgarðyrkjustjóri
+6.1.1.3 ;Svepparæktandi
+6.1.1.3 ;Ylræktarbóndi
+6.1.1.3 ;Ylræktarbóndi með ferðaþjónustu
+6.1.1.3 ;Nemi við skrúðgarðyrkju
+6.1.1.3 ;Garðyrkju- og ylræktarbændur og garðyrkjumenn
+6.1.1.4 ;Bóndi með blandað bú (akuryrkju-, grænmetis- eða ylræktarbú)
+6.1.1.4 ;Bændur með blandað bú akuryrkju, garðyrkju og ylræktar
+6.1.1.4 ;Bændur með blandað bú akuryrkju, garðyrkju og ylræktar
+6.1.2.1 ;Kvikfjárbændur
+6.1.2.1 ;Hrossabóndi
+6.1.2.1 ;Hrossabóndi með ferðaþjónustu
+6.1.2.1 ;Hrossaræktandi
+6.1.2.1 ;Hundabóndi
+6.1.2.1 ;Hundaræktandi
+6.1.2.1 ;Kúabóndi
+6.1.2.1 ;Kvikfjárbóndi
+6.1.2.1 ;Kvikfjárbóndi með ferðaþjónustu
+6.1.2.1 ;Kvikfjárræktarbóndi
+6.1.2.1 ;Loðdýrabóndi
+6.1.2.1 ;Loðdýraræktandi
+6.1.2.1 ;Ráðsmaður á bóndabýli
+6.1.2.1 ;Refabóndi
+6.1.2.1 ;Sauðfjárbóndi
+6.1.2.1 ;Tamningakona
+6.1.2.1 ;Tamningamaður
+6.1.2.1 ;Æðarbóndi með ferðaþjónustu
+6.1.2.1 ;Kvikfjárbændur
+6.1.2.2 ;Alifuglabóndi
+6.1.2.2 ;Alifuglabóndi með ferðaþjónustu
+6.1.2.2 ;Eggjaframleiðandi
+6.1.2.2 ;Ferðaþjónustubóndi með alifuglarækt
+6.1.2.2 ;Kjúklingabóndi
+6.1.2.2 ;Alifuglabændur
+6.1.2.2 ;Alifuglabændur
+6.1.2.4 ;Búfjárbændur með blandað bú
+6.1.2.4 ;Búfjárbóndi með blandað fjárbú
+6.1.2.4 ;Búfjárbóndi með blandað fjárbú og ferðaþjónustu
+6.1.2.4 ;Ferðaþjónustubóndi með blandað fjárbú
+6.1.2.4 ;Ferðaþjónustubóndi með kvikfjárrækt
+6.1.2.4 ;Búfjárbændur með blandað bú
+6.1.2.9 ;Búfjárbóndi ótalið a.s.
+6.1.2.9 ;Býflugnabóndi
+6.1.2.9 ;Dýraeftirlitsmaður
+6.1.2.9 ;Dýragæslumaður
+6.1.2.9 ;Dýrahirðir á friðlandi
+6.1.2.9 ;Dýrahirðir í dýragarði
+6.1.2.9 ;Dýraræktandi ótalið a.s.
+6.1.2.9 ;Dýraræktunarmaður á rannsóknarstofu
+6.1.2.9 ;Ferðaþjónustubóndi með æðarvarp
+6.1.2.9 ;Æðarbóndi
+6.1.2.9 ;Búfjárbændur með óhefðbundin búskap ót.a.s.
+6.1.2.9 ;Búfjárbændur með óhefðbundin búskap ófl.a.
+6.1.3.0 ;Akuryrkju- og búfjárbændur með blandað bú
+6.1.3.0 ;Bóndi með blandað bú (akuryrkja og búfjárrækt)
+6.1.3.0 ;Bóndi með blandað bú (akuryrkja, búfjárrækt, ferðaþjónustu)
+6.1.3.0 ;Ferðaþjónustubóndi með blandað bú (akuryrkja og búfjárrækt)
+6.1.3.0 ;Hlunnindabóndi
+6.1.3.0 ;Akuryrkju- og búfjárbændur með blandað bú
+6.1.4.0 ;Ferðaþjónustubóndi með skógrækt
+6.1.4.0 ;Kolagerðarmaður
+6.1.4.0 ;Skógræktarbóndi
+6.1.4.0 ;Skógræktarmaður
+6.1.4.0 ;Skógtæknir
+6.1.4.0 ;Störf við skógrækt
+6.1.4.0 ;Störf við skógrækt
+6.1.5.1 ;Störf við fiskeldi og hafbeit
+6.1.5.1 ;Ferðaþjónustubóndi með fiskeldi
+6.1.5.1 ;Fiskeldisbóndi
+6.1.5.1 ;Fiskeldismaður
+6.1.5.1 ;Fiskeldistæknir
+6.1.5.1 ;Sérhæfður starfsmaður í fiskeldisstöð
+6.1.5.1 ;Sérhæfður starfsmaður í hafbeitarstöð
+6.1.5.1 ;Skeldýrabóndi
+6.1.5.1 ;Störf við fiskeldi og hafbeit
+6.1.5.4 ;Fuglaveiðimaður
+6.1.5.4 ;Hreindýraveiðimaður
+6.1.5.4 ;Hvalveiðimaður
+6.1.5.4 ;Minkaveiðimaður
+6.1.5.4 ;Refaskytta
+6.1.5.4 ;Rjúpnaskytta
+6.1.5.4 ;Selveiðimaður
+6.1.5.4 ;Skotveiðimaður
+6.1.5.4 ;Skytta
+6.1.5.4 ;Veiðimaður
+6.1.5.4 ;Störf við veiðar aðrar en fiskveiðar
+6.1.5.4 ;Störf við veiðar aðrar en fiskveiðar
+6.4.1.1 ;Störf skipstjórnarmanna á fiskibátum minni en 20 brúttótonn
+6.4.1.1 ;Grásleppukarl
+6.4.1.1 ;Skipstjóri á fiskibáti minni en 20 brúttótonn
+6.4.1.1 ;Stýrimaður á fiskibáti minni en 20 brúttótonn
+6.4.1.1 ;Trillukarl
+6.4.1.1 ;Trillusjómaður
+6.4.1.1 ;Störf skipstjórnarmanna á fiskibátum minni en 20 brúttótonn
+6.4.1.9 ;Bátsmaður á fiskibáti minni en 20 brúttótonn
+6.4.1.9 ;Beitningarmaður
+6.4.1.9 ;Háseti á fiskibáti minni en 20 brúttótonn
+6.4.1.9 ;Landformaður
+6.4.1.9 ;Landmaður
+6.4.1.9 ;Sjómaður á fiskibáti minni en 20 brúttótonn
+6.4.1.9 ;Útvegsbóndi
+6.4.1.9 ;Önnur störf við veiðar á fiskibátum minni en 20 brúttótonn
+6.4.1.9 ;Önnur störf við veiðar á fiskibátum minni en 20 brúttótonn
+6.4.2.1 ;Störf skipstjóra á fiskiskipum stærri en 20 brúttótonn
+6.4.2.1 ;Skipstjóri á fiskiskipi stærra en 20 brúttótonn
+6.4.2.1 ;Skipstjóri á frystitogara stærri en 20 brúttótonn
+6.4.2.1 ;Skipstjóri á hvalveiðiskipi
+6.4.2.1 ;Skipstjóri á ísfisktogara stærri en 20 brúttótonn
+6.4.2.1 ;Skipstjóri á togara eða vinnsluskipi stærri en 20 brúttótonn
+6.4.2.1 ;Skipstjóri á úthafsveiðiskipi stærri en 20 brúttótonn
+6.4.2.1 ;Störf skipstjóra á fiskiskipum stærri en 20 brúttótonn
+6.4.2.2 ;Stýrimaður á fiskiskipi stærra en 20 brúttótonn
+6.4.2.2 ;Stýrimaður á frystitogara stærri en 20 brúttótonn
+6.4.2.2 ;Stýrimaður á hvalveiðiskipi
+6.4.2.2 ;Stýrimaður á ísfisktogara stærri en 20 brúttótonn
+6.4.2.2 ;Stýrimaður á togara eða vinnsluskipi stærri en 20 brúttótonn
+6.4.2.2 ;Stýrimaður á úthafsveiðiskipi stærra en 20 brúttótonn
+6.4.2.2 ;Störf stýrimanna á fiskiskipum stærri en 20 brúttótonn
+6.4.2.2 ;Störf stýrimanna á fiskiskipum stærri en 20 brúttótonn
+6.4.2.9 ;Störf á fiskiskipum stærri en 20 brúttótonn ófl.a.
+6.4.2.9 ;Bátsmaður á fiskiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Bátsmaður á frystitogara stærri en 20 brúttótonn
+6.4.2.9 ;Bátsmaður á ísfisktogara stærri en 20 brúttótonn
+6.4.2.9 ;Bátsmaður á úthafsveiðiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Bátsmaður á vinnsluskipi stærra en 20 brúttótonn
+6.4.2.9 ;Háseti á fiskiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Háseti á frystitogara stærri en 20 brúttótonn
+6.4.2.9 ;Háseti á ísfisktogara stærri en 20 brúttótonn
+6.4.2.9 ;Háseti á úthafsveiðiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Háseti á vinnsluskipi stærra en 20 brúttótonn
+6.4.2.9 ;Messagutti á fiskiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Messagutti á frystitogara stærri en 20 brúttótonn
+6.4.2.9 ;Messagutti á ísfisktogara stærri en 20 brúttótonn
+6.4.2.9 ;Messagutti á úthafsveiðiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Messagutti á vinnsluskipi stærra en 20 brúttótonn
+6.4.2.9 ;Netamaður á fiskiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Netamaður á frystitogara stærri en 20 brúttótonn
+6.4.2.9 ;Netamaður á ísfisktogara stærri en 20 brúttótonn
+6.4.2.9 ;Netamaður á úthafsveiðiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Netamaður á vinnsluskipi stærra en 20 brúttótonn
+6.4.2.9 ;Sjómaður á fiskiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Sjómaður á frystitogara stærri en 20 brúttótonn
+6.4.2.9 ;Sjómaður á ísfisktogara stærri en 20 brúttótonn
+6.4.2.9 ;Sjómaður á úthafsveiðiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Sjómaður á vinnsluskipi stærra en 20 brúttótonn
+6.4.2.9 ;Vinnslustjóri á fiskiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Vinnslustjóri á frystitogara stærri en 20 brúttótonn
+6.4.2.9 ;Vinnslustjóri á ísfisktogara stærri en 20 brúttótonn
+6.4.2.9 ;Vinnslustjóri á úthafsveiðiskipi stærra en 20 brúttótonn
+6.4.2.9 ;Vinnslustjóri á vinnsluskipi stærra en 20 brúttótonn
+6.4.2.9 ;Störf á fiskiskipum stærri en 20 brúttótonn ót.a.s.
+7.1.1.1 ;Námamaður
+7.1.1.1 ;Störf námamanna
+7.1.1.1 ;Störf námamanna
+7.1.1.2 ;Störf sprengisérfræðinga
+7.1.1.2 ;Flugeldagerðarmaður
+7.1.1.2 ;Sprengileitarmaður
+7.1.1.2 ;Sprengisérfræðingur
+7.1.1.2 ;Sprengjuleitarmaður
+7.1.1.2 ;Starfsmaður við flugeldagerð
+7.1.1.2 ;Störf sprengisérfræðinga
+7.1.1.3 ;Legsteinasmiður
+7.1.1.3 ;Sandblásari (stein)
+7.1.1.3 ;Steinhöggvari
+7.1.1.3 ;Steinslípari
+7.1.1.3 ;Steinsmiður
+7.1.1.3 ;Störf steinsmiða, steinhöggvara og steinslípara
+7.1.1.3 ;Störf steinsmiða, steinhöggvara og steinslípara
+7.1.2.1 ;Störf torfhleðslumanna
+7.1.2.1 ;Torfhleðslumaður
+7.1.2.1 ;Störf torfhleðslumanna
+7.1.2.2 ;Hellulagningamaður
+7.1.2.2 ;Múrhleðslumaður
+7.1.2.2 ;Steinhleðslumaður
+7.1.2.2 ;Störf múr- og steinhleðslumanna
+7.1.2.2 ;Störf múr- og steinhleðslumanna
+7.1.2.3 ;Störf húsasmiða
+7.1.2.3 ;Byggingarmeistari
+7.1.2.3 ;Byggingarsmiður
+7.1.2.3 ;Byggingarverktaki
+7.1.2.3 ;Glerísetningarmaður
+7.1.2.3 ;Húsasmiður
+7.1.2.3 ;Húsasmíðameistari
+7.1.2.3 ;Járnabindingamaður
+7.1.2.3 ;Járnamaður við húsbyggingar
+7.1.2.3 ;Smiður
+7.1.2.3 ;Starfsmaður við húsasmíðar
+7.1.2.3 ;Steypueiningasmiður
+7.1.2.3 ;Trésmiður við húsasmíðar
+7.1.2.3 ;Verkstjóri í byggingariðnaði
+7.1.2.3 ;Nemi í húsasmíði
+7.1.2.3 ;Störf húsasmiða
+7.1.2.4 ;Bátasmiður (tré)
+7.1.2.4 ;Innréttingasmiður
+7.1.2.4 ;Leiktjaldasmiður
+7.1.2.4 ;Mótasmiður (tré)
+7.1.2.4 ;Parketlagningamaður
+7.1.2.4 ;Skipasmiður (tré)
+7.1.2.4 ;Trébátasmiður
+7.1.2.4 ;Trésmiður
+7.1.2.4 ;Trésmiður við innréttingasmíði
+7.1.2.4 ;Trésmiður við parketlögn
+7.1.2.4 ;Trésmíðameistari
+7.1.2.4 ;Reiðasmiður
+7.1.2.4 ;Trésmiður við innréttingauppsetningu
+7.1.2.4 ;Nemi í trésmíði
+7.1.2.4 ;Störf trésmiða
+7.1.2.4 ;Störf trésmiða
+7.1.2.9 ;Störf byggingarsmiða ót.a.s.
+7.1.2.9 ;Byggingarstarfsmaður við niðurrif húsa
+7.1.2.9 ;Húasmiður við smíðar á vinnupöllum
+7.1.2.9 ;Húsasmiður með óhefðbundin efni
+7.1.2.9 ;Húsasmiður við smíðar á vinnupöllum
+7.1.2.9 ;Nemi í bygginarsmíði ót.a.s.
+7.1.2.9 ;Störf byggingarsmiða ót.a.s.
+7.1.3.1 ;Þaklagningamaður
+7.1.3.1 ;Þakpappalagningamaður
+7.1.3.1 ;Störf þaklagningarmanna
+7.1.3.1 ;Störf þaklagningarmanna
+7.1.3.2 ;Störf dúklagningarmanna og teppalagningarmanna
+7.1.3.2 ;Dúklagningamaður
+7.1.3.2 ;Dúklagningameistari
+7.1.3.2 ;Teppalagningamaður
+7.1.3.2 ;Störf dúklagningarmanna og teppalagningarmanna
+7.1.3.3 ;Flísalagningamaður
+7.1.3.3 ;Flotlagningamaður
+7.1.3.3 ;Múrarameistari
+7.1.3.3 ;Múrari
+7.1.3.3 ;Múrari við fínpússun
+7.1.3.3 ;Múrari við flísalögn
+7.1.3.3 ;Múrari við gifshúðun
+7.1.3.3 ;Terrazólagningamaður
+7.1.3.3 ;Mósaíkleggjari
+7.1.3.3 ;Múraranemi
+7.1.3.3 ;Störf múrara
+7.1.3.3 ;Störf múrara
+7.1.3.6 ;Störf pípulagningarmanna
+7.1.3.6 ;Pípari
+7.1.3.6 ;Pípulagningarmaður
+7.1.3.6 ;Pípulagningameistari
+7.1.3.6 ;Röralagningarmaður
+7.1.3.6 ;Nemi við pípulagnir
+7.1.3.6 ;Störf pípulagningarmanna
+7.1.3.7 ;Rafiðnaðarmaður
+7.1.3.7 ;Rafvirki
+7.1.3.7 ;Rafvirkjameistari
+7.1.3.7 ;Yfirrafvirki
+7.1.3.7 ;Rafvirki við byggingar
+7.1.3.7 ;Nemi við rafvirkjun
+7.1.3.7 ;Störf rafvirkja
+7.1.3.7 ;Störf rafvirkja
+7.1.4.1 ;Störf málara
+7.1.4.1 ;Húsamálari
+7.1.4.1 ;Málarameistari
+7.1.4.1 ;Málari
+7.1.4.1 ;Skipamálari
+7.1.4.1 ;Veggfóðrara- og dúklagningamaður
+7.1.4.1 ;Veggfóðrarameistari
+7.1.4.1 ;Veggfóðrari
+7.1.4.1 ;Málaranemi
+7.1.4.1 ;Störf málara
+7.1.4.2 ;Bílamálarameistari
+7.1.4.2 ;Bílamálari
+7.1.4.2 ;Iðnmálari
+7.1.4.2 ;Starfsmaður við ryðvörn bíla og tækja
+7.1.4.2 ;Vélamálari
+7.1.4.2 ;Nemi við bílamálun
+7.1.4.2 ;Störf iðn- og bílamálara
+7.1.4.2 ;Störf iðn- og bílamálara
+7.1.4.3 ;Störf byggingarþvottamanna
+7.1.4.3 ;Byggingarþvottamaður
+7.1.4.3 ;Sandblásari (hús)
+7.1.4.3 ;Sandblástursmaður
+7.1.4.3 ;Sótari
+7.1.4.3 ;Störf byggingarþvottamanna
+7.2.1.1 ;Járnsteypumaður
+7.2.1.1 ;Kjarnasmiður
+7.2.1.1 ;Málmsmiður
+7.2.1.1 ;Málmsteypumaður
+7.2.1.1 ;Módelsmiður (málmur)
+7.2.1.1 ;Mótasmiður (málmur)
+7.2.1.1 ;Nemi við málmsmíði
+7.2.1.1 ;Störf við málmsmíði
+7.2.1.1 ;Störf við málmsmíði
+7.2.1.2 ;Störf við logsuðu- og málmsuðu
+7.2.1.2 ;Logskurðarmaður
+7.2.1.2 ;Logsuðumaður
+7.2.1.2 ;Málmsuðumaður
+7.2.1.2 ;Rafsuðumaður
+7.2.1.2 ;Störf við logsuðu- og málmsuðu
+7.2.1.3 ;Bifreiðasmiður
+7.2.1.3 ;Bifreiðasmíðameistari
+7.2.1.3 ;Bílaréttingarmaður
+7.2.1.3 ;Bílasmiður
+7.2.1.3 ;Blikksmiður
+7.2.1.3 ;Blikksmíðameistari
+7.2.1.3 ;Ketilsmiður
+7.2.1.3 ;Koparsmiður
+7.2.1.3 ;Plötusmiður
+7.2.1.3 ;Stáltunnusmiður
+7.2.1.3 ;Eirsmiður
+7.2.1.3 ;Bifreiðasmíðanemi
+7.2.1.3 ;Nemi við blikksmíði og plötusmíði
+7.2.1.3 ;Störf við blikksmíði og plötusmíði
+7.2.1.3 ;Störf við blikksmíði og plötusmíði
+7.2.1.4 ;Störf við mannvirkjagerð úr stáli
+7.2.1.4 ;Brúarsmiður við stálbrýr
+7.2.1.4 ;Skipasmiður (stál)
+7.2.1.4 ;Skipasmíðameistari (stál)
+7.2.1.4 ;Stálbyggingarsmiður
+7.2.1.4 ;Stálskipasmiður
+7.2.1.4 ;Stálsmiður
+7.2.1.4 ;Stálsmíðameistari
+7.2.1.4 ;Stálvirkjameistari
+7.2.1.4 ;Stálvirkjasmiður
+7.2.1.4 ;Plastbátasmiður
+7.2.1.4 ;Skipasmiður (plastbátar)
+7.2.1.4 ;Nemi við stálsmíðar
+7.2.1.4 ;Störf við mannvirkjagerð úr stáli
+7.2.1.5 ;Brúarsmiður við hengibrýr
+7.2.1.5 ;Tógsplæsingamaður
+7.2.1.5 ;Uppsetningarmaður á skíðalyftum
+7.2.1.5 ;Vírsplæsingamaður
+7.2.1.5 ;Störf við vírsplæsingu og vírsplæsingagerð
+7.2.1.5 ;Störf við vírsplæsingu og vírsplæsingargerð
+7.2.1.6 ;Störf við köfun
+7.2.1.6 ;Kafari
+7.2.1.6 ;Kafari við björgunarstörf
+7.2.1.6 ;Kafari við mannvirkjagerð
+7.2.1.6 ;Kafari við skipaviðgerðir
+7.2.1.6 ;Störf við köfun
+7.2.2.1 ;Eldsmiður
+7.2.2.1 ;Járniðnaðarmaður
+7.2.2.1 ;Járningamaður
+7.2.2.1 ;Járningameistari
+7.2.2.1 ;Járnsmiður
+7.2.2.1 ;Járnsmíðamaður
+7.2.2.1 ;Járnsmíðameistari
+7.2.2.1 ;Skeifusmiður
+7.2.2.1 ;Nemi við járnsmíði og eldsmíði
+7.2.2.1 ;Störf járnsmiða og eldsmiða
+7.2.2.1 ;Störf járnsmiða og eldsmiða
+7.2.2.2 ;Störf verkfærasmiða
+7.2.2.2 ;Byssusmiður
+7.2.2.2 ;Lásasmiður
+7.2.2.2 ;Verkfærasmiður
+7.2.2.2 ;Störf verkfærasmiða
+7.2.2.3 ;Leikfangasmiður, málmleikföng
+7.2.2.3 ;Málmleikfangasmiður
+7.2.2.3 ;Rennismiður
+7.2.2.3 ;Rennismíðameistari
+7.2.2.3 ;Smíðavélasmiður
+7.2.2.3 ;Nemi við rennismíði
+7.2.2.3 ;Störf rennismiða
+7.2.2.3 ;Störf rennismiða
+7.2.2.4 ;Störf skerpingarmanna
+7.2.2.4 ;Málmslípari
+7.2.2.4 ;Skerpingarmaður
+7.2.2.4 ;Störf skerpingarmanna
+7.2.3.1 ;Bifvélavirki
+7.2.3.1 ;Bifvélavirkjameistari
+7.2.3.1 ;Bílaviðgerðarmaður
+7.2.3.1 ;Reiðhjólasmiður
+7.2.3.1 ;Reiðhjólaviðgerðarmaður
+7.2.3.1 ;Vélvirki við bifreiðar
+7.2.3.1 ;Nemi við bifvélavirkjun
+7.2.3.1 ;Störf bifvélavirkja
+7.2.3.1 ;Störf bifvélavirkja
+7.2.3.2 ;Störf flugvirkja
+7.2.3.2 ;Flugvélasmiður
+7.2.3.2 ;Flugvélavirki
+7.2.3.2 ;Flugvirki
+7.2.3.2 ;Vélvirki við flugvélar
+7.2.3.2 ;Yfirflugvirki
+7.2.3.2 ;Nemi við flugvirkjun
+7.2.3.2 ;Störf flugvirkja
+7.2.3.3 ;Annar vélstjóri
+7.2.3.3 ;Smyrjari
+7.2.3.3 ;Vélamaður
+7.2.3.3 ;Vélavörður
+7.2.3.3 ;Vélstjóri með 1.-3. stigs vélstjórapróf
+7.2.3.3 ;Vélvirki
+7.2.3.3 ;Vélvirki (á skipi)
+7.2.3.3 ;Vélvirki við framleiðsluvélar
+7.2.3.3 ;Vélvirki við landbúnaðarvélar
+7.2.3.3 ;Vélvirki við vélar
+7.2.3.3 ;Vélvirki við þungavinnuvélar
+7.2.3.3 ;Nemi við vélvirkjun
+7.2.3.3 ;Störf iðn- og landbúnaðarvélvirkja
+7.2.3.3 ;Störf iðn- og landbúnaðarvélvirkja
+7.2.4.1 ;Störf rafvélavirkja
+7.2.4.1 ;Rafvélavirki
+7.2.4.1 ;Rafvélavirkjameistari
+7.2.4.1 ;Rafvirki við vélar
+7.2.4.1 ;Saumavélaviðgerðarmaður (við rafsaumavélar)
+7.2.4.1 ;Skrifvélarafvirki
+7.2.4.1 ;Nemi við rafvélavirkjun
+7.2.4.1 ;Störf rafvélavirkja
+7.2.4.2 ;Radíóvirki
+7.2.4.2 ;Rafeindameistari
+7.2.4.2 ;Rafeindavirki
+7.2.4.2 ;Rafeindavirki við samsetningu
+7.2.4.2 ;Rafeindavirki við stillingar
+7.2.4.2 ;Rafeindavirki við stýribúnað og tölvur
+7.2.4.2 ;Rafeindavirki við tölvur
+7.2.4.2 ;Ratsjárviðgerðarmaður
+7.2.4.2 ;Sjónvarpsvirki
+7.2.4.2 ;Skoðunarmaður rafbúnaðar
+7.2.4.2 ;Skoðunarmaður rafeindabúnaðar
+7.2.4.2 ;Útvarpsvirki
+7.2.4.2 ;Útvarpsvirkjameistari
+7.2.4.2 ;Nemi við rafeindavirkjun
+7.2.4.2 ;Störf rafeindavirkja
+7.2.4.2 ;Störf rafeindavirkja
+7.2.4.4 ;Störf símvirkja
+7.2.4.4 ;Fjarskiptavirki
+7.2.4.4 ;Rafvirki við símvirkjun
+7.2.4.4 ;Símamaður
+7.2.4.4 ;Símvirki
+7.2.4.4 ;Símvirki við uppsetningu símkerfa
+7.2.4.4 ;Símvirkjameistari
+7.2.4.4 ;Yfirsímvirki
+7.2.4.4 ;Nemi við símvirkjun
+7.2.4.4 ;Störf símvirkja
+7.2.4.5 ;Línumaður við raflínur
+7.2.4.5 ;Línumaður við símalínur
+7.2.4.5 ;Línuvirki
+7.2.4.5 ;Raforkuvirki
+7.2.4.5 ;Rafveituvirki
+7.2.4.5 ;Rafveituvirkjameistari
+7.2.4.5 ;Símsmiður
+7.2.4.5 ;Símsmíðameistari
+7.2.4.5 ;Störf línuvirkja
+7.2.4.5 ;Störf línuvirkja
+7.3.1.1 ;Störf fíntækjasmiða
+7.3.1.1 ;Áhaldasmiður
+7.3.1.1 ;Áttavitasmiður
+7.3.1.1 ;Fíntækjasmiður
+7.3.1.1 ;Hlustarstykkjasmiður
+7.3.1.1 ;Hlustartækjasmiður
+7.3.1.1 ;Lækningatækjasmiður
+7.3.1.1 ;Myndavélasmiður
+7.3.1.1 ;Mælitækjasmiður
+7.3.1.1 ;Siglingatækjasmiður
+7.3.1.1 ;Sjóntækjasmiður
+7.3.1.1 ;Stoðtækjasmiður
+7.3.1.1 ;Tannsmiður
+7.3.1.1 ;Tannsmíðameistari
+7.3.1.1 ;Úrsmiður
+7.3.1.1 ;Úrsmíðameistari
+7.3.1.1 ;Gervilimasmiður
+7.3.1.1 ;Nemi við fíntækjasmíði
+7.3.1.1 ;Störf fíntækjasmiða
+7.3.1.2 ;Fiðlusmiður
+7.3.1.2 ;Gítarsmiður
+7.3.1.2 ;Hljóðfærasmiður
+7.3.1.2 ;Hljóðfærasmíðameistari
+7.3.1.2 ;Hljóðfærastillingarmaður
+7.3.1.2 ;Orgelsmiður
+7.3.1.2 ;Viðgerðarmaður blásturshljóðfæra
+7.3.1.2 ;Viðgerðarmaður hljóðfæra
+7.3.1.2 ;Viðgerðarmaður strengjahljóðfæra
+7.3.1.2 ;Störf hljóðfærasmiða og hljóðfærastillingarmanna
+7.3.1.2 ;Störf hljóðfærasmiða og hljóðfærastillingarmanna
+7.3.1.3 ;Störf skartgripasmiða
+7.3.1.3 ;Demantsskeri
+7.3.1.3 ;Gimsteinasmiður
+7.3.1.3 ;Gullsmiður
+7.3.1.3 ;Leturgrafari
+7.3.1.3 ;Silfursmiður
+7.3.1.3 ;Skartgripahönnuður
+7.3.1.3 ;Skartgripasmiður
+7.3.1.3 ;Nemi við skartgripasmíði
+7.3.1.3 ;Störf skartgripasmiða
+7.3.2.1 ;Hverfisteinssmiður
+7.3.2.1 ;Leirkerasmiður
+7.3.2.1 ;Leirmótasmiður
+7.3.2.1 ;Leirsmiður
+7.3.2.1 ;Módelsmiður (postulín og leir)
+7.3.2.1 ;Sandblásari (leir)
+7.3.2.1 ;Nemi við leirkerasmíði
+7.3.2.1 ;Störf leirkerasmiða
+7.3.2.1 ;Störf leirkerasmiða
+7.3.2.2 ;Störf glergerðarmanna, glerskurðarmanna og glerslípara
+7.3.2.2 ;Glerblásari
+7.3.2.2 ;Glergerðarmaður
+7.3.2.2 ;Glerskurðarmaður
+7.3.2.2 ;Glerslípari
+7.3.2.2 ;Glersmiður
+7.3.2.2 ;Sjónglerjaslípari
+7.3.2.2 ;Speglagerðarmaður
+7.3.2.2 ;Nemi við glergerð, glerskurð og glerslípun
+7.3.2.2 ;Störf glergerðarmanna, glerskurðarmanna og glerslípara
+7.3.2.3 ;Glergrafari
+7.3.2.3 ;Glerskreytingamaður
+7.3.2.3 ;Kristalskeri
+7.3.2.3 ;Sandblásari (gler)
+7.3.2.3 ;Störf glergrafara og glerskreytingarfólks
+7.3.2.3 ;Störf glergrafara og glerskreytingarfólks
+7.3.2.4 ;Störf postulínsmálara og skiltagerðarmanna
+7.3.2.4 ;Glermálari
+7.3.2.4 ;Leirmálari
+7.3.2.4 ;Postulínsmálari
+7.3.2.4 ;Skiltagerðarmaður
+7.3.2.4 ;Skiltamálari
+7.3.2.4 ;Skreytilistamaður
+7.3.2.4 ;Smeltigerðarmaður
+7.3.2.4 ;Störf postulínsmálara og skiltagerðarmanna
+7.3.3.1 ;Handíðamaður (tré, steinn og skyld efni)
+7.3.3.1 ;Innrammari
+7.3.3.1 ;Tréskurðarmaður
+7.3.3.1 ;Trétæknir
+7.3.3.1 ;Tréútskurðarmaður
+7.3.3.1 ;Störf handíðafólks með tré og skyld efni
+7.3.3.1 ;Störf handíðafólks með tré og skyld efni
+7.3.3.2 ;Störf handíðafólks með vefnað, leður og skyld efni
+7.3.3.2 ;Handíðafólk (leður og skyld efni)
+7.3.3.2 ;Handíðamaður við handprjón
+7.3.3.2 ;Handíðamaður við kertagerð
+7.3.3.2 ;Handíðamaður við listvefnað
+7.3.3.2 ;Starfsmaður við handprjón
+7.3.3.2 ;Teppavefari við handvefnað
+7.3.3.2 ;Störf handíðafólks með vefnað, leður og skyld efni
+7.3.4.1 ;Grafískur miðlari
+7.3.4.1 ;Prenthönnuður
+7.3.4.1 ;Prentljósmyndari
+7.3.4.1 ;Prentsmiður
+7.3.4.1 ;Prentsmiður við litgreiningu
+7.3.4.1 ;Setjari
+7.3.4.1 ;Skreytingamaður við prentun
+7.3.4.1 ;Starfsmaður við innskrift í prentsmiðju
+7.3.4.1 ;Starfsmaður við tölvuvinnslu
+7.3.4.1 ;Starfsmaður við tölvuvinnslu í prentsmiðju
+7.3.4.1 ;Textaritari við prentun
+7.3.4.1 ;Textaritari við setningu
+7.3.4.1 ;Textaritari við tölvur
+7.3.4.1 ;Umbrotsmaður
+7.3.4.1 ;Vélsetjari
+7.3.4.1 ;Nemi við prentsmíði og grafíska miðlun
+7.3.4.1 ;Störf prentsmiða og grafískra miðlara
+7.3.4.1 ;Störf prentsmiða og grafískra miðlara
+7.3.4.3 ;Störf stimplagerðarmanna
+7.3.4.3 ;Plötugerðarmaður
+7.3.4.3 ;Prentmyndasmiður
+7.3.4.3 ;Stimplagerðarmaður
+7.3.4.3 ;Nemi við stimplagerð
+7.3.4.3 ;Störf stimplagerðarmanna
+7.3.4.4 ;Filmuskreytingamaður
+7.3.4.4 ;Framköllunarmaður
+7.3.4.4 ;Störf framköllunarmanna
+7.3.4.4 ;Störf framköllunarmanna
+7.3.4.5 ;Störf bókbindara
+7.3.4.5 ;Aðstoðarmaður við bókband
+7.3.4.5 ;Bókbandsmeistari
+7.3.4.5 ;Bókbindari
+7.3.4.5 ;Handritaviðgerðarmaður
+7.3.4.5 ;Nemi við bókbindun
+7.3.4.5 ;Störf bókbindara
+7.3.4.6 ;Prentari við flexóprentun
+7.3.4.6 ;Prentari við sáldprentun
+7.3.4.6 ;Prentari við silkiprentun
+7.3.4.6 ;Silkiprentari
+7.3.4.6 ;Starfsmaður við fjölritun á silki
+7.3.4.6 ;Stensilgerðarmaður
+7.3.4.6 ;Starfsmaður við fjölritun
+7.3.4.6 ;Nemi við silkiprentun
+7.3.4.6 ;Störf silkiprentara
+7.3.4.6 ;Störf silkiprentara
+7.3.4.7 ;Störf prentara
+7.3.4.7 ;Prentari
+7.3.4.7 ;Prentari við hæðarprentun
+7.3.4.7 ;Prentari við offsetprentun
+7.3.4.7 ;Prentaranemi
+7.3.4.7 ;Störf prentara
+7.4.1.1 ;Hvalskurðarmaður
+7.4.1.1 ;Kjötiðnaðarmaður
+7.4.1.1 ;Kjötiðnaðarmeistari
+7.4.1.1 ;Pylsugerðarmaður
+7.4.1.1 ;Sérhæfður starfsmaður í kjötvinnslu
+7.4.1.1 ;Sérhæfður starfsmaður í sláturhúsi
+7.4.1.1 ;Slátrari
+7.4.1.1 ;Sérhæfur starfsmaður við kjötskurð
+7.4.1.1 ;Nemi við kjötiðnað
+7.4.1.1 ;Sérhæfð störf í kjötiðnaði
+7.4.1.1 ;Sérhæfð störf í kjötiðnaði
+7.4.1.2 ;Störf bakara og sælgætisgerðarmanna
+7.4.1.2 ;Bakarameistari
+7.4.1.2 ;Bakari
+7.4.1.2 ;Kökugerðarmaður
+7.4.1.2 ;Kökuskreytingamaður
+7.4.1.2 ;Sælgætisgerðarmaður
+7.4.1.2 ;Bakaranemi
+7.4.1.2 ;Störf bakara og sælgætisgerðarmanna
+7.4.1.3 ;Mjólkurfræðingur
+7.4.1.3 ;Ostagerðarmaður
+7.4.1.3 ;Mjólkurfræðinganemi
+7.4.1.3 ;Störf mjólkurfræðinga
+7.4.1.3 ;Störf mjólkurfræðinga
+7.4.1.4 ;Sérhæfð störf við niðursuðu og niðurlagningu matvæla
+7.4.1.4 ;Niðurlagningamaður
+7.4.1.4 ;Niðursuðumaður
+7.4.1.4 ;Sérhæfður starfsmaður við niðurlagningu ávaxta
+7.4.1.4 ;Sérhæfður starfsmaður við niðurlagningu grænmetis
+7.4.1.4 ;Sérhæfður starfsmaður við niðurlagningu matvæla
+7.4.1.4 ;Sérhæfður starfsmaður við niðurlagningu sjávarrétta
+7.4.1.4 ;Sérhæfður starfsmaður við niðursuðu ávaxta
+7.4.1.4 ;Sérhæfður starfsmaður við niðursuðu grænmetis
+7.4.1.4 ;Sérhæfður starfsmaður við niðursuðu matvæla
+7.4.1.4 ;Sérhæfður starfsmaður við niðursuðu sjávarrétta
+7.4.1.4 ;Sérhæfð störf við niðursuðu og niðurlagningu matvæla
+7.4.1.5 ;Smakkari á matvælum
+7.4.1.5 ;Vínsmakkari
+7.4.1.5 ;Störf við mat- og vínsmökkun
+7.4.1.5 ;Störf við mat- og vínsmökkun
+7.4.1.6 ;Störf við tóbaksgerð
+7.4.1.6 ;Tóbaksgerðarmaður
+7.4.1.6 ;Störf við tóbaksgerð
+7.4.1.9 ;Fiskiðnaðarmaður
+7.4.1.9 ;Fiskmatsmaður
+7.4.1.9 ;Fiskreykingarmaður
+7.4.1.9 ;Fisksali
+7.4.1.9 ;Fisksölustjóri
+7.4.1.9 ;Fisktæknir
+7.4.1.9 ;Fiskverkandi
+7.4.1.9 ;Fiskvinnslukona
+7.4.1.9 ;Fiskvinnslumaður
+7.4.1.9 ;Flakari (við handflökun)
+7.4.1.9 ;Handflakari
+7.4.1.9 ;Harðfiskverkandi
+7.4.1.9 ;Pæklari
+7.4.1.9 ;Ragari
+7.4.1.9 ;Saltari
+7.4.1.9 ;Sérhæfður fiskvinnslumaður
+7.4.1.9 ;Sérhæfður fiskvinnslumaður við rækjuvinnslu
+7.4.1.9 ;Sérhæfður fiskvinnslumaður við síldarsöltun
+7.4.1.9 ;Sérhæfður starfsmaður við niðursuðu sjávarrétta
+7.4.1.9 ;Síldarstúlka
+7.4.1.9 ;Starfsmaður í snyrtingu í frystihúsi
+7.4.1.9 ;Sérhæfð störf við fiskiðnað
+7.4.1.9 ;Sérhæfð störf við fiskiðnað
+7.4.2.1 ;Sérhæfð störf við timburverkun
+7.4.2.1 ;Timburverkandi
+7.4.2.1 ;Timburverkandi við fúavörn
+7.4.2.1 ;Timburverkandi við þurrkun
+7.4.2.1 ;Sérhæfð störf við timburverkun
+7.4.2.2 ;Barnavagnasmiður
+7.4.2.2 ;Beykir
+7.4.2.2 ;Húsgagnasmiður
+7.4.2.2 ;Húsgagnasmíðameistari
+7.4.2.2 ;Listmunasmiður (tré)
+7.4.2.2 ;Líkkistusmiður
+7.4.2.2 ;Módelsmiður (tré)
+7.4.2.2 ;Sérhæfð störf við húsgagnasmíði
+7.4.2.2 ;Sérhæfð störf við húsgagnasmíði
+7.4.2.3 ;Sérhæfð störf við trésmíðavélar
+7.4.2.3 ;Trésmiður við rennibekk
+7.4.2.3 ;Sérhæfð störf við trésmíðavélar
+7.4.2.4 ;Burstagerðarmaður
+7.4.2.4 ;Körfugerðarmaður
+7.4.2.4 ;Leikfangasmiður, viðarleikföng
+7.4.2.4 ;Tágari
+7.4.2.4 ;Sérhæfð störf við körfu- og burstagerð
+7.4.2.4 ;Sérhæfð störf við körfu- og burstagerð
+7.4.3.1 ;Sérhæfð störf við vinnslu ullar og náttúrulegra efna
+7.4.3.1 ;Kembari
+7.4.3.1 ;Ullarflokkunarmaður
+7.4.3.1 ;Sérhæfð störf við kembun ullar og náttúrulegra efna
+7.4.3.2 ;Netagerðarmaður
+7.4.3.2 ;Netagerðarmeistari
+7.4.3.2 ;Prjónakona við vélprjón
+7.4.3.2 ;Prjónamaður við vélprjón
+7.4.3.2 ;Spunakona
+7.4.3.2 ;Starfsmaður við vélprjón
+7.4.3.2 ;Vefari
+7.4.3.2 ;Nemi við netagerð
+7.4.3.2 ;Sérhæfð störf við prjón, hekl, vef og skyld störf
+7.4.3.2 ;Sérhæfð störf við prjón, hekl, vef og skyld störf
+7.4.3.3 ;Sérhæfð störf við klæðskurð, kjólasaum, hattagerð og skyld störf
+7.4.3.3 ;Búningavörður
+7.4.3.3 ;Hattagerðarmaður
+7.4.3.3 ;Hárkollumeistari
+7.4.3.3 ;Kjólameistari
+7.4.3.3 ;Klæðskerameistari
+7.4.3.3 ;Klæðskeri
+7.4.3.3 ;Saumakona við sérsaum
+7.4.3.3 ;Skraddari
+7.4.3.3 ;Starfsmaður við sérsaum
+7.4.3.3 ;Sérhæfð störf við klæðskurð, kjólasaum, hattagerð og skyld störf
+7.4.3.4 ;Feldskeri
+7.4.3.4 ;Sérhæfð störf við feldskurð
+7.4.3.4 ;Sérhæfð störf við feldskurð
+7.4.3.5 ;Sérhæfð störf við sniðagerð
+7.4.3.5 ;Sniðagerðarmaður
+7.4.3.5 ;Sníðameistari
+7.4.3.5 ;Sérhæfð störf við sniðagerð
+7.4.3.6 ;Brúðugerðarmaður
+7.4.3.6 ;Leikbrúðugerðarmaður
+7.4.3.6 ;Saumakona við almenn saumastörf
+7.4.3.6 ;Seglagerðarmaður
+7.4.3.6 ;Seglasaumari
+7.4.3.6 ;Tjaldagerðarmaður
+7.4.3.6 ;Útsaumari
+7.4.3.6 ;Yfirsaumakona
+7.4.3.6 ;Sérhæfð störf við saumstörf og útsaum
+7.4.3.6 ;Sérhæfð störf við saumastörf og útsaum
+7.4.3.7 ;Sérhæfð störf við bólstrun
+7.4.3.7 ;Bólstrarameistari
+7.4.3.7 ;Bólstrari
+7.4.3.7 ;Húsgagnabólstrari
+7.4.3.7 ;Sérhæfð störf við bólstrun
+7.4.4.1 ;Litari í skinnaiðnaði
+7.4.4.1 ;Litunarmeistari
+7.4.4.1 ;Skinnasali
+7.4.4.1 ;Skinnflokkunarmaður
+7.4.4.1 ;Sútari
+7.4.4.1 ;Sérhæfð störf við sútun, skinnaverkun og skinnasölu
+7.4.4.1 ;Sérhæfð störf við sútun, skinnaverkun og skinnasölu
+7.4.4.2 ;Sérhæfð störf við skósmíði, töskugerð og skyld störf
+7.4.4.2 ;Aktygjasmiður
+7.4.4.2 ;Sjúkraskósmiður
+7.4.4.2 ;Skósmiður
+7.4.4.2 ;Skósmíðameistari
+7.4.4.2 ;Söðlasmiður
+7.4.4.2 ;Söðlasmíðameistari
+7.4.4.2 ;Töskugerðarmaður
+7.4.4.2 ;Sérhæfð störf við skósmíði, töskugerð og skyld störf
+8.1.1.1 ;Vélgæslumaður í námu
+8.1.1.1 ;Vélgæslumaður í sandnámi
+8.1.1.1 ;Störf vélgæslufólks við námugröft og steinmulning
+8.1.1.1 ;Störf vélgæslufólks við námugröft og steinmulning
+8.1.1.2 ;Störf vélgæslufólks í steinefnaverksmiðjum
+8.1.1.2 ;Vélgæslumaður á sanddæluskipi
+8.1.1.2 ;Vélgæslumaður í kísilgúrnámi
+8.1.1.2 ;Vélgæslumaður í malbikunarstöð
+8.1.1.2 ;Vélgæslumaður við steinefnaframleiðslu
+8.1.1.2 ;Störf vélgæslufólks í steinefnaverksmiðjum
+8.1.1.3 ;Bormaður
+8.1.1.3 ;Störf bormanna
+8.1.1.3 ;Störf bormanna
+8.1.2.1 ;Störf vélgæslufólks við málmgrýtis- og bræðsluofna
+8.1.2.1 ;Álsteypumaður
+8.1.2.1 ;Áltaki
+8.1.2.1 ;Ofnagæslumaður
+8.1.2.1 ;Ofnahleðslumaður
+8.1.2.1 ;Rafgreinir í álveri
+8.1.2.1 ;Skautaskiptir í álveri
+8.1.2.1 ;Vélgæslumaður í álveri
+8.1.2.1 ;Vélgæslumaður í járnblendiverksmiðju
+8.1.2.1 ;Störf vélgæslufólks við málmgrýtis- og bræðsluofna
+8.1.2.2 ;Vélgæslumaður við framleiðslu álvara
+8.1.2.2 ;Vélgæslumaður við framleiðslu stálvara
+8.1.2.2 ;Vélgæslumaður við málmbræðslu
+8.1.2.2 ;Vélgæslumaður við málmsteypu
+8.1.2.2 ;Vélgæslumaður við málmsteypuvél
+8.1.2.2 ;Vélgæslumaður við völsunarvél
+8.1.2.2 ;Völsunarmaður
+8.1.2.2 ;Störf vélgæslufólks við völsunar-, málmbræðslu- og málmsteypuvélar
+8.1.2.2 ;Störf vélgæslufólks við völsunar-, málmbræðslu- og málmsteypuvélar
+8.1.2.3 ;Störf vélgæslufólks í málmvinnsluverum
+8.1.2.3 ;Vélgæslumaður í málmhitunarveri
+8.1.2.3 ;Vélgæslumaður við málmblöndunarvél
+8.1.2.3 ;Vélgæslumaður við málmherðingarvél
+8.1.2.3 ;Störf vélgæslufólks í málmvinnsluverum
+8.1.2.4 ;Vélamaður við stálvíragerð
+8.1.2.4 ;Vélamaður við vírdráttarvél
+8.1.2.4 ;Vélgæslumaður við málmröragerð
+8.1.2.4 ;Vélgæslumaður við stálröragerð
+8.1.2.4 ;Vélgæslumaður við stálvíragerð
+8.1.2.4 ;Vélgæslumaður við vírdráttarvél
+8.1.2.4 ;Störf vélgæslufólks við vírdráttarvélar og málmpressur
+8.1.2.4 ;Störf vélgæslufólks við vírdráttarvélar og málmpressur
+8.1.3.1 ;Störf vélgæslufólks við gler- og postulínsofna og skyldra efna
+8.1.3.1 ;Vélgæslumaður við framleiðslu múrsteina
+8.1.3.1 ;Vélgæslumaður við framleiðslu postulínsflísa
+8.1.3.1 ;Vélgæslumaður við glerblástursofn
+8.1.3.1 ;Vélgæslumaður við glerofn
+8.1.3.1 ;Vélgæslumaður við postulínsofn
+8.1.3.1 ;Störf vélgæslufólks við gler- og postulínsofna og skyldra efna
+8.1.3.9 ;Vélgæslumaður í glerverksmiðju
+8.1.3.9 ;Vélgæslumaður í leirmunaverksmiðju
+8.1.3.9 ;Störf vélgæslufólks í gler- og leirverksmiðjum ót.a.s.
+8.1.3.9 ;Störf vélgæslufólks í gler- og leirverksmiðjum ót.a.s.
+8.1.4.1 ;Störf vélgæslufólks í timburverksmiðjum
+8.1.4.1 ;Vélgæslumaður í sögunarverksmiðju
+8.1.4.1 ;Vélgæslumaður í timburverksmiðju
+8.1.4.1 ;Vélgæslumaður við límtrésframleiðslu
+8.1.4.1 ;Vélgæslumaður við parketframleiðslu
+8.1.4.1 ;Störf vélgæslufólks í timburverksmiðjum
+8.1.4.2 ;Vélgæslumaður í pappírskvoðuverksmiðju
+8.1.4.2 ;Störf vélgæslufólks í pappírskvoðuverksmiðjum
+8.1.4.2 ;Störf vélgæslufólks í pappírskvoðuverksmiðjum
+8.1.4.3 ;Störf vélgæslufólks í pappírsverksmiðjum
+8.1.4.3 ;Vélgæslumaður í pappírsverksmiðju
+8.1.4.3 ;Störf vélgæslufólks í pappírsverksmiðjum
+8.1.5.1 ;Vélgæslumaður við efnablöndunarvél
+8.1.5.1 ;Vélgæslumaður við mulningsvél
+8.1.5.1 ;Vélgæslumaður við pressu
+8.1.5.1 ;Vélgæslumaður við steinmulningsvél
+8.1.5.1 ;Störf vélgæslufólks við pressur, mulnings- og efnablöndunarvélar
+8.1.5.1 ;Störf vélgæslufólks við pressur, mulnings- og efnablöndunarvélar
+8.1.5.2 ;Störf vélgæslufólks í efnahitunarverksmiðjum og bræðslum
+8.1.5.2 ;Vélgæslumaður við efnahitunarvél
+8.1.5.2 ;Vélgæslumaður við lifrarbræðslu
+8.1.5.2 ;Vélgæslumaður við loðnubræðslu
+8.1.5.2 ;Vélgæslumaður við sementsframleiðslu
+8.1.5.2 ;Vélgæslumaður við sementsverksmiðju
+8.1.5.2 ;Vélgæslumaður við síldarbræðslu
+8.1.5.2 ;Störf vélgæslufólks í efnahitunarverksmiðjum og bræðslum
+8.1.5.3 ;Vélgæslumaður við efnaskilju
+8.1.5.3 ;Vélgæslumaður við efnaskilvindu
+8.1.5.3 ;Vélgæslumaður við hreinsun hráolíu
+8.1.5.3 ;Störf vélgæslufólks við efnaskiljur og efnaskilvindur
+8.1.5.3 ;Störf vélgæslufólks við efnaskiljur og efnaskilvindur
+8.1.5.4 ;Störf vélgæslufólks í eiminga- og efnahvarfsverksmiðjum (nema olía og jarðgas)
+8.1.5.4 ;Vélamaður við efnahvarfvél
+8.1.5.4 ;Vélgæslumaður við efnahvarfvél
+8.1.5.4 ;Vélgæslumaður við eimingarvél
+8.1.5.4 ;Vélgæslumaður við framleiðslu á terpentínu
+8.1.5.4 ;Vélgæslumaður við gasvinnslu
+8.1.5.4 ;Vélgæslumaður við málningarframleiðslu
+8.1.5.4 ;Störf vélgæslufólks í eiminga- og efnahvarfsverksmiðjum (nema olía og jarðgas)
+8.1.5.5 ;Vélgæslumaður í jarðgashreinsunarstöð
+8.1.5.5 ;Vélgæslumaður við jarðgashreinsunarstöð
+8.1.5.5 ;Vélgæslumaður við olíuhreinsunarstöð
+8.1.5.5 ;Vélgæslumaður við steinolíuverksmiðju
+8.1.5.5 ;Störf vélgæslufólks við jarðgas- og olíuhreinsunarstöðvar
+8.1.5.5 ;Störf vélgæslufólks við jarðgas- og olíuhreinsunarstöðvar
+8.1.5.9 ;Störf vélgæslufólks í efnaverksmiðju ót.a.s.
+8.1.5.9 ;Vélgæslumaður við áburðarframleiðslu
+8.1.5.9 ;Vélgæslumaður við gerviefnaframleiðslu
+8.1.5.9 ;Störf vélgæslufólks í efnaverksmiðju ót.a.s.
+8.1.6.1 ;Aðstoðarmaður í mælastöð
+8.1.6.1 ;Vélgæslumaður á olíuborpalli
+8.1.6.1 ;Vélgæslumaður í dælustöð
+8.1.6.1 ;Vélgæslumaður í mælastöð
+8.1.6.1 ;Vélgæslumaður í orkuveri
+8.1.6.1 ;Vélgæslumaður í raforkuveri
+8.1.6.1 ;Vélgæslumaður í virkjun
+8.1.6.1 ;Vélgæslumaður við tengivirki
+8.1.6.1 ;Störf vélgæslufólks í orkuverum
+8.1.6.1 ;Störf vélgæslufólks í orkuverum
+8.1.6.2 ;Störf vélgæslufólks í kyndiklefum og vélarrúmi
+8.1.6.2 ;Aðstoðarmaður vélstjóra
+8.1.6.2 ;Dagmaður í vél
+8.1.6.2 ;Kyndari á skipi
+8.1.6.2 ;Kyndari í verksmiðju
+8.1.6.2 ;Kyndari við húshitun
+8.1.6.2 ;Starfsmaður í vél
+8.1.6.2 ;Störf vélgæslufólks í kyndiklefum og vélarrúmi
+8.1.6.3 ;Líkbrennslumaður
+8.1.6.3 ;Verkamaður við sorpbrennslu
+8.1.6.3 ;Vélamaður í kæligeymslu
+8.1.6.3 ;Vélamaður í vatnsdælustöð
+8.1.6.3 ;Vélamaður við sorpbrennslu
+8.1.6.3 ;Vélamaður við vatnsmiðlun
+8.1.6.3 ;Vélgæslumaður í kæligeymslu
+8.1.6.3 ;Vélgæslumaður í vatnsdælustöð
+8.1.6.3 ;Vélgæslumaður við líkbrennslu
+8.1.6.3 ;Vélgæslumaður við sorpbrennslu
+8.1.6.3 ;Vélgæslumaður við vatnsmiðlun
+8.1.6.3 ;Störf vélgæslufólks við brennsluofna og vatnshreinsunarstöðvar
+8.1.6.3 ;Störf vélgæslufólks við brennsluofna og vatnshreinsunarstöðvar
+8.2.1.1 ;Störf vélafólks við málmsmíðavélar
+8.2.1.1 ;Vélamaður við málmpressu
+8.2.1.1 ;Vélamaður við myntsláttu
+8.2.1.1 ;Vélamaður við niðurbrot málma
+8.2.1.1 ;Vélamaður við rennibekk (málmsmíðar)
+8.2.1.1 ;Vélamaður við smíðavél
+8.2.1.1 ;Vélamaður við vélsög
+8.2.1.1 ;Störf vélafólks við málmsmíðavélar
+8.2.1.2 ;Steypustöðvarstjóri
+8.2.1.2 ;Vélamaður við framleiðslu steypueininga
+8.2.1.2 ;Vélamaður við hellusteypu
+8.2.1.2 ;Vélamaður við malbikunarframleiðslu
+8.2.1.2 ;Vélamaður við steypuhrærivél
+8.2.1.2 ;Vélgæslumaður við malbikunarframleiðslu
+8.2.1.2 ;Störf vélafólks við steinsteypuvélar og aðrar jarðefnavélar
+8.2.1.2 ;Störf vélafólks við steinsteypuvélar og aðrar jarðefnavélar
+8.2.2.1 ;Störf vélafólks við lyfja-, hreinsiefna- og snyrtivöruframleiðslu
+8.2.2.1 ;Vélamaður við ilmvatnsgerð
+8.2.2.1 ;Vélamaður við lyfjaframleiðslu
+8.2.2.1 ;Vélamaður við sápugerð
+8.2.2.1 ;Vélamaður við snyrtivöruframleiðslu
+8.2.2.1 ;Störf vélafólks við lyfja-, hreinsiefna- og snyrtivöruframleiðslu
+8.2.2.2 ;Vélamaður við flugeldagerð
+8.2.2.2 ;Vélamaður við sprengjugerð
+8.2.2.2 ;Störf vélafólks við skotfæra- og sprengiefnagerð
+8.2.2.2 ;Störf vélafólks við skotfæra- og sprengiefnagerð
+8.2.2.3 ;Störf vélafólks við málmhúðun
+8.2.2.3 ;Vélamaður við krómhúðun
+8.2.2.3 ;Vélamaður við málmhúðun
+8.2.2.3 ;Vélamaður við plasthúðun
+8.2.2.3 ;Vélamaður við sandblástur málma
+8.2.2.3 ;Störf vélafólks við málmhúðun
+8.2.2.4 ;Vélamaður við filmuframköllun
+8.2.2.4 ;Vélamaður við filmuframleiðslu
+8.2.2.4 ;Vélamaður við ljósmyndastækkun
+8.2.2.4 ;Störf vélafólks við ljósmyndavöruframleiðslu
+8.2.2.4 ;Störf vélafólks við ljósmyndavöruframleiðslu
+8.2.2.9 ;Störf vélafólks við efnavöruframleiðslu ót.a.s.
+8.2.2.9 ;Vélamaður við kertagerð
+8.2.2.9 ;Vélamaður við málningarframleiðslu
+8.2.2.9 ;Störf vélafólks við efnavöruframleiðslu ót.a.s.
+8.2.3.1 ;Vélamaður við dekkjagerð
+8.2.3.1 ;Vélamaður við dekkjasólun
+8.2.3.1 ;Störf vélafólks við gúmmíframleiðslu
+8.2.3.1 ;Störf vélafólks við gúmmíframleiðslu
+8.2.3.2 ;Störf vélafólks við plastframleiðslu
+8.2.3.2 ;Vélamaður við gervisvampaframleiðslu
+8.2.3.2 ;Vélamaður við plastdósagerð
+8.2.3.2 ;Vélamaður við plastframleiðslu
+8.2.3.2 ;Vélamaður við plastkaragerð
+8.2.3.2 ;Vélamaður við plastpokagerð
+8.2.3.2 ;Vélamaður við plaströragerð
+8.2.3.2 ;Vélamaður við svampframleiðslu
+8.2.3.2 ;Störf vélafólks við plastframleiðslu
+8.2.4.0 ;Vélamaður við fúavörn
+8.2.4.0 ;Vélamaður við glugga- og hurðagerð
+8.2.4.0 ;Vélamaður við húsgagnaframleiðslu
+8.2.4.0 ;Vélamaður við innréttingagerð
+8.2.4.0 ;Vélamaður við rennibekk (trésmíðar)
+8.2.4.0 ;Vélamaður við trjávörurframleiðslu
+8.2.4.0 ;Störf vélafólks við trjávöruframleiðslu
+8.2.4.0 ;Störf vélafólks við trjávöruframleiðslu
+8.2.5.1 ;Störf vélgæslufólks við prentvélar
+8.2.5.1 ;Aðstoðarmaður við blaðaprentvél
+8.2.5.1 ;Aðstoðarmaður við prentun
+8.2.5.1 ;Starfsmaður við ljósritunarvél
+8.2.5.1 ;Störf vélgæslufólks við prentvélar
+8.2.5.2 ;Aðstoðarmaður við bindivél
+8.2.5.2 ;Aðstoðarmaður við bókbandsvélsaum
+8.2.5.2 ;Aðstoðarmaður við brotvél
+8.2.5.2 ;Aðstoðarmaður við vélbókband
+8.2.5.2 ;Störf vélgæslufólks við bókbandsvélar
+8.2.5.2 ;Störf vélgæslufólks við bókbandsvélar
+8.2.5.3 ;Störf vélgæslufólks við pappírsvöruframleiðslu
+8.2.5.3 ;Pappírsskurðarmaður
+8.2.5.3 ;Vélamaður við kassagerð
+8.2.5.3 ;Vélamaður við pappírspokagerð
+8.2.5.3 ;Vélamaður við umslagagerð
+8.2.5.3 ;Vélgæslumaður við kassagerð
+8.2.5.3 ;Vélgæslumaður við pappírspokagerð
+8.2.5.3 ;Vélgæslumaður við umslagagerð
+8.2.5.3 ;Störf vélgæslufólks við pappírsvöruframleiðslu
+8.2.6.1 ;Vélamaður við spunavél
+8.2.6.1 ;Vélamaður við ullarhreinsun
+8.2.6.1 ;Störf vélafólks við trefja- og spunavélar
+8.2.6.1 ;Störf vélafólks við trefja- og spunavélar
+8.2.6.2 ;Störf vélafólks við vefstóla og prjónavélar
+8.2.6.2 ;Vélamaður við kniplingagerð
+8.2.6.2 ;Vélamaður við netagerð
+8.2.6.2 ;Vélamaður við prjónavél
+8.2.6.2 ;Vélamaður við teppagerð
+8.2.6.2 ;Vélamaður við vefstól
+8.2.6.2 ;Störf vélafólks við vefstóla og prjónavélar
+8.2.6.3 ;Saumakona við fjöldaframleiðslu fatnaðar
+8.2.6.3 ;Saumakona við hnappagatagerð
+8.2.6.3 ;Saumakona við rennilásavél
+8.2.6.3 ;Vélamaður við saumavél
+8.2.6.3 ;Vélamaður við útsaum
+8.2.6.3 ;Störf vélafólks við iðnaðarsaumavélar
+8.2.6.3 ;Störf vélafólks við iðnaðarsaumavélar
+8.2.6.4 ;Störf vélafólks við bleiki-, litunar- og þvottavélar
+8.2.6.4 ;Starfsmaður í fatahreinsun við vélþvott
+8.2.6.4 ;Starfsmaður í þvottahúsi við vélþvott
+8.2.6.4 ;Starfsmaður við strauvél
+8.2.6.4 ;Starfsmaður við vélþvott
+8.2.6.4 ;Starfsmaður við þurrhreinsivél
+8.2.6.4 ;Starfsmaður við þvottavél
+8.2.6.4 ;Teppahreinsunarmaður
+8.2.6.4 ;Vélamaður við fatapressu
+8.2.6.4 ;Vélamaður við litun
+8.2.6.4 ;Vélamaður við þurrhreinsun
+8.2.6.4 ;Störf vélafólks við bleiki-, litunar- og þvottavélar
+8.2.6.5 ;Vélamaður við aktygjagerð
+8.2.6.5 ;Vélamaður við leðurframleiðslu
+8.2.6.5 ;Vélamaður við leðurlitun
+8.2.6.5 ;Vélamaður við loðskinnaverkun
+8.2.6.5 ;Vélamaður við skinnaiðnað
+8.2.6.5 ;Vélamaður við sútun
+8.2.6.5 ;Vélamaður við vélaframleiðslu
+8.2.6.5 ;Störf vélafólks við loðskinna- og leðurverkun
+8.2.6.5 ;Störf vélafólks við loðskinna- og leðurverkun
+8.2.6.6 ;Störf vélafólks við skóframleiðslu
+8.2.6.6 ;Vélamaður við aktygjasmíði
+8.2.6.6 ;Vélamaður við skógerð
+8.2.6.6 ;Vélamaður við töskugerð
+8.2.6.6 ;Störf vélafólks við skóframleiðslu
+8.2.6.9 ;Vélamaður við hattagerð
+8.2.6.9 ;Vélamaður við kaðlagerð
+8.2.6.9 ;Vélamaður við sniðskurð
+8.2.6.9 ;Störf vélafólks við textíl-, loðskinna- og leðurframleiðslu ót.a.s.
+8.2.6.9 ;Störf vélafólks við textíl-, loðskinna- og leðurframleiðslu ót.a.s.
+8.2.7.1 ;Störf vélafólks við kjötvinnslu
+8.2.7.1 ;Tækjamaður við hraðfrystingu á kjöti
+8.2.7.1 ;Vélamaður í matvælaframleiðslu
+8.2.7.1 ;Vélamaður við kjötskurð
+8.2.7.1 ;Vélamaður við kjötvinnslu
+8.2.7.1 ;Vélamaður við niðurlagningu kjötvara
+8.2.7.1 ;Vélamaður við niðurlagningu matvæla
+8.2.7.1 ;Störf vélafólks við kjötvinnslu
+8.2.7.2 ;Vélamaður við gerilsneyðingu mjólkur
+8.2.7.2 ;Vélamaður við ísgerð
+8.2.7.2 ;Vélamaður við jógúrtgerð
+8.2.7.2 ;Vélamaður við mjólkurátöppun
+8.2.7.2 ;Vélamaður við ostaframleiðslu
+8.2.7.2 ;Vélamaður við smjörlíkisgerð
+8.2.7.2 ;Störf vélafólks við mjólkurvinnslu
+8.2.7.2 ;Störf vélafólks við mjólkurvinnslu
+8.2.7.3 ;Störf vélafólks við korn- og kryddmyllur
+8.2.7.3 ;Malari
+8.2.7.3 ;Vélamaður við fóðurblöndun
+8.2.7.3 ;Vélamaður við kornmölun
+8.2.7.3 ;Vélamaður við kryddblöndun
+8.2.7.3 ;Störf vélafólks við korn- og kryddmyllur
+8.2.7.4 ;Vélamaður við brauðgerð
+8.2.7.4 ;Vélamaður við konfektgerð
+8.2.7.4 ;Vélamaður við kökugerð
+8.2.7.4 ;Vélamaður við súkkulaðigerð
+8.2.7.4 ;Vélamaður við sælgætisgerð
+8.2.7.4 ;Störf vélafólks við brauð-, korn- og súkkulaðigerð
+8.2.7.4 ;Störf vélafólks við brauð-, korn- og súkkulaðigerð
+8.2.7.5 ;Störf vélafólks við ávaxta-, grænmetis- og hnetuvinnslu
+8.2.7.5 ;Vélamaður við átöppun ávaxtasafa
+8.2.7.5 ;Vélamaður við átöppun matarolíu
+8.2.7.5 ;Vélamaður við ávaxtapressu
+8.2.7.5 ;Vélamaður við ávaxtasafagerð
+8.2.7.5 ;Vélamaður við grænmetispressu
+8.2.7.5 ;Vélamaður við niðurlagningu ávaxta
+8.2.7.5 ;Vélamaður við niðurlagningu grænmetis
+8.2.7.5 ;Vélamaður við niðursuðu ávaxta
+8.2.7.5 ;Störf vélafólks við ávaxta-, grænmetis- og hnetuvinnslu
+8.2.7.6 ;Vélamaður við sykurgerð
+8.2.7.6 ;Störf vélafólks við sykurvöruframleiðslu
+8.2.7.6 ;Störf vélafólks við sykurvöruframleiðslu
+8.2.7.7 ;Störf vélafólks við te-, kaffi- og kakóvinnslu
+8.2.7.7 ;Vélamaður við kaffibrennslu
+8.2.7.7 ;Vélamaður við kaffiframleiðslu
+8.2.7.7 ;Vélamaður við kakóbrennslu
+8.2.7.7 ;Vélamaður við kakóframleiðslu
+8.2.7.7 ;Vélamaður við teframleiðslu
+8.2.7.7 ;Störf vélafólks við te-, kaffi- og kakóvinnslu
+8.2.7.8 ;Bruggari
+8.2.7.8 ;Vélamaður við gosdrykkjagerð
+8.2.7.8 ;Vélamaður við ölgerð
+8.2.7.8 ;Störf vélafólks við öl- og víngerð
+8.2.7.8 ;Störf vélafólks við öl- og víngerð
+8.2.7.9 ;Störf vélafólks við fiskiðnað
+8.2.7.9 ;Baadermaður
+8.2.7.9 ;Flakari við vélflökun
+8.2.7.9 ;Tækjamaður við frystitæki í fiskvinnslu
+8.2.7.9 ;Umsjónarmaður fiskvinnsluvéla
+8.2.7.9 ;Verkstjóri í frystihúsi (aðallega við framleiðslustörf)
+8.2.7.9 ;Vélamaður í fiskvinnslu
+8.2.7.9 ;Vélamaður við hausunarvél
+8.2.7.9 ;Vélamaður við roðflettivél
+8.2.7.9 ;Vélamaður við vélsöltun
+8.2.7.9 ;Vélflakari
+8.2.7.9 ;Vélflatningarmaður
+8.2.7.9 ;Störf vélafólks við fiskiðnað
+8.2.8.0 ;Samsetningarmaður við færiband
+8.2.8.0 ;Samsetningarmaður við gúmmíframleiðslu
+8.2.8.0 ;Samsetningarmaður við leðurframleiðslu
+8.2.8.0 ;Samsetningarmaður við leikfangagerð
+8.2.8.0 ;Samsetningarmaður við málmframleiðslu
+8.2.8.0 ;Samsetningarmaður við pappaframleiðslu
+8.2.8.0 ;Samsetningarmaður við plastframleiðslu
+8.2.8.0 ;Samsetningarmaður við rafeindatæki
+8.2.8.0 ;Samsetningarmaður við rafmagnstæki
+8.2.8.0 ;Samsetningarmaður við textílframleiðslu
+8.2.8.0 ;Samsetningarmaður við vélar
+8.2.8.0 ;Störf við samsetningu
+8.2.8.0 ;Störf við samsetningu
+8.2.9.0 ;Störf vélafólks við pökkun, merkingu og samsetningu
+8.2.9.0 ;Leiktækjastjóri
+8.2.9.0 ;Ósérhæfð fiskvinnslukona við vélmerkingu
+8.2.9.0 ;Ósérhæfð fiskvinnslukona við vélpökkun
+8.2.9.0 ;Ósérhæfð fiskvinnslukona við vörumerkingu
+8.2.9.0 ;Ósérhæfður fiskvinnslumaður við vélmerkingu
+8.2.9.0 ;Ósérhæfður fiskvinnslumaður við vélpökkun
+8.2.9.0 ;Ósérhæfður fiskvinnslumaður við vörumerkingu
+8.2.9.0 ;Stjórnandi bifhjóls
+8.2.9.0 ;Vegmerkingarmaður
+8.2.9.0 ;Vélamaður við átöppun olíu
+8.2.9.0 ;Vélamaður við brauðpökkun
+8.2.9.0 ;Vélamaður við kaffipökkun
+8.2.9.0 ;Vélamaður við kornpökkun
+8.2.9.0 ;Vélamaður við smurningu á smurstöð
+8.2.9.0 ;Vélamaður við sykurpökkun
+8.2.9.0 ;Vélamaður við vélmerkingu
+8.2.9.0 ;Vélamaður við vélpökkun
+8.2.9.0 ;Vélamaður við vélpökkun í frystihúsi
+8.2.9.0 ;Vélamaður við vélpökkun í kjötiðnaði
+8.2.9.0 ;Vélamaður við vélpökkun í mjólkuriðnaði
+8.2.9.0 ;Vélamaður við vörumerkingu
+8.2.9.0 ;Vélstjóri við leiktæki
+8.2.9.0 ;Störf vélafólks við pökkun, merkingu og samsetningu
+8.3.2.1 ;Bílstjóri bifhjóls
+8.3.2.1 ;Bílstjóri leigubíls
+8.3.2.1 ;Sendill á bifhjóli
+8.3.2.1 ;Stjórnendur vélhjóla
+8.3.2.1 ;Stjórnendur vélhjóla
+8.3.2.2 ;Bílstjórar einka-, leigu- og sendibifreiða
+8.3.2.2 ;Áætlunarbílstjóri
+8.3.2.2 ;Bílstjóri sendibíls
+8.3.2.2 ;Einkabílstjóri
+8.3.2.2 ;Leigubílstjóri
+8.3.2.2 ;Pítsasendill
+8.3.2.2 ;Póstbílstjóri
+8.3.2.2 ;Ráðherrabílstjóri
+8.3.2.2 ;Sendibifreiðarstjóri
+8.3.2.2 ;Sendibílstjóri
+8.3.2.2 ;Sendill á bíl
+8.3.2.2 ;Bílstjórar einka-, leigu- og sendibifreiða
+8.3.2.3 ;Bílstjóri hópferðabíls
+8.3.2.3 ;Bílstjóri skólabíls
+8.3.2.3 ;Fólksflutningabílstjóri
+8.3.2.3 ;Hópferðabílstjóri
+8.3.2.3 ;Langferðabílstjóri
+8.3.2.3 ;Rútubílstjóri
+8.3.2.3 ;Skólabílstjóri
+8.3.2.3 ;Strætisvagnabílstjóri
+8.3.2.3 ;Bílstjórar langferða- og áætlunarbifreiða
+8.3.2.3 ;Bílstjórar langferða- og áætlunarbifreiða
+8.3.2.4 ;Bílstjórar vöru- og flutningabifreiða
+8.3.2.4 ;Baggabindivélstjóri
+8.3.2.4 ;Bílstjóri flutningabifreiðar með frystibúnað
+8.3.2.4 ;Bílstjóri flutningabifreiðar með hitabúnað
+8.3.2.4 ;Bílstjóri flutningabifreiðar með kælibúnað
+8.3.2.4 ;Bílstjóri flutningabifreiðar með tengibúnað
+8.3.2.4 ;Bílstjóri gámaflutningabíls
+8.3.2.4 ;Bílstjóri mjólkurbíls
+8.3.2.4 ;Bílstjóri olíubíls
+8.3.2.4 ;Dráttarbílstjóri
+8.3.2.4 ;Flutningabílstjóri
+8.3.2.4 ;Gámaflutningabílstjóri
+8.3.2.4 ;Mjólkurbílstjóri
+8.3.2.4 ;Olíubílstjóri
+8.3.2.4 ;Sorphreinsunarbílstjóri
+8.3.2.4 ;Vörubifreiðastjóri
+8.3.2.4 ;Vörubílstjóri
+8.3.2.4 ;Þungaflutningabílstjóri
+8.3.2.4 ;Bílstjórar vöru- og flutningabifreiða
+8.3.3.1 ;Stjórnandi dráttarvélar
+8.3.3.1 ;Dráttarbifreiðastjóri
+8.3.3.1 ;Dráttarvélstjóri
+8.3.3.1 ;Garðsláttuvélstjóri
+8.3.3.1 ;Landbúnaðartækjastjóri
+8.3.3.1 ;Skógvinnsluvélstjóri
+8.3.3.1 ;Stjórnandi baggabindivélar
+8.3.3.1 ;Stjórnandi garðsláttuvélar
+8.3.3.1 ;Stjórnandi landbúnaðartækis
+8.3.3.1 ;Stjórnandi skógvinnsluvélar
+8.3.3.1 ;Stjórnandi uppskeruvélar
+8.3.3.1 ;Vélamaður við þörunganám
+8.3.3.1 ;Vinnuvélamaður
+8.3.3.1 ;Stjórnendur landbúnaðar- og skógvinnsluvéla
+8.3.3.1 ;Stjórnendur landbúnaðar- og skógvinnsluvéla
+8.3.3.2 ;Stjórnendur jarðvinnuvéla
+8.3.3.2 ;Bílstjóri sópbíls
+8.3.3.2 ;Bílstjóri vatnsdælubíls
+8.3.3.2 ;Gatnahreinsunarbílstjóri
+8.3.3.2 ;Gröfumaður
+8.3.3.2 ;Gröfustjóri
+8.3.3.2 ;Gröfustjóri í námu
+8.3.3.2 ;Hefilsstjóri
+8.3.3.2 ;Jarðverktaki
+8.3.3.2 ;Jarðvinnutækjastjóri
+8.3.3.2 ;Jarðvinnuverktaki
+8.3.3.2 ;Jarðýtustjóri
+8.3.3.2 ;Malbikunarvélastjóri
+8.3.3.2 ;Skurðgröfustjóri
+8.3.3.2 ;Snjóruðningstækjabílstjóri
+8.3.3.2 ;Sópbílstjóri
+8.3.3.2 ;Stjórnandi gröfu
+8.3.3.2 ;Stjórnandi jarðvinnutækis
+8.3.3.2 ;Stjórnandi malbikunarvélar
+8.3.3.2 ;Stjórnandi snjóruðningstækis
+8.3.3.2 ;Stjórnandi valtara
+8.3.3.2 ;Stjórnandi veghefils
+8.3.3.2 ;Valtarastjóri
+8.3.3.2 ;Vatnsdælubílstjóri
+8.3.3.2 ;Veghefilsstjóri
+8.3.3.2 ;Vélamaður á malbikunarvél
+8.3.3.2 ;Ýtustjóri
+8.3.3.2 ;Þungavinnuvélstjóri
+8.3.3.2 ;Stjórnendur jarðvinnuvéla
+8.3.3.3 ;Afgreiðslumaður á lyftara
+8.3.3.3 ;Kranamaður
+8.3.3.3 ;Kranastjóri á byggingarkrana
+8.3.3.3 ;Kranastjóri á gámakrana
+8.3.3.3 ;Lyftumaður við skíðalyftu
+8.3.3.3 ;Lyftustjóri við skíðalyftu
+8.3.3.3 ;Tækjastjóri
+8.3.3.3 ;Stjórnendur krana og lyftitækja
+8.3.3.3 ;Stjórnendur krana og lyftitækja
+8.3.3.4 ;Stjórnendur lyftara
+8.3.3.4 ;Hafnarverkamaður á lyftara
+8.3.3.4 ;Lagermaður á lyftara
+8.3.3.4 ;Lyftaramaður
+8.3.3.4 ;Lyftarastjóri
+8.3.3.4 ;Pakkhúsmaður á lyftara
+8.3.3.4 ;Stjórnandi lyftara
+8.3.3.4 ;Vinnuvélstjóri á lyftara
+8.3.3.4 ;Stjórnendur lyftara
+8.3.4.0 ;Bátsmaður á farskipi
+8.3.4.0 ;Háseti á farskipi
+8.3.4.0 ;Vitavörður
+8.3.4.0 ;Störf háseta og bátsmanna á farskipum og vitavarða
+8.3.4.0 ;Störf háseta og bátsmanna á farskipum og vitavarða
+9.1.1.1 ;Störf götusala
+9.1.1.1 ;Blaðasali
+9.1.1.1 ;Götusali
+9.1.1.1 ;Störf götusala
+9.1.2.0 ;Bílrúðuþvottamaður
+9.1.2.0 ;Skóburstari
+9.1.2.0 ;Störf skóburstara og annarra við götuþjónustu
+9.1.2.0 ;Störf skóburstara og annarra við götuþjónustu
+9.1.3.1 ;Störf vinnu- og ræstingarfólks á heimilum
+9.1.3.1 ;Heimilishjálp við ræstingar
+9.1.3.1 ;Heimilisþerna
+9.1.3.1 ;Matselja á einkaheimili
+9.1.3.1 ;Ræstingakona á einkaheimili
+9.1.3.1 ;Ræstir á einkaheimili
+9.1.3.1 ;Vinnukona á einkaheimili
+9.1.3.1 ;Þjónustustúlka á heimili
+9.1.3.1 ;Störf vinnu- og ræstingarfólks á heimilum
+9.1.3.2 ;Aðstoðarmaður á kaffistofu
+9.1.3.2 ;Aðstoðarmaður í eldhúsi
+9.1.3.2 ;Aðstoðarmaður í mötuneyti
+9.1.3.2 ;Herbergisþerna
+9.1.3.2 ;Kaffiselja
+9.1.3.2 ;Kaffiumsjónarmaður
+9.1.3.2 ;Liðléttingur
+9.1.3.2 ;Messadrengur
+9.1.3.2 ;Ræstingarkona í fyrirtæki/stofnun
+9.1.3.2 ;Ræstingarmaður í fyrirtæki/stofnun
+9.1.3.2 ;Ræstir
+9.1.3.2 ;Ræstir í fyrirtæki
+9.1.3.2 ;Ræstitæknir
+9.1.3.2 ;Skólaliði við ræstingu
+9.1.3.2 ;Skúringakona
+9.1.3.2 ;Starfsmaður í býtibúri
+9.1.3.2 ;Starfsmaður við uppþvott
+9.1.3.2 ;Starfsmaður í skólamötuneyti
+9.1.3.2 ;Starfsmaður í mötuneyti
+9.1.3.2 ;Ræstingarstjóri (aðallega við ræstingu)
+9.1.3.2 ;Starfsmaður við uppþvott í lyfjaframleiðslu
+9.1.3.2 ;Starfsmaður við ræstingu á hóteli
+9.1.3.2 ;Störf ræstingarfólks í fyrirtækjum og stofnunum og aðstoðarfólks í mötuneytum
+9.1.3.2 ;Störf ræstingarfólks í fyrirtækjum og stofnunum og aðstoðarfólks í mötuneytum
+9.1.3.3 ;Störf við handþvott og pressun
+9.1.3.3 ;Pressari
+9.1.3.3 ;Starfsmaður í fatahreinsun við handþvott
+9.1.3.3 ;Starfsmaður í fatahreinsun við straujun
+9.1.3.3 ;Starfsmaður í þvottahúsi við handþvott
+9.1.3.3 ;Straukona
+9.1.3.3 ;Þvottakona við handþvott
+9.1.3.3 ;Starfsmaður í fatahreinsun
+9.1.3.3 ;Starfsmaður í þvottahúsi
+9.1.3.3 ;Störf við handþvott og pressun
+9.1.4.2 ;Bílaþvottamaður
+9.1.4.2 ;Gámaþvottamaður
+9.1.4.2 ;Gluggaþvottamaður
+9.1.4.2 ;Störf við glugga- og bílaþvott
+9.1.4.2 ;Störf við glugga- og bílaþvott
+9.1.5.1 ;Störf sendla og burðarfólks
+9.1.5.1 ;Blaðberi
+9.1.5.1 ;Burðardrengur
+9.1.5.1 ;Burðarmaður á hóteli
+9.1.5.1 ;Burðarmaður við vöruútkeyrslu
+9.1.5.1 ;Kylfusveinn
+9.1.5.1 ;Lyftuvörður
+9.1.5.1 ;Pikkaló
+9.1.5.1 ;Sendiboði
+9.1.5.1 ;Sendill (fótgangandi)
+9.1.5.1 ;Sendisveinn
+9.1.5.1 ;Vikadrengur
+9.1.5.1 ;Vikapiltur
+9.1.5.1 ;Vikastúlka
+9.1.5.1 ;Störf sendla og burðarfólks
+9.1.5.2 ;Alþingisvörður
+9.1.5.2 ;Bílastæðavörður
+9.1.5.2 ;Dyravörður
+9.1.5.2 ;Gangavörður
+9.1.5.2 ;Gangbrautarvörður
+9.1.5.2 ;Gæslukona á safni
+9.1.5.2 ;Gæslukona í íþróttahúsi
+9.1.5.2 ;Gæslukona í sýningarsal
+9.1.5.2 ;Gæslumaður á safni
+9.1.5.2 ;Gæslumaður í fyrirtæki
+9.1.5.2 ;Gæslumaður í ráðuneyti
+9.1.5.2 ;Gæslumaður í sýningarsal
+9.1.5.2 ;Gæslumaður íþróttavallar
+9.1.5.2 ;Innanhúspóstberi
+9.1.5.2 ;Næturvörður
+9.1.5.2 ;Prófgæslumaður
+9.1.5.2 ;Prófyfirsetumaður
+9.1.5.2 ;Salernisvörður
+9.1.5.2 ;Starfsmaður í fatahengi
+9.1.5.2 ;Stæðisvörður
+9.1.5.2 ;Sætavísa
+9.1.5.2 ;Umsjónarmaður í sundlaug
+9.1.5.2 ;Vaktmaður
+9.1.5.2 ;Vaktmaður á safni
+9.1.5.2 ;Vaktmaður í íþróttahúsi
+9.1.5.2 ;Öryggisvörður við dyravörslu eða vöktun húsa og annarra fasteigna
+9.1.5.2 ;Störf dyravarða og vaktmanna
+9.1.5.2 ;Störf dyravarða og vaktmanna
+9.1.5.3 ;Störf mælaálesara og starfsfólks við sjálfsala
+9.1.5.3 ;Mælaálesari
+9.1.5.3 ;Starfsmaður við áfyllingu sjálfsala
+9.1.5.3 ;Starfsmaður við tæmingu stöðumæla
+9.1.5.3 ;Stöðumælavörður
+9.1.5.3 ;Veðurathugunarmaður (álestur)
+9.1.5.3 ;Störf mælaálesara og starfsfólks við sjálfsala
+9.1.6.1 ;Flokksstjóri við sorphirðu
+9.1.6.1 ;Sorphreinsunarmaður
+9.1.6.1 ;Starfsmaður í sorphreinsunarstöð
+9.1.6.1 ;Starfsmaður við móttöku á rusli
+9.1.6.1 ;Verkamaður við sorphirðu
+9.1.6.1 ;Yfirflokksstjóri við sorphirðu
+9.1.6.1 ;Flokksstjóri við götu-og lóðahreinsun
+9.1.6.1 ;Störf við sorphreinsun
+9.1.6.1 ;Störf við sorphreinsun
+9.1.6.2 ;Störf sópara
+9.1.6.2 ;Flokksstjóri við lóða- og götuhreinsun
+9.1.6.2 ;Götusópari
+9.1.6.2 ;Sópari
+9.1.6.2 ;Unglingavinna (aðallega við lóða- og götuhreinsun)
+9.1.6.2 ;Verkamaður við lóðahreinsun
+9.1.6.2 ;Yfirflokksstjóri við götu-og lóðahreinsun
+9.1.6.2 ;Störf sópara
+9.2.1.1 ;Fjósamaður
+9.2.1.1 ;Flokksstjóri við garðyrkju
+9.2.1.1 ;Landbúnaðarverkamaður
+9.2.1.1 ;Sláttumaður
+9.2.1.1 ;Smali
+9.2.1.1 ;Umsjónarmaður skólagarða
+9.2.1.1 ;Unglingavinna (aðallega við garðyrkju)
+9.2.1.1 ;Verkamaður í landbúnaði
+9.2.1.1 ;Verkamaður við akuryrkju
+9.2.1.1 ;Verkamaður við garðyrkju
+9.2.1.1 ;Verkamaður við handsláttuvél
+9.2.1.1 ;Verkamaður við umhirðu dýra
+9.2.1.1 ;Verkstjóri í landbúnaði
+9.2.1.1 ;Vinnumaður í landbúnaði
+9.2.1.1 ;Vinnumaður við kartöflutínslu
+9.2.1.1 ;Yfirflokksstjóri við garðyrkju
+9.2.1.1 ;Ósérhæfður starfsmaður við rannsóknarstörf í landbúnaði
+9.2.1.1 ;Störf verkafólks í garðyrkju og landbúnaði
+9.2.1.1 ;Störf verkafólks í garðyrkju og landbúnaði
+9.2.1.2 ;Störf verkafólks í skógrækt
+9.2.1.2 ;Skógarhöggsmaður
+9.2.1.2 ;Verkamaður við skógrækt
+9.2.1.2 ;Störf verkafólks í skógrækt
+9.2.1.3 ;Aðstoðarmaður veiðimanns
+9.2.1.3 ;Aðstoðarmaður við veiðar
+9.2.1.3 ;Verkamaður í fiskeldisstöð
+9.2.1.3 ;Verkamaður í hafbeitarstöð
+9.2.1.3 ;Störf verkafólks við fiskeldi, hafbeit og veiðar
+9.2.1.3 ;Störf verkafólks við fiskeldi, hafbeit og veiðar
+9.3.1.1 ;Störf verkafólks í námum og grjótnámi
+9.3.1.1 ;Verkamaður í sandnámi
+9.3.1.1 ;Verkamaður við grjótnámi
+9.3.1.1 ;Störf verkafólks í námum og grjótnámi
+9.3.1.2 ;Brettamaður við malbikun
+9.3.1.2 ;Flokksstjóri við vegagerð
+9.3.1.2 ;Handlangari við brúargerð
+9.3.1.2 ;Handlangari við hellulagningu
+9.3.1.2 ;Vegavinnumaður
+9.3.1.2 ;Verkamaður við flugvallargerð
+9.3.1.2 ;Verkamaður við línulagnir (við mannvirkjagerð)
+9.3.1.2 ;Verkamaður við malbikun
+9.3.1.2 ;Verkamaður við mokstur
+9.3.1.2 ;Verkamaður við stíflugerð
+9.3.1.2 ;Verkamaður við vegagerð
+9.3.1.2 ;Verkamaður við veitulagnir
+9.3.1.2 ;Störf verkafólks við mannvirkjagerð, aðra en húsbyggingar
+9.3.1.2 ;Störf verkafólks við mannvirkjagerð, aðra en húsbyggingar
+9.3.1.3 ;Verkafólk við húsbyggingar
+9.3.1.3 ;Handlangari við húsbyggingar
+9.3.1.3 ;Handlangari við múrbrot
+9.3.1.3 ;Ósérhæfður byggingarverkamaður
+9.3.1.3 ;Verkamaður í byggingarvinnu
+9.3.1.3 ;Verkamaður við línulagnir (við húsbyggingar)
+9.3.1.3 ;Verkamaður í viðhaldi mannvirkja
+9.3.1.3 ;Verkafólk við húsbyggingar
+9.3.2.1 ;Aðstoðarmaður við handröðun
+9.3.2.1 ;Fiskverkakona
+9.3.2.1 ;Iðnverkakona
+9.3.2.1 ;Iðnverkamaður
+9.3.2.1 ;Ófaglærður verkamaður á verkstæði
+9.3.2.1 ;Ófaglærður verkamaður í verksmiðju
+9.3.2.1 ;Sorpflokkunarmaður
+9.3.2.1 ;Verkamaður á smurstöð
+9.3.2.1 ;Verkamaður í ryðvarnarskála
+9.3.2.1 ;Verkamaður við flokkun
+9.3.2.1 ;Verkamaður við flöskuflokkun (án véla)
+9.3.2.1 ;Verkamaður við handsamsetningu
+9.3.2.1 ;Verkamaður við sorpflokkun (án véla)
+9.3.2.1 ;Verkamaður við sorpmóttöku
+9.3.2.1 ;Verkamaður við sorpurðun (án véla)
+9.3.2.1 ;Verkamaður við vöruflokkun (án véla)
+9.3.2.1 ;Ósérhæfður verkamaður í iðnaði
+9.3.2.1 ;Ósérhæfður verkamaður við kjötiðnað
+9.3.2.1 ;Ósérhæfður verkamaður við sælgætispökkun
+9.3.2.1 ;Störf verkafólks við handsamsetningu og flokkun
+9.3.2.1 ;Störf verkafólks við handsamsetningu og -flokkun
+9.3.2.2 ;Störf verkafólks við handpökkun og aðra verksmiðjuvinnu
+9.3.2.2 ;Fiskverkamaður
+9.3.2.2 ;Ósérhæfð fiskvinnslukona við handpökkun
+9.3.2.2 ;Ósérhæfður fiskvinnslumaður við handpökkun
+9.3.2.2 ;Ósérhæfður verkamaður við rækjuvinnslu
+9.3.2.2 ;Ósérhæfður verkamaður við saltfiskverkun
+9.3.2.2 ;Verkamaður við fiskpökkun (án véla)
+9.3.2.2 ;Verkamaður við handpökkun (án véla)
+9.3.2.2 ;Verkamaður við pökkun (án véla)
+9.3.2.2 ;Ósérhæfð fiskvinnslukona
+9.3.2.2 ;Ósérhæfður fiskvinnslumaður
+9.3.2.2 ;Störf verkafólks við handpökkun og aðra verkstmiðjuvinnu
+9.3.3.0 ;Aðstoðarmaður vitavarðar
+9.3.3.0 ;Bandamaður
+9.3.3.0 ;Ekill
+9.3.3.0 ;Flutningaverkamaður
+9.3.3.0 ;Hafnarverkamaður
+9.3.3.0 ;Hestvagnaekill
+9.3.3.0 ;Hlaðmaður
+9.3.3.0 ;Kúskur
+9.3.3.0 ;Lagermaður við burð og stöflun
+9.3.3.0 ;Sendill á reiðhjóli
+9.3.3.0 ;Skipaafgreiðslumaður
+9.3.3.0 ;Vatnsafgreiðslumaður
+9.3.3.0 ;Verkamaður við flutninga
+9.3.3.0 ;Verkamaður við hafnarvinnu
+9.3.3.0 ;Verkamaður við pakkhúsvinnu
+9.3.3.0 ;Störf verkafólks við flutninga og vörugeymslu
+9.3.3.0 ;Störf verkafólks við flutninga og vörugeymslu
+9.9.9.9 ;Starf ekki til

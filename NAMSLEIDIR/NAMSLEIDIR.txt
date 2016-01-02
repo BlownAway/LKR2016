@@ -1,0 +1,99 @@
+1;Málabraut til stúdentsprófs;3AG ;010 ;304 
+2;Félagsfræðabraut til stúdentsprófs;3AG ;010 ;304 
+3;Náttúrufræðibraut til stúdentsprófs;3AG ;010 ;304 
+4;Upplýsinga- og tæknibraut til stúdentsprófs;3AG ;010 ;304 
+5;Listnámsbraut, (3 ár);3CV ;210 ;303 
+6;Almenn bókmenntafræði B.A.;5A0 ;225 ;600 
+7;Almenn bókmenntafræði M.A.;5A0 ;225 ;700 
+8;Líffræði B.S.;5A0 ;421 ;600 
+9;Almenn málvísindi B.A.;5A0 ;223 ;600 
+10;Atvinnulífsfræði B.A.;5A0 ;313 ;600 
+11;Bókasafns- og upplýsingafræði til starfsréttinda (60 ein.);5A0 ;322 ;600 
+12;Bókasafns- og upplýsingafræði B.A.;5A0 ;322 ;600 
+13;Danska B.A.;5A0 ;222 ;600 
+14;Danska M.A.;5A0 ;222 ;700 
+15;Danska M.Paed. (45 ein.);5A0 ;145 ;700 
+16;Uppeldis- og menntunarfræði Dipl.Ed. viðbótarnám, almennt (15 ein.);5A0 ;142 ;600 
+17;Djáknanám B.A.;5A0 ;221 ;600 
+18;Djáknanám, viðbótardiplóma (30 ein.);5A0 ;221 ;600 
+19;Læknavísindi Dr., 10 misseri;60  ;721 ;800 
+20;Eðlisfræði B.S.;5A0 ;441 ;600 
+21;Eðlisfræði Dr.;60  ;441 ;800 
+22;Eðlisfræði M.S.;5A0 ;441 ;700 
+23;Efnafræði B.S.;5A0 ;442 ;600 
+24;Efnafræði Dr.;60  ;442 ;800 
+25;Efnafræði M.S.;5A0 ;442 ;700 
+26;Efnaverkfræði (fyrri hluti) B.S.;5A0 ;524 ;600 
+27;Efnaverkfræði B.S.;5A0 ;524 ;600 
+28;Enska B.A.;5A0 ;222 ;600 
+29;Enska M.A.;5A0 ;222 ;700 
+30;Enska M.Paed. (60 ein.);5A0 ;145 ;700 
+31;Ferðamálafræði B.S.;5A0 ;812 ;600 
+32;Ferðamálafræði, grunndiplóma (45 ein.);5A0 ;812 ;400 
+33;Félagsfræði B.A.;5A0 ;312 ;600 
+34;Félagsfræði M.A.;5A0 ;312 ;700 
+35;Félagsráðgjöf, starfsréttindi, viðbótardiplóma (30 ein.);5A0 ;762 ;600 
+36;Félagsvísindadeild, ótilgreind menntun á Bachelor stigi;5A0 ;319 ;600 
+37;Félagsvísindadeild, erlendir skiptinemar;5A0 ;319 ;500 
+38;Félagsvísindadeild, símenntun á Bachelor stigi;5A0 ;319 ;500 
+39;Finnska B.A.;5A0 ;222 ;600 
+40;Fiskifræði B.S.;5A0 ;421 ;600 
+41;Viðskiptafræði, fjármálasvið cand. oecon. (120 ein.);5A0 ;343 ;600 
+42;Franska B.A.;5A0 ;222 ;600 
+43;Gríska B.A.;5A0 ;222 ;600 
+44;Guðfræði B.A.;5A0 ;221 ;600 
+45;Guðfræði cand. theol.;5A0 ;221 ;700 
+46;Guðfræði Dr.;60  ;221 ;800 
+47;Guðfræði M.A.;5A0 ;221 ;700 
+48;Guðfræði, símenntun á Bachelor stigi;5A0 ;221 ;500 
+49;Hagfræði, grunndiplóma (45 ein.);5A0 ;314 ;400 
+50;Hagfræði B.A.;5A0 ;314 ;600 
+51;Hagfræði M.S. (45 ein.);5A0 ;314 ;700 
+52;Danska, hagnýt, grunndiplóma (45 ein.);5A0 ;222 ;400 
+53;Enska, hagnýt, grunndiplóma (45 ein.);5A0 ;222 ;400 
+54;Hagnýt fjölmiðlun, viðbótardiplóma (30 ein.);5A0 ;321 ;600 
+55;Franska, hagnýt, grunndiplóma (45 ein.);5A0 ;222 ;400 
+56;Íslenska, hagnýt, grunndiplóma (45 ein.);5A0 ;223 ;400 
+57;Spænska, hagnýt, grunndiplóma (45 ein.);5A0 ;222 ;400 
+58;Þýska, hagnýt, grunndiplóma (45 ein.);5A0 ;222 ;400 
+59;Heilbrigðisvísindi Dr.;60  ;720 ;800 
+60;Heilbrigðisvísindi M.S.;5A0 ;720 ;700 
+61;Heimspeki B.A.;5A0 ;226 ;600 
+62;Heimspeki M.A.;5A0 ;226 ;700 
+63;Heimspekideild, erlendir skiptinemar;5A0 ;229 ;500 
+64;Heimspekideild, símenntun á Bachelor stigi;5A0 ;229 ;500 
+65;Íslenskt mál og menning fyrir erlenda skiptinema, (Hermes, Icelandic Culture), grunndiplóma;5A0 ;222 ;400 
+66;Hjúkrunarfræði B.S. (120 ein.);5A0 ;723 ;600 
+67;Hjúkrunarfræði M.S.;5A0 ;723 ;700 
+68;Hjúkrunarfræði, erlendir skiptinemar;5A0 ;723 ;500 
+69;Hjúkrunarfræði, símenntun á Bachelor stigi;5A0 ;723 ;500 
+70;Hugbúnaðarverkfræði B.S.;5A0 ;523 ;600 
+71;Íslensk málfræði Dr.;60  ;223 ;800 
+72;Íslenskar bókmenntir M.A.;5A0 ;223 ;700 
+73;Íslensk málfræði cand. mag.;5A0 ;223 ;700 
+74;Íslensk málfræði M.A.;5A0 ;223 ;700 
+75;Íslensk fræði M.A.;5A0 ;223 ;700 
+76;Íslenska B.A.;5A0 ;223 ;600 
+77;Íslenska fyrir erlenda stúdenta B.Ph.Isl.;5A0 ;222 ;600 
+78;Íslenska M.Paed. (60 ein.);5A0 ;145 ;700 
+79;Íslenskar bókmenntir Dr., 6 misseri;60  ;223 ;800 
+80;Ítalska B.A.;5A0 ;222 ;600 
+81;Jarðeðlisfræði B.S.;5A0 ;443 ;600 
+82;Jarðeðlisfræði M.S.;5A0 ;443 ;700 
+83;Jarðfræði B.S.;5A0 ;443 ;600 
+84;Jarðfræði Dr.;60  ;443 ;800 
+85;Jarðfræði M.S.;5A0 ;443 ;700 
+86;Kennsluréttindi í sérgrein (Bachelor gráða forkrafa) (30 ein.);5A0 ;145 ;600 
+87;Landafræði M.S.;5A0 ;443 ;700 
+88;Landafræði B.S.;5A0 ;443 ;600 
+89;Latína B.A.;5A0 ;222 ;600 
+90;Lífefnafræði B.S.;5A0 ;421 ;600 
+91;Lífefnafræði M.S.;5A0 ;421 ;700 
+92;Líffræði Dr.;60  ;421 ;800 
+93;Ljósmóðurfræði cand.obst.;5A0 ;723 ;700 
+94;Lyfjafræði Dr. (5 ár);60  ;727 ;800 
+95;Lyfjafræði, símenntun á Bachelor stigi;5A0 ;727 ;500 
+96;Lyfjafræði cand.pharm.;5A0 ;727 ;700 
+97;Læknisfræði cand.med.et.chir.;5A0 ;721 ;700 
+98;Læknisfræði, erlendir skiptinemar;5A0 ;721 ;500 
+99;Lögfræði B.A.;5A0 ;380 ;600 

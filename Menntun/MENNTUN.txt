@@ -1,0 +1,359 @@
+1.1.1   ;Barnaskólapróf
+1.2.1   ;unglingapróf
+2.1.1   ;framhaldsdeildir grunnskóla
+2.1.2   ;grunnskólar
+2.1.3   ;landspróf miðskóla
+2.1.4   ;miðskólapróf
+2.1.5   ;tónlistarskólar, 12-15 ára
+2.2.1   ;gagnfræðapróf
+2.3.1   ;bílasalanám
+2.3.2   ;meirapróf atvinnubílstjóra
+2.3.3   ;ritaranám, ein önn á framhaldsskólastigi
+2.3.4   ;skipstjórn 30 tonna réttindapróf (pungapróf)
+2.3.5   ;skrifstofustarfanám, ein önn á framhaldsskólastigi
+2.3.6   ;verkstjórnarnám til réttinda verkstjóra
+2.3.7   ;þungavinnuvélapróf - meira en 100 klst námskeið
+3.1.1   ;búfræðinám
+3.1.10  ;lögregluskóli - 1987
+3.1.11  ;ritaranám, tvær annir á framhaldsskólastigi
+3.1.12  ;samvinnuskólapróf
+3.1.13  ;samvinnuskólinn gamli
+3.1.14  ;símritaranám
+3.1.15  ;skipstjórn, 1. stig
+3.1.16  ;skipstjórn, 2. stig
+3.1.17  ;skrifstofustarfanám, tvær annir á framhaldsskólastigi
+3.1.18  ;stýrimannaskóli, 1. stig
+3.1.19  ;stýrimannaskóli, 2. stig
+3.1.2   ;framhaldsdeildir gagnfræðastigsskóla
+3.1.20  ;tollskólinn, tollvarðanám
+3.1.21  ;tónlistarskólar, 7. stig
+3.1.22  ;verslunarpróf
+3.1.23  ;verslunarskólapróf
+3.1.24  ;vélskóli, 2. stig
+3.1.25  ;vélstjórn, 2. stig
+3.1.3   ;Hljóðfæraleikur, 7. stig
+3.1.4   ;húsmæðraskólar 1 vetur amk
+3.1.5   ;hússtjórnarnám amk 1 vetur
+3.1.6   ;íþróttakennaraskóli - 1973
+3.1.7   ;kennaraskólinn gamli
+3.1.8   ;kennaraskólinn gamli
+3.1.9   ;loftskeytamannspróf
+3.2.1   ;aðstoðarmaður tannlæknis
+3.2.10  ;lögregluskóli 1988 -
+3.2.11  ;nuddskóli
+3.2.12  ;símsmiðspróf
+3.2.13  ;sjúkraliðanám
+3.2.14  ;skipstjórn, 3. stig
+3.2.15  ;stýrimannaskóli, 3. stig
+3.2.16  ;tækniteiknun
+3.2.17  ;vélskóli, 3. stig
+3.2.18  ;vélstjórn, 3. stig
+3.2.19  ;þroskaþjálfaskóli fram að 1985
+3.2.2   ;danskennaranám
+3.2.3   ;fiskiðnaðarmannspróf
+3.2.4   ;fisktæknipróf
+3.2.5   ;garðyrkjuskóli
+3.2.6   ;hjúkrunarfræðingspróf fram til 1974
+3.2.7   ;íþróttakennaraskóli 1974 - 1992
+3.2.8   ;ljósmæðraskóli fyrir 1982
+3.2.9   ;lyfjatækninám
+3.3.1   ;Almenn ljósmyndun
+3.3.10  ;Feldskurður
+3.3.11  ;Flugvélavirkjun
+3.3.12  ;Framreiðsla
+3.3.13  ;Glerslípun og speglagerð
+3.3.14  ;Gull- og silfursmíði
+3.3.15  ;Hattasaumur
+3.3.16  ;Hárgreiðsla
+3.3.17  ;Hárskurður
+3.3.18  ;Hársnyrtibraut
+3.3.19  ;Hljóðfærasmíði
+3.3.2   ;Annað
+3.3.20  ;Húsamálun
+3.3.21  ;Húsasmíði Trésmíði
+3.3.22  ;Húsgagnabólstrun
+3.3.23  ;Húsgagnasmíði
+3.3.24  ;Járnsmíði
+3.3.25  ;Kjólasaumur
+3.3.26  ;Kjötiðn
+3.3.27  ;Klæðskurður karla
+3.3.28  ;Klæðskurður kvenna
+3.3.29  ;Kökugerð
+3.3.3   ;Bakaraiðn
+3.3.30  ;Leirkerasmíði
+3.3.31  ;Leturgröftur
+3.3.32  ;Ljósmyndun
+3.3.33  ;Matreiðsla
+3.3.34  ;Málmsteypa og rennismíði
+3.3.35  ;Mjólkuriðn
+3.3.36  ;Mótasmíði
+3.3.37  ;Múrsmíði
+3.3.38  ;Myndskurður
+3.3.39  ;Netagerð
+3.3.4   ;Bakaraiðn og kökugerð
+3.3.40  ;Persónuljósmyndun
+3.3.41  ;Pípulagnir
+3.3.42  ;Prentsmíði
+3.3.43  ;Prentun
+3.3.44  ;Rafeindavirkjun
+3.3.45  ;Rafveituvirkjun
+3.3.46  ;Rafvélavirkjun
+3.3.47  ;Rafvirkjun
+3.3.48  ;Reiðtygja- og aktygjasmíði
+3.3.49  ;Rennismíði
+3.3.5   ;Bifreiðasmíði
+3.3.50  ;Símsmíði
+3.3.51  ;Skipa- og bátasmíði
+3.3.52  ;Skósmíði
+3.3.53  ;Skrúðgarðyrkja
+3.3.54  ;Snyrtifræði
+3.3.55  ;Stálskipasmíði
+3.3.56  ;Stálsmíði
+3.3.57  ;Stálvirkjun
+3.3.58  ;Steinsmíði
+3.3.59  ;Sútaraiðn
+3.3.6   ;Bifvélavirkjun
+3.3.60  ;Tannsmíði
+3.3.61  ;Tágariðun
+3.3.62  ;Úrsmíði
+3.3.63  ;Veggfóðrun
+3.3.64  ;Vélsmíðabraut Vélvirkjun
+3.3.65  ;Málmsuða
+3.3.66  ;Vélsmíðabraut
+3.3.7   ;Bílamálun
+3.3.8   ;Blikksmíði
+3.3.9   ;Bókband
+3.4.1   ;Hljóðfæraleikur, 8. stig
+3.4.2   ;leiklistarskóli fyrir 1978
+3.4.3   ;myndlista- og handíðaskóli fornám
+3.4.4   ;tónlistarskólar, 8. stig
+3.5.1   ;frumgreinadeild samvinnuháskólans
+3.5.2   ;frumgreinadeild tækniskólans
+3.5.3   ;samvinnuháskóli frumgreinadeild
+3.5.4   ;stúdentspróf
+4.2.1   ;atvinnuflugmannspróf
+4.2.10  ;leiðsöguskóli
+4.2.11  ;læknaritaranám
+4.2.12  ;nýi hjúkrunarskólinn
+4.2.13  ;rafiðnfræði
+4.2.14  ;skipstjórn, 4. stig
+4.2.15  ;stýrimannaskóli, 4. stig
+4.2.16  ;vélfræðingspróf
+4.2.17  ;véliðnfræði
+4.2.18  ;vélstjórn, 4. stig
+4.2.19  ;véltæknifræði, fyrrihlutapróf
+4.2.2   ;byggingaiðnfræði
+4.2.3   ;fjölbrautaskólar læknaritaranám
+4.2.4   ;flugnám, atvinnuflugmannspróf
+4.2.5   ;flugumferðarstjórn
+4.2.6   ;framhaldsnám atvinnuflugmanna
+4.2.7   ;iðnfræði, iðnfræðingspróf
+4.2.8   ;iðnfræðingspróf
+4.2.9   ;iðnrekstrarfræðingur
+5.1.1   ;"Aðstoðarmaður lögfræðings; Lögritarar, stutt hagnýtt nám"
+5.1.10  ;Leikskólakennaranám fyrir ófaglærða starfsmenn
+5.1.11  ;Markaðs- og útflutningsfræði, stutt hagnýtt nám
+5.1.12  ;Menntun leiðbeinenda í uppeldis- og félagsstarfi
+5.1.13  ;Reikningshald, stutt hagnýtt nám
+5.1.14  ;Rekstrarstjórnun, stutt hagnýtt nám
+5.1.15  ;Rekstur fyrirtækja og tölvunotkun, stutt hagnýtt nám
+5.1.16  ;Rekstur tölvukerfa - Tölvunarfræðiskor, stutt hagnýtt nám
+5.1.17  ;Tómstundafræði, stutt hagnýtt nám
+5.1.18  ;Viðskiptatungumál og alþjóðasamskipti, stutt hagnýtt nám
+5.1.2   ;Ferðamálafræði, diplómanám
+5.1.3   ;Hagnýt danska
+5.1.4   ;Hagnýt enska
+5.1.5   ;Hagnýt franska
+5.1.6   ;Hagnýt spænska
+5.1.7   ;Hagnýt þýska
+5.1.8   ;Hagnýtt íslenskunám
+5.1.9   ;Íslensk menning, mál og bókmenntir fyrir útlendinga
+5.2.1   ;eðlisfræði, fyrrihlutapróf
+5.2.10  ;hljóðfærakennarar
+5.2.11  ;Hljóðfæraleikur, 9. stig
+5.2.12  ;iðnrekstrarfræðingspróf
+5.2.13  ;íþróttakennaraskóli frá 1993
+5.2.14  ;Keramík
+5.2.15  ;Kerfisfræði
+5.2.16  ;khí uppeldis- og kennslufræði
+5.2.17  ;leiklistarskóli frá 1978
+5.2.18  ;leikskólakennaranám
+5.2.19  ;Listmálun, ekki háskólagráða
+5.2.2   ;eðlisverkfræði, fyrrihlutapróf
+5.2.20  ;ljósmæðraskóli 1983-1994
+5.2.21  ;myndlista- og handíðaskóli
+5.2.22  ;Myndmenntakennaranám
+5.2.23  ;Nám til kennsluréttinda á framhaldsskólastigi
+5.2.24  ;Nám til kennsluréttinda í grunnskóla
+5.2.25  ;Orgelleikur, 9. stig
+5.2.26  ;Píanókennaranám
+5.2.27  ;rekstrarfræðingspróf
+5.2.28  ;Strokhljóðfærakennaranám
+5.2.29  ;Söngkennaranám
+5.2.3   ;efnafræði, fyrrihlutapróf
+5.2.30  ;Söngnám, 9. stig
+5.2.31  ;tónfræðideildarpróf
+5.2.32  ;Tónlistarfræði
+5.2.33  ;tónlistarskólar hljóðfærakennaradeild
+5.2.34  ;tónlistarskólar tónfræðideild
+5.2.35  ;tónlistarskólar tónmenntakennaradeild
+5.2.36  ;tónlistarskólar, einleikarapróf á hljóðfæri
+5.2.37  ;tónlistarskólar, einsöngspróf
+5.2.38  ;Tónmenntakennaranám
+5.2.39  ;tónmenntakennarar
+5.2.4   ;efnaverkfræði, fyrrihlutapróf
+5.2.40  ;tölvuháskóli verslunarskóla íslands
+5.2.41  ;þroskaþjálfaskóli eftir 1985
+5.2.42  ;þroskaþjálfaskóli framhaldsdeild frá 1988
+5.2.5   ;fósturskóli
+5.2.6   ;fósturskóli framhaldsdeild
+5.2.7   ;Grafísk hönnun, ekki háskólagráða
+5.2.8   ;hjúkrunarfræðingspróf 1975 - 1985
+5.2.9   ;Hljóðfærakennaranám
+5.3.1   ;Alþjóðamarkaðsfræði
+5.3.10  ;byggingatæknifræði
+5.3.100 ;sálarfræði
+5.3.101 ;Sjávarútvegsfræði
+5.3.102 ;sjúkraþjálfun
+5.3.103 ;skipatæknifræði
+5.3.104 ;skipaverkfræði
+5.3.105 ;skipulagsfræði
+5.3.106 ;Skúlptúr til háskólagráðu
+5.3.107 ;Spænska
+5.3.108 ;Starfstengd siðfræði, framhaldsnám
+5.3.109 ;stjórnmálafræði
+5.3.11  ;danska í háskóla
+5.3.110 ;stærðfræði
+5.3.111 ;Stærðfræði fræðileg
+5.3.112 ;Stærðfræði, náttúruvísindi
+5.3.113 ;Stærðfræði-tölvunarfræði
+5.3.114 ;Sænska
+5.3.115 ;Söngnám, 9. stig
+5.3.116 ;tannlækningar
+5.3.117 ;Tannlækningar almennt
+5.3.118 ;Táknmálsfræði
+5.3.119 ;Textíll til háskólagráðu
+5.3.12  ;djáknanám
+5.3.120 ;Trúarbragðafræði - 30 ein  þverfaglegt nám
+5.3.121 ;Tungumál, bókmenntir, saga, guðfræði, listir, fjölmiðlun
+5.3.122 ;tæknifræði
+5.3.123 ;Tæknileg eðlisfræði
+5.3.124 ;Tölvu- og upplýsingatæknifræði
+5.3.125 ;tölvunarfræði
+5.3.126 ;Umhverfis og byggingarverkfræði, fræðalína
+5.3.127 ;Umhverfisskipulag/Búvísindi
+5.3.128 ;uppeldis- og kennslufræði
+5.3.129 ;uppeldisfræði
+5.3.13  ;dýralæknanám
+5.3.130 ;Uppeldisfræði, kennaranám, íþróttir
+5.3.131 ;veðurfræði
+5.3.132 ;Verkfræði, sérgrein ekki tilgreind
+5.3.133 ;verkfræðingspróf
+5.3.134 ;Véla- og iðnaðarverkfræði
+5.3.135 ;Véla- og iðnaðarverkfræði, vélalína
+5.3.136 ;vélaverkfræði
+5.3.137 ;véltæknifræði
+5.3.138 ;Viðbótarnám í kennarafræðum
+5.3.139 ;viðskiptafræði
+5.3.14  ;eðlisfræði
+5.3.140 ;Viðskiptalögfræði
+5.3.141 ;Vörustjórnun
+5.3.142 ;þjóðfræði
+5.3.143 ;Þjóðháttafræði
+5.3.144 ;Þrívíddarhönnun - 90 e. Háskólanám
+5.3.145 ;Þroskaþjálfanám - úr KHÍ
+5.3.146 ;Þroskaþjálfanám, viðbót
+5.3.147 ;þýska í háskóla
+5.3.15  ;efnafræði
+5.3.16  ;Efnaverkfræði
+5.3.17  ;Endurskoðun
+5.3.18  ;Enska
+5.3.19  ;enska í háskóla
+5.3.2   ;Alþjóðastjórnmálafræði
+5.3.20  ;Fata- & textílhönnun til háskólagráðu
+5.3.21  ;Ferðamálafræði
+5.3.22  ;félagsfræði
+5.3.23  ;félagsráðgjöf
+5.3.24  ;Félagsvísindanám
+5.3.25  ;Finnska
+5.3.26  ;Fiskifræði
+5.3.27  ;Fjöltækni
+5.3.28  ;Franska
+5.3.29  ;franska í háskóla
+5.3.3   ;arkitektúr
+5.3.30  ;Fyrirtækjafræði
+5.3.31  ;Grafík
+5.3.32  ;Grafísk hönnun til háskólagráðu
+5.3.33  ;Gríska
+5.3.34  ;grunnskólakennaranám í háskóla
+5.3.35  ;guðfræði
+5.3.36  ;hagfræði
+5.3.37  ;Hagfræði ekki nánar tilgreind
+5.3.38  ;hagnýt fjölmiðlun
+5.3.39  ;háskólinn á akureyri, heilbrigðisdeild
+5.3.4   ;Atvinnulífsfræði
+5.3.40  ;heimspeki
+5.3.41  ;hjúkrunarfræði til háskólagráðu
+5.3.42  ;Hljóðfæraleikur, 9. stig
+5.3.43  ;Hönnun - nytjahlutir
+5.3.44  ;Hönnun - prentmiðlar
+5.3.45  ;Hönnun - skjámiðlar
+5.3.46  ;Hönnun - textíll
+5.3.47  ;Iðjuþjálfun
+5.3.48  ;iðnaðartæknifræði
+5.3.49  ;iðnrekstrarfræði til BS gráðu
+5.3.5   ;bókasafnsfræði
+5.3.50  ;Íslenska
+5.3.51  ;Íslenska fyrir útlendinga
+5.3.52  ;íslenska í háskóla
+5.3.53  ;Ítalska
+5.3.54  ;Íþróttafræði
+5.3.55  ;Íþróttakennaranám til háskólagráðu
+5.3.56  ;jarðeðlisfræði
+5.3.57  ;jarðfræði
+5.3.58  ;Kennaranám til háskólaprófs
+5.3.59  ;landafræði
+5.3.6   ;bókmenntafræði
+5.3.60  ;Latína
+5.3.61  ;Leiklistarnám til háskólagráðu
+5.3.62  ;Leikskólakennaranám, viðbót
+5.3.63  ;Lífefnafræði
+5.3.64  ;líffræði
+5.3.65  ;Ljósmæðrafræði
+5.3.66  ;Ljósmæðrafræði, undirbúningsnám
+5.3.67  ;lyfjafræði
+5.3.68  ;Lyfjafræði til aðstoðarlyfjafræðingsprófs
+5.3.69  ;Lyfjafræði, símenntun
+5.3.7   ;Búvísindi til háskólagráðu
+5.3.70  ;læknisfræði
+5.3.71  ;Læknisfræði til kandídatsprófs á Íslandi
+5.3.72  ;lögfræði
+5.3.73  ;mannfræði
+5.3.74  ;matvælafræði
+5.3.75  ;málvísindi
+5.3.76  ;meinatækni
+5.3.77  ;Myndlist til háskólagráðu
+5.3.78  ;Nám í fjölmiðlun
+5.3.79  ;námsráðgjöf
+5.3.8   ;Byggingartæknifræði
+5.3.80  ;náttúrufræði
+5.3.81  ;Norska
+5.3.82  ;"Nútímafræði; þverfaglegt nám í kennaradeild - hugvísindi"
+5.3.83  ;orkutæknifræði
+5.3.84  ;Rafmagns- og tölvuverkfræði, hugbúnaðarverkfræði
+5.3.85  ;Rafmagns- og tölvuverkfræði, tölvulína
+5.3.86  ;rafmagnstæknifræði
+5.3.87  ;rafmagnsverkfræði
+5.3.88  ;Rafmagnsverkfræði sterkstraums
+5.3.89  ;Raftæknifræði
+5.3.9   ;byggingarverkfræði
+5.3.90  ;Rekstrarhagfræði almenn
+5.3.91  ;Rekstrarhagfræði fjármálasvið
+5.3.92  ;Rekstrarhagfræði markaðssvið
+5.3.93  ;Rekstrarhagfræði stjórnun
+5.3.94  ;Rekstrarhagfræði upplýsingatækni
+5.3.95  ;rekstrartæknifræði
+5.3.96  ;Rússneska
+5.3.97  ;röntgentækni (geislafræði)
+5.3.98  ;sagnfræði
+5.3.99  ;Sameindalíffræði

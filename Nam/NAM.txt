@@ -1,0 +1,1004 @@
+2.1.1   ;Grunnskóli
+2.3.1   ;Tollskóli ríkisins
+2.3.2   ;Ökuskóli aukin ökuréttindi meirapróf
+2.3.3   ;Ökuskóli almenn ökuréttindi
+2.3.4   ;Tónlistarskóli 1. - 6. stig
+2.3.4   ;Tónlistarskóli... 1. - 5. stig
+2.3.5   ;Flugskóli Einkaflugmannsnám
+3.1.1   ;Borgarholtsskóli Almenn braut
+3.1.10  ;Fjölbrautaskóli Norðurlands vestra Málmiðnabraut
+3.1.100 ;Iðnskólinn í Reykjavík ( IR ) Tréiðnabraut
+3.1.101 ;Iðnskólinn í Reykjavík ( IR ) Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.104 ;Menntaskólinn á Egilsstöðum ( ME ) Almenn braut
+3.1.105 ;Menntaskólinn á Egilsstöðum ( ME ) Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.106 ;Menntaskólinn á Egilsstöðum ( ME ) Viðskiptabraut
+3.1.107 ;Menntaskólinn á Ísafirði ( MÍ ) Almenn braut
+3.1.108 ;Menntaskólinn á Ísafirði ( MÍ ) Rafiðnabraut
+3.1.11  ;Fjölbrautaskóli Norðurlands vestra Rafiðnabraut
+3.1.110 ;Menntaskólinn á Ísafirði ( MÍ ) Vélstjóranám 1.stigs
+3.1.111 ;Menntaskólinn á Ísafirði ( MÍ ) Vélstjóranám 2.stigs
+3.1.112 ;Menntaskólinn á Ísafirði ( MÍ ) Viðskiptabraut
+3.1.113 ;Menntaskólinn í Kópavogi ( MK ) Almenn braut
+3.1.114 ;Menntaskólinn í Kópavogi ( MK ) Grunnnám matvælaiðna
+3.1.115 ;Menntaskólinn í Kópavogi ( MK ) Hússtjórn, matreiðsla
+3.1.116 ;Menntaskólinn í Kópavogi ( MK ) Matsveinanám
+3.1.118 ;Menntaskólinn í Kópavogi ( MK ) Viðskiptabraut
+3.1.119 ;Fjöltækniskóli Íslands Sjávarútvegsbraut/Skipstjórnarbraut
+3.1.120 ;Fjöltækniskóli Íslands Stýrimannanám 1.stigs
+3.1.121 ;Fjöltækniskóli Íslands Stýrimannanám 2.stigs
+3.1.122 ;Verkmenntaskóli Austurlands Almenn braut
+3.1.123 ;Verkmenntaskóli Austurlands Málmtæknibraut
+3.1.124 ;Verkmenntaskóli Austurlands Rafiðnabraut
+3.1.125 ;Verkmenntaskóli Austurlands Sjávarútvegsbraut/Skipstjórnarbraut
+3.1.127 ;Verkmenntaskóli Austurlands Tréiðnabraut
+3.1.128 ;Verkmenntaskólinn á Akureyri ( VMA ) Almenn braut
+3.1.129 ;Verkmenntaskólinn á Akureyri ( VMA ) Matartæknabraut, fyrri hluti
+3.1.13  ;Fjölbrautaskóli Norðurlands vestra Tréiðnabraut
+3.1.130 ;Verkmenntaskólinn á Akureyri ( VMA ) Málmiðnabraut
+3.1.131 ;Verkmenntaskólinn á Akureyri ( VMA ) Rafiðnabraut
+3.1.132 ;Verkmenntaskólinn á Akureyri ( VMA ) Sjúkraliðanám, fyrri hluti
+3.1.134 ;Verkmenntaskólinn á Akureyri ( VMA ) Tréiðnabraut
+3.1.135 ;Verkmenntaskólinn á Akureyri ( VMA ) Uppeldisbraut
+3.1.136 ;Verkmenntaskólinn á Akureyri ( VMA ) Vélstjóranám 1.stigs
+3.1.137 ;Verkmenntaskólinn á Akureyri ( VMA ) Vélstjóranám 2.stigs
+3.1.138 ;Verkmenntaskólinn á Akureyri ( VMA ) Viðskiptabraut
+3.1.14  ;Fjölbrautaskóli Norðurlands vestra Uppeldisbraut
+3.1.141 ;Fjöltækniskóli Íslands Vélstjóranám 1.stigs
+3.1.142 ;Fjöltækniskóli Íslands Vélstjóranám 2.stigs
+3.1.147 ;Fjölbrautaskólinn í Breiðholti ( FB ) Íþróttabraut, starfsnám
+3.1.148 ;Fjölbrautaskólinn í Breiðholti ( FB ) Grunnnám bygginga- og mannvirkjagreina
+3.1.149 ;Fjölbrautaskóli Suðurlands Grunnnám bygginga- og mannvirkjagreina
+3.1.15  ;Fjölbrautaskóli Norðurlands vestra Viðskiptabraut
+3.1.150 ;Iðnskólinn í Reykjavík ( IR ) Grunnnám bygginga- og mannvirkjagreina
+3.1.151 ;Iðnskólinn í Hafnarfirði Grunnnám bygginga- og mannvirkjagreina
+3.1.152 ;Fjölbrautaskólinn í Breiðholti ( FB ) Tréiðnabraut
+3.1.153 ;Fjölbrautaskólinn við Ármúla Almenn braut
+3.1.154 ;Fjölbrautaskólinn við Ármúla Íþróttabraut, starfsnám
+3.1.155 ;Borgarholtsskóli Málmtæknibraut
+3.1.156 ;Borgarholtsskóli Leiðbeinendur í leikskólum
+3.1.157 ;Fjölbrautaskólinn í Garðabæ Íþróttabraut, starfsnám
+3.1.158 ;Verkmenntaskóli Austurlands Stóriðjubraut
+3.1.159 ;Framhaldsskólinn í A-Skaftafellssýslu Sjávarútvegsbraut/Skipstjórnarbraut
+3.1.16  ;Fjölbrautaskóli Suðurlands Almenn braut
+3.1.160 ;Fjölbrautaskóli Suðurnesja Íþróttabraut, starfsnám
+3.1.161 ;Fjölbrautaskóli Vesturlands Íþróttabraut, starfsnám
+3.1.162 ;Fjölbrautaskóli Norðurlands vestra Íþróttabraut, starfsnám
+3.1.163 ;Framhaldsskólinn á Laugum Íþróttabraut, starfsnám
+3.1.164 ;Verkmenntaskólinn á Akureyri ( VMA ) Íþróttabraut, starfsnám
+3.1.165 ;Verkmenntaskólinn á Akureyri ( VMA ) Málmtæknibraut
+3.1.166 ;Framhaldsskólinn í Vestmannaeyjum Uppeldisbraut
+3.1.167 ;Fjölbrautaskóli Suðurlands Íþróttabraut, starfsnám
+3.1.168 ;Menntaskólinn á Egilsstöðum ( ME ) Félagsþjónustubraut
+3.1.169 ;Menntaskólinn á Egilsstöðum ( ME ) Íþróttabraut, starfsnám
+3.1.17  ;Fjölbrautaskóli Suðurlands Ferðaþjónusta
+3.1.170 ;Verslunarskóli Íslands ( VÍ ) Félagsfræðabraut, 1. og 2. ár
+3.1.171 ;Verslunarskóli Íslands ( VÍ ) Náttúrufræðibraut, 1. og 2. ár
+3.1.172 ;Verslunarskóli Íslands ( VÍ ) Alþjóðabraut, 1. og 2. ár
+3.1.173 ;Verslunarskóli Íslands ( VÍ ) Hagfræðabraut, 1. og 2. ár
+3.1.174 ;Verslunarskóli Íslands ( VÍ ) Málabraut, 1. og 2. ár
+3.1.175 ;Verslunarskóli Íslands ( VÍ ) Stærðfræðibraut, 1. og 2. ár
+3.1.176 ;Verslunarskóli Íslands ( VÍ ) Tölvu- og upplýsingabraut, 1. og 2. ár
+3.1.177 ;Verslunarskóli Íslands ( VÍ ) Viðskiptabraut, 1. og 2. ár
+3.1.178 ;Kvikmyndaskóli Íslands Kvikmyndagerð
+3.1.179 ;Fjölbrautaskólinn í Breiðholti ( FB ) Rafiðnabraut
+3.1.18  ;Fjölbrautaskóli Suðurlands Grunndeild bíliðna
+3.1.180 ;Iðnskólinn í Reykjavík ( IR ) Málmtæknibraut
+3.1.181 ;Menntaskólinn á Ísafirði ( MÍ ) Málmiðnabraut
+3.1.19  ;Fjölbrautaskóli Suðurlands Hússtjórn, matreiðsla
+3.1.2   ;Borgarholtsskóli Félagsþjónustubraut
+3.1.20  ;Fjölbrautaskóli Suðurlands Málmtæknibraut
+3.1.21  ;Fjölbrautaskóli Suðurlands Rafiðnabraut
+3.1.23  ;Fjölbrautaskóli Suðurlands Tréiðnabraut
+3.1.24  ;Fjölbrautaskóli Suðurlands Uppeldisbraut
+3.1.25  ;Fjölbrautaskóli Suðurlands Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.26  ;Fjölbrautaskóli Suðurlands Viðskiptabraut
+3.1.27  ;Fjölbrautaskóli Suðurnesja Almenn braut
+3.1.28  ;Fjölbrautaskóli Suðurnesja Grunndeild háriðna
+3.1.29  ;Fjölbrautaskóli Suðurnesja Málmiðnabraut
+3.1.3   ;Borgarholtsskóli Fjölmenntabraut
+3.1.30  ;Fjölbrautaskóli Suðurnesja Málmtæknibraut
+3.1.31  ;Fjölbrautaskóli Suðurnesja Rafiðnabraut
+3.1.33  ;Fjölbrautaskóli Suðurnesja Tréiðnabraut
+3.1.34  ;Fjölbrautaskóli Suðurnesja Uppeldisbraut
+3.1.35  ;Fjölbrautaskóli Suðurnesja Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.36  ;Fjölbrautaskóli Suðurnesja Vélstjóranám 1.stigs
+3.1.37  ;Fjölbrautaskóli Suðurnesja Vélstjóranám 2.stigs
+3.1.38  ;Fjölbrautaskóli Suðurnesja Viðskiptabraut
+3.1.39  ;Fjölbrautaskóli Vesturlands Almenn braut
+3.1.4   ;Borgarholtsskóli Grunndeild bíliðna
+3.1.40  ;Fjölbrautaskóli Vesturlands Grunndeild bíliðna
+3.1.41  ;Fjölbrautaskóli Vesturlands Málmtæknibraut
+3.1.42  ;Fjölbrautaskóli Vesturlands Rafiðnabraut
+3.1.44  ;Fjölbrautaskóli Vesturlands Tréiðnabraut
+3.1.45  ;Fjölbrautaskóli Vesturlands Uppeldisbraut
+3.1.46  ;Fjölbrautaskóli Vesturlands Viðskiptabraut
+3.1.47  ;Fjölbrautaskóli Vesturlands, útibú Snæfellsbæ Almenn braut
+3.1.48  ;Fjölbrautaskóli Vesturlands, útibú Stykkishólmi Almenn braut
+3.1.49  ;Fjölbrautaskólinn í Breiðholti ( FB ) Almenn braut
+3.1.5   ;Borgarholtsskóli Málmiðnabraut
+3.1.50  ;Fjölbrautaskólinn í Breiðholti ( FB ) Fataiðnbraut
+3.1.52  ;Fjölbrautaskólinn í Breiðholti ( FB ) Uppeldisbraut
+3.1.53  ;Fjölbrautaskólinn í Breiðholti ( FB ) Viðskiptabraut
+3.1.54  ;Fjölbrautaskólinn í Garðabæ Almenn braut
+3.1.55  ;Fjölbrautaskólinn í Garðabæ Uppeldisbraut
+3.1.56  ;Fjölbrautaskólinn í Garðabæ Viðskiptabraut
+3.1.57  ;Fjölbrautaskólinn við Ármúla Sjúkraliðanám
+3.1.59  ;Fjölbrautaskólinn við Ármúla Uppeldisbraut
+3.1.60  ;Fjölbrautaskólinn við Ármúla Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.61  ;Fjölbrautaskólinn við Ármúla Viðskiptabraut
+3.1.62  ;Flensborgarskóli Almenn braut
+3.1.63  ;Flensborgarskóli Uppeldisbraut
+3.1.64  ;Flensborgarskóli Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.65  ;Flensborgarskóli Viðskiptabraut
+3.1.66  ;Framhaldsskólinn á Húsavík Almenn braut
+3.1.67  ;Framhaldsskólinn á Húsavík Uppeldisbraut
+3.1.68  ;Framhaldsskólinn á Húsavík Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.69  ;Framhaldsskólinn á Húsavík Viðskiptabraut
+3.1.7   ;Borgarholtsskóli Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.70  ;Framhaldsskólinn á Laugum Almenn braut
+3.1.71  ;Framhaldsskólinn í A-Skaftafellssýslu Almenn braut
+3.1.73  ;Framhaldsskólinn í A-Skaftafellssýslu Upplýsinga- og fjölmiðlagreinar starfsnám
+3.1.74  ;Framhaldsskólinn í Vestmannaeyjum Almenn braut
+3.1.75  ;Framhaldsskólinn í Vestmannaeyjum Málmtæknibraut
+3.1.76  ;Framhaldsskólinn í Vestmannaeyjum Rafiðnabraut
+3.1.78  ;Framhaldsskólinn í Vestmannaeyjum Vélstjóranám 1.stigs
+3.1.79  ;Framhaldsskólinn í Vestmannaeyjum Vélstjóranám 2.stigs
+3.1.8   ;Borgarholtsskóli Viðskiptabraut
+3.1.80  ;Framhaldsskólinn í Vestmannaeyjum Viðskiptabraut
+3.1.85  ;Hússtjórnarskólinn á Hallormsstað Hússtjórnarskólanám
+3.1.86  ;Hússtjórnarskólinn í Reykjavík Hússtjórnarskólanám
+3.1.87  ;Iðnskólinn í Hafnarfirði Almenn braut
+3.1.88  ;Iðnskólinn í Hafnarfirði Iðnhönnun
+3.1.89  ;Iðnskólinn í Hafnarfirði Málmtæknibraut
+3.1.9   ;Fjölbrautaskóli Norðurlands vestra Almenn braut
+3.1.90  ;Iðnskólinn í Hafnarfirði Rafiðnabraut
+3.1.92  ;Iðnskólinn í Hafnarfirði Tréiðnabraut
+3.1.93  ;Iðnskólinn í Hafnarfirði Útstillingar
+3.1.94  ;Iðnskólinn í Reykjavík ( IR ) Almenn braut
+3.1.95  ;Iðnskólinn í Reykjavík ( IR ) Iðnhönnun
+3.1.96  ;Iðnskólinn í Reykjavík ( IR ) Málmiðnabraut
+3.1.98  ;Iðnskólinn í Reykjavík ( IR ) Rafeindabraut - Rafeindavirkjun
+3.1.98  ;Iðnskólinn í Reykjavík ( IR ) Rafiðnabraut
+3.2.10  ;Fjölbrautaskóli Vesturlands Sjúkraliðanám
+3.2.11  ;Fjölbrautaskólinn í Breiðholti ( FB ) Rafiðnabraut
+3.2.12  ;Fjölbrautaskólinn í Breiðholti ( FB ) Sjúkraliðanám
+3.2.13  ;Fjölbrautaskólinn í Garðabæ Listnámsbraut
+3.2.14  ;Fjölbrautaskólinn við Ármúla Lyfjatækni
+3.2.15  ;Fjölbrautaskólinn við Ármúla Nudd
+3.2.16  ;Fjölbrautaskólinn við Ármúla Sjúkraliðanám, framhaldsnám
+3.2.17  ;Fjölbrautaskólinn við Ármúla Tanntæknir, aðstoð tannlækna
+3.2.18  ;Framhaldsskólinn á Húsavík Sjúkraliðanám
+3.2.19  ;Framhaldsskólinn í A-Skaftafellssýslu Sjúkraliðanám
+3.2.2   ;Borgarholtsskóli Listnámsbraut
+3.2.20  ;Framhaldsskólinn í Vestmannaeyjum Sjúkraliðanám
+3.2.21  ;Garðyrkjuskólinn á Reykjum Garðplöntufræði
+3.2.22  ;Garðyrkjuskólinn á Reykjum Garðyrkja, blómaskreytingabraut
+3.2.23  ;Garðyrkjuskólinn á Reykjum Ylrækt
+3.2.24  ;Iðnskólinn í Hafnarfirði Listnámsbraut
+3.2.24  ;Iðnskólinn í Hafnarfirði Listnámsbraut til stúdentsprófs
+3.2.25  ;Iðnskólinn í Hafnarfirði Tækniteikning
+3.2.29  ;Iðnskólinn í Reykjavík ( IR ) Tækniteikning
+3.2.3   ;Fjölbrautaskóli Norðurlands vestra Sjúkraliðanám
+3.2.30  ;Iðnskólinn í Reykjavík ( IR ) Tölvubraut
+3.2.31  ;Lögregluskólinn Lögreglunám
+3.2.32  ;Menntaskólinn á Egilsstöðum ( ME ) Listnámsbraut
+3.2.33  ;Menntaskólinn á Ísafirði ( MÍ ) Matartæknabraut
+3.2.35  ;Menntaskólinn á Ísafirði ( MÍ ) Sjúkraliðanám
+3.2.36  ;Menntaskólinn í Kópavogi ( MK ) Matartæknabraut
+3.2.37  ;Menntaskólinn í Kópavogi ( MK ) Slátrun
+3.2.38  ;Nuddskóli Íslands
+3.2.38  ;Nuddskóli Íslands Nudd
+3.2.39  ;Fjöltækniskóli Íslands Stýrimannanám 3.stigs
+3.2.4   ;Fjölbrautaskóli Suðurlands Listnámsbraut
+3.2.40  ;Verkmenntaskóli Austurlands Sjúkraliðanám
+3.2.41  ;Verkmenntaskólinn á Akureyri ( VMA ) Listnámsbraut
+3.2.42  ;Verkmenntaskólinn á Akureyri ( VMA ) Listnámsbraut, hönnun og textíl
+3.2.43  ;Verkmenntaskólinn á Akureyri ( VMA ) Lyfjatækni
+3.2.44  ;Verkmenntaskólinn á Akureyri ( VMA ) Læknaritara-og þjónustubraut
+3.2.45  ;Verkmenntaskólinn á Akureyri ( VMA ) Matartæknabraut
+3.2.46  ;Verkmenntaskólinn á Akureyri ( VMA ) Nudd
+3.2.47  ;Verkmenntaskólinn á Akureyri ( VMA ) Sjúkraliðanám
+3.2.48  ;Verkmenntaskólinn á Akureyri ( VMA ) Tölvubraut
+3.2.49  ;Verkmenntaskólinn á Akureyri ( VMA ) Vélstjóranám 3.stigs
+3.2.5   ;Fjölbrautaskóli Suðurlands Sjúkraliðanám
+3.2.50  ;Fjöltækniskóli Íslands Vélstjóranám 3.stigs
+3.2.51  ;Fjölbrautaskólinn í Breiðholti ( FB ) Listnámsbraut
+3.2.52  ;Fjölbrautaskólinn í Breiðholti ( FB ) Matartæknabraut
+3.2.53  ;Flensborgarskóli Listnámsbraut
+3.2.54  ;Flensborgarskóli Starfsbraut nám fyrir fatlaða
+3.2.55  ;Borgarholtsskóli Starfsbraut nám fyrir fatlaða
+3.2.56  ;Fjölbrautaskólinn við Ármúla Starfsbraut nám fyrir fatlaða
+3.2.57  ;Fjölbrautaskóli Suðurnesja Starfsbraut nám fyrir fatlaða
+3.2.58  ;Fjölbrautaskóli Vesturlands Starfsbraut nám fyrir fatlaða
+3.2.59  ;Verkmenntaskólinn á Akureyri ( VMA ) Starfsbraut nám fyrir fatlaða
+3.2.60  ;Fjölbrautaskólinn í Garðabæ Starfsbraut nám fyrir fatlaða
+3.2.61  ;Fjölbrautaskólinn í Breiðholti ( FB ) Starfsbraut nám fyrir fatlaða
+3.2.62  ;Verkmenntaskóli Austurlands Starfsbraut nám fyrir fatlaða
+3.2.63  ;Fjölbrautaskóli Norðurlands vestra Starfsbraut nám fyrir fatlaða
+3.2.64  ;Framhaldsskólinn í A-Skaftafellssýslu Starfsbraut nám fyrir fatlaða
+3.2.65  ;Framhaldsskólinn í Vestmannaeyjum Starfsbraut nám fyrir fatlaða
+3.2.66  ;Fjölbrautaskóli Suðurlands Starfsbraut nám fyrir fatlaða
+3.2.67  ;Menntaskólinn í Kópavogi ( MK ) Hótel- og gestamóttökunám
+3.2.68  ;Menntaskólinn í Kópavogi ( MK ) Starfsbraut nám fyrir fatlaða
+3.2.69  ;Menntaskólinn í Kópavogi ( MK ) Iata-Uftaa/Sölu og markaðsmál í ferðaþjónustu
+3.2.7   ;Fjölbrautaskóli Suðurnesja Sjúkraliðanám
+3.2.70  ;Menntaskólinn á Ísafirði ( MÍ ) Starfsbraut nám fyrir fatlaða
+3.2.71  ;Menntaskólinn á Akureyri ( MA ) Listnámsbraut
+3.2.72  ;Menntaskólinn að Laugarvatni ( ML ) Íþróttabraut, 3 ára nám
+3.2.73  ;Iðnskólinn í Reykjavík ( IR ) Listnámsbraut
+3.2.74  ;Iðnskólinn í Reykjavík ( IR ) Starfsbraut nám fyrir fatlaða
+3.2.75  ;Iðnskólinn í Hafnarfirði Starfsbraut nám fyrir fatlaða
+3.2.76  ;Hólaskóli á Hólum í Hjaltadal Búfræði
+3.2.77  ;Hólaskóli á Hólum í Hjaltadal Ferðaþjónusta
+3.2.78  ;Hólaskóli á Hólum í Hjaltadal Fiskeldi
+3.2.79  ;Hólaskóli á Hólum í Hjaltadal Hestabraut
+3.2.8   ;Fjölbrautaskóli Suðurnesja Tölvufræðabraut
+3.2.81  ;Flugskóli Íslands Atvinnuflugmannsnám
+3.2.83  ;Landbúnaðarháskólinn á Hvanneyri Búfræði
+3.2.83  ;Landbúnaðarháskólinn á Hvanneyri Búfræði, landnýting/náttúrunýting
+3.2.9   ;Fjölbrautaskóli Vesturlands Listnámsbraut
+3.3.1   ;Almenn ljósmyndun
+3.3.10  ;Feldskurður
+3.3.100 ;Iðnskólinn í Hafnarfirði Pípulagnir
+3.3.101 ;Iðnskólinn í Hafnarfirði Rafvirkjun
+3.3.102 ;Iðnskólinn í Hafnarfirði Rennismíði
+3.3.103 ;Iðnskólinn í Hafnarfirði Vélsmíðabraut
+3.3.104 ;Iðnskólinn í Reykjavík ( IR ) Almenn ljósmyndun
+3.3.105 ;Iðnskólinn í Reykjavík ( IR ) Bakaraiðn og kökugerð
+3.3.106 ;Iðnskólinn í Reykjavík ( IR ) Gull- og silfursmíði
+3.3.107 ;Iðnskólinn í Reykjavík ( IR ) Hársnyrtibraut
+3.3.108 ;Iðnskólinn í Reykjavík ( IR ) Húsamálun
+3.3.109 ;Iðnskólinn í Reykjavík ( IR ) Húsasmíði
+3.3.11  ;Flugvélavirkjun
+3.3.110 ;Iðnskólinn í Reykjavík ( IR ) Húsgagnabólstrun
+3.3.111 ;Iðnskólinn í Reykjavík ( IR ) Húsgagnasmíði
+3.3.112 ;Iðnskólinn í Reykjavík ( IR ) Kjólasaumur
+3.3.113 ;Iðnskólinn í Reykjavík ( IR ) Klæðskurður karla
+3.3.114 ;Iðnskólinn í Reykjavík ( IR ) Múrsmíði
+3.3.115 ;Iðnskólinn í Reykjavík ( IR ) Rafvélavirkjun
+3.3.116 ;Iðnskólinn í Reykjavík ( IR ) Rafvirkjun
+3.3.117 ;Iðnskólinn í Reykjavík ( IR ) Símsmíði
+3.3.118 ;Iðnskólinn í Reykjavík ( IR ) Veggfóðrun
+3.3.119 ;Menntaskólinn á Ísafirði ( MÍ ) Bifvélavirkjun
+3.3.12  ;Framreiðsla
+3.3.120 ;Menntaskólinn á Ísafirði ( MÍ ) Húsasmíði
+3.3.121 ;Menntaskólinn á Ísafirði ( MÍ ) Rafeindavirkjun
+3.3.122 ;Menntaskólinn á Ísafirði ( MÍ ) Stálvirkjun
+3.3.123 ;Menntaskólinn í Kópavogi ( MK ) Bakaraiðn og kökugerð
+3.3.124 ;Menntaskólinn í Kópavogi ( MK ) Framreiðsla
+3.3.125 ;Menntaskólinn í Kópavogi ( MK ) Kjötiðn
+3.3.126 ;Menntaskólinn í Kópavogi ( MK ) Matreiðsla
+3.3.127 ;Tannsmiðaskóli Íslands Tannsmíði
+3.3.128 ;Verkmenntaskóli Austurlands Hárgreiðsla
+3.3.129 ;Verkmenntaskóli Austurlands Húsasmíði
+3.3.13  ;Glerslípun og speglagerð
+3.3.130 ;Verkmenntaskóli Austurlands Vélsmíðabraut
+3.3.131 ;Verkmenntaskólinn á Akureyri ( VMA ) Bílamálun
+3.3.132 ;Verkmenntaskólinn á Akureyri ( VMA ) Blikksmíði
+3.3.133 ;Verkmenntaskólinn á Akureyri ( VMA ) Hárgreiðsla
+3.3.134 ;Verkmenntaskólinn á Akureyri ( VMA ) Húsamálun
+3.3.135 ;Verkmenntaskólinn á Akureyri ( VMA ) Húsasmíði
+3.3.136 ;Verkmenntaskólinn á Akureyri ( VMA ) Kjötiðn
+3.3.137 ;Verkmenntaskólinn á Akureyri ( VMA ) Pípulagnir
+3.3.138 ;Verkmenntaskólinn á Akureyri ( VMA ) Rafeindavirkjun
+3.3.139 ;Verkmenntaskólinn á Akureyri ( VMA ) Rafvirkjun
+3.3.14  ;Gull- og silfursmíði
+3.3.140 ;Verkmenntaskólinn á Akureyri ( VMA ) Stálvirkjun
+3.3.141 ;Verkmenntaskólinn á Akureyri ( VMA ) Vélsmíðabraut
+3.3.142 ;Fjölbrautaskólinn í Breiðholti ( FB ) Vélsmíðabraut
+3.3.143 ;Borgarholtsskóli Bifvélavirkjun
+3.3.144 ;Fjölbrautaskóli Suðurnesja Hárgreiðsla
+3.3.145 ;Fjölbrautaskóli Vesturlands Rafsuða
+3.3.146 ;Fjölbrautaskóli Norðurlands vestra Vélsmíðabraut
+3.3.147 ;Fjölbrautaskóli Norðurlands vestra Rafvirkjun
+3.3.148 ;Verkmenntaskólinn á Akureyri ( VMA ) Stálskipasmíði
+3.3.149 ;Iðnskólinn í Reykjavík ( IR ) Bifvélavirkjun
+3.3.15  ;Hattasaumur
+3.3.150 ;Iðnskólinn í Reykjavík ( IR ) Hárgreiðsla
+3.3.151 ;Iðnskólinn í Reykjavík ( IR ) Ljósmyndun
+3.3.152 ;Iðnskólinn í Reykjavík ( IR ) Prentsmíði
+3.3.153 ;Iðnskólinn í Reykjavík ( IR ) Rafeindavirkjun
+3.3.154 ;Iðnskólinn í Hafnarfirði Hárgreiðsla
+3.3.155 ;Iðnskólinn í Hafnarfirði Rafeindavirkjun
+3.3.156 ;Snyrtiskólinn Snyrtifræði
+3.3.157 ;Iðnskólinn í Reykjavík ( IR ) Prentiðnir
+3.3.158 ;Borgarholtsskóli Bílaviðgerðir
+3.3.159 ;Skóviðgerðir
+3.3.16  ;Hárgreiðsla
+3.3.160 ;Fjölbrautaskóli Suðurlands Söðlasmíði
+3.3.161 ;Iðnskólinn í Reykjavík ( IR ) Offsetiðnir
+3.3.17  ;Hárskurður
+3.3.18  ;Hársnyrtibraut
+3.3.19  ;Hljóðfærasmíði
+3.3.2   ;Annað iðnnám
+3.3.20  ;Húsamálun
+3.3.21  ;Húsasmíði
+3.3.22  ;Húsgagnabólstrun
+3.3.23  ;Húsgagnasmíði
+3.3.24  ;Járnsmíði
+3.3.25  ;Kjólasaumur
+3.3.26  ;Kjötiðn
+3.3.27  ;Klæðskurður karla
+3.3.28  ;Klæðskurður kvenna
+3.3.29  ;Kökugerð
+3.3.3   ;Bakaraiðn
+3.3.30  ;Leirkerasmíði
+3.3.31  ;Leturgröftur
+3.3.32  ;Ljósmyndun
+3.3.33  ;Matreiðsla
+3.3.34  ;Málmsteypa og rennismíði
+3.3.35  ;Málmsuða
+3.3.36  ;Mjólkuriðn
+3.3.37  ;Mótasmíði
+3.3.38  ;Múrsmíði
+3.3.39  ;Myndskurður
+3.3.4   ;Bakaraiðn og kökugerð
+3.3.40  ;Netagerð
+3.3.41  ;Persónuljósmyndun
+3.3.42  ;Pípulagnir
+3.3.43  ;Prentsmíði
+3.3.44  ;Prentun
+3.3.45  ;Rafeindavirkjun
+3.3.46  ;Rafsuða
+3.3.47  ;Rafveituvirkjun
+3.3.48  ;Rafvélavirkjun
+3.3.49  ;Rafvirkjun
+3.3.5   ;Bifreiðasmíði
+3.3.50  ;Reiðtygja- og aktygjasmíði
+3.3.51  ;Rennismíði
+3.3.52  ;Símsmíði
+3.3.53  ;Skipa- og bátasmíði
+3.3.54  ;Skósmíði
+3.3.55  ;Skrúðgarðyrkja
+3.3.56  ;Snyrtifræði
+3.3.57  ;Stálskipasmíði
+3.3.58  ;Stálsmíði
+3.3.59  ;Stálvirkjun
+3.3.6   ;Bifvélavirkjun
+3.3.60  ;Steinsmíði
+3.3.61  ;Sútaraiðn
+3.3.62  ;Tannsmíði
+3.3.63  ;Tágariðun
+3.3.64  ;Úrsmíði
+3.3.65  ;Veggfóðrun og dúkalögn
+3.3.66  ;Vélsmíðabraut
+3.3.67  ;Borgarholtsskóli Bifreiðasmíði
+3.3.68  ;Borgarholtsskóli Bílamálun
+3.3.69  ;Borgarholtsskóli Blikksmíði
+3.3.7   ;Bílamálun
+3.3.70  ;Borgarholtsskóli Pípulagnir
+3.3.71  ;Borgarholtsskóli Rafsuða
+3.3.72  ;Borgarholtsskóli Rennismíði
+3.3.73  ;Borgarholtsskóli Stálvirkjun
+3.3.74  ;Borgarholtsskóli Vélsmíðabraut
+3.3.75  ;Fjölbrautaskóli Norðurlands vestra Húsasmíði
+3.3.76  ;Fjölbrautaskóli Suðurlands Bifvélavirkjun
+3.3.77  ;Fjölbrautaskóli Suðurlands Húsasmíði
+3.3.78  ;Fjölbrautaskóli Suðurlands Múrsmíði
+3.3.79  ;Fjölbrautaskóli Suðurnesja Bifvélavirkjun
+3.3.8   ;Blikksmíði
+3.3.80  ;Fjölbrautaskóli Suðurnesja Hársnyrtibraut
+3.3.81  ;Fjölbrautaskóli Suðurnesja Húsasmíði
+3.3.82  ;Fjölbrautaskóli Suðurnesja Netagerð
+3.3.83  ;Fjölbrautaskóli Suðurnesja Pípulagnir
+3.3.84  ;Fjölbrautaskóli Suðurnesja Rafvirkjun
+3.3.85  ;Fjölbrautaskóli Vesturlands Húsamálun
+3.3.86  ;Fjölbrautaskóli Vesturlands Húsasmíði
+3.3.87  ;Fjölbrautaskóli Vesturlands Pípulagnir
+3.3.88  ;Fjölbrautaskóli Vesturlands Rafeindavirkjun
+3.3.89  ;Fjölbrautaskóli Vesturlands Rafvirkjun
+3.3.9   ;Bókband
+3.3.90  ;Fjölbrautaskóli Vesturlands Vélsmíðabraut
+3.3.91  ;Fjölbrautaskólinn í Breiðholti ( FB ) Húsasmíði
+3.3.92  ;Fjölbrautaskólinn í Breiðholti ( FB ) Rafvirkjun
+3.3.93  ;Fjölbrautaskólinn í Breiðholti ( FB ) Snyrtifræði
+3.3.94  ;Framhaldsskólinn í Vestmannaeyjum Húsasmíði
+3.3.95  ;Framhaldsskólinn í Vestmannaeyjum Vélsmíðabraut
+3.3.96  ;Garðyrkjuskólinn á Reykjum Skrúðgarðyrkja
+3.3.97  ;Iðnskólinn í Hafnarfirði Hársnyrtibraut
+3.3.98  ;Iðnskólinn í Hafnarfirði Húsasmíði
+3.3.99  ;Iðnskólinn í Hafnarfirði Húsgagnasmíði
+3.4.1   ;Listdansskóli Íslands Listdans
+3.4.10  ;Tónlistarskóli Árnesinga Hljóðfæraleikur, 7. stig
+3.4.11  ;Tónlistarskóli Árnesinga Hljóðfæraleikur, 8. stig
+3.4.12  ;Tónlistarskóli Árnesinga Söngnám, 7. stig
+3.4.13  ;Tónlistarskóli Árnesinga Söngnám, 8. stig
+3.4.14  ;Tónlistarskóli FÍH Hljóðfæraleikur, 7. stig
+3.4.15  ;Tónlistarskóli FÍH Hljóðfæraleikur, 8. stig
+3.4.16  ;Tónlistarskóli FÍH Söngnám, 7, stig
+3.4.17  ;Tónlistarskóli Garðabæjar Hljóðfæraleikur, 7. stig
+3.4.18  ;Tónlistarskóli Garðabæjar Söngnám, 7, stig
+3.4.19  ;Tónlistarskóli Garðabæjar Söngnám, 8. stig
+3.4.2   ;Myndlistaskólinn á Akureyri Myndlistarbraut, fornám
+3.4.20  ;Tónlistarskóli Hafnarfjarðar Söngnám, 7. stig
+3.4.21  ;Tónlistarskóli Hafnarfjarðar Söngnám, 8. stig
+3.4.22  ;Tónlistarskóli Kópavogs Hljóðfæraleikur, 7. stig
+3.4.23  ;Tónlistarskóli Kópavogs Hljóðfæraleikur, 8. stig
+3.4.24  ;Tónlistarskóli Kópavogs Söngnám, 7. stig
+3.4.25  ;Tónlistarskóli Kópavogs Söngnám, 8. stig
+3.4.26  ;Tónlistarskóli Mosfellsbæjar Söngnám, 8. stig
+3.4.27  ;Tónlistarskóli Rangárvallasýslu Hljóðfæraleikur, 7. stig
+3.4.28  ;Tónlistarskóli Rangárvallasýslu Hljóðfæraleikur, 8. stig
+3.4.29  ;Tónlistarskóli Reykjanesbæjar Hljóðfæraleikur, 7. stig
+3.4.3   ;Myndlistaskólinn í Reykjavík Myndlistarbraut, fornám
+3.4.30  ;Tónlistarskólinn Akranesi Hljóðfæraleikur, 8. stig
+3.4.31  ;Tónlistarskólinn Akranesi Söngnám, 7, stig
+3.4.32  ;Tónlistarskólinn á Akureyri Hljóðfæraleikur, 7. stig
+3.4.33  ;Tónlistarskólinn í Reykjavík Hljóðfæraleikur, 7. stig
+3.4.34  ;Tónlistarskólinn í Reykjavík Hljóðfæraleikur, 8. stig
+3.4.35  ;Tónlistarskólinn í Reykjavík Söngnám, 8. stig
+3.4.36  ;Tónlistarskólinn Stykkishólmi Hljóðfæraleikur, 7. stig
+3.4.37  ;Tónlistarskólinn Stykkishólmi Söngnám, 7. stig
+3.4.38  ;Tónlistarskólinn Stykkishólmi Söngnám, 8. stig
+3.4.39  ;Tónskóli Sigursveins Hljóðfæraleikur, 7. stig
+3.4.4   ;Nýi tónlistarskólinn Hljóðfæraleikur, 7. stig
+3.4.40  ;Tónskóli Sigursveins Hljóðfæraleikur, 8. stig
+3.4.41  ;Tónskóli Sigursveins Söngnám, 7. stig
+3.4.42  ;Tónskóli Sigursveins Söngnám, 8. stig
+3.4.43  ;Tónskóli Þjóðkirkjunnar Orgelleikur, 7. stig
+3.4.44  ;Tónskóli Þjóðkirkjunnar Orgelleikur, 8. stig
+3.4.45  ;Tónskóli Þjóðkirkjunnar Söngnám, 7. stig
+3.4.46  ;Tónskóli Þjóðkirkjunnar Söngnám, 8. stig
+3.4.47  ;Nýi söngskólinn Hjartansmál Söngnám, 7, stig
+3.4.48  ;Nýi söngskólinn Hjartansmál Söngnám, 8. stig
+3.4.49  ;Tónlistarskóli... 6. stig í söng
+3.4.5   ;Nýi tónlistarskólinn Hljóðfæraleikur, 8. stig
+3.4.50  ;Tónlistarskóli... Framhaldsstig í hljóðfæraleik
+3.4.51  ;Tónlistarskóli... Framhaldsstig í söng
+3.4.52  ;Tónlistarskóli... 6. stig í hljóðfæraleik
+3.4.53  ;Tónlistarskóli Hafnarfjarðar Hljóðfæraleikur, 7. stig
+3.4.54  ;Tónlistarskóli Hafnarfjarðar Hljóðfæraleikur, 8. stig
+3.4.55  ;Tónlistarskóli Borgarfjarðar Söngnám, 7, stig
+3.4.56  ;Tónlistarskóli Borgarfjarðar Hljóðfæraleikur, 7. stig
+3.4.57  ;Tónlistarskóli Borgarfjarðar Hljóðfæraleikur, 8. stig
+3.4.6   ;Nýi tónlistarskólinn Söngnám, 7. stig
+3.4.7   ;Nýi tónlistarskólinn Söngnám, 8. stig
+3.4.8   ;Söngskólinn í Reykjavík Söngnám, 7, stig
+3.4.9   ;Söngskólinn í Reykjavík Söngnám, 8. stig
+3.5.1   ;Borgarholtsskóli Félagsfræðabraut
+3.5.10  ;Fjölbrautaskóli Norðurlands vestra Fjölmiðlabraut, almennt nám
+3.5.100 ;Iðnskólinn í Reykjavík ( IR ) Tæknibraut
+3.5.101 ;Kvennaskólinn í Reykjavík Félagsgreinar, almennt nám
+3.5.102 ;Kvennaskólinn í Reykjavík Málabraut
+3.5.103 ;Kvennaskólinn í Reykjavík Náttúrufræðibraut
+3.5.104 ;Menntaskólinn að Laugarvatni ( ML ) Íþróttabraut til stúdentsprófs
+3.5.105 ;Menntaskólinn að Laugarvatni ( ML ) Málabraut
+3.5.106 ;Menntaskólinn að Laugarvatni ( ML ) Náttúrufræðibraut
+3.5.107 ;Menntaskólinn á Akureyri ( MA ) Eðlisfræðibraut
+3.5.108 ;Menntaskólinn á Akureyri ( MA ) Félagsfræðabraut
+3.5.109 ;Menntaskólinn á Akureyri ( MA ) Félagsfræðabraut, sálfræðilína
+3.5.11  ;Fjölbrautaskóli Norðurlands vestra Hagfræðabraut
+3.5.110 ;Menntaskólinn á Akureyri ( MA ) Félagsgreinar, almennt nám
+3.5.111 ;Menntaskólinn á Akureyri ( MA ) Málabraut
+3.5.112 ;Menntaskólinn á Akureyri ( MA ) Myndlistarbraut til stúdentsprófs
+3.5.113 ;Menntaskólinn á Akureyri ( MA ) Náttúrufræðibraut
+3.5.114 ;Menntaskólinn á Akureyri ( MA ) Tónlistarbraut
+3.5.115 ;Menntaskólinn á Egilsstöðum ( ME ) Eðlisfræðibraut
+3.5.116 ;Menntaskólinn á Egilsstöðum ( ME ) Félagsgreinar, almennt nám
+3.5.117 ;Menntaskólinn á Egilsstöðum ( ME ) Málabraut
+3.5.118 ;Menntaskólinn á Egilsstöðum ( ME ) Náttúrufræðibraut
+3.5.119 ;Menntaskólinn á Ísafirði ( MÍ ) Félagsgreinar, almennt nám
+3.5.12  ;Fjölbrautaskóli Norðurlands vestra Íþróttabraut til stúdentsprófs
+3.5.120 ;Menntaskólinn á Ísafirði ( MÍ ) Hagfræðabraut
+3.5.121 ;Menntaskólinn á Ísafirði ( MÍ ) Hagfræðibraut-tölvulína
+3.5.122 ;Menntaskólinn á Ísafirði ( MÍ ) Mála- og samfélagsbraut, almennt nám
+3.5.123 ;Menntaskólinn á Ísafirði ( MÍ ) Náttúrufræðibraut
+3.5.124 ;Menntaskólinn á Ísafirði ( MÍ ) Raungreinabraut
+3.5.125 ;Menntaskólinn í Kópavogi ( MK ) Eðlisfræðibraut
+3.5.126 ;Menntaskólinn í Kópavogi ( MK ) Félagsfræðabraut
+3.5.127 ;Menntaskólinn í Kópavogi ( MK ) Félagsgreinar, almennt nám
+3.5.128 ;Menntaskólinn í Kópavogi ( MK ) Hagfræðabraut
+3.5.129 ;Menntaskólinn í Kópavogi ( MK ) Málabraut
+3.5.13  ;Fjölbrautaskóli Norðurlands vestra Málabraut
+3.5.130 ;Menntaskólinn í Kópavogi ( MK ) Náttúrufræðibraut
+3.5.131 ;Menntaskólinn í Kópavogi ( MK ) Nýmála-ferðamálabraut
+3.5.132 ;Menntaskólinn í Kópavogi ( MK ) Tölvufræðabraut
+3.5.133 ;Menntaskólinn í Reykjavík ( MR ) Eðlisfræðibraut
+3.5.134 ;Menntaskólinn í Reykjavík ( MR ) Fornmálabraut
+3.5.135 ;Menntaskólinn í Reykjavík ( MR ) Málabraut
+3.5.136 ;Menntaskólinn í Reykjavík ( MR ) Náttúrufræðibraut
+3.5.137 ;Menntaskólinn í Reykjavík ( MR ) Nýmálabraut
+3.5.138 ;Menntaskólinn við Hamrahlíð ( MH ) Eðlisfræðibraut
+3.5.139 ;Menntaskólinn við Hamrahlíð ( MH ) Félagsfræðabraut
+3.5.14  ;Fjölbrautaskóli Norðurlands vestra Náttúrufræðibraut
+3.5.140 ;Menntaskólinn við Hamrahlíð ( MH ) Félagsfræðabraut, sálfræðilína
+3.5.141 ;Menntaskólinn við Hamrahlíð ( MH ) Félagsgreinar, almennt nám
+3.5.142 ;Menntaskólinn við Hamrahlíð ( MH ) International Baccalaureate (alþjóðlegt stúdentspróf)
+3.5.143 ;Menntaskólinn við Hamrahlíð ( MH ) Málabraut
+3.5.144 ;Menntaskólinn við Hamrahlíð ( MH ) Náttúrufræðibraut
+3.5.145 ;Menntaskólinn við Hamrahlíð ( MH ) Nýmálabraut
+3.5.146 ;Menntaskólinn við Hamrahlíð ( MH ) Tónlistarbraut
+3.5.147 ;Menntaskólinn við Sund ( MS ) Eðlisfræðibraut
+3.5.148 ;Menntaskólinn við Sund ( MS ) Félagsgreinar, almennt nám
+3.5.149 ;Menntaskólinn við Sund ( MS ) Hagfræðabraut
+3.5.15  ;Fjölbrautaskóli Norðurlands vestra Nýmálabraut
+3.5.150 ;Menntaskólinn við Sund ( MS ) Málabraut
+3.5.151 ;Menntaskólinn við Sund ( MS ) Náttúrufræðibraut
+3.5.152 ;Menntaskólinn við Sund ( MS ) Tónlistarbraut
+3.5.153 ;Tækniháskóli Íslands ( THÍ ) Frumgreinar til undirbúnings tækniskólanámi
+3.5.154 ;Verkmenntaskóli Austurlands Félagsfræðabraut
+3.5.155 ;Verkmenntaskóli Austurlands Félagsfræðabraut, sálfræðilína
+3.5.156 ;Verkmenntaskóli Austurlands Félagsgreinar, almennt nám
+3.5.157 ;Verkmenntaskóli Austurlands Náttúrufræðibraut
+3.5.158 ;Verkmenntaskólinn á Akureyri ( VMA ) Félagsfræðabraut, sálfræðilína
+3.5.159 ;Verkmenntaskólinn á Akureyri ( VMA ) Félagsgreinar, almennt nám
+3.5.16  ;Fjölbrautaskóli Suðurlands Eðlisfræðibraut
+3.5.160 ;Verkmenntaskólinn á Akureyri ( VMA ) Hagfræðabraut
+3.5.161 ;Verkmenntaskólinn á Akureyri ( VMA ) Íþróttabraut til stúdentsprófs
+3.5.162 ;Verkmenntaskólinn á Akureyri ( VMA ) Málabraut
+3.5.163 ;Verkmenntaskólinn á Akureyri ( VMA ) Myndlistarbraut til stúdentsprófs
+3.5.164 ;Verkmenntaskólinn á Akureyri ( VMA ) Náttúrufræðibraut
+3.5.165 ;Verkmenntaskólinn á Akureyri ( VMA ) Tæknibraut
+3.5.167 ;Verslunarskóli Íslands ( VÍ ) Alþjóðabraut, 3. og 4. ár
+3.5.169 ;Verslunarskóli Íslands ( VÍ ) Hagfræðabraut, 3. og 4. ár
+3.5.17  ;Fjölbrautaskóli Suðurlands Félagsfræðabraut
+3.5.171 ;Verslunarskóli Íslands ( VÍ ) Málabraut, 3. og 4. ár
+3.5.173 ;Verslunarskóli Íslands ( VÍ ) Stærðfræðibraut, 3. og 4. ár
+3.5.175 ;Verslunarskóli Íslands ( VÍ ) Tölvu- og upplýsingabraut, 3. og 4. ár
+3.5.176 ;Viðskiptaháskólinn á Bifröst Frumgreinar til undirbúnings rekstrarfræðinámi
+3.5.177 ;Fjölbrautaskólinn í Breiðholti ( FB ) Stúdentspróf að loknu starfsnámi
+3.5.178 ;Fjölbrautaskólinn í Breiðholti ( FB ) Málabraut
+3.5.179 ;Borgarholtsskóli Stúdentspróf að loknu starfsnámi
+3.5.18  ;Fjölbrautaskóli Suðurlands Félagsfræðabraut, sálfræðilína
+3.5.180 ;Fjölbrautaskóli Suðurnesja Stúdentspróf að loknu starfsnámi
+3.5.181 ;Fjölbrautaskóli Vesturlands Stúdentspróf að loknu starfsnámi
+3.5.182 ;Verkmenntaskólinn á Akureyri ( VMA ) Stúdentspróf að loknu starfsnámi
+3.5.183 ;Framhaldsskólinn í Vestmannaeyjum Málabraut
+3.5.184 ;Fjölbrautaskóli Suðurlands Stúdentspróf að loknu starfsnámi
+3.5.185 ;Hraðbraut - menntaskóli Málabraut
+3.5.186 ;Hraðbraut - menntaskóli Náttúrufræðibraut
+3.5.187 ;Verslunarskóli Íslands ( VÍ ) Viðskiptabraut, 3. og 4. ár
+3.5.188 ;Iðnskólinn í Reykjavík ( IR ) Stúdentspróf að loknu starfsnámi
+3.5.19  ;Fjölbrautaskóli Suðurlands Félagsgreinar, almennt nám
+3.5.2   ;Borgarholtsskóli Félagsgreinar, almennt nám
+3.5.20  ;Fjölbrautaskóli Suðurlands Hagfræðabraut
+3.5.21  ;Fjölbrautaskóli Suðurlands Íþróttabraut til stúdentsprófs
+3.5.22  ;Fjölbrautaskóli Suðurlands Málabraut
+3.5.23  ;Fjölbrautaskóli Suðurlands Náttúrufræðibraut
+3.5.24  ;Fjölbrautaskóli Suðurlands Nýmálabraut
+3.5.25  ;Fjölbrautaskóli Suðurlands Nýmála-ferðamálabraut
+3.5.26  ;Fjölbrautaskóli Suðurnesja Eðlisfræðibraut
+3.5.27  ;Fjölbrautaskóli Suðurnesja Félagsfræðabraut
+3.5.28  ;Fjölbrautaskóli Suðurnesja Félagsfræðabraut, sálfræðilína
+3.5.29  ;Fjölbrautaskóli Suðurnesja Félagsgreinar, almennt nám
+3.5.3   ;Borgarholtsskóli Málabraut
+3.5.30  ;Fjölbrautaskóli Suðurnesja Hagfræðabraut
+3.5.31  ;Fjölbrautaskóli Suðurnesja Íþróttabraut til stúdentsprófs
+3.5.32  ;Fjölbrautaskóli Suðurnesja Málabraut
+3.5.33  ;Fjölbrautaskóli Suðurnesja Náttúrufræðibraut
+3.5.34  ;Fjölbrautaskóli Suðurnesja Nýmálabraut
+3.5.35  ;Fjölbrautaskóli Suðurnesja Tæknibraut
+3.5.36  ;Fjölbrautaskóli Vesturlands Eðlisfræðibraut
+3.5.37  ;Fjölbrautaskóli Vesturlands Félagsfræðabraut
+3.5.38  ;Fjölbrautaskóli Vesturlands Félagsfræðabraut, sálfræðilína
+3.5.39  ;Fjölbrautaskóli Vesturlands Félagsgreinar, almennt nám
+3.5.4   ;Borgarholtsskóli Náttúrufræðibraut
+3.5.40  ;Fjölbrautaskóli Vesturlands Hagfræðabraut
+3.5.41  ;Fjölbrautaskóli Vesturlands Íþróttabraut til stúdentsprófs
+3.5.42  ;Fjölbrautaskóli Vesturlands Málabraut
+3.5.43  ;Fjölbrautaskóli Vesturlands Náttúrufræðibraut
+3.5.44  ;Fjölbrautaskóli Vesturlands Nýmálabraut
+3.5.45  ;Fjölbrautaskóli Vesturlands Tónlistarbraut
+3.5.46  ;Fjölbrautaskóli Vesturlands Tæknibraut
+3.5.47  ;Fjölbrautaskólinn í Breiðholti ( FB ) Eðlisfræðibraut
+3.5.48  ;Fjölbrautaskólinn í Breiðholti ( FB ) Félagsfræðabraut
+3.5.49  ;Fjölbrautaskólinn í Breiðholti ( FB ) Fjölmiðlabraut, almennt nám
+3.5.5   ;Borgarholtsskóli Nýmálabraut
+3.5.50  ;Fjölbrautaskólinn í Breiðholti ( FB ) Hagfræðabraut
+3.5.51  ;Fjölbrautaskólinn í Breiðholti ( FB ) Íþróttabraut til stúdentsprófs
+3.5.52  ;Fjölbrautaskólinn í Breiðholti ( FB ) Myndlistarbraut til stúdentsprófs
+3.5.53  ;Fjölbrautaskólinn í Breiðholti ( FB ) Náttúrufræðibraut
+3.5.54  ;Fjölbrautaskólinn í Breiðholti ( FB ) Nýmálabraut
+3.5.55  ;Fjölbrautaskólinn í Breiðholti ( FB ) Upplýsinga- og tæknibraut, almennt nám
+3.5.56  ;Fjölbrautaskólinn í Garðabæ Eðlisfræðibraut
+3.5.57  ;Fjölbrautaskólinn í Garðabæ Félagsfræðabraut
+3.5.58  ;Fjölbrautaskólinn í Garðabæ Félagsfræðabraut, sálfræðilína
+3.5.59  ;Fjölbrautaskólinn í Garðabæ Félagsgreinar, almennt nám
+3.5.6   ;Fjölbrautaskóli Norðurlands vestra Eðlisfræðibraut
+3.5.60  ;Fjölbrautaskólinn í Garðabæ Fjölmiðlabraut, almennt nám
+3.5.61  ;Fjölbrautaskólinn í Garðabæ Hagfræðabraut
+3.5.62  ;Fjölbrautaskólinn í Garðabæ Íþróttabraut til stúdentsprófs
+3.5.63  ;Fjölbrautaskólinn í Garðabæ Málabraut
+3.5.64  ;Fjölbrautaskólinn í Garðabæ Myndlistarbraut til stúdentsprófs
+3.5.65  ;Fjölbrautaskólinn í Garðabæ Náttúrufræðibraut
+3.5.66  ;Fjölbrautaskólinn í Garðabæ Nýmálabraut
+3.5.67  ;Fjölbrautaskólinn í Garðabæ Tónlistarbraut
+3.5.68  ;Fjölbrautaskólinn við Ármúla Félagsfræðabraut
+3.5.69  ;Fjölbrautaskólinn við Ármúla Félagsfræðabraut, sálfræðilína
+3.5.7   ;Fjölbrautaskóli Norðurlands vestra Félagsfræðabraut
+3.5.70  ;Fjölbrautaskólinn við Ármúla Félagsgreinar, almennt nám
+3.5.71  ;Fjölbrautaskólinn við Ármúla Íþróttabraut til stúdentsprófs
+3.5.72  ;Fjölbrautaskólinn við Ármúla Málabraut
+3.5.73  ;Fjölbrautaskólinn við Ármúla Náttúrufræðibraut
+3.5.74  ;Fjölbrautaskólinn við Ármúla Nýmálabraut
+3.5.75  ;Flensborgarskóli Eðlisfræðibraut
+3.5.76  ;Flensborgarskóli Félagsfræðabraut
+3.5.77  ;Flensborgarskóli Félagsfræðabraut, sálfræðilína
+3.5.78  ;Flensborgarskóli Félagsgreinar, almennt nám
+3.5.79  ;Flensborgarskóli Fjölmiðlabraut, almennt nám
+3.5.8   ;Fjölbrautaskóli Norðurlands vestra Félagsfræðabraut, sálfræðilína
+3.5.80  ;Flensborgarskóli Hagfræðabraut
+3.5.81  ;Flensborgarskóli Hagfræðibraut-tölvulína
+3.5.82  ;Flensborgarskóli Íþróttabraut til stúdentsprófs
+3.5.83  ;Flensborgarskóli Málabraut
+3.5.84  ;Flensborgarskóli Náttúrufræðibraut
+3.5.85  ;Flensborgarskóli Nýmálabraut
+3.5.86  ;Flensborgarskóli Tónlistarbraut
+3.5.87  ;Framhaldsskólinn á Húsavík Félagsfræðabraut, sálfræðilína
+3.5.88  ;Framhaldsskólinn á Húsavík Hagfræðabraut
+3.5.89  ;Framhaldsskólinn á Húsavík Náttúrufræðibraut
+3.5.9   ;Fjölbrautaskóli Norðurlands vestra Félagsgreinar, almennt nám
+3.5.90  ;Framhaldsskólinn á Laugum Félagsgreinar, almennt nám
+3.5.91  ;Framhaldsskólinn á Laugum Íþróttabraut til stúdentsprófs
+3.5.92  ;Framhaldsskólinn á Laugum Náttúrufræðibraut
+3.5.93  ;Framhaldsskólinn í A-Skaftafellssýslu Félagsgreinar, almennt nám
+3.5.94  ;Framhaldsskólinn í A-Skaftafellssýslu Málabraut
+3.5.95  ;Framhaldsskólinn í A-Skaftafellssýslu Náttúrufræðibraut
+3.5.96  ;Framhaldsskólinn í Vestmannaeyjum Félagsgreinar, almennt nám
+3.5.97  ;Framhaldsskólinn í Vestmannaeyjum Hagfræðabraut
+3.5.98  ;Framhaldsskólinn í Vestmannaeyjum Náttúrufræðibraut
+4.1.1   ;Fjölbrautaskóli Suðurlands Meistaranám í húsasmíði
+4.1.10  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í múraraiðn
+4.1.11  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í pípulögnum
+4.1.12  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í rafeindavirkjun
+4.1.13  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í rafvirkjun
+4.1.14  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í skrúðgarðyrkju
+4.1.15  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í snyrtiiðn
+4.1.16  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í vélsmíði
+4.1.17  ;Iðnskólinn í Reykjavík ( IR ) Meistaraskóli
+4.1.18  ;Menntaskólinn í Kópavogi ( MK ) Meistaranám framreiðsla
+4.1.19  ;Menntaskólinn í Kópavogi ( MK ) Meistaranám í bakaraiðn
+4.1.2   ;Fjölbrautaskóli Suðurlands Meistaranám í vélvirkjun
+4.1.20  ;Menntaskólinn í Kópavogi ( MK ) Meistaranám í kjötiðn
+4.1.21  ;Menntaskólinn í Kópavogi ( MK ) Meistaranám matreiðsla
+4.1.22  ;Rafiðnaðarskólinn Meistaranám í rafeindavirkjun
+4.1.23  ;Rafiðnaðarskólinn Meistaranám í rafvirkjun
+4.1.24  ;Rafiðnaðarskólinn Meistaranám rafvélavirkjun
+4.1.25  ;Verkmenntaskóli Austurlands Meistaraskóli
+4.1.26  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í bifvélavirkjun
+4.1.27  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í húsasmíði
+4.1.28  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í málaraiðn
+4.1.29  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í netagerð
+4.1.3   ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í bifvélavirkjun
+4.1.30  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í pípulögnum
+4.1.31  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í rafvirkjun
+4.1.32  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í rennismíði
+4.1.33  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í snyrtiiðn
+4.1.34  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í vélvirkjun
+4.1.35  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám rafvélavirkjun
+4.1.36  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaraskóli
+4.1.37  ;Fjölbrautaskóli Suðurnesja Meistaranám í húsasmíði
+4.1.38  ;Fjölbrautaskóli Suðurnesja Meistaranám í snyrtiiðn
+4.1.39  ;Fjölbrautaskóli Suðurnesja Meistaranám í úrsmíði
+4.1.4   ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í bílamálun
+4.1.40  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í blikksmíði
+4.1.41  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í hársnyrtiiðn
+4.1.42  ;Verkmenntaskólinn á Akureyri ( VMA ) Meistaranám í múraraiðn
+4.1.43  ;Verkmenntaskóli Austurlands Meistaranám framreiðsla
+4.1.44  ;Verkmenntaskóli Austurlands Meistaranám í hárgreiðslu
+4.1.45  ;Verkmenntaskóli Austurlands Meistaranám í húsasmíði
+4.1.46  ;Verkmenntaskóli Austurlands Meistaranám í húsamálun
+4.1.47  ;Verkmenntaskóli Austurlands Meistaranám í netagerð
+4.1.48  ;Verkmenntaskóli Austurlands Meistaranám í rafvirkjun
+4.1.49  ;Verkmenntaskóli Austurlands Meistaranám í rafvirkjun
+4.1.5   ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í hárgreiðslu
+4.1.50  ;Verkmenntaskóli Austurlands Meistaranám í snyrtiiðn
+4.1.51  ;Verkmenntaskóli Austurlands Meistaranám í vélsmíði
+4.1.52  ;Fjölbrautaskóli Suðurlands Meistaranám í húsamálun
+4.1.53  ;Fjölbrautaskóli Suðurlands Meistaranám í pípulögnum
+4.1.54  ;Fjölbrautaskóli Suðurlands Meistaranám í rafvirkjun
+4.1.55  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í blikksmíði
+4.1.56  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í myndskurði
+4.1.57  ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í veggfóðrun
+4.1.6   ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í húsamálun
+4.1.7   ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í húsasmíði
+4.1.8   ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í kjólasaumi
+4.1.9   ;Iðnskólinn í Reykjavík ( IR ) Meistaranám í klæðskurði
+4.2.1   ;Fjölbrautaskólinn við Ármúla Læknaritarabraut
+4.2.10  ;Verkmenntaskólinn á Akureyri ( VMA ) Vélstjóranám 4.stigs
+4.2.11  ;Fjöltækniskóli Íslands Vélstjóranám 4.stigs
+4.2.12  ;Iðnskólinn í Reykjavík ( IR ) Margmiðlun
+4.2.13  ;Flugmálastjórn Íslands Flugumferðarstjórn 1. réttindi
+4.2.14  ;Kennaraháskóli Íslands ( KHÍ ) Leikskólafræði diplóma
+4.2.15  ;Tækniháskóli Íslands ( THÍ ) Matstækni, námskeið
+4.2.2   ;Kennaraháskóli Íslands ( KHÍ ) Tómstunda- og félagsmálafræði diplóma
+4.2.3   ;Menntaskólinn í Kópavogi ( MK ) Ferðaleiðsögn
+4.2.4   ;Menntaskólinn í Kópavogi ( MK ) Ferðaþjónusta
+4.2.7   ;Tækniháskóli Íslands ( THÍ ) Byggingariðnfræði
+4.2.8   ;Tækniháskóli Íslands ( THÍ ) Rafiðnfræði
+4.2.9   ;Tækniháskóli Íslands ( THÍ ) Véliðnfræði
+5.1.1   ;Háskóli Íslands ( HÍ ) Aðstoðarmaður lögfræðings Lögritarar
+5.1.10  ;Háskóli Íslands ( HÍ ) Markaðs- og útflutningsfræði, diplóma
+5.1.11  ;Háskóli Íslands ( HÍ ) Menntun leiðbeinenda í uppeldis- og félagsstarfi
+5.1.12  ;Háskóli Íslands ( HÍ ) Reikningshald, diplómanám
+5.1.13  ;Háskóli Íslands ( HÍ ) Rekstrarstjórnun, diplómanám
+5.1.14  ;Háskóli Íslands ( HÍ ) Rekstur fyrirtækja og tölvunotkun
+5.1.15  ;Háskóli Íslands ( HÍ ) Rekstur tölvukerfa, diplómanám
+5.1.16  ;Háskóli Íslands ( HÍ ) Tómstundafræði, diplómanám
+5.1.17  ;Háskóli Íslands ( HÍ ) Uppeldisfræði diplómanám
+5.1.18  ;Háskóli Íslands ( HÍ ) Viðskiptatungumál og alþjóðasamskipti
+5.1.2   ;Háskóli Íslands ( HÍ ) Ferðamálafræði, diplómanám
+5.1.20  ;Háskólinn í Reykjavík (HR) Viðskiptafræði, diplómanám
+5.1.25  ;Háskóli Íslands ( HÍ ) Fyrirtækjafræði
+5.1.25  ;Háskóli Íslands ( HÍ ) Fyrirtækjafræði (Rekstur fyrirtækja og tölvunotkun)
+5.1.26  ;Háskóli Íslands ( HÍ ) Hagnýt nám í þýðingum, diplómanám
+5.1.27  ;Háskóli Íslands ( HÍ ) Uppeldis-og félagsstarf diplóma
+5.1.28  ;Háskóli Íslands ( HÍ ) Hagfræði til diplómu
+5.1.3   ;Háskóli Íslands ( HÍ ) Hagnýt danska, diplómanám
+5.1.4   ;Háskóli Íslands ( HÍ ) Hagnýt enska, diplómanám
+5.1.5   ;Háskóli Íslands ( HÍ ) Hagnýt franska, diplómanám
+5.1.6   ;Háskóli Íslands ( HÍ ) Hagnýt spænska, diplómanám
+5.1.7   ;Háskóli Íslands ( HÍ ) Hagnýt þýska, diplómanám
+5.1.8   ;Háskóli Íslands ( HÍ ) Hagnýtt íslenskunám, diplómanám
+5.1.9   ;Háskóli Íslands ( HÍ ) Íslensk menning, mál og bókmenntir fyrir útlendinga, diplómanám
+5.2.1   ;Háskólinn á Akureyri ( HA ) Nám til kennsluréttinda í grunnskóla
+5.2.10  ;Söngskólinn í Reykjavík Söngnám, 9. stig
+5.2.13  ;Tónlistarskóli Borgarfjarðar Hljóðfæraleikur, 9. stig
+5.2.14  ;Tónlistarskólinn í Reykjavík Hljóðfærakennaranám
+5.2.15  ;Tónlistarskólinn í Reykjavík Hljóðfæraleikur, 9. stig
+5.2.16  ;Tónlistarskólinn í Reykjavík Píanókennaranám
+5.2.17  ;Tónlistarskólinn í Reykjavík Strokhljóðfærakennaranám
+5.2.18  ;Tónlistarskólinn í Reykjavík Söngkennaranám
+5.2.19  ;Tónlistarskólinn í Reykjavík Tónlistarfræði
+5.2.2   ;Háskólinn í Reykjavík (HR) Kerfisfræði
+5.2.20  ;Tónlistarskólinn í Reykjavík Tónmenntakennaranám
+5.2.21  ;Tónskóli Sigursveins Hljóðfæraleikur, 9. stig
+5.2.22  ;Tónskóli Sigursveins Söngnám, 9. stig
+5.2.23  ;Tónskóli Þjóðkirkjunnar Orgelleikur, 9. stig
+5.2.24  ;Tækniháskóli Íslands ( THÍ ) Iðnrekstrarfræði
+5.2.25  ;Viðskiptaháskólinn á Bifröst Rekstrarfræði
+5.2.26  ;Flugmálastjórn Íslands Flugumferðarstjórn 2. réttindi
+5.2.27  ;Tónlistarskólinn í Reykjavík Söngnám, 9. stig
+5.2.28  ;Tónlistarskóli FÍH Hljóðfærakennaranám FÍH
+5.2.29  ;Nýi söngskólinn Hjartansmál Söngnám, 9. stig
+5.2.3   ;Kennaraháskóli Íslands ( KHÍ ) Nám til kennsluréttinda á framhaldsskólastigi
+5.2.30  ;Tónlistarskóli... Háskólastig í hljóðfæraleik
+5.2.31  ;Tónlistarskóli... Háskólastig í söng
+5.2.6   ;Myndlistaskólinn á Akureyri Grafísk hönnun
+5.2.7   ;Myndlistaskólinn á Akureyri Málun
+5.2.8   ;Nýi tónlistarskólinn Söngnám, 9. stig
+5.2.9   ;Söngskólinn í Reykjavík Söngkennaranám
+5.3.10  ;Háskóli Íslands ( HÍ ) Danska til BA prófs
+5.3.100 ;Háskólinn á Akureyri ( HA ) Rekstrarfræði markaðssvið til B.S. gráðu
+5.3.101 ;Háskólinn á Akureyri ( HA ) Rekstrarfræði stjórnun til B.S. gráðu
+5.3.102 ;Háskólinn á Akureyri ( HA ) Rekstrarfræði upplýsingatækni til B.S. gráðu
+5.3.103 ;Háskólinn á Akureyri ( HA ) Sjávarútvegsfræði til BS prófs
+5.3.104 ;Háskólinn á Akureyri ( HA ) Tölvunarfræði til BS prófs
+5.3.105 ;Háskólinn í Reykjavík (HR) Lögfræði BA gráða
+5.3.106 ;Háskólinn í Reykjavík (HR) Tölvunarfræði til BS prófs
+5.3.107 ;Háskólinn í Reykjavík (HR) Viðskiptafræði til BS prófs
+5.3.108 ;Kennaraháskóli Íslands ( KHÍ ) Íþróttafræði B.S.
+5.3.109 ;Kennaraháskóli Íslands ( KHÍ ) Íþróttakennaranám B.S.
+5.3.11  ;Háskóli Íslands ( HÍ ) Djáknanám til BA prófs
+5.3.110 ;Kennaraháskóli Íslands ( KHÍ ) Kennaranám til háskólaprófs
+5.3.111 ;Kennaraháskóli Íslands ( KHÍ ) Leikskólakennaranám
+5.3.112 ;Kennaraháskóli Íslands ( KHÍ ) Leikskólakennaranám, viðbót til B.Ed. gráðu
+5.3.113 ;Kennaraháskóli Íslands ( KHÍ ) Skiptinemar (innlendir) í kennara- og uppeldisnámi
+5.3.115 ;Kennaraháskóli Íslands ( KHÍ ) Viðbótarnám í kennarafræðum
+5.3.116 ;Kennaraháskóli Íslands ( KHÍ ) Þroskaþjálfanám til B.Ed. gráðu
+5.3.117 ;Kennaraháskóli Íslands ( KHÍ ) Þroskaþjálfanám, viðbót til B.Ed. gráðu
+5.3.118 ;Landbúnaðarháskólinn á Hvanneyri Búvísindi til háskólagráðu BS
+5.3.119 ;Landbúnaðarháskólinn á Hvanneyri Umhverfisskipulag/Búvísindi BS
+5.3.12  ;Háskóli Íslands ( HÍ ) Eðlisfræði til BS prófs
+5.3.120 ;Listaháskóli Íslands ( LHÍ ) Fata- & textílhönnun BA gráða
+5.3.121 ;Listaháskóli Íslands ( LHÍ ) Fjöltækni BA gráða
+5.3.122 ;Listaháskóli Íslands ( LHÍ ) Grafík BA gráða
+5.3.123 ;Listaháskóli Íslands ( LHÍ ) Grafísk hönnun BA gráða
+5.3.124 ;Listaháskóli Íslands ( LHÍ ) Hljóðfæraleikur B.Mus.
+5.3.125 ;Listaháskóli Íslands ( LHÍ ) Hönnun - nytjahlutir BA gráða
+5.3.126 ;Listaháskóli Íslands ( LHÍ ) Hönnun - prentmiðlar BA gráða
+5.3.127 ;Listaháskóli Íslands ( LHÍ ) Hönnun - skjámiðlar BA gráða
+5.3.128 ;Listaháskóli Íslands ( LHÍ ) Hönnun - textíll BA gráða
+5.3.129 ;Listaháskóli Íslands ( LHÍ ) Leiklistarnám BFA gráða
+5.3.13  ;Háskóli Íslands ( HÍ ) Efnafræði til BS prófs
+5.3.130 ;Listaháskóli Íslands ( LHÍ ) Málun BA gráða
+5.3.131 ;Listaháskóli Íslands ( LHÍ ) Myndlist BA gráða
+5.3.132 ;Listaháskóli Íslands ( LHÍ ) Skúlptúr BA gráða
+5.3.133 ;Listaháskóli Íslands ( LHÍ ) Söngnám, 9. stig
+5.3.134 ;Listaháskóli Íslands ( LHÍ ) Textíll BA gráða
+5.3.135 ;Listaháskóli Íslands ( LHÍ ) Tónlistarfræði
+5.3.136 ;Listaháskóli Íslands ( LHÍ ) Þrívíddarhönnun BA gráða
+5.3.137 ;Tækniháskóli Íslands ( THÍ ) Alþjóðamarkaðsfræði
+5.3.138 ;Tækniháskóli Íslands ( THÍ ) Byggingartæknifræði
+5.3.139 ;Tækniháskóli Íslands ( THÍ ) Iðnaðartæknifræði
+5.3.14  ;Háskóli Íslands ( HÍ ) Efnaverkfræði til BS prófs
+5.3.140 ;Tækniháskóli Íslands ( THÍ ) Lífeindatækni/Meinatækni til BS prófs
+5.3.141 ;Tækniháskóli Íslands ( THÍ ) Orkutæknifræði
+5.3.142 ;Tækniháskóli Íslands ( THÍ ) Raftæknifræði
+5.3.143 ;Tækniháskóli Íslands ( THÍ ) Röntgentækni (geislafræði) til BS prófs
+5.3.144 ;Tækniháskóli Íslands ( THÍ ) Tölvu- og upplýsingatæknifræði
+5.3.145 ;Tækniháskóli Íslands ( THÍ ) Véltæknifræði
+5.3.146 ;Tækniháskóli Íslands ( THÍ ) Vörustjórnun
+5.3.147 ;Viðskiptaháskólinn á Bifröst Viðskiptafræði til BS prófs
+5.3.148 ;Viðskiptaháskólinn á Bifröst Viðskiptalögfræði til BS prófs
+5.3.149 ;Tækniháskóli Íslands ( THÍ ) Vél- og orkutæknifræði
+5.3.15  ;Háskóli Íslands ( HÍ ) Endurskoðun Cand. oecon.
+5.3.150 ;Listaháskóli Íslands ( LHÍ ) Arkitektúr, byggingarlist
+5.3.151 ;Listaháskóli Íslands ( LHÍ ) Myndmenntakennaranám
+5.3.152 ;Landbúnaðarháskólinn á Hvanneyri Búvísindi til kandídatsgráðu
+5.3.153 ;Landbúnaðarháskólinn á Hvanneyri Landnýting/náttúrunýting til BS gráðu
+5.3.154 ;Landbúnaðarháskólinn á Hvanneyri Landnýting/náttúrunýting til kandidatsgráðu
+5.3.155 ;Háskólinn á Akureyri ( HA ) Félagsvísindanám til BA gráðu
+5.3.156 ;Háskólinn á Akureyri ( HA ) Fiskeldi til BS prófs
+5.3.157 ;Háskólinn á Akureyri ( HA ) Líftækni til BS prófs
+5.3.158 ;Háskólinn á Akureyri ( HA ) Lögfræði til BA prófs
+5.3.159 ;Háskólinn á Akureyri ( HA ) Rekstrarfræði fjármálasvið til B.S. gráðu
+5.3.16  ;Háskóli Íslands ( HÍ ) Enska til BA prófs
+5.3.160 ;Háskólinn á Akureyri ( HA ) Unhverfisfræði til BS prófs
+5.3.161 ;Háskóli Íslands ( HÍ ) 4. árs verkefni
+5.3.162 ;Háskóli Íslands ( HÍ ) Bókasafns- og upplýsingafræði fyrir skólasafnverði
+5.3.163 ;Háskóli Íslands ( HÍ ) Bókasafns- og upplýsingafræði til starfsréttinda
+5.3.164 ;Háskóli Íslands ( HÍ ) Djáknanám viðbótarnám til diplóma eftir BA próf
+5.3.165 ;Háskóli Íslands ( HÍ ) Fornleifafræði til BA prófs
+5.3.166 ;Kennaraháskóli Íslands ( KHÍ ) Framhaldsnám í kennarafræðum, diplómanám
+5.3.169 ;Háskóli Íslands ( HÍ ) Hjúkrunarfræði, sérskipulagt nám til BS prófs
+5.3.17  ;Háskóli Íslands ( HÍ ) Ferðamálafræði til BS prófs
+5.3.170 ;Háskóli Íslands ( HÍ ) Hjúkrunarfræði framhaldsnám til diplóma
+5.3.171 ;Háskóli Íslands ( HÍ ) Japanska til BA prófs
+5.3.172 ;Háskóli Íslands ( HÍ ) Líffræði 4. árs verkefni
+5.3.173 ;Háskóli Íslands ( HÍ ) Læknisfræði, símenntun
+5.3.174 ;Háskóli Íslands ( HÍ ) Lögfræði til BA gráðu
+5.3.175 ;Kennaraháskóli Íslands ( KHÍ ) Nám til kennsluréttinda á framhaldsskólastigi í samstarfi v
+5.3.176 ;Háskóli Íslands ( HÍ ) Opinber stefnumótun og stjórnsýsla til diplóma prófs
+5.3.177 ;Háskóli Íslands ( HÍ ) Rómönsk mál til BA prófs
+5.3.178 ;Háskóli Íslands ( HÍ ) Stærðfræði-eðlisfræði til BS prófs
+5.3.179 ;Kennaraháskóli Íslands ( KHÍ ) Tómstunda- og félagsmálafræði BA gráða
+5.3.18  ;Háskóli Íslands ( HÍ ) Félagsfræði til BA prófs
+5.3.180 ;Háskóli Íslands ( HÍ ) Undirbúningsnám fyrir MS í viðskiptafræði
+5.3.181 ;Háskóli Íslands ( HÍ ) Undirbúningsnám til MS prófs í hagfræði
+5.3.182 ;Listaháskóli Íslands ( LHÍ ) Keramík
+5.3.182 ;Listaháskóli Íslands ( LHÍ ) Keramík BA gráða
+5.3.183 ;Viðskiptaháskólinn á Bifröst Heimspeki, hagfræði og stjórnmálafræði (HHS) til BA prófs
+5.3.184 ;Háskólinn á Akureyri ( HA ) Auðlindabraut
+5.3.19  ;Háskóli Íslands ( HÍ ) Félagsráðgjöf til BA prófs
+5.3.2   ;Háskóli Íslands ( HÍ ) Hagfræði til BS prófs
+5.3.20  ;Háskóli Íslands ( HÍ ) Félagsvísindanám til BA prófs
+5.3.21  ;Háskóli Íslands ( HÍ ) Félagsvísindanám Óskilgreind endurmenntun
+5.3.22  ;Háskóli Íslands ( HÍ ) Finnska til BA prófs
+5.3.23  ;Háskóli Íslands ( HÍ ) Fiskifræði til BS prófs
+5.3.24  ;Háskóli Íslands ( HÍ ) Franska til BA prófs
+5.3.26  ;Háskóli Íslands ( HÍ ) Gríska til BA prófs
+5.3.27  ;Háskóli Íslands ( HÍ ) Guðfræði til BA prófs
+5.3.28  ;Háskóli Íslands ( HÍ ) Guðfræði til embættisprófs presta
+5.3.29  ;Háskóli Íslands ( HÍ ) Guðfræði Óskilgreind endurmenntun
+5.3.3   ;Háskóli Íslands Viðskiptafræði til BS prófs
+5.3.30  ;Háskóli Íslands ( HÍ ) Hagfræði til BA prófs
+5.3.30  ;Háskóli Íslands Hagfræði til BA prófs
+5.3.31  ;Háskóli Íslands ( HÍ ) Heimspeki til BA prófs
+5.3.32  ;Háskóli Íslands ( HÍ ) Heimspekideild Óskilgreind endurmenntun
+5.3.33  ;Háskóli Íslands ( HÍ ) Hjúkrunarfræði til BS prófs
+5.3.35  ;Háskóli Íslands ( HÍ ) Hjúkrunarfræði Óskilgreind endurmenntun
+5.3.36  ;Háskóli Íslands ( HÍ ) Íslenska fyrir útlendinga til B.Ph.Isl. prófs
+5.3.37  ;Háskóli Íslands ( HÍ ) Íslenska til BA prófs
+5.3.38  ;Háskóli Íslands ( HÍ ) Ítalska til BA prófs
+5.3.39  ;Háskóli Íslands ( HÍ ) Jarðeðlisfræði til BS prófs
+5.3.4   ;Háskóli Íslands ( HÍ ) Viðskiptafræði Cand. oecon.
+5.3.40  ;Háskóli Íslands ( HÍ ) Jarðfræði til BS prófs
+5.3.41  ;Háskóli Íslands ( HÍ ) Landafræði til BS prófs
+5.3.42  ;Háskóli Íslands ( HÍ ) Latína til BA prófs
+5.3.43  ;Háskóli Íslands ( HÍ ) Lífefnafræði til BS prófs
+5.3.44  ;Háskóli Íslands ( HÍ ) Líffræði til BS prófs
+5.3.45  ;Háskóli Íslands ( HÍ ) Ljósmæðrafræði
+5.3.46  ;Háskóli Íslands ( HÍ ) Undirbúningsnám fyrir ljósmæðrafræði
+5.3.47  ;Háskóli Íslands ( HÍ ) Lyfjafræði til aðstoðarlyfjafræðingsprófs
+5.3.48  ;Háskóli Íslands ( HÍ ) Lyfjafræði, símenntun
+5.3.49  ;Háskóli Íslands ( HÍ ) Læknisfræði til embættisprófs
+5.3.5   ;Háskóli Íslands ( HÍ ) Alþjóðastjórnmálafræði BA gráða
+5.3.50  ;Háskóli Íslands ( HÍ ) Læknisfræði til kandídatsprófs
+5.3.51  ;Háskóli Íslands ( HÍ ) Lögfræði til embættisprófs
+5.3.52  ;Háskóli Íslands ( HÍ ) Lögfræði Óskilgreind endurmenntun
+5.3.53  ;Háskóli Íslands ( HÍ ) Mannfræði til BA prófs
+5.3.54  ;Háskóli Íslands ( HÍ ) Matvælafræði til BS prófs
+5.3.55  ;Háskóli Íslands ( HÍ ) Málvísindi til BA prófs
+5.3.56  ;Háskóli Íslands ( HÍ ) Hagnýt fjölmiðlun
+5.3.57  ;Háskóli Íslands ( HÍ ) Nám til kennsluréttinda á framhaldsskólastigi
+5.3.58  ;Háskóli Íslands ( HÍ ) Námsráðgjöf til BA prófs
+5.3.59  ;Háskóli Íslands ( HÍ ) Norska til BA prófs
+5.3.6   ;Háskóli Íslands ( HÍ ) Atvinnulífsfræði BA gráða
+5.3.60  ;Háskóli Íslands ( HÍ ) Rafmagns- og tölvuverkfræði, hugbúnaðarverkfræði B.S.
+5.3.62  ;Háskóli Íslands ( HÍ ) Rafmagnsverkfræði til BS prófs
+5.3.63  ;Háskóli Íslands ( HÍ ) Raunvísindadeild Óskilgreind endurmenntun
+5.3.65  ;Háskóli Íslands ( HÍ ) Rússneska til BA prófs
+5.3.66  ;Háskóli Íslands ( HÍ ) Sagnfræði almenn til BA prófs
+5.3.67  ;Háskóli Íslands ( HÍ ) Sagnfræði sérgeind til BA prófs
+5.3.68  ;Háskóli Íslands ( HÍ ) Sameindalíffræði til BS prófs
+5.3.69  ;Háskóli Íslands ( HÍ ) Sálarfræði til BA prófs
+5.3.7   ;Háskóli Íslands ( HÍ ) Bókasafns- og upplýsingafræði til BA prófs
+5.3.70  ;Háskóli Íslands ( HÍ ) Sjúkraþjálfun til BS prófs
+5.3.71  ;Háskóli Íslands ( HÍ ) Spænska til BA prófs
+5.3.72  ;Háskóli Íslands ( HÍ ) Starfstengd siðfræði, diplóma
+5.3.73  ;Háskóli Íslands ( HÍ ) Stjórnmálafræði til BA prófs
+5.3.74  ;Háskóli Íslands ( HÍ ) Stærðfræði til BS prófs
+5.3.75  ;Háskóli Íslands ( HÍ ) Stærðfræði, náttúruvísindi til BS prófs
+5.3.76  ;Háskóli Íslands ( HÍ ) Stærðfræði-tölvunarfræði til BS prófs
+5.3.77  ;Háskóli Íslands ( HÍ ) Sænska til BA prófs
+5.3.78  ;Háskóli Íslands ( HÍ ) Tannlækningar til kandidatsgráðu
+5.3.79  ;Háskóli Íslands ( HÍ ) Táknmálsfræði BA gráða
+5.3.8   ;Háskóli Íslands ( HÍ ) Bókmenntafræði til BA prófs
+5.3.80  ;Háskóli Íslands ( HÍ ) Trúarbragðafræði - 30 ein  þverfaglegt nám
+5.3.81  ;Háskóli Íslands ( HÍ ) Tungumál, bókmenntir, saga, guðfræði, listir, fjölmiðlun, skiptinem
+5.3.82  ;Háskóli Íslands ( HÍ ) Tæknileg eðlisfræði til BS prófs
+5.3.83  ;Háskóli Íslands ( HÍ ) Tölvunarfræði til BS prófs
+5.3.85  ;Háskóli Íslands ( HÍ ) Uppeldisfræði til BA prófs
+5.3.86  ;Háskóli Íslands ( HÍ ) Verkfræði, sérgrein ekki tilgreind
+5.3.87  ;Háskóli Íslands ( HÍ ) Verkfræðideild Óskilgreind endurmenntun
+5.3.88  ;Háskóli Íslands ( HÍ ) Véla- og iðnaðarverkfræði BS
+5.3.9   ;Háskóli Íslands ( HÍ ) Umhverfis- og byggingarverkfræði til BS prófs
+5.3.90  ;Háskóli Íslands ( HÍ ) Viðskipta- og hagfræði Óskilgreind endurmenntun
+5.3.91  ;Háskóli Íslands ( HÍ ) Viðskiptafræði BS
+5.3.92  ;Háskóli Íslands ( HÍ ) Þjóðháttafræði til BA prófs
+5.3.93  ;Háskóli Íslands ( HÍ ) Þýska til BA prófs
+5.3.94  ;Háskólinn á Akureyri ( HA ) Hjúkrunarfræði til BS prófs
+5.3.95  ;Háskólinn á Akureyri ( HA ) Iðjuþjálfun til BS prófs
+5.3.96  ;Háskólinn á Akureyri ( HA ) Kennaranám til háskólaprófs B.Ed.
+5.3.97  ;Háskólinn á Akureyri ( HA ) Leikskólakennaranám til B.Ed. gráðu
+5.3.98  ;Háskólinn á Akureyri ( HA ) Nútímafræði þverfaglegt nám í kennaradeild - hugvísindi
+5.3.99  ;Háskólinn á Akureyri ( HA ) Rekstrarfræði almenn til B.S. gráðu
+5.4.1   ;Endurmenntunarstofnun MBA nám viðskiptafræði
+5.4.10  ;Háskóli Íslands ( HÍ ) Hagfræði til MS prófs
+5.4.11  ;Háskóli Íslands ( HÍ ) Heimspeki til MA prófs
+5.4.12  ;Háskóli Íslands ( HÍ ) Íslensk málfræði til MA prófs
+5.4.13  ;Háskóli Íslands ( HÍ ) Íslensk fræði til MA prófs
+5.4.14  ;Háskóli Íslands ( HÍ ) Íslenskar bókmenntir til MA prófs
+5.4.15  ;Háskóli Íslands ( HÍ ) Jarðeðlisfræði til MS prófs
+5.4.16  ;Háskóli Íslands ( HÍ ) Jarðfræði til MS prófs
+5.4.17  ;Háskóli Íslands ( HÍ ) Landafræði til MS prófs
+5.4.18  ;Háskóli Íslands ( HÍ ) Lífefnafræði til MS prófs
+5.4.19  ;Háskóli Íslands ( HÍ ) Líffræði til MS prófs
+5.4.2   ;Háskóli Íslands ( HÍ ) Bókmenntafræði til MA prófs
+5.4.20  ;Háskóli Íslands ( HÍ ) Lyfjafræði til MS prófs
+5.4.21  ;Háskóli Íslands ( HÍ ) Læknisfræði til MS prófs
+5.4.22  ;Háskóli Íslands ( HÍ ) Mannfræði til MA prófs
+5.4.23  ;Háskóli Íslands ( HÍ ) Matvælafræði til MS prófs
+5.4.24  ;Háskóli Íslands ( HÍ ) Nám í þýðingum til MA prófs
+5.4.25  ;Háskóli Íslands ( HÍ ) Opinber stefnumótun og stjórnsýsla til MPA prófs
+5.4.26  ;Háskóli Íslands ( HÍ ) Rafmagns- og tölvuverkfræði til MS prófs
+5.4.27  ;Háskóli Íslands ( HÍ ) Rafmagnsverkfræði til MS prófs, raforkulína
+5.4.28  ;Háskóli Íslands ( HÍ ) Sagnfræði til MA prófs
+5.4.29  ;Háskóli Íslands ( HÍ ) Sálarfræði til MA prófs
+5.4.3   ;Háskóli Íslands ( HÍ ) Umhverfis- og byggingarverkfræði til MS prófs
+5.4.30  ;Háskóli Íslands ( HÍ ) Sálfræðinám til kandídatsgráðu cand.psych.
+5.4.31  ;Háskóli Íslands ( HÍ ) Sjávarútvegsfræði til meistaraprófs
+5.4.32  ;Háskóli Íslands ( HÍ ) Stjórnmálafræði til MA prófs
+5.4.33  ;Háskóli Íslands ( HÍ ) Stærðfræði til MS prófs
+5.4.34  ;Háskóli Íslands ( HÍ ) Tölvunarfræði til MS prófs
+5.4.35  ;Háskóli Íslands ( HÍ ) Umhverfis og byggingarverkfræði til MS prófs
+5.4.36  ;Háskóli Íslands ( HÍ ) Umhverfis og byggingarverkfræði til meistaraprófs, umhverfislína  E
+5.4.37  ;Háskóli Íslands ( HÍ ) Umhverfisfræði til MA prófs
+5.4.38  ;Háskóli Íslands ( HÍ ) Umhverfisfræði til MS prófs
+5.4.39  ;Háskóli Íslands ( HÍ ) Uppeldisfræði til MA prófs
+5.4.4   ;Háskóli Íslands ( HÍ ) Danska til MA prófs
+5.4.41  ;Háskóli Íslands ( HÍ ) Véla- og iðnaðarverkfræði til MS prófs
+5.4.42  ;Háskóli Íslands ( HÍ ) Viðskiptafræði til meistaraprófs MS
+5.4.43  ;Háskóli Íslands ( HÍ ) Þjóðháttafræði til MA prófs
+5.4.44  ;Háskólinn á Akureyri ( HA ) Hjúkrunarfræði til MS prófs
+5.4.45  ;Háskólinn á Akureyri ( HA ) Kennarafræði til MEd prófs
+5.4.46  ;Háskólinn á Akureyri ( HA ) Sérkennaranám til MEd prófs
+5.4.47  ;Háskólinn í Reykjavík (HR) MBA nám til meistaraprófs
+5.4.48  ;Kennaraháskóli Íslands ( KHÍ ) Framhaldsnám í kennarafræðum til MEd prófs
+5.4.5   ;Háskóli Íslands ( HÍ ) Eðlisfræði til MS prófs
+5.4.50  ;Landbúnaðarháskólinn á Hvanneyri Búvísindi til háskólagráðu MS gráða
+5.4.51  ;Landbúnaðarháskólinn á Hvanneyri Landnýting/náttúrunýting til MS gráðu
+5.4.52  ;Háskólinn í Reykjavík (HR) Tölvunarfræði til MS prófs
+5.4.53  ;Háskólinn á Akureyri ( HA ) Heilbrigðisvísindi til MS prófs
+5.4.54  ;Háskóli Íslands ( HÍ ) Íslensk málfræði til Cand.mag. prófs
+5.4.55  ;Háskóli Íslands ( HÍ ) Íslenska til M.Paed. prófs
+5.4.56  ;Háskóli Íslands ( HÍ ) Lögfræði til meistaraprófs LL.M.
+5.4.57  ;Háskóli Íslands ( HÍ ) Mannauðsstjórnun M.A.
+5.4.58  ;Háskóli Íslands ( HÍ ) Næringarfræði til MS prófs
+5.4.59  ;Háskóli Íslands ( HÍ ) Stærðfræði, til M.Paed. prófs
+5.4.6   ;Háskóli Íslands ( HÍ ) Efnafræði til MS prófs
+5.4.60  ;Háskóli Íslands ( HÍ ) Tannlækningar til MS prófs
+5.4.61  ;Háskóli Íslands ( HÍ ) Tungutækni til MA prófs
+5.4.62  ;Háskóli Íslands ( HÍ ) Viðskiptafræði til MBA prófs
+5.4.63  ;Háskóli Íslands ( HÍ ) Þýska til M.Paed. prófs
+5.4.64  ;Háskóli Íslands ( HÍ ) Danska til M.Paed. prófs
+5.4.65  ;Háskóli Íslands ( HÍ ) Enska til M.Paed. prófs
+5.4.66  ;Háskóli Íslands ( HÍ ) Ferðamálafræði til MS prófs
+5.4.67  ;Háskóli Íslands ( HÍ ) Fornleifafræði til MA prófs
+5.4.68  ;Háskóli Íslands ( HÍ ) Franska til M.Paed. prófs
+5.4.69  ;Háskóli Íslands ( HÍ ) Heilbrigðisvísindi til M.S. prófs
+5.4.7   ;Háskóli Íslands ( HÍ ) Enska til MA prófs
+5.4.70  ;Háskóli Íslands ( HÍ ) Hjúkrunarfræði til MS prófs
+5.4.8   ;Háskóli Íslands ( HÍ ) Félagsfræði til MA prófs
+5.4.9   ;Háskóli Íslands ( HÍ ) Guðfræði til MA prófs

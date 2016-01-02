@@ -1,0 +1,52 @@
+0.1   ;Gott veður
+0.2   ;Slæmt veður
+1.1   ;Ekkert að gera
+1.2   ;Hráefnisskortur
+1.3   ;Tæknilegar ástæður
+1.4   ;Verkefnaskortur
+10.1  ;Akkorð
+10.2  ;Minna að gera
+10.3  ;Misjafnt að gera eftir dögum
+10.4  ;Vinnur eftir þörfum
+11.1  ;Afleysingar
+11.2  ;Íhlaupavinna
+11.3  ;Var erlendis vegna vinnu
+11.4  ;Aðrar ástæður
+2.1   ;Var í verkfalli
+2.2   ;Verkbann
+2.3   ;Verkfall hjá öðrum
+3.1   ;Endurmenntun
+3.2   ;Kvöldskóli
+3.3   ;Í skóla
+3.4   ;Námskeið
+3.5   ;Starfsþjálfun
+3.6   ;Námsleyfi
+4.1   ;Andlát
+4.2   ;Slys hjá svaranda
+4.3   ;Tímabundin fötlun hjá svaranda
+4.4   ;Veikindi hjá svaranda
+4.5   ;Veikindi barns
+5.1   ;Barneignafrí
+5.2   ;Feðraorlof
+5.3   ;Frí vegna ættleiðingar barns
+5.4   ;Foreldraorlof
+6.1   ;Aukafrí
+6.2   ;Erlendis í fríi
+6.3   ;Frí í skóla hjá barni
+6.4   ;Leyfi af persónulegum ástæðum
+6.5   ;Opinber frídagur
+6.6   ;Sumarfrí
+6.7   ;Vetrarfrí
+6.8   ;Launalaust leyfi
+7.1   ;Byrjaði ekki starfið í vik
+7.2   ;Biðlaun, starfslokasamningur
+7.3   ;Byrjaði í nýju starfi í vikunni
+7.4   ;Hætti í starfi í vikunni
+7.5   ;Uppsagnarfrestur
+8.1   ;Árstíðabundið starf
+9.1   ;Ræður vinnutíma sjálfur að einhverju leyti sjálf/ur
+9.2   ;Sjómaður í landi
+9.3   ;Sveigjanlegur vinnutími
+9.4   ;Vaktavinna
+9.5   ;Vinnu aðra hvora viku
+9.6   ;Vinnur aðra hvora helgi

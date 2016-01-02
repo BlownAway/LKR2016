@@ -1,0 +1,25 @@
+{This file was automatically converted to Ansi on 27.9.2000 at 16:24:51 by Oem2Ansi.exe}
+{   SVEIT.BLA
+    ÓH (c) apríl 1996
+    ÓH (c) endursk. mars 1998
+    ÓH (c) endursk. des. 1998
+    ÓH (c) safntilvísun í current möppu des. 2000
+
+}
+DATAMODEL SVEIT "Sveitarfélög"
+
+LIBRARIES
+  TSVEIT  'TSVEIT'
+
+SECONDARY
+  Tri  = Staðarnafn(TRIGRAM)
+  kóti = sveitarfélagskóti
+  nafn = staðarnafn
+
+FIELDS
+  
+  Sveitarfélagskóti          : TSveit
+  Staðarnafn                 : STRING[40]
+
+ENDMODEL
+

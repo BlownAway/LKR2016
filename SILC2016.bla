@@ -1,0 +1,708 @@
+DATAMODEL SILC2016 "Lífskjararannsókn"
+{$MODELIB *}                                                 {segir blaise að nota modelib með sama heiti og bla skráin}
+{Lífskjararannsókn 2016}
+LANGUAGES   = ISL "Íslenska", ENG "Enska"
+
+LIBRARIES
+    TMENNTUN   'Menntun\TMENNTUN',
+    TSTFELAG   'StFelag\TSTFELAG',
+    TSVEIT     'Sveit\TSVEIT',
+    TISTARF    'Istarf\TISTARF',
+    TFJARVERA  'Fjarvera\TFJARVERA',
+    TNÁM       'Nam\TNAM',
+    TBrottfall 'Brottfall\TBrottfall',
+    TISAT2008  'ISAT2008\TISAT2008'
+
+USES
+    MENNTUN   'Menntun\MENNTUN',
+    STFELAG   'StFelag\STFELAG',
+    SVEIT     'Sveit\SVEIT',
+    ISTARF    'Istarf\ISTARF',
+    FJARVERA  'Fjarvera\FJARVERA',
+    NÁM       'Nam\NAM',
+    IÐN       'IDN\IDN',
+    ISAT2008  'ISAT2008\ISAT2008'
+
+PRIMARY
+    Númer, Bylgja
+
+SECONDARY
+    Nafni     = Nafn (trigram)
+    Kennitölu= Kennitala
+    Síma     = Leiðrétta.Sími
+    Allir_símar  = Leiðrétta.ASímar (trigram)
+    svari = CatiMana.CatiCall.RegsCalls[1].DialResult
+    spyrlill_svari = CatiMana.CatiCall.RegsCalls[1].WhoMade, CatiMana.CatiCall.RegsCalls[1].DialResult
+
+ATTRIBUTES = DontKnow, Refusal
+
+PARALLEL
+    Bóka_viðtal = Leiðrétta
+    Símar_og_heimilisfang = Leiðrétta
+    Brottfallsástæður    = Brottfall
+
+{INHERIT CATI}
+
+LOCALS
+  hann_hun, hans_hen, hon_hen, hafa_hei,
+  fa_heimi, a_heimil, eru_heim, st_heim,
+  er_heim, var_heim, bua_heim, thitt, sig, hve_marg, Var_einhv, Átti, Er_tölva, buid, buidA, þinn_ykkar, Vill, geta,
+  Medlag, þinu_ykkar, Þú_þið, Borðar, þarf, Þú_þið_hafir, geta_veitt, Leigið_þið, anyone        : string
+
+
+INCLUDE "IncludeFiles\Types.inc"
+INCLUDE "IncludeFiles\Stefjur.inc"
+{INCLUDE "Stefjur_Sækja_fyrri_svör.inc"}
+INCLUDE "IncludeFiles\BÞátttaka.inc"       {Hérna er skráð hver viðmælandinn er}
+INCLUDE "IncludeFiles\BHmFjöldi.inc"        {Hversu margir eru á heimilinu}
+INCLUDE "IncludeFiles\BFjölskylda.inc"    {BHeimilismaður er INcluded hér og sú skrá inniheldur spurningar um aðra á heimilinu}
+INCLUDE "IncludeFiles\BForskráning.inc"    {Upphaf að spurningum um hina heimilismennina}
+INCLUDE "IncludeFiles\bVMR.inc"
+INCLUDE "IncludeFiles\BAðsetur.inc"
+INCLUDE "IncludeFiles\BLeiðrétta.inc"
+INCLUDE "IncludeFiles\BBrottfall.inc"
+INCLUDE "IncludeFiles\Heimilisspurningar.inc"
+INCLUDE "IncludeFiles\Heilsa.inc"
+INCLUDE "IncludeFiles\Milliblokk.inc"
+INCLUDE "IncludeFiles\Barnagæsla.inc"
+
+
+
+FIELDS
+    númer              : string[10]
+    könnun             : string[4]
+    bylgja             : 1..4
+    viðmiðunardagur    : datetype
+    kennitala          : string[10]
+    aldur              : 0..110
+    kyn                : TKyn
+    nafn               : string[31]
+    hjú                : thju
+
+    húskóti            : string[12]
+    aðseturhúskóti     : string[12]
+    heimilisfang       : string[21]
+    póstnúmer          : string[3]
+    sveitarfélag       : string[33]
+    upphafssími        : string[150]
+    spyrill            : STRING[10]
+
+
+    VMR                : ARRAY [1..15] OF bVMR
+
+    fjöldi             : tHmFj
+    Fjölskylda         : BFjölskylda
+    Þ                  : BÞátttaka
+    HmFj               : BHmFjöldi
+    Forskráning        : BForskráning
+    HmStrt (Hm05)
+      "^haus@/^fsvar@/^strik@/
+       ^inngangur"
+      "^haus@/^fsvar@/^strik@/
+       ^Preamble@/"
+      /"Heimilismaður sem fær vinnuspurningar"
+       : ARRAY [2..15] OF STRING[1], EMPTY
+   Millib : Milliblokk
+   Heimilisspurningar : BHeimilisspurningar
+   Heilsa : BHeilsa
+   Barnagæsla: ARRAY [2..15] OF BBarnagæsla
+   Heimfj : THmFj {Fjöldi heimilismanna}
+   AldurBarns : 0..110
+
+   er_til_barn_1_15_ara : tjánei
+   er_til_barn_i_grunnskola : tjánei
+   Fjoldi_barna_yngri_en_19 : 0..15
+
+
+
+
+   Aðsetur            : BAðsetur
+
+    Leiðrétta          : BLeiðrétta
+    Brottfall          : BBrottfall
+
+    VidtalByrjarDags, VidtalEndarDags, VidtalMilliblokkDags : Datetype   {Breytur til að vista upphaf og lok viðtals til að geta tímamælt það, dagsetning }
+    VidtalByrjarTimi, VidtalEndarTimi, VidtalMilliblokkTimi : Timetype   {Breytur til að vista upphaf og lok viðtals til að geta tímamælt það, tímasetning }
+
+    tungumál "Tungumál sem er notað í spurningum" : TLanguage
+
+    kveðja  {Bylgja fjögur}
+    "^haus@/^fsvar@/^strik@/
+    Þá er spurningunum lokið, Hagstofa Íslands þakkar þér kærlega fyrir þátttökuna!"
+    "^haus@/^fsvar@/^strik@/
+    This is the end of the questionnaire. Thank you very much for the participation!"
+    /"Kveðja bylgja 5"
+    : (lokid "Viðtalinu er lokið"), noempty, nodk, norefusal
+
+    kveðjaÍBili  {Bylgja tvö til þrjú}
+    "^haus@/^fsvar@/^strik@/
+    Þá er spurningunum lokið, Hagstofa Íslands þakkar þér kærlega fyrir þátttökuna. Við munum hringja í þig aftur að ári liðnu.
+    @/@/(Ástæða þess að við hringjum aftur er til að geta metið breytingar á lífskjörum þjóðarinnar.)"
+    "^haus@/^fsvar@/^strik@/
+    This is the end of the questionnaire. Thank you very much for the participation. We will be calling you again after one year."
+    /"Kveðja"
+    : (lokid "Viðtalinu er lokið"), noempty, nodk, norefusal
+
+    kveðjaÍBili1  {Bylgja eitt }
+    "^haus@/^fsvar@/^strik@/
+    Þá er spurningunum lokið, Hagstofa Íslands þakkar þér kærlega fyrir þátttökuna.  Við munum hringja í þig aftur að ári liðnu.
+    @/@/(Ástæða þess að við hringjum aftur er til að geta metið breytingar á lífskjörum þjóðarinnar.)"
+    "^haus@/^fsvar@/^strik@/
+    This is the end of the questionnaire. Thank you very much for the participation. We will be calling you again after one year."
+    /"Kveðja"
+    : (lokid "Viðtalinu er lokið"), noempty, nodk, norefusal
+
+    ahugi "@G@/@/Hvernig myndir þú lýsa áhuga svaranda á viðtalinu meðan á því stóð?@g"/"Áhugi" :
+            (mikill "Mikill áhugi",
+             nokkur "Nokkur áhugi",
+             litill "Lítill áhugi",
+             enginn "Enginn áhugi"
+            )
+
+    skilningur "@G@/@/Almennt séð, hversu vel eða illa fannst þér að svarandi skildi spurningar spurningalistans?@g"/"Skilningur" :
+           (
+            mjogvel     "Mjög vel",
+            frekarvel   "Frekar vel",
+            hvorkine    "Hvorki vel né illa",
+            frekarilla  "Frekar illa",
+            mjogilla    "Mjög illa"
+            )
+
+AUXFIELDS
+    {Færibreytur}
+    Fæðingardagur       : DateType
+    HmFjöldi            : THmFj
+    Persóna             : TPersóna {hvaða persóna er viðmælandi}
+    Persóna_aðrir       : TPersóna {hvaða persóna eru aðrir heimilismenn}
+    Heimili             : TJáNei
+    núll                : string
+    Alias               : STRING
+    Farinn              : TJáNei
+    Vinnualdur          : TJáNei
+    hKyn                : TKyn
+    þFj                 : THmFj
+    FjöldiHeimilismanna : THmFj
+    FjöldiÚtstrikaðraHeimilismanna : THmFj
+    FjöldiVinnufærra    : THmFj
+    Röð                 : INTEGER
+    Handahófstala       : INTEGER
+    Inngangur           : STRING
+    Preamble            : STRING
+    ErTilHöfuð, ErFadir, ErModir, AllirAdrirBorn   : TJáNei
+    AllarSpurningar     : TJáNei
+    BuinBarnakynning    : TJáNei
+    AldurYngstaHeimilismanns : integer
+    SpyrjaVeikindiBarns : TJáNei {18. jan 2006, á að spyrja um veikindi barns ? }
+
+    HoppaAdeinsFjoldi : TJáNei
+
+    fsv_HTegund , fsv_HStaðsetning : string
+
+    fsv_HHeilsa : string
+
+    hjusvar_1 :integer
+
+
+{Global breytur}
+{Kyngreiningarbreytur}
+  ur             : STRING[3]
+  n              : STRING[2]
+  ill            : STRING[6]
+  gamall         : STRING[6]
+  gifst          : STRING[6]
+  giftur         : STRING[7]
+  hann           : STRING[4]
+  hans           : STRING[6]
+  he             : STRING[3]
+  his            : STRING[3]
+  himself        : STRING[7]
+  kallaður       : STRING[8]
+  aður           : STRING[4]
+  sjalfan        : STRING[8]   {SETT INN 2013}
+
+{Aðrar global breytur}
+  fornafn            : STRING
+  sama_og_síðast     : String
+  same_as_last_time  : String
+
+{Breytur sem tilheyra spurningaskjá}
+  haus           : STRING[500]
+  fsvar          : STRING[77]
+  strik          : STRING[50]
+
+ {Barnakynning}
+  Barnakynning
+   "^haus@/^fsvar@/^strik@/
+   Næstu spurningar eru um hvar börnin eru á daginn á virkum dögum
+   @/@/@GÞau sem voru yngri en 13 ára 1. janúar í ár@G"
+   "^haus@/^fsvar@/^strik@/
+   Now we have a few questions on where the children are during working days" / "Barnakynning":ARRAY [2..15] OF STRING[1], EMPTY
+
+  er_til_barn_á_grunnskólaaldri "Er til barn í fjölskyldunni á grunnskólaaldri ?, Miða við 6 til 15 ára" : TJáNei
+
+  er_eldri_en_15_ara_a_heimilinu "Er einhver heimilismanna eldri en fimmtán ára?" : TJáNei{viðhengi2010}
+
+  er_yngri_en_5_ara_a_heimilinu "Er einhver heimilismanna yngri en fimm ára?" : TJáNei{viðhengi2010}
+
+  er_yngri_en_16_ara_a_heimilinu "Er einhver heimilismanna yngri en sextán ára?" : TJáNei{viðhengi2010}
+
+  er_yngri_en_19_ara_a_heimilinu "Er einhver heimilismanna yngri en nítján ára?" : TJáNei{gerð fyrir SILC2010 til að stjórna inn í meðlagsgreiðsluspurningu}
+
+  nafn_maka "Nafn á maka valins svaranda":string {viðhengi2010}
+
+  viðmiðunardagur_aldurs "Breyta sem geymir viðmiðunardag aldurs, sett á seinasta dag ársins á undan, t.d. fyrir 2007 könnun er sett 31. des 2006" : datetype
+
+  LOCALS
+  i,j                  : INTEGER
+  vinnumaður, worker : String
+  Fár                : String[4]
+
+RULES
+
+  viðmiðunardagur_aldurs := (YEAR(sysdate)-1,12,31)   {MUNA AÐ UPPFÆRA FYRIR HVERT ÁR!!!!!!}
+  númer.KEEP
+  könnun.KEEP
+  bylgja.KEEP
+  viðmiðunardagur.KEEP
+  húskóti.KEEP
+  aðseturhúskóti.KEEP
+  heimilisfang.KEEP
+  póstnúmer.KEEP
+  sveitarfélag.KEEP
+  upphafssími.KEEP
+
+  fsv_HTegund := '99'
+  fsv_Hstaðsetning := ''
+  fsv_HHeilsa := '99'
+
+  fjöldi.KEEP
+  HmFjöldi := fjöldi + 1
+  Fjölskylda.KEEP(viðmiðunardagur, persóna, aldur, hjú, fjöldi, hmFjöldi, FjöldiVinnufærra, Hjusvar_1)
+
+  kennitala := Fjölskylda.Heimilismaður[1].kennitala
+  aldur  := Fjölskylda.Heimilismaður[1].aldur
+  kyn := Fjölskylda.Heimilismaður[1].kyn
+  nafn := Fjölskylda.Heimilismaður[1].nafn
+  hjú  := Fjölskylda.Heimilismaður[1].hjú
+  Leiðrétta.KEEP
+
+
+
+  fornafn := Substring(Fjölskylda.Heimilismaður[1].nafn,1,Position(' ',Fjölskylda.Heimilismaður[1].nafn+' ')-1)
+  IF Substring(Kennitala,10,1) < '8' THEN
+    Fár := '2' + Substring(Kennitala,10,1) + Substring(Kennitala,5,2)
+  ELSE
+    Fár := '1' + Substring(Kennitala,10,1) + Substring(Kennitala,5,2)
+  ENDIF
+  fæðingardagur := strToDate(Substring(Kennitala,1,2)+'.'+Substring(Kennitala,3,2)+'.'+Fár)
+
+  haus := '@K'
+  haus := haus + 'RANNSÓKN Á LÍFSKJÖRUM ÍSLENDINGA                   HAGSTOFA ÍSLANDS'
+  haus := haus + '@/@K'
+  haus := haus +'@INúmer··@I'+'@J' + Númer + '@J' + '··@IBylgja··@I' + '@J' + str(Bylgja) + '@J' + '··@IÚrtakseining··@I'
+  haus := haus + '@J'+ substring(Fjölskylda.Heimilismaður[1].nafn  ,1,31 )+'@J'+  '··@IAldur··@I' + '@J' + Str(aldur) + '@J'
+  haus := haus +'@/@IHeimilisfang··@I'+'@J'+ Leiðrétta.Staðsetning +'@J'{Heimilisfang + ' ' + Sveitarfélag}
+  haus := haus + '@/@ISímar: @I' +'@J' + substring(Leiðrétta.ASímar,1,75) +  '@J'
+  haus := haus + '@/' + '_______________________________________________________________'
+  haus := Substring(haus, 1, 380)
+  núll := ''
+
+  Heimili := Nei
+  brottfall.keep
+
+ {Hér byrjar könnunin}
+  Þ (kyn, Persóna)   {Hérna skráist hver viðmælandinn er}
+
+  VidtalByrjarDags.Keep
+  VidtalByrjarTimi.Keep
+  viðmiðunardagur.keep
+  tungumál.keep
+  if þ.sami <> empty then
+    IF VidtalByrjarDags = EMPTY THEN
+      VidtalByrjarDags := SysDate
+      VidtalByrjarTimi := SysTime
+      viðmiðunardagur := sysdate
+      tungumál := activelanguage
+    ENDIF
+  endif
+
+  if (Þ.Sami = Adeins) then
+    HoppaAdeinsFjoldi := Já
+  else
+    HoppaAdeinsFjoldi := Nei
+  endif
+
+  if  (Þ.Sami <> Sjálfur) and (HoppaAdeinsFjoldi = Nei) then
+
+    haus := '@K'
+    haus := haus + 'RANNSÓKN Á LÍFSKJÖRUM ÍSLENDINGA                   HAGSTOFA ÍSLANDS'
+    haus := haus + '@/@K'
+    haus := haus +'@INúmer··@I'+'@J' + Númer + '@J' + '··@IBylgja··@I' + '@J' + str(Bylgja) + '@J' + '··@IÚrtakseining··@I'
+    haus := haus + '@J'+ substring(Fjölskylda.Heimilismaður[1].nafn  ,1,31 )+'@J'+  '··@IAldur··@I' + '@J' + Str(aldur) + '@J'
+    haus := haus +'@/@IHeimilisfang··@I'+'@J'+ Leiðrétta.Staðsetning +'@J'{Heimilisfang + ' ' + Sveitarfélag}
+    haus := haus + '@/@ISímar: @I' +'@J' + substring(Leiðrétta.ASímar,1,40) +  '@J'
+    haus := haus + '@/' + '_______________________________________________________________'
+    haus := haus +  ' @/@HAthugið, nú er annar eða túlkur að svara fyrir þann sem lenti í úrtaki @H'
+    haus := Substring(haus, 1, 450)
+    núll := ''
+  endif {Þ.Sami <> Aðeins }
+
+  {ATH!!! Merkja inn ef viðtal er tekið á pólsku}
+
+  {Hérna byrja spurningar um þann sem lenti í úrtaki.  Breyting frá 2004 er að einstaklingurinn er afgreiddur fyrst og heilsukaflin.
+  Eftir það er farið að spyrja um hver margir eru á heimilinu}
+
+  If (HoppaAdeinsFjoldi = Nei) then
+    AllarSpurningar := Já
+    VMR[1] (AllarSpurningar, viðmiðunardagur, Fjölskylda.Heimilismaður[1].fæðÁr, persóna, heimili, Fjölskylda.Heimilismaður[1].nafn, kyn, 1, Fjölskylda.Heimilismaður[1].Aldur) {SILC breyting}
+
+    NEWPAGE
+    Heilsa (AldurYngstaHeimilismanns )
+    Newpage
+    {Felagsthatttaka}
+    NEWPAGE
+    Newpage
+  endif {Þ.Sami <> Aðeins }
+
+  Aðsetur (Persóna)  {Tékka hvort viðkomandi búi ennþá á því heimilisfangi sem sagt er til um í þjóðskrá}
+  HmFj (Persóna, HmFjöldi){ Hér er spurt um hver margir eru í heimili}
+    {Hér hefur HmFjöldi fengið gildið 'hvað eru margir í heimili að þér meðtöldum'}
+
+
+  {Ef fleiri en 1 á heimili þá er spurt um fleiri heimilismenn, forskráning skoðuð fyrst og heimilismenn strikaðir út eða bætt við}
+  FjöldiÚtstrikaðraHeimilismanna := fjöldi
+  Forskráning (persóna, hmFjöldi, fjöldi, FjöldiÚtstrikaðraHeimilismanna)      {import: persóna, hmFjöldi, fjöldi, export: FjöldiHeimilismanna}
+  IF HmFjöldi > 1 THEN
+    Heimili := Já
+    Fjölskylda (viðmiðunardagur, persóna, aldur, hjú, fjöldi, hmFjöldi + FjöldiÚtstrikaðraHeimilismanna, FjöldiVinnufærra, hjusvar_1)
+  ELSE
+    IF FjöldiÚtstrikaðraHeimilismanna > 0 THEN   {merkja alla hina forskráðu sem brottflutta}
+      FjöldiHeimilismanna := hmFjöldi + (FjöldiÚtstrikaðraHeimilismanna)  {geymum hér heildartölu heimilismanna, sumir kannski farnir}
+      FOR I := 2 TO FjöldiHeimilismanna DO
+        Fjölskylda.Heimilismaður[I].Brottfluttur := Já
+      ENDDO
+    ENDIF
+  ENDIF
+
+  FjöldiHeimilismanna := hmFjöldi + (FjöldiÚtstrikaðraHeimilismanna)  {geymum hér heildartölu heimilismanna, sumir kannski farnir}
+
+    {skoda2}
+If (HoppaAdeinsFjoldi = Nei) then
+
+    AldurYngstaHeimilismanns := Fjölskylda.Heimilismaður[1].Aldur
+    ErFadir := Nei
+    ErModir := Nei
+    AllirAdrirBorn := Já   {allir aðrir heimilismenn eru yngri en 16 ár }
+    FOR I := 2 TO FjöldiHeimilismanna DO
+      IF Fjölskylda.Heimilismaður[I].Aldur < AldurYngstaHeimilismanns THEN
+        AldurYngstaHeimilismanns := Fjölskylda.Heimilismaður[I].Aldur
+      ENDIF
+      IF (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei ) and (Fjölskylda.Heimilismaður[I].Tengsl in [Foreldri] ) then
+        IF (Fjölskylda.Heimilismaður[I].Kyn in [karl] ) then
+          ErFadir := Já
+        ELSE
+          ErModir := Já
+        ENDIF
+      ENDIF
+      IF (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei ) then
+        if ( (Fjölskylda.Heimilismaður[I].Tengsl in [Barn] ) and (Fjölskylda.Heimilismaður[I].Aldur < 16) ) then
+          if (AllirAdrirBorn = Já) then
+            AllirAdrirBorn := Já
+          else
+            AllirAdrirBorn := Nei
+          endif
+        else
+          AllirAdrirBorn := Nei
+        endif
+      endif
+    ENDDO
+endif {  (HoppaAdeinsFjoldi = Nei) }
+
+If (HoppaAdeinsFjoldi = Nei) then
+
+    ErTilHöfuð := Nei
+    IF ( aldur < 26 ) THEN
+      FOR I := 2 TO FjöldiHeimilismanna DO
+        IF (Fjölskylda.Heimilismaður[I].Tengsl in [Foreldri, Tengdaforeldri] ) then
+          ErTilHöfuð := Já
+        ENDIF
+      ENDDO
+    ENDIF
+
+
+
+   {Hérna kemur milliblokkin}
+    Millib (Persóna, Heimili, ErTilHöfuð, FjöldiHeimilismanna)
+
+
+    if millib.heimsv = AnnarVið then
+      For I := 2 TO 15 DO
+        IF (I = Millib.NýttNafn) THEN
+           haus := '@K'
+           haus := haus + 'RANNSÓKN Á LÍFSKJÖRUM ÍSLENDINGA                   HAGSTOFA ÍSLANDS'
+           haus := haus + '@/@K'
+           haus := haus +'@INúmer··@I'+'@J' + Númer + '@J' + '··@IBylgja··@I' + '@J' + str(Bylgja) + '@J' + '··@IÚrtakseining··@I'
+           haus := haus + '@J'+ substring(Fjölskylda.Heimilismaður[1].nafn  ,1,31 )+'@J'+  '··@IAldur··@I' + '@J' + Str(aldur) + '@J'
+           haus := haus +'@/@IHeimilisfang··@I'+'@J'+ Leiðrétta.Staðsetning +'@J'
+           haus := haus + '@/@ISímar: @I' +'@J' + substring(Leiðrétta.ASímar,1,40) +  '@J'
+           haus := haus + '@/' + '_______________________________________________________________'
+           haus := haus +  ' @/@HÞú ert að tala við : @H@c' + Fjölskylda.Heimilismaður[I].nafn +' @c'
+           haus := Substring(haus, 1, 500)
+           núll := ''
+        ENDIF
+      ENDDO {for i := 2 to 15}
+    elseif millib.heimsv = AnnarEkkiVið then
+           haus := '@K'
+           haus := haus + 'RANNSÓKN Á LÍFSKJÖRUM ÍSLENDINGA                   HAGSTOFA ÍSLANDS'
+           haus := haus + '@/@K'
+           haus := haus +'@INúmer··@I'+'@J' + Númer + '@J' + '··@IBylgja··@I' + '@J' + str(Bylgja) + '@J' + '··@IÚrtakseining··@I'
+           haus := haus + '@J'+ substring(Fjölskylda.Heimilismaður[1].nafn  ,1,31 )+'@J'+  '··@IAldur··@I' + '@J' + Str(aldur) + '@J'
+           haus := haus +'@/@IHeimilisfang··@I'+'@J'+ Leiðrétta.Staðsetning +'@J'
+           haus := haus + '@/@ISímar: @I' +'@J' + substring(Leiðrétta.ASímar,1,40) +  '@J'
+           haus := haus + '@/' + '_______________________________________________________________'
+           haus := haus +  ' @/@HÞú ert að tala við : @H@c' + Leiðrétta.AnnarViðmælandi +' @c'
+           haus := Substring(haus, 1, 500)
+           núll := ''
+    endif
+
+endif {  (HoppaAdeinsFjoldi = Nei) }
+
+If (HoppaAdeinsFjoldi = Nei) then
+    er_til_barn_á_grunnskólaaldri := Nei
+    FOR I := 2 TO FjöldiHeimilismanna DO
+      if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Aldur <= 15) and (Fjölskylda.Heimilismaður[I].Aldur >= 6) then
+        er_til_barn_á_grunnskólaaldri := já
+      endif
+    ENDDO
+
+  {Fyrir viðhengi2014 - finna út hvort til sé barn á heimilinu á aldrinum 1-15 ára!}
+    er_til_barn_1_15_ara := Nei
+    FOR I := 2 TO FjöldiHeimilismanna DO
+        if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Aldur <= 15) and (Fjölskylda.Heimilismaður[I].Aldur >= 1) then
+        er_til_barn_1_15_ara := já
+        endif
+    ENDDO
+
+    er_til_barn_i_grunnskola := Nei
+        FOR I := 2 TO FjöldiHeimilismanna DO
+      if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Aldur <= 15) and (Fjölskylda.Heimilismaður[I].Aldur >= 5) then
+        er_til_barn_i_grunnskola := já
+      endif
+    ENDDO
+
+  {fyrir viðhengi2010 hér ein útreiknuð breytur um heimilismenn og aldursdreifingu þeirra}
+   {er_eldri_en_15_ara_a_heimilinu := Nei
+        FOR I := 2 TO FjöldiHeimilismanna DO
+      if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Aldur > 15) then
+        er_eldri_en_15_ara_a_heimilinu := já
+      endif
+    ENDDO}
+
+   er_yngri_en_19_ara_a_heimilinu := Nei
+        FOR I := 2 TO FjöldiHeimilismanna DO
+      if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Aldur < 19) then
+        er_yngri_en_19_ara_a_heimilinu := já
+      endif
+    ENDDO
+
+    Fjoldi_barna_yngri_en_19 := 0
+        For I := 2 TO FjöldiHeimilismanna DO
+        if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei) and (Fjölskylda.Heimilismaður[I].Aldur < 19) then
+        Fjoldi_barna_yngri_en_19 := Fjoldi_barna_yngri_en_19 + 1
+        endif
+        ENDDO
+
+    {Hérna eru spurningar um húsnæði heimilismanna o.s.frv.}
+    Heimilisspurningar (Fjöldi, FjöldiHeimilismanna, hmFjöldi, AllirAdrirBorn, er_til_barn_á_grunnskólaaldri,er_til_barn_1_15_ara)
+    if (Heimilisspurningar.Heimilisíðast  <> empty) then
+      VidtalMilliblokkDags.Keep
+      VidtalMilliblokkTimi.Keep
+      IF VidtalMilliblokkDags = EMPTY THEN
+        VidtalMilliblokkDags := SysDate
+        VidtalMilliblokkTimi := SysTime
+      ENDIF
+    endif
+
+endif {  (HoppaAdeinsFjoldi = Nei) }
+
+    NEWPAGE
+
+
+    {Hérna eru spurningar um aðra heimilismenn 16 ára og eldri}
+        NEWPAGE
+        Röð := 0
+        AldurBarns := Fjölskylda.Heimilismaður[2].aldur
+        FOR I := 2 TO FjöldiHeimilismanna DO
+          IF (I In Forskráning.HmSkrá) OR (((1 IN Forskráning.HmSkrá) OR (HmFjöldi = 1) ) AND (I <= fjöldi+1)) THEN
+            Farinn := Já
+          ELSE
+            Farinn := Nei
+          ENDIF
+
+          IF Farinn = Nei THEN
+            hKyn          := Fjölskylda.Heimilismaður[I].Kyn
+            vinnualdur    := Fjölskylda.Heimilismaður[I].VinAld
+            Alias         := Fjölskylda.Heimilismaður[I].Nafn
+            fæðingardagur := Fjölskylda.Heimilismaður[I].fæðingardagur
+
+            if Fjölskylda.Heimilismaður[I].aldur < AldurBarns then
+              AldurBarns := Fjölskylda.Heimilismaður[I].aldur
+            endif
+
+            IF vinnualdur = Já THEN
+              IF Röð = 0 THEN
+                IF FjöldiVinnufærra = 1 THEN
+                 Inngangur := 'Loks nokkrar spurningar um stöðu @G' + Alias + '@G ...'
+                 Preamble  := 'Finally a few questions about the labour situation of @G' + Alias + '@G ...'
+                ELSE
+                 Inngangur := 'Næst eru nokkrar spurningar um stöðu fullorðna heimilisfólksins.@/@/Ef við byrjum á @G' + Alias + '@G ...'
+                 Preamble  := 'Next there are a few questions about the labour situation of the adults.@/@/Beginning with @G'+ Alias + '@G ...'
+                ENDIF
+              ELSE { Röð = 0 }
+                Inngangur := 'Næsti heimilismaður sem ég spyr um er @G' + Alias + '@G ...'
+                Preamble  := 'The next household member is @G' + Alias + '@G ...'
+              ENDIF
+
+              If (HoppaAdeinsFjoldi = Nei) then
+                HmStrt[I]
+              endif
+
+              IF HmStrt[I] <> REFUSAL THEN
+                IF hKyn = Karl THEN
+                  persóna_aðrir := annarkarl
+                ELSEIF hkyn = Kona THEN
+                  persóna_aðrir := annarkona
+                ELSE
+                  persóna_aðrir := annaróvíst
+                ENDIF
+
+                NEWPAGE
+
+                haus := '@K'
+                haus := haus + 'RANNSÓKN Á LÍFSKJÖRUM ÍSLENDINGA                   HAGSTOFA ÍSLANDS'
+                haus := haus + '@/@K'
+                haus := haus +'@INúmer··@I'+'@J' + Númer + '@J' + '··@IBylgja··@I' + '@J' + str(Bylgja) + '@J' + '··@IÚrtakseining··@I'
+                haus := haus + '@J'+ substring(Fjölskylda.Heimilismaður[1].nafn  ,1,31 )+'@J'+  '··@IAldur··@I' + '@J' + Str(aldur) + '@J'
+                haus := haus +'@/@IHeimilisfang··@I'+'@J'+ Leiðrétta.Staðsetning +'@J'
+
+                       haus := haus + '@/@ISímar: @I' +'@J' + substring(Leiðrétta.ASímar,1,40) +  '@J'
+                haus := haus + '@/' + '_______________________________________________________________'
+                For J := 2 TO 15 DO
+                  IF (J = Millib.NýttNafn) THEN
+                     haus := haus +  ' @/@HÞú ert að tala við : @H@c' + Fjölskylda.Heimilismaður[J].nafn +' @c'
+                  ENDIF
+                ENDDO
+                haus := haus + ' @/@HÞú ert að spyrja um : @H@c'  + Fjölskylda.Heimilismaður[I].Nafn + '@c'
+
+                haus := Substring(haus, 1, 500)
+
+                AllarSpurningar := Nei
+
+                If (HoppaAdeinsFjoldi = Nei) then
+                  VMR[I] (AllarSpurningar, viðmiðunardagur, Fjölskylda.Heimilismaður[I].FæðÁr, persóna_aðrir, heimili, Alias, hkyn, Fjölskylda.Heimilismaður[I].FyrraHmnr, Fjölskylda.Heimilismaður[I].Aldur)
+                endif
+
+
+                haus := '@K'
+                haus := haus + 'RANNSÓKN Á LÍFSKJÖRUM ÍSLENDINGA                   HAGSTOFA ÍSLANDS'
+                haus := haus + '@/@K'
+                haus := haus +'@INúmer··@I'+'@J' + Númer + '@J' + '··@IBylgja··@I' + '@J' + str(Bylgja) + '@J' + '··@IÚrtakseining··@I'
+                haus := haus + '@J'+ substring(Fjölskylda.Heimilismaður[1].nafn  ,1,31 )+'@J'+  '··@IAldur··@I' + '@J' + Str(aldur) + '@J'
+                haus := haus +'@/@IHeimilisfang··@I'+'@J'+ Leiðrétta.Staðsetning +'@J'
+                       haus := haus + '@/@ISímar: @I' +'@J' + substring(Leiðrétta.ASímar,1,40) +  '@J'
+                haus := haus + '@/' + '_______________________________________________________________'
+                For J := 2 TO 15 DO
+                  IF (J = Millib.NýttNafn) THEN
+                    haus := haus +  '@/@HÞú ert að tala við : @H@c' + Fjölskylda.Heimilismaður[J].nafn +' @c'
+                  ENDIF
+                ENDDO
+
+                haus := Substring(haus, 1, 500)
+                {Hérna þarf viðvörunin einhversstaðar að vera um að viðmælandi og heimilismaður sem verið er að spyrja um sé sá sami}
+
+              ENDIF { HmStrt[I] <> REFUSAL }
+              Röð := Röð + 1
+            ENDIF {vinnualdur = Já }
+          ENDIF { Farinn = Nei }
+        ENDDO {I := 2 TO HmFjöldi}
+
+  {Að lokum er hérna barnakaflinn}
+
+  If (HoppaAdeinsFjoldi = Nei) then
+    BuinBarnakynning := Nei
+    SpyrjaVeikindiBarns := Nei
+    FOR I := 2 TO FjöldiHeimilismanna DO
+      IF  (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Aldur <= 12) then
+        if VMR[1].Vinnandi = Já and Fjölskylda.Heimilismaður[I].Tengsl = Barn then
+          SpyrjaVeikindiBarns := Já
+        endif
+        IF BuinBarnakynning = Nei THEN
+          NEWPAGE
+          Barnakynning[I]
+          BuinBarnakynning := Já
+        ENDIF
+        Barnagæsla[I] (Fjölskylda.Heimilismaður[I].nafn, Fjölskylda.Heimilismaður[I].Aldur, I)
+      ENDIF
+    ENDDO
+    NEWPAGE
+  endif {  (HoppaAdeinsFjoldi = Nei) }
+
+  {fyrir viðhengi2010 koma hér þrjár útreiknaðar breytur um heimilismenn og aldursdreifingu þeirra}
+    er_yngri_en_5_ara_a_heimilinu := Nei
+        FOR I := 2 TO FjöldiHeimilismanna DO
+      if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Aldur < 5) then
+        er_yngri_en_5_ara_a_heimilinu := já
+      endif
+    ENDDO
+
+    er_yngri_en_16_ara_a_heimilinu := Nei
+        FOR I := 2 TO FjöldiHeimilismanna DO
+      if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Aldur < 16) then
+        er_yngri_en_16_ara_a_heimilinu := já
+      endif
+    ENDDO
+
+    nafn_maka := ''
+        FOR I := 2 TO FjöldiHeimilismanna DO
+      if (Fjölskylda.Heimilismaður[I].Brottfluttur = Nei)  and (Fjölskylda.Heimilismaður[I].Tengsl = maki) then
+        nafn_maka := Fjölskylda.Heimilismaður[I].nafn
+      endif
+    ENDDO
+
+
+  IF bylgja = 4 THEN
+    Kveðja
+    VidtalEndarDags.keep
+    VidtalEndarTimi.keep
+    IF VidtalEndarDags = EMPTY and kveðja <> empty THEN
+      VidtalEndarDags := SysDate
+      VidtalEndarTimi := SysTime
+    ENDIF
+  ENDIF
+  IF bylgja = 2 or bylgja = 3 THEN
+    VidtalEndarDags.keep
+    VidtalEndarTimi.keep
+    kveðjaÍBili
+    IF VidtalEndarDags = EMPTY and kveðjaÍBili <> empty THEN
+      VidtalEndarDags := SysDate
+      VidtalEndarTimi := SysTime
+    ENDIF
+  ENDIF
+  IF bylgja = 1 THEN
+    VidtalEndarDags.keep
+    VidtalEndarTimi.keep
+    KveðjaÍbili1
+    IF VidtalEndarDags = EMPTY and KveðjaÍbili1 <> empty THEN
+      VidtalEndarDags := SysDate
+      VidtalEndarTimi := SysTime
+    ENDIF
+  ENDIF
+  signal
+  if kveðja = response and vmr[1].b.BAKóti2008 = dontknow then
+    vmr[1].b.BAKóti2008 <>  dontknow "Það verður að kóða BSKóti"
+  endif
+  ahugi
+  skilningur
+layout
+   at VidtalEndarDags infopane StoriSkjarTveirDalkar
+ENDMODEL

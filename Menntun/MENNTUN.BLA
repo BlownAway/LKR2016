@@ -1,0 +1,27 @@
+
+{ MENNTUN.BLA
+  ÓH (c) Jan 2003
+}
+
+DATAMODEL Menntun "Flokkun menntunar"
+
+LIBRARIES
+  TMenntun 'TMenntun'
+
+PRIMARY
+  Menntunarkóti
+
+SECONDARY
+  Tri  = Atriðisorð(TRIGRAM)
+
+FIELDS
+  Menntunarkóti                   : TMenntun
+  Atriðisorð  "Nám og prófgráður" : STRING[90]
+ 
+
+RULES
+  Atriðisorð
+  Menntunarkóti
+
+ENDMODEL
+

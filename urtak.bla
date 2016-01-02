@@ -1,0 +1,173 @@
+DATAMODEL Urtak "Forskráðar upplýsingar úr úrtaki"
+   {$MODELIB SILC2016.bml}
+
+   LANGUAGES   = ISL "Íslenska", ENG "Enska"
+
+    LIBRARIES
+      TMENNTUN   'Menntun\TMENNTUN',
+      TSTFELAG   'StFelag\TSTFELAG',
+      TSVEIT     'Sveit\TSVEIT',
+      TISTARF    'Istarf\TISTARF',
+      TFJARVERA  'Fjarvera\TFJARVERA',
+      TNÁM       'Nam\TNAM',
+      TBrottfall 'Brottfall\TBrottfall',
+      TISAT2008  'ISAT2008\TISAT2008'
+
+    USES
+      MENNTUN   'Menntun\MENNTUN',
+      STFELAG   'StFelag\STFELAG',
+      SVEIT     'Sveit\SVEIT',
+      ISTARF    'Istarf\ISTARF',
+      FJARVERA  'Fjarvera\FJARVERA',
+      NÁM       'Nam\NAM',
+      IÐN       'IDN\IDN',
+      ISAT2008  'ISAT2008\ISAT2008'
+
+   PRIMARY
+    Númer, Bylgja
+
+   SECONDARY
+    Nafni     = Nafn (trigram)
+    Kennitölu = Kennitala
+    
+    PARALLEL
+        Brottfall
+        Leiðrétta
+    
+  ATTRIBUTES = DontKnow, Refusal
+  INCLUDE "IncludeFiles\Types.inc"
+  INCLUDE "IncludeFiles\Stefjur.inc"
+  INCLUDE "IncludeFiles\BLeiðrétta.inc"
+  INCLUDE "IncludeFiles\BBrottfall.inc"
+  INCLUDE "IncludeFiles\BÞátttaka.inc"
+  INCLUDE "IncludeFiles\BVMR.inc"
+  INCLUDE "IncludeFiles\BAðsetur.inc"
+  INCLUDE "IncludeFiles\BHmFjöldi.inc"
+  BLOCK BHeimilismaður
+    FIELDS
+    kennitala          : string[10]
+    nafn               : string[31]
+    fæðingarland       : string[2], EMPTY
+    ríkisfang          : string[2], EMPTY
+    maki               : string[10], EMPTY
+    hjú                : THju
+    Kyn                : TKyn
+    aldur              : 0..110
+    FæðÁr              : 1900..2020
+    fæðingardagur      : DATETYPE
+
+
+    RULES
+        kennitala.keep
+        prc_fæðingardagur(kennitala,fæðingardagur,aldur)
+        fæðÁr:=YEAR(fæðingardagur)
+        kennitala.show
+        fæðingardagur.show
+        fæðÁr.show
+        aldur.show
+  ENDBLOCK
+
+  TABLE BHeimili "Forskráðar upplýsingar um heimilismenn"
+    FIELDS
+      Fjöldi: 1..15
+      Heimilismaður: ARRAY[1..15] of BHeimilismaður
+   LOCALS
+   I:INTEGER
+   RULES
+    Fjöldi
+    FOR I:=1 TO Fjöldi DO
+        Heimilismaður[I].keep
+        Heimilismaður[I]
+    ENDDO
+
+  ENDTABLE
+
+  FIELDS
+    númer              : string[10]
+    könnun             : string[4]
+    bylgja             : 1..4
+    viðmiðunardagur    : datetype
+    kennitala          : string[10]
+    aldur              : 0..110
+    kyn                : TKyn
+    nafn               : string[31]
+    hjú                : THju
+    húskóti            : string[12]
+    aðseturhúskóti     : string[12]
+    heimilisfang       : string[21]
+    póstnúmer          : string[3]
+    sveitarfélag       : string[33]
+    upphafssími        : string[150]
+
+    Fjölskylda         : BHeimili
+    Leiðrétta          : BLeiðrétta
+    Brottfall          : BBrottfall
+    Þ                  : BÞátttaka
+    VMR                : ARRAY[1..15] of BVMR
+    Aðsetur            : BAðsetur
+    HmFj               : BHmFjöldi 
+    AUXFIELDS  {Global breytur}
+
+   {Kyngreiningarbreytur}
+     Persóna        : TPersóna
+     núll           : STRING
+     ur             : STRING[3]
+     n              : STRING[2]
+     ill            : STRING[6]
+     gamall         : STRING[6]
+     gifst          : STRING[6]
+     giftur         : STRING[7]
+     hann           : STRING[4]
+     hans           : STRING[6]
+     he             : STRING[3]
+     his            : STRING[3]
+     himself        : STRING[7]
+     kallaður       : STRING[8]
+     aður           : STRING[4]
+     sjalfan        : STRING[8]   {SETT INN 2013}
+
+   {Aðrar global breytur}
+     fornafn                : STRING
+     sama_og_síðast         : String
+     same_as_last_time      : String
+     viðmiðunardagur_aldurs : DATETYPE {Breyta sem geymir viðmiðunardag aldurs, sett á seinasta dag ársins á undan, t.d. fyrir 2007 könnun er sett 31. des 2006}
+
+   {Breytur sem tilheyra spurningaskjá}
+     haus           : STRING[500]
+     fsvar          : STRING[77]
+     strik          : STRING[50]
+
+
+     AllarSpurningar     : TJáNei
+     Heimili             : TJáNei
+  RULES
+     
+          
+     
+     {Byrjum á að búa til haus með upplýsingum um úrtakseininguna}
+     númer.keep
+     bylgja.keep
+     kennitala.keep
+     nafn.keep
+     Leiðrétta.keep
+     prc_aldur(kennitala,aldur)
+
+     haus := '@K'
+     haus := haus + 'RANNSÓKN Á LÍFSKJÖRUM ÍSLENDINGA                   HAGSTOFA ÍSLANDS'
+     haus := haus + '@/@K'
+     haus := haus +'@INúmer··@I'+'@J' + Númer + '@J' + '··@IBylgja··@I' + '@J' + str(Bylgja) + '@J' + '··@IÚrtakseining··@I'
+     haus := haus + '@J'+ substring(nafn  ,1,31 )+'@J'+  '··@IAldur··@I' + '@J' + STR(aldur)+ '@J '
+     haus := haus +'@/@IHeimilisfang··@I'+'@J'+ Leiðrétta.Staðsetning +'@J'{Heimilisfang + ' ' + Sveitarfélag}
+     haus := haus + '@/@ISímar: @I' +'@J' + substring(Leiðrétta.ASímar,1,75) +  '@J'
+     haus := haus + '@/' + '_______________________________________________________________'
+     haus := Substring(haus, 1, 380)
+     núll := ''
+     
+     Leiðrétta.keep
+     Þ(kyn,persóna)
+
+     
+     Aðsetur (Persóna)  {Tékka hvort viðkomandi búi ennþá á því heimilisfangi sem sagt er til um í þjóðskrá}
+     HmFj (Persóna, Fjölskylda.Fjöldi){ Hér er spurt um hver margir eru í heimili}
+     
+ENDMODEL

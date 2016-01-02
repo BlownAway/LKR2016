@@ -1,0 +1,4945 @@
+01.1.1.0;Kornrækt (að undanskildum hrísgrjónum), ræktun belgjurta og olíufræja
+01.1.1.0;Baunir, ræktun
+01.1.1.0;Belgjurtir, ræktun
+01.1.1.0;Bókhveiti, ræktun
+01.1.1.0;Bygg, ræktun
+01.1.1.0;Dúfnabaunir, ræktun
+01.1.1.0;Dúrru, ræktun
+01.1.1.0;Hafrar, ræktun
+01.1.1.0;Hveiti, ræktun
+01.1.1.0;Jarðhnetur, ræktun
+01.1.1.0;Kornrækt
+01.1.1.0;Maís, ræktun
+01.1.1.0;Olíufræ, ræktun
+01.1.1.0;Repjufræ, ræktun
+01.1.1.0;Rúg, ræktun
+01.1.1.0;Sesamfræ, ræktun
+01.1.1.0;Sinnepsfræ, ræktun
+01.1.1.0;Sojabaunir, ræktun
+01.1.2.0;Hrísgrjón, ræktun
+01.1.2.0;Hrísgrjónarækt
+01.1.3.1;Ræktun á aldingrænmeti og papriku
+01.1.3.1;Eggaldin, ræktun
+01.1.3.1;Akúrkur, ræktun
+01.1.3.1;Aldingrænmeti, ræktun
+01.1.3.1;Gúrkur, ræktun
+01.1.3.1;Tómatar, ræktun
+01.1.3.1;Vatnsmelónur, ræktun
+01.1.3.1;Paprika, ræktun
+01.1.3.1;Melónur, ræktun
+01.1.3.2;Kartöflur, ræktun
+01.1.3.2;Ræktun á kartöflum
+01.1.3.9;Ræktun á öðru ótöldu grænmeti, rótum og hnýði
+01.1.3.9;Blómkál, ræktun
+01.1.3.9;Blaðlaukur, ræktun
+01.1.3.9;Kál, ræktun
+01.1.3.9;Hvítkál, ræktun
+01.1.3.9;Gulrætur, ræktun
+01.1.3.9;Grænmetisfræ, ræktun
+01.1.3.9;Laukur, ræktun
+01.1.3.9;Salat, ræktun
+01.1.3.9;Sveppir, ræktun
+01.1.3.9;Sykurmaís, ræktun
+01.1.3.9;Sykurrófur, ræktun
+01.1.3.9;Spergilkál, ræktun
+01.1.3.9;Spínat, ræktun
+01.1.4.0;Sykurreyr, ræktun
+01.1.4.0;Ræktun sykurreyrs
+01.1.5.0;Tóbaksræktun
+01.1.5.0;Tóbak, ræktun
+01.1.6.0;Trefjajurtir, ræktun
+01.1.6.0;Ræktun trefjajurta
+01.1.6.0;Baðmull, ræktun
+01.1.9.1;Afskorin blóm, ræktun
+01.1.9.1;Blómknappar, ræktun
+01.1.9.1;Blómafræ, ræktun
+01.1.9.1;Blómahnappar, framleiðsla
+01.1.9.1;Blómarækt
+01.1.9.9;Önnur ótalin ræktun nytjajurta sem ekki eru fjölærar
+01.1.9.9;Esparettur, ræktun
+01.1.9.9;Fóðurkál og áþekkar fóðurvörur, ræktun
+01.1.9.9;Fóðurmaís, ræktun
+01.1.9.9;Fóðurrófur, ræktun
+01.2.1.0;Ræktun á þrúgum
+01.2.1.0;Vínber, ræktun
+01.2.1.0;Þrúgur, ræktun
+01.2.2.0;Ræktun ávaxta frá hitabeltinu og heittempraða beltinu
+01.2.2.0;Bananar, ræktun
+01.2.2.0;Hitabeltisávextir, ræktun
+01.2.3.0;Greipaldin, ræktun
+01.2.3.0;Appelsínur, ræktun
+01.2.3.0;Ræktun sítrusávaxta
+01.2.3.0;Sítrónur, ræktun
+01.2.4.0;Steinaldin, ræktun
+01.2.4.0;Perur, ræktun
+01.2.4.0;Kirsuber, ræktun
+01.2.4.0;Kjarnaávextir, ræktun
+01.2.4.0;Ræktun kjarnaávaxta og steinaldina
+01.2.4.0;Epli, ræktun
+01.2.5.0;Hnetur, ræktun
+01.2.5.0;Kasúhnetur, ræktun
+01.2.5.0;Jarðaber, ræktun
+01.2.5.0;Ræktun annarra ávaxta og hneta af trjám og runnum
+01.2.5.0;Ber, ræktun
+01.2.5.0;Rifsber, ræktun
+01.2.5.0;Sólber, ræktun
+01.2.6.0;Olíuríkir ávextir, ræktun
+01.2.6.0;Ræktun olíuríkra ávaxta
+01.2.7.0;Ræktun jurta til drykkjargerðar
+01.2.7.0;Kaffi, ræktun
+01.2.7.0;Kakó, ræktun
+01.2.7.0;Te, ræktun
+01.2.8.0;Kryddjurtir, ræktun
+01.2.8.0;Kryddplöntur, ræktun
+01.2.8.0;Ræktun krydd- , ilm- og lyfjajurta
+01.2.8.0;Chili-pipar, ræktun
+01.2.9.0;Ræktun annarra fjölærra nytjajurta
+01.2.9.0;Jólatré, ræktun
+01.2.9.0;Grasrækt
+01.2.9.0;Gúmmítré, ræktun
+01.3.0.0;Græðlingar, framleiðsla
+01.3.0.0;Gróðrarstöðvar fyrir tré (þó ekki skógartré)
+01.3.0.0;Garðplöntur, ræktun
+01.3.0.0;Plöntufjölgun
+01.3.0.0;Torfþökur, ræktun
+01.4.1.0;Mjólkurkýr, eldi
+01.4.1.0;Nautgriparækt, mjólkurkýr
+01.4.1.0;Ræktun mjólkurkúa
+01.4.2.0;Önnur nautgriparækt
+01.4.2.0;Nautgriparækt, önnur
+01.4.3.0;Hrossarækt og ræktun annarra dýra af hrossaætt
+01.4.3.0;Asnar, eldi
+01.4.3.0;Hrossarækt
+01.4.3.0;Hestar, ræktun
+01.4.4.0;Úlfaldarækt og ræktun dýra af úlfaldaætt
+01.4.4.0;Úlfaldarækt
+01.4.5.0;Ull (óunnin), framleiðsla
+01.4.5.0;Sauðfé, ræktun
+01.4.5.0;Sauðfjárrækt
+01.4.5.0;Kindur, ræktun
+01.4.5.0;Sauðfjár- og geitarækt
+01.4.5.0;Geitaeldi
+01.4.5.0;Geitamjólk, framleiðsla
+01.4.6.0;Svínarækt
+01.4.6.0;Svín, eldi
+01.4.7.1;Kjúklingar, eldi
+01.4.7.1;Klakstöðvar fyrir alifugla
+01.4.7.1;Alifuglarækt
+01.4.7.1;Alifuglar, ræktun
+01.4.7.1;Endur, eldi
+01.4.7.1;Gæsir, eldi
+01.4.7.1;Kalkúnarækt
+01.4.7.1;Hænur, eldi
+01.4.7.2;Egg, framleiðsla
+01.4.7.2;Eggjaframleiðsla
+01.4.9.1;Loðdýrabú
+01.4.9.1;Kanínur, ræktun
+01.4.9.1;Loðdýr, ræktun
+01.4.9.1;Minkur, ræktun
+01.4.9.1;Refur, rætkun
+01.4.9.2;Æðarrækt og æðardúnstekja
+01.4.9.2;Æðardúnstekja
+01.4.9.2;Æðarrækt
+01.4.9.9;Ræktun annarra ótalinna dýra
+01.4.9.9;Býflugnarækt
+01.4.9.9;Kettir, ræktun
+01.4.9.9;Hunang, framleiðsla
+01.4.9.9;Hundaræktun
+01.4.9.9;Gæludýr, ræktun
+01.4.9.9;Skordýr, eldi
+01.5.0.0;Landbúnaður, blandaður búskapur jarðyrkju og búfjárræktar
+01.5.0.0;Blönduð bú, jarðyrkja og búfjárrækt
+01.5.0.0;Blandaður búskapur
+01.6.1.0;Þjónustustarfsemi við ræktun nytjajurta
+01.6.1.0;Ávextir, pökkun
+01.6.1.0;Húsdýraáburður, dreifing
+01.6.1.0;Meindýraeyðing, landbúnaður
+01.6.1.0;Plönturæktun, þjónusta
+01.6.1.0;Útleiga á landbúnaðarvélum með stjórnanda
+01.6.2.0;Sæðingar
+01.6.2.0;Sauðfjárböðun
+01.6.2.0;Ræktunarstöðvar húsdýra
+01.6.2.0;Kynbótastöðvar
+01.6.2.0;Húsdýravistun
+01.6.2.0;Hestar, tamning
+01.6.2.0;Hrossaræktarfélög
+01.6.2.0;Hrossatamningar
+01.6.2.0;Fiðurhreinsun
+01.6.2.0;Bændaafleysingar
+01.6.2.0;Dúnhreinsun
+01.6.2.0;Þjónustustarfsemi við búfjárrækt
+01.6.2.0;Vistun og umhirða húsdýra
+01.6.2.0;Þjónusta við búfjárrækt
+01.6.3.0;Starfsemi að lokinni uppskeru
+01.6.3.0;Nytjaplöntur, vinnsla
+01.6.4.0;Vinnsla fræja fyrir sáningu
+01.6.4.0;Fræ, vinnsla
+01.7.0.0;Hreindýraveiðar
+01.7.0.0;Veiðar og tengd þjónustustarfsemi
+01.7.0.0;Dýraveiðar
+01.7.0.0;Rjúpnaveiði
+01.7.0.0;Selveiðar
+02.1.0.1;Rekstur gróðrastöðva fyrir skógartré
+02.1.0.1;Gróðrarstöðvar fyrir skógartré
+02.1.0.9;Skógrækt og önnur ótalin starfsemi tengd henni
+02.1.0.9;Skógrækt
+02.1.0.9;Tré á rót, ræktun
+02.2.0.0;Skógarhögg
+02.3.0.0;Söfnun afurða sem vaxa villtar en eru ekki tré
+02.3.0.0;Balsam, söfnun
+02.3.0.0;Ber, söfnun
+02.3.0.0;Tröfflur, söfnun
+02.3.0.0;Sveppir, söfnun
+02.3.0.0;Marhálmur, söfnun
+02.4.0.0;Meindýraeyðing í skógum
+02.4.0.0;Ráðgjafastarfsemi á sviði skógræktar
+02.4.0.0;Skógrækt, þjónusta
+02.4.0.0;Slökkvistarf vegna skógarelda
+02.4.0.0;Þjónustustarfsemi við skógrækt
+02.4.0.0;Þjónusta við skógrækt
+03.1.1.1;Útgerð smábáta
+03.1.1.1;Smábátaútgerð
+03.1.1.1;Trillur, útgerð
+03.1.1.2;Togaraútgerð
+03.1.1.2;Togbátar, útgerð
+03.1.1.2;Útgerð loðnuskipa
+03.1.1.2;Útgerð rækjubáta
+03.1.1.2;Útgerð rækjufrystiskipa
+03.1.1.2;Útgerð síldarbáta
+03.1.1.2;Útgerð togbáta
+03.1.1.2;Útgerð vinnsluskipa
+03.1.1.2;Útgerð frystiskipa
+03.1.1.2;Útgerð frystitogara
+03.1.1.2;Útgerð humarveiðibáta
+03.1.1.2;Síldarbátar, útgerð
+03.1.1.2;Rækjubátar, útgerð
+03.1.1.2;Rækjufrystiskip, útgerð
+03.1.1.2;Saltfiskverkun um borð í togurum
+03.1.1.2;Loðnuskip, útgerð
+03.1.1.2;Útgerð fiskiskipa
+03.1.1.2;Frystiskip, útgerð
+03.1.1.2;Frystitogarar, útgerð
+03.1.1.2;Humarveiðibátar, útgerð
+03.1.1.2;Ísfisktogarar, útgerð
+03.1.1.2;Vinnsluskip, útgerð
+03.1.1.3;Hvalveiðiskip, útgerð
+03.1.1.3;Hvalveiðar
+03.1.1.3;Útgerð hvalveiðiskipa
+03.1.2.0;Ferskvatnsveiði
+03.1.2.0;Ferskvatnsveiði í atvinnuskyni
+03.2.1.0;Fiskeldi í sjó
+03.2.1.0;Hafbeitarstöðvar
+03.2.1.0;Eldi og ræktun í sjó
+03.2.1.0;Sjóeldi
+03.2.2.0;Eldi og ræktun í ferskvatni
+03.2.2.0;Fiskeldi í ferskvatni
+05.1.0.0;Steinkolanám
+05.1.0.0;Steinkol, nám
+05.2.0.0;Brúnkolanám
+05.2.0.0;Brúnkol, nám
+06.1.0.0;Vinnsla á hráolíu
+06.1.0.0;Hráolía, vinnsla
+06.1.0.0;Tjörusandur, nám
+06.2.0.0;Jarðgas, vinnsla
+06.2.0.0;Gas, vinnsla
+06.2.0.0;Vinnsla á jarðgasi
+07.1.0.0;Járnnám
+07.2.1.0;Nám á úran- og þórínmálmgrýti
+07.2.1.0;Úrannám
+07.2.9.0;Tin, nám
+07.2.9.0;Sink, nám
+07.2.9.0;Silfur, nám
+07.2.9.0;Mangan, nám
+07.2.9.0;Króm, nám
+07.2.9.0;Kóbalt, nám
+07.2.9.0;Kopar, nám
+07.2.9.0;Platínum, nám
+07.2.9.0;Nikkel, nám
+07.2.9.0;Nám annarra málma en járns
+07.2.9.0;Blý, nám
+07.2.9.0;Ál (báxít), nám
+07.2.9.0;Gull, nám
+08.1.1.0;Grjót, mölun
+08.1.1.0;Granít, nám
+08.1.1.0;Gifs, nám
+08.1.1.0;Flögubergsnám
+08.1.1.0;Kalk, nám
+08.1.1.0;Byggingasteinar, nám
+08.1.1.0;Grjótnám til skrautsteinagerðar og til bygginga, kalksteins-, gifs-, krítar- og flögubergsnám
+08.1.1.0;Krít, nám
+08.1.1.0;Marmari, nám
+08.1.2.0;Malarnám
+08.1.2.0;Leir, nám
+08.1.2.0;Möl, nám
+08.1.2.0;Sandur, nám
+08.1.2.0;Malar-,  sand- og leirnám
+08.9.1.0;Nám og vinnsla á steinefnum til efnaiðnaðar og áburðargerðar
+08.9.1.0;Brennisteinn, nám
+08.9.1.0;Brennisteinskís, nám
+08.9.1.0;Fosföt, nám
+08.9.2.0;Mótekja
+08.9.3.0;Saltnám
+08.9.9.0;Nám og vinnsla annarra ótalinna hráefna úr jörðu
+08.9.9.0;Asbest, nám
+08.9.9.0;Feldspat, nám
+08.9.9.0;Gljásteinar, nám
+08.9.9.0;Jarðbik, nám
+08.9.9.0;Skrautsteinar, nám
+08.9.9.0;Kvars, nám
+09.1.0.0;Slökkvistarf á olíu- og gassvæðum
+09.1.0.0;Tilraunaborun, olíu og gasleit
+09.1.0.0;Hráolíu- og jarðgasvinnsla, tengd þjónusta
+09.1.0.0;Gas, þjónusta
+09.1.0.0;Boranir vegna vinnslu olíu og gass úr jörðu
+09.1.0.0;Þjónustustarfsemi við námuvinnslu á jarðolíu og jarðgasi
+09.9.0.0;Þjónustustarfsemi fyrir vinnslu annarra hráefna úr jörðu
+09.9.0.0;Námustarfsemi, tengd þjónusta
+10.1.1.0;Nautgripir, slátrun
+10.1.1.0;Mörframleiðsla
+10.1.1.0;Kjötmjöl, framleiðsla
+10.1.1.0;Kjötslátrun
+10.1.1.0;Svín, slátrun
+10.1.1.0;Tólgarbræðsla
+10.1.1.0;Sláturhús
+10.1.1.0;Sauðfé, slátrun
+10.1.1.0;Slátrun og vinnsla á kjöti, þó ekki alifuglakjöti
+10.1.1.0;Beinamjöl, framleiðsla
+10.1.1.0;Dýrafeiti, ætluð til manneldis, framleiðsla
+10.1.1.0;Geitur, slátrun
+10.1.1.0;Gærur, framleiðsla
+10.1.1.0;Frysting á hvalkjöti
+10.1.1.0;Hestar, slátrun
+10.1.1.0;Kanínur, slátrun
+10.1.1.0;Hvalkjöt, frysting
+10.1.1.0;Húðir frá sláturhúsum, framleiðsla
+10.1.1.0;Húðir, framleiðsla
+10.1.2.0;Alifuglar, slátrun
+10.1.2.0;Alifuglakjöt, framleiðsla
+10.1.2.0;Slátrun og vinnsla á alifuglakjöti
+10.1.2.0;Slátrun alifugla
+10.1.3.0;Skinka, framleiðsla
+10.1.3.0;Kjötvörur, framleiðsla
+10.1.3.0;Kjöt, vinnsla
+10.1.3.0;Kjötálegg, framleiðsla
+10.1.3.0;Kæfa, framleiðsla
+10.1.3.0;Lifrarkæfa, framleiðsla
+10.1.3.0;Pylsur, framleiðsla
+10.1.3.0;Framleiðsla á kjötafurðum
+10.1.3.0;Álegg, framleiðsla
+10.1.3.0;Blóðmör, framleiðsla
+10.2.0.1;Frysting fiskafurða, krabbadýra og lindýra
+10.2.0.1;Hörpudiskur, frysting
+10.2.0.1;Humar, frysting
+10.2.0.1;Frysting á hörpudiski
+10.2.0.1;Frysting á humri
+10.2.0.1;Frystihús
+10.2.0.1;Frysting á loðnu
+10.2.0.1;Frysting á rækju
+10.2.0.1;Frysting loðnuhrogna
+10.2.0.1;Rækja, frysting
+10.2.0.1;Loðnuhrogn, frysting
+10.2.0.1;Loðna, frysting
+10.2.0.1;Krabbadýr, frysting
+10.2.0.1;Skelfiskvinnsla, frysting
+10.2.0.2;Skreiðarverkun
+10.2.0.2;Síldarsöltun
+10.2.0.2;Saltfiskverkun
+10.2.0.2;Fiskhausar, hersla
+10.2.0.2;Fiskur, söltun
+10.2.0.2;Hrogn, söltun
+10.2.0.2;Hersla á fiski
+10.2.0.2;Harðfiskverkun
+10.2.0.2;Hákarl, verkun
+10.2.0.2;Söltun, þurrkun og hersla fiskafurða, krabbadýra og lindýra
+10.2.0.3;Mjöl- og lýsisvinnsla
+10.2.0.3;Búklýsi, bræðsla
+10.2.0.3;Fiskmjölsverksmiðjur
+10.2.0.3;Loðnubræðslur
+10.2.0.3;Síldarbræðslur
+10.2.0.3;Soðkjarnar úr loðnu- og síldarbræðslu, framleiðsla
+10.2.0.4;Lagmeti úr fiskafurðum, framleiðsla
+10.2.0.4;Niðursuða, fiskafurðir
+10.2.0.4;Kavíar, framleiðsla
+10.2.0.4;Framleiðsla lagmetis úr fiskafurðum, krabbadýrum og lindýrum
+10.2.0.9;Önnur ótalin vinnsla fiskafurða, krabbadýra og lindýra
+10.2.0.9;Fiskur, reyking
+10.2.0.9;Vinnsla á ferskum fiskafurðum
+10.2.0.9;Vinnsla á þara og þangi
+10.2.0.9;Þörungamjöl, framleiðsla
+10.2.0.9;Þörungar, hreinsun og þurrkun
+10.2.0.9;Þörungavinnsla
+10.3.1.0;Frysting á kartöflum
+10.3.1.0;Franskar kartöflur, framleiðsla
+10.3.1.0;Kartöflur, vinnsla
+10.3.1.0;Kartöflustappa, framleiðsla
+10.3.1.0;Kartöfluflögur, framleiðsla
+10.3.1.0;Kartöflumjöl, framleiðsla
+10.3.1.0;Kartöflur, afhýðing
+10.3.1.0;Kartöflur, frysting
+10.3.1.0;Vinnsla á kartöflum
+10.3.2.0;Framleiðsla á ávaxta- og grænmetissafa
+10.3.2.0;Ávaxtasafi, hreinn, framleiðsla
+10.3.2.0;Ávaxtaþykkni, framleiðsla
+10.3.2.0;Appelsínusafi, hreinn, framleiðsla
+10.3.2.0;Eplasafi, hreinn, framleiðsla
+10.3.2.0;Grænmetissafi, framleiðsla
+10.3.2.0;Grænmetisþykkni, framleiðsla
+10.3.9.0;Grænmeti, vinnsla
+10.3.9.0;Hnetur, vinnsla
+10.3.9.0;Ávextir, vinnsla
+10.3.9.0;Önnur ótalin vinnsla ávaxta og grænmetis
+10.3.9.0;Salat, ferkst, framleiðsla
+10.3.9.0;Sulta
+10.3.9.0;Sultur, framleiðsla
+10.4.1.0;Sojabaunaolía, framleiðsla
+10.4.1.0;Soðkjarnar úr lifrarbræðslu, framleiðsla
+10.4.1.0;Sólblómaolía, framleiðsla
+10.4.1.0;Olía og feiti, framleiðsla
+10.4.1.0;Olíukökur, framleiðsla
+10.4.1.0;Ólífuolía, framleiðsla
+10.4.1.0;Lýsi, hreinsað, framleiðsla
+10.4.1.0;Meðalalýsi, framleiðsla
+10.4.1.0;Matarolía, framleiðsla
+10.4.1.0;Framleiðsla á olíu og feiti
+10.4.1.0;Dýraolía, ekki til manneldis, framleiðsla
+10.4.1.0;Dýrafeiti, ekki ætluð til manneldis, framleiðsla
+10.4.1.0;Jurtamjöl, framleiðsla
+10.4.1.0;Jurtaolíur, framleiðsla
+10.4.1.0;Feiti, framleiðsla
+10.4.2.0;Feiti til manneldis, framleiðsla
+10.4.2.0;Framleiðsla á smjörlíki og svipaðri feiti til manneldis
+10.4.2.0;Matarfeiti, framleiðsla
+10.4.2.0;Palmín, framleiðsla
+10.4.2.0;Smjörlíki, framleiðsla
+10.5.1.0;Smjör, framleiðsla
+10.5.1.0;Skyr, framleiðsla
+10.5.1.0;Súrmjólk, framleiðsla
+10.5.1.0;Undanrenna, framleiðsla
+10.5.1.0;Ostur, framleiðsla
+10.5.1.0;Ostagerð
+10.5.1.0;Nýmjólk, framleiðsla
+10.5.1.0;Mysa, framleiðsla
+10.5.1.0;Mjólkursykur (laktósi), framleiðsla
+10.5.1.0;Mjólkurvörur, framleiðsla
+10.5.1.0;Mjólkurbú
+10.5.1.0;Mjólkurdrykkir, framleiðsla
+10.5.1.0;Rjómi, framleiðsla
+10.5.1.0;Rjómaostur, framleiðsla
+10.5.1.0;Léttmjólk, framleiðsla
+10.5.1.0;Mjólkurbú og ostagerð
+10.5.1.0;Jógúrt, framleiðsla
+10.5.1.0;Kasín, framleiðsla
+10.5.1.0;Kakómjólk, framleiðsla
+10.5.1.0;Þurrmjólk, framleiðsla
+10.5.2.0;Ís til matar, framleiðsla
+10.5.2.0;Ísgerð
+10.5.2.0;Rjómaís, framleiðsla
+10.6.1.0;Rúgmjöl, framleiðsla
+10.6.1.0;Mjöl, framleiðsla
+10.6.1.0;Morgunkorn, framleiðsla
+10.6.1.0;Kornvörur, framleiðsla
+10.6.1.0;Kornmölun
+10.6.1.0;Kornflögur, framleiðsla
+10.6.1.0;Framleiðsla á kornvöru
+10.6.1.0;Hveiti, framleiðsla
+10.6.1.0;Hrísmjöl, framleiðsla
+10.6.1.0;Hrísgrjón, framleiðsla
+10.6.1.0;Hrísgrjón, mölun
+10.6.1.0;Hafrahringir, framleiðsla
+10.6.1.0;Haframjöl, framleiðsla
+10.6.2.0;Inúlín, framleiðsla
+10.6.2.0;Glúkósasíróp, framleiðsla
+10.6.2.0;Glúkósi, framleiðsla
+10.6.2.0;Glúten, framleiðsla
+10.6.2.0;Framleiðsla á mjölva og mjölvavöru
+10.6.2.0;Kornolía, framleiðsla
+10.6.2.0;Maltsykur, framleiðsla
+10.6.2.0;Maísolía, framleiðsla
+10.6.2.0;Mjölvavörur, framleiðsla
+10.6.2.0;Mjölvi, framleiðsla
+10.6.2.0;Tapíókamjöl, framleiðsla
+10.7.1.0;Tertur, framleiðsla
+10.7.1.0;Skonsur, framleiðsla
+10.7.1.0;Kökugerð
+10.7.1.0;Framleiðsla á brauði, nýju sætabrauði og kökum
+10.7.1.0;Brauð, ný, framleiðsla
+10.7.1.0;Brauðgerð
+10.7.1.0;Bökur, framleiðsla
+10.7.1.0;Bakarí
+10.7.1.0;Flatkökur, framleiðsla
+10.7.2.0;Kexframleiðsla
+10.7.2.0;Kex, framleiðsla
+10.7.2.0;Framleiðsla á tvíbökum og kexi, framleiðsla á geymsluþolnu sætabrauði og kökum
+10.7.2.0;Kökur, geymsluþolnar, framleiðsla
+10.7.2.0;Nasl (þó ekki úr kartöflum), framleiðsla
+10.7.2.0;Saltstangir, framleiðsla
+10.7.2.0;Smákökur, framleiðsla
+10.7.2.0;Sætabrauð, geymsluþolið, framleiðsla
+10.7.2.0;Tvíbökur, framleiðsla
+10.7.3.0;Spagettí, framleiðsla
+10.7.3.0;Núðlur, framleiðsla
+10.7.3.0;Pastavörur, framleiðsla
+10.7.3.0;Kúskus, framleiðsla
+10.7.3.0;Makkarónur, framleiðsla
+10.7.3.0;Framleiðsla á pastavörum og svipuðum vörum
+10.8.1.0;Sykurframleiðsla
+10.8.1.0;Melassi, framleiðsla
+10.8.1.0;Síróp, framleiðsla
+10.8.1.0;Sykur, framleiðsla
+10.8.1.0;Sykurlíki, framleiðsla
+10.8.2.0;Sælgæti, framleiðsla
+10.8.2.0;Sykurvörur, framleiðsla
+10.8.2.0;Súkkulaði, framleiðsla
+10.8.2.0;Tyggigúmmí, framleiðsla
+10.8.2.0;Konfekt, framleiðsla
+10.8.2.0;Lakkrís, framleiðsla
+10.8.2.0;Núggat, framleiðsla
+10.8.2.0;"Framleiðsla á súkkulaði og sælgæti; kakói"
+10.8.2.0;Brjóstsykur, framleiðsla
+10.8.2.0;Karamellur, framleiðsla
+10.8.2.0;Kakó, framleiðsla
+10.8.3.0;Kaffilíki, framleiðsla
+10.8.3.0;Kaffi, framleiðsla
+10.8.3.0;Kaffibrennsla
+10.8.3.0;Jurtaseyði, framleiðsla
+10.8.3.0;Jurtate, framleiðsla
+10.8.3.0;Te- og kaffivinnsla
+10.8.3.0;Te, framleiðsla
+10.8.4.0;Tómatsósa, framleiðsla
+10.8.4.0;Sinnep, framleiðsla
+10.8.4.0;Sósa, framleiðsla
+10.8.4.0;Remúlaði, framleiðsla
+10.8.4.0;Kryddsósur, framleiðsla
+10.8.4.0;Krydd, framleiðsla
+10.8.4.0;Majónsósa, framleiðsla
+10.8.4.0;Framleiðsla á bragðefnum og kryddi
+10.8.4.0;Bragðefni, framleiðsla
+10.8.4.0;Edik, framleiðsla
+10.8.4.0;Borðsalt, framleiðsla
+10.8.4.0;Vínedik, framleiðsla
+10.8.5.0;Framleiðsla á tilbúnum máltíðum og réttum
+10.8.5.0;Fiskréttir, tilbúnir, framleiðsla
+10.8.5.0;Grænmetisréttir, tilbúnir, framleiðsla
+10.8.5.0;Matur, tilbúinn, framleiðsla
+10.8.5.0;Pastaréttir, tilbúnir, framleiðsla
+10.8.5.0;Pitsur, frosnar, framleiðsla
+10.8.6.0;Megrunarfæði, framleiðsla
+10.8.6.0;Stoðmjólk, framleiðsla
+10.8.6.0;Sjúkrafæði, framleiðsla
+10.8.6.0;Sykursnautt fæði, framleiðsla
+10.8.6.0;Jafnblönduð matvæli, framleiðsla
+10.8.6.0;Framleiðsla á jafnblönduðum matvælum og sérfæði
+10.8.6.0;Barnamatur, framleiðsla
+10.8.9.0;Eggjaduft, framleiðsla
+10.8.9.0;Brauðsamlokur
+10.8.9.0;Bökur með fyllingu, framleiðsla
+10.8.9.0;Önnur ótalin framleiðsla á matvælum
+10.8.9.0;Hnetusmjör, framleiðsla
+10.8.9.0;Ger, framleiðsla
+10.8.9.0;Gervihunang, framleiðsla
+10.8.9.0;Fæðurbótaefni, framleiðsla
+10.8.9.0;Súpur, framleiðsla
+10.8.9.0;Seyði, framleiðsla
+10.8.9.0;Samlokur úr brauði, framleiðsla
+10.8.9.0;Kjötkraftsteningar, framleiðsla
+10.8.9.0;Kjötkraftur, framleiðsla
+10.8.9.0;Pitsur, framleiðsla
+10.8.9.0;Ristaðar hnetur, framleiðsla
+10.8.9.0;Salat, framleiðsla
+10.8.9.0;Poppkorn, framleiðsla
+10.8.9.0;Vorrúllur, framleiðsla
+10.9.1.0;Loðdýrafóður, framleiðsla
+10.9.1.0;Fiskeldisfóður, framleiðsla
+10.9.1.0;Fóðurblöndur fyrir húsdýr, framleiðsla
+10.9.1.0;Fóðurblöndur, framleiðsla
+10.9.1.0;Fóðurbætir, framleiðsla
+10.9.1.0;Húsdýrafóður, framleiðsla
+10.9.1.0;Framleiðsla húsdýrafóðurs
+10.9.1.0;Alifuglafóður, framleiðsla
+10.9.2.0;Framleiðsla gæludýrafóðurs
+10.9.2.0;Fóðurblöndur fyrir gæludýr, framleiðsla
+10.9.2.0;Gæludýrafóður, framleiðsla
+11.0.1.0;Gin, framleiðsla
+11.0.1.0;Eiming, hreinsun og blöndun áfengra drykkja
+11.0.1.0;Áfengi, framleiðsla
+11.0.1.0;Áfengir drykkir, framleiðsla
+11.0.1.0;Brennivín, framleiðsla
+11.0.1.0;Eimaðir áfengir drykkir, framleiðsla
+11.0.1.0;Líkjörar, framleiðsla
+11.0.1.0;Koníak, framleiðsla
+11.0.1.0;Spíri, framleiðsla
+11.0.1.0;Snafs, framleiðsla
+11.0.1.0;Vodka, framleiðsla
+11.0.1.0;Viský, framleiðsla
+11.0.2.0;Vín, framleiðsla
+11.0.2.0;Léttvín, framleiðsla
+11.0.2.0;Rauðvín, framleiðsla
+11.0.2.0;Borðvín, framleiðsla
+11.0.2.0;Framleiðsla á víni úr þrúgum
+11.0.2.0;Freyðivín, framleiðsla
+11.0.2.0;Hvítvín, framleiðsla
+11.0.2.0;Kampavín, framleiðsla
+11.0.3.0;Eplavín, framleiðsla
+11.0.3.0;Framleiðsla annarra ávaxtavína
+11.0.3.0;Ávaxtavín, framleiðsla
+11.0.3.0;Víngerð
+11.0.4.0;Framleiðsla á öðrum óeimuðum, gerjuðum drykkjarvörum
+11.0.4.0;Vermút, framleiðsla
+11.0.5.0;Bjórgerð
+11.0.5.0;Bjór, framleiðsla
+11.0.5.0;Öl, framleiðsla
+11.0.6.0;Maltgerð
+11.0.6.0;Malt, framleiðsla
+11.0.7.0;Svaladrykkir, framleiðsla
+11.0.7.0;Sótavatn, framleiðsla
+11.0.7.0;Framleiðsla á gosdrykkjum, ölkelduvatni og öðru átöppuðu vatni
+11.0.7.0;Ávaxtasaft, framleiðsla
+11.0.7.0;Ávaxtadrykkir, sykraðir, framleiðsla
+11.0.7.0;Átöppun, eigin framleiðsla
+11.0.7.0;Ávaxtadrykkir, framleiðsla
+11.0.7.0;Appelsínusafi, framleiðsla
+11.0.7.0;Alkóhóllausir drykkir, framleiðsla
+11.0.7.0;Eplasafi, framleiðsla
+11.0.7.0;Gosdrykkir, framleiðsla
+11.0.7.0;Ölkelduvatn, framleiðsla
+12.0.0.0;Vindlar, framleiðsla
+12.0.0.0;Framleiðsla á tóbaksvörum
+12.0.0.0;Sígarettutóbak, framleiðsla
+12.0.0.0;Sígarettur, framleiðsla
+12.0.0.0;Tóbaksvörur, framleiðsla
+12.0.0.0;Tyggigúmmí, nikótín, framleiðsla
+12.0.0.0;Píputóbak, framleiðsla
+12.0.0.0;Neftóbak, framleiðsla
+12.0.0.0;Munntóbak, framleiðsla
+13.1.0.0;Pappírsgarn, framleiðsla
+13.1.0.0;Prjónagarn, framleiðsla
+13.1.0.0;Loðband, spuni
+13.1.0.0;Ull, kembing
+13.1.0.0;Ull, spuni
+13.1.0.0;Ullarþvottur
+13.1.0.0;Textíltrefjar, forvinnsla
+13.1.0.0;Textíltrefjar, spuni
+13.1.0.0;Tilbúnar trefjar, spuni
+13.1.0.0;Silki, spuni
+13.1.0.0;Saumaþráður, framleiðsla
+13.1.0.0;Saumþráður, spuni
+13.1.0.0;Spunaverksmiðjur
+13.1.0.0;Forvinnsla og spuni á textíltrefjum
+13.1.0.0;Bómull, spuni
+13.1.0.0;Garn, framleiðsla
+13.1.0.0;Kambgarn, spuni
+13.1.0.0;Þráður, framleiðsla
+13.2.0.0;Kambgarn, vefnaður
+13.2.0.0;Handklæðafrotte, vefnaður
+13.2.0.0;Gerviloðskinn, ofin, framleiðsla
+13.2.0.0;Gerviloðskinn, vefnaður
+13.2.0.0;Grisja, vefnaður
+13.2.0.0;Flauel, vefnaður
+13.2.0.0;Bómullarefni, vefnaður
+13.2.0.0;Dúkur úr glertrefjum, framleiðsla
+13.2.0.0;Dúkur, ofinn, framleiðsla
+13.2.0.0;Textílvefnaður
+13.2.0.0;Silkiefni, vefnaður
+13.2.0.0;Tilbúnar trefjar, vefnaður
+13.2.0.0;Ullarefni, vefnaður
+13.2.0.0;Vefnaður
+13.2.0.0;Vefnaður, textíl, framleiðsla
+13.3.0.0;Textílfrágangur
+13.3.0.0;Litun textíla
+13.3.0.0;Frágangur á textílum
+13.3.0.0;Bleiking textíla
+13.3.0.0;Frágangur fatnaðar
+13.3.0.0;Frágangur textíla
+13.9.1.0;Frotte-efni, prjónað eða heklað, framleiðsla
+13.9.1.0;Flosefni, prjónað, framleiðsla
+13.9.1.0;Gerviloðskinn, prjónuð, framleiðsla
+13.9.1.0;Gardínuefni, framleiðsla
+13.9.1.0;Hekluð voð, framleiðsla
+13.9.1.0;Dúkur, prjónaður eða heklaður, framleiðsla
+13.9.1.0;Framleiðsla á hekluðum og prjónuðum dúk
+13.9.1.0;Prjónaefni, framleiðsla
+13.9.1.0;Prjónvoð, framleiðsla
+13.9.2.0;Púðar, framleiðsla
+13.9.2.0;Rúllugardínur úr textíl, framleiðsla
+13.9.2.0;Rúllugardínur, framleiðsla
+13.9.2.0;Rúmfatnaður, framleiðsla
+13.9.2.0;Rúmteppi, framleiðsla
+13.9.2.0;Oddveifur, framleiðsla
+13.9.2.0;Markissur, framleiðsla
+13.9.2.0;Teppi, framleiðsla
+13.9.2.0;Svefnpokar, framleiðsla
+13.9.2.0;Sængurlín, framleiðsla
+13.9.2.0;Sængur, framleiðsla
+13.9.2.0;Ullarteppi, framleiðsla
+13.9.2.0;Tjöld, framleiðsla
+13.9.2.0;Vefnaðarvörur, framleiðsla
+13.9.2.0;Vatteruð teppi, framleiðsla
+13.9.2.0;Veifur, framleiðsla
+13.9.2.0;Sessur, framleiðsla
+13.9.2.0;Segl, framleiðsla
+13.9.2.0;Segldúksábreiður, framleiðsla
+13.9.2.0;Sólhlífar úr segli, framleiðsla
+13.9.2.0;Sóltjöld, framleiðsla
+13.9.2.0;Framleiðsla á tilbúinni spunavöru annarri en fatnaði
+13.9.2.0;Diskaþurrkur, framleiðsla
+13.9.2.0;Björgunarvesti, framleiðsla
+13.9.2.0;Borðtuskur, framleiðsla
+13.9.2.0;Borðdúkar, framleiðsla
+13.9.2.0;Handklæði, framleiðsla
+13.9.2.0;Húsgagnaábreiður, framleiðsla
+13.9.2.0;Gluggatjöld, framleiðsla
+13.9.2.0;Flögg, framleiðsla
+13.9.2.0;Fallhlífar, framleiðsla
+13.9.2.0;Fánar, framleiðsla
+13.9.2.0;Værðarvoðir, framleiðsla
+13.9.2.0;Viskustykki, framleiðsla
+13.9.2.0;Þvottapokar, framleiðsla
+13.9.3.0;Gólfmottur úr textílum, framleiðsla
+13.9.3.0;Gólfteppi, framleiðsla
+13.9.3.0;Framleiðsla á gólfteppum og mottum
+13.9.3.0;Teppaflísar úr textílum, framleiðsla
+13.9.3.0;Mottur úr stungnum flóka, framleiðsla
+13.9.3.0;Mottur úr textíl, framleiðsla
+13.9.4.0;Netaverkssmiðjur
+13.9.4.0;Trollgarn, framleiðsla
+13.9.4.0;Veiðarfæri, framleiðsla
+13.9.4.0;Seglgarn, framleiðsla
+13.9.4.0;Framleiðsla á köðlum, seglgarni og netum
+13.9.4.0;Kaðlar, framleiðsla
+13.9.5.0;Framleiðsla á trefjadúk og vörum úr þeim, þó ekki fatnaði
+13.9.5.0;Trefjadúkur, framleiðsla
+13.9.6.0;Vatnsslöngur, framleiðsla
+13.9.6.0;Framleiðsla annarra tækni- og iðnaðartextíla
+13.9.6.0;Brunaslöngur, framleiðsla
+13.9.6.0;Iðnaðartextílar, framleiðsla
+13.9.9.0;Flóki, framleiðsla
+13.9.9.0;Blúndur, framleiðsla
+13.9.9.0;Framleiðsla á annarri ótalinni textílvöru
+13.9.9.0;Útsaumur, framleiðsla
+13.9.9.0;Vettlingar, framleiðsla
+13.9.9.0;Skóreimar, framleiðsla
+13.9.9.0;Merkimiðar úr textíl, framleiðsla
+13.9.9.0;Málaraléreft, framleiðsla
+14.1.1.0;Leðurfatnaður, framleiðsla
+14.1.1.0;Framleiðsla á leðurfatnaði
+14.1.1.0;Fatnaður, leður, framleiðsla
+14.1.2.0;Fatnaður, vinnuföt, framleiðsla
+14.1.2.0;Vinnufatagerð
+14.1.2.0;Einkennisbúningar, framleiðsla
+14.1.2.0;Einkennisföt, framleiðsla
+14.1.2.0;Vinnusloppar, framleiðsla
+14.1.2.0;Vinnufatnaður, framleiðsla
+14.1.3.0;Yfirhafnir, framleiðsla
+14.1.3.0;Dragtir, framleiðsla
+14.1.3.0;Buxur, framleiðsla
+14.1.3.0;Framleiðsla á öðrum yfirfatnaði
+14.1.3.0;Fatnaður, yfir-, framleiðsla
+14.1.3.0;Frakkar, framleiðsla
+14.1.3.0;Íþróttafatnaður, framleiðsla
+14.1.3.0;Jakkaföt, framleiðsla
+14.1.3.0;Jakkar, framleiðsla
+14.1.3.0;Klæðskerar
+14.1.3.0;Kjólameistarar
+14.1.3.0;Kjólar, framleiðsla
+14.1.3.0;Pils, framleiðsla
+14.1.3.0;Regnföt, framleiðsla
+14.1.3.0;Skraddarar
+14.1.3.0;Síðbuxur, framleiðsla
+14.1.4.0;Skyrtur, framleiðsla
+14.1.4.0;Undirfatnaður, framleiðsla
+14.1.4.0;Nærfatnaður, framleiðsla
+14.1.4.0;Náttföt, framleiðsla
+14.1.4.0;Náttkjólar, framleiðsla
+14.1.4.0;Morgunsloppar, framleiðsla
+14.1.4.0;Lífstykki, framleiðsla
+14.1.4.0;Fatnaður, undirföt, framleiðsla
+14.1.4.0;Framleiðsla á nærfatnaði
+14.1.4.0;Brjóstahaldarar, framleiðsla
+14.1.4.0;Blússur, framleiðsla
+14.1.4.0;Bolir, framleiðsla
+14.1.9.0;Belti, framleiðsla
+14.1.9.0;Bindi, framleiðsla
+14.1.9.0;Baðföt, framleiðsla
+14.1.9.0;Derhúfur, framleiðsla
+14.1.9.0;Framleiðsla á öðrum fatnaði og fylgihlutum
+14.1.9.0;Húfur, framleiðsla
+14.1.9.0;Hattar, framleiðsla
+14.1.9.0;Hanskar, framleiðsla
+14.1.9.0;Hálsklútar, framleiðsla
+14.1.9.0;Loðskinnsvörur, hattar og húfur, framleiðsla
+14.1.9.0;Vasaklútar, textíll, framleiðsla
+14.1.9.0;Sundfatnaður, framleiðsla
+14.1.9.0;Sjöl, framleiðsla
+14.1.9.0;Skíðafatnaður, framleiðsla
+14.1.9.0;Skíðagallar, framleiðsla
+14.1.9.0;Æfingagallar, framleiðsla
+14.2.0.0;Loðskinnsvörur, framleiðsla
+14.2.0.0;Loðskinnsfatnaður, framleiðsla
+14.2.0.0;Fatnaður, loðskinn, framleiðsla
+14.2.0.0;Framleiðsla á vörum úr loðskinnum
+14.3.1.0;Framleiðsla á sokkum og sokkavörum
+14.3.1.0;Gammosíur, framleiðsla
+14.3.1.0;Legghlífar, framleiðsla
+14.3.1.0;Sokkabuxur, framleiðsla
+14.3.1.0;Sokkar, framleiðsla
+14.3.9.0;Vesti, prjónuð, framleiðsla
+14.3.9.0;Peysur, framleiðsla
+14.3.9.0;Fatnaður, prjónaður, framleiðsla
+14.3.9.0;Framleiðsla á öðrum prjónuðum og hekluðum fatnaði
+15.1.1.0;"Sútun leðurs; sútun og litun á loðskinni"
+15.1.1.0;Bókfell, framleiðsla
+15.1.1.0;Gervileður, framleiðsla
+15.1.1.0;Rúskinn, framleiðsla
+15.1.1.0;Leður, sútun
+15.1.1.0;Leður, framleiðsla
+15.1.1.0;Lakkleður, framleiðsla
+15.1.1.0;Loðskinn, sútun og litun
+15.1.1.0;Sútun á leðri
+15.1.2.0;Svipur, framleiðsla
+15.1.2.0;Töskur, framleiðsla
+15.1.2.0;Úrólar, ekki úr málmi, framleiðsla
+15.1.2.0;Reiðtygi, framleiðsla
+15.1.2.0;Pennaveski, framleiðsla
+15.1.2.0;Ferðatöskur, framleiðsla
+15.1.2.0;Handtöskur, framleiðsla
+15.1.2.0;Hnakkar, framleiðsla
+15.1.2.0;"Framleiðsla á ferðatöskum, handtöskum og áþekkum vörum; reiðtygjum og skyldum vörum"
+15.2.0.0;Framleiðsla á skófatnaði
+15.2.0.0;Hælar, fyrir skófatnað, framleiðsla
+15.2.0.0;Íþróttaskór, framleiðsla
+15.2.0.0;Inniskór, framleiðsla
+15.2.0.0;Klossar, framleiðsla
+15.2.0.0;Skósólar, framleiðsla
+15.2.0.0;Skófatnaður, framleiðsla
+16.1.0.0;Viðarull, framleiðsla
+16.1.0.0;Trjámjöl, framleiðsla
+16.1.0.0;Timbur, þurrkun
+16.1.0.0;Timbur, heflun
+16.1.0.0;Timbur, sögun
+16.1.0.0;Sögun timburs
+16.1.0.0;Rekaviður, vinnsla
+16.1.0.0;Heflun timburs
+16.1.0.0;Fúavörn
+16.1.0.0;Sögun, heflun og fúavörn á viði
+16.1.0.0;Yfirborðsmeðhöndlun á viði
+16.1.0.0;Viður, lökkun
+16.1.0.0;Viður, heflun
+16.1.0.0;Viður, sögun
+16.1.0.0;Viður, þurkun
+16.2.1.0;Framleiðsla á viðarspæni og plötum að grunni til úr viði
+16.2.1.0;Krossviður, framleiðsla
+16.2.1.0;Límtré, framleiðsla
+16.2.1.0;Trefjaplötur (MDF), framleiðsla
+16.2.1.0;Viðarplötur, framleiðsla
+16.2.1.0;Viðarspónn, framleiðsla
+16.2.1.0;Spónarplötur, framleiðsla
+16.2.2.0;Parket, framleiðsla
+16.2.2.0;Parketlistar, framleiðsla
+16.2.2.0;Framleiðsla á samsettum parketgólfum
+16.2.3.0;Framleiðsla á öðrum trésmíðavörum til bygginga
+16.2.3.0;Bjálkar, framleiðsla
+16.2.3.0;Byggingartimbur, framleiðsla
+16.2.3.0;Forsmíðaðar byggingareiningar úr timbri, framleiðsla
+16.2.3.0;Gluggar, viður, framleiðsla
+16.2.3.0;Gufuböð úr viði, framleiðsla
+16.2.3.0;Handrið úr viði, framleiðsla
+16.2.3.0;Hurðir, viður, framleiðsla
+16.2.3.0;Rammalistar úr viði, framleiðsla
+16.2.3.0;Stigar, viður, framleiðsla
+16.2.3.0;Vinnuskúrar, viður, framleiðsla
+16.2.3.0;Þaksperrur, tré, framleiðsla
+16.2.4.0;Vörubretti úr viði, framleiðsla
+16.2.4.0;Trébretti, framleiðsla
+16.2.4.0;Umbúðir úr viði, framleiðsla
+16.2.4.0;Tunnur úr viði, framleiðsla
+16.2.4.0;Beykisvörur úr við, framleiðsla
+16.2.4.0;Framleiðsla á umbúðum úr viði
+16.2.9.0;"Framleiðsla á annarri viðarvöru; framleiðsla á vörum úr korki, hálmi og fléttiefnum"
+16.2.9.0;Búsáhöld, tré, framleiðsla
+16.2.9.0;Handföng úr viði, framleiðsla
+16.2.9.0;Herðatré úr viði, framleiðsla
+16.2.9.0;Gólfefni, korkur, framleiðsla
+16.2.9.0;Tvinnakefli úr viði, framleiðsla
+16.2.9.0;Trévörur, framleiðsla
+16.2.9.0;Tágavörur, framleiðsla
+16.2.9.0;Viðarvörur, ýmsar, framleiðsla
+16.2.9.0;Styttur, útskornar úr viði, framleiðsla
+16.2.9.0;Strávörur, framleiðsla
+16.2.9.0;Spólur úr viði, framleiðsla
+16.2.9.0;Sköft úr viði, framleiðsla
+16.2.9.0;Skrautmunir úr viði, framleiðsla
+16.2.9.0;Skrín úr viði, framleiðsla
+16.2.9.0;Rammagerð
+16.2.9.0;Mottur úr fléttiefnum, framleiðsla
+16.2.9.0;Líkön úr viði, framleiðsla
+16.2.9.0;Korkvörur, framleiðsla
+16.2.9.0;Körfur og tágavörur, framleiðsla
+16.2.9.0;Öskjur úr viði, framleiðsla
+17.1.1.0;Pappírskvoða, endurvinnsla, framleiðsla
+17.1.1.0;Pappírskvoða, framleiðsla
+17.1.1.0;Pappírsdeig, framleiðsla
+17.1.1.0;Sellulósi, framleiðsla
+17.1.1.0;Framleiðsla á pappírskvoðu
+17.1.2.0;Framleiðsla á pappír og pappa
+17.1.2.0;Dagblaðapappír, framleiðsla
+17.1.2.0;Handgerður pappír, framleiðsla
+17.1.2.0;Sellulósatrefjar, framleiðsla
+17.1.2.0;Sellulósavatt, framleiðsla
+17.1.2.0;Pappi, framleiðsla
+17.1.2.0;Pappi, gegndreyping
+17.1.2.0;Pappi, húðun
+17.1.2.0;Pappír, framleiðsla
+17.1.2.0;Pappír, gegndreyping
+17.1.2.0;Pappír, húðun
+17.1.2.0;Pappaframleiðsla
+17.1.2.0;Prentpappír, framleiðsla
+17.1.2.0;Kreppappír, framleiðsla
+17.2.1.0;Pokar, pappír, framleiðsla
+17.2.1.0;Skjalakassar úr pappa, framleiðsla
+17.2.1.0;Umbúðir úr bylgjupappír og -pappa, framleiðsla
+17.2.1.0;Umbúðir úr klæddum pappa, framleiðsla
+17.2.1.0;Umbúðir úr pappa, framleiðsla
+17.2.1.0;Innkaupapokar úr pappír, framleiðsla
+17.2.1.0;Ílát úr pappa og pappír, framleiðsla
+17.2.1.0;Kassar úr pappa, framleiðsla
+17.2.1.0;Bylgjupappi, framleiðsla
+17.2.1.0;Burðapokar, pappír, framleiðsla
+17.2.1.0;Framleiðsla á bylgjupappír og -pappa og umbúðum úr pappír og pappa
+17.2.1.0;Öskjur úr pappa, framleiðsla
+17.2.2.0;Framleiðsla á heimilis- og hreinlætisvörum úr pappír og pappa
+17.2.2.0;Diskar, pappi, framleiðsla
+17.2.2.0;Dúkar úr pappír, framleiðsla
+17.2.2.0;Dömubindi, framleiðsla
+17.2.2.0;Eldhúsrúllur, framleiðsla
+17.2.2.0;Bleiur úr pappír, framleiðsla
+17.2.2.0;Bleiur, pappír, framleiðsla
+17.2.2.0;Bollar úr pappa, framleiðsla
+17.2.2.0;Bakkar úr pappa, framleiðsla
+17.2.2.0;Handþurrkur úr pappír, framleiðsla
+17.2.2.0;Hreinsiþurrkur, framleiðsla
+17.2.2.0;Tíðatappar, framleiðsla
+17.2.2.0;Vatt úr textíl, framleiðsla
+17.2.2.0;Vasaklútar, pappír, framleiðsla
+17.2.2.0;Servíettur úr pappír, framleiðsla
+17.2.2.0;Salernispappír, framleiðsla
+17.2.2.0;Pappaglös, framleiðsla
+17.2.2.0;Pappabollar, framleiðsla
+17.2.2.0;Pappadiskar, framleiðsla
+17.2.2.0;Pappírsdúkar, framleiðsla
+17.2.2.0;Pappírsmunnþurrkur, framleiðsla
+17.2.2.0;Pappírsbleiur, framleiðsla
+17.2.2.0;Munnþurrkur úr pappír, framleiðsla
+17.2.2.0;Klósettpappír, framleiðsla
+17.2.3.0;Lausblaðamöppur úr pappa, framleiðsla
+17.2.3.0;Límbönd, pappír, framleiðsla
+17.2.3.0;Möppur, framleiðsla
+17.2.3.0;Skrifstofuvörur, pappír og pappi, framleiðsla
+17.2.3.0;Skrifpappír, framleiðsla
+17.2.3.0;Stílabækur, framleiðsla
+17.2.3.0;Umslög, framleiðsla
+17.2.3.0;Vélritunarpappír, framleiðsla
+17.2.3.0;Tölvupappír, framleiðsla
+17.2.3.0;Kalkipappír, framleiðsla
+17.2.3.0;Eyðublöð, framleiðsla
+17.2.3.0;Bókhaldsbækur, framleiðsla
+17.2.3.0;Bréfsefni, framleiðsla
+17.2.3.0;Bréfabindi úr pappa, framleiðsla
+17.2.3.0;Framleiðsla á skrifpappír og skrifstofuvörum úr pappír og pappa
+17.2.4.0;Framleiðsla á veggfóðri
+17.2.4.0;Veggfóður, framleiðsla
+17.2.9.0;Spólur úr pappa, framleiðsla
+17.2.9.0;Snældur úr pappa, framleiðsla
+17.2.9.0;Sígarettupappír, framleiðsla
+17.2.9.0;Síupappi, framleiðsla
+17.2.9.0;Síupappír, framleiðsla
+17.2.9.0;Partývörur, pappír, framleiðsla
+17.2.9.0;Límmiðar, framleiðsla
+17.2.9.0;Merkimiðar úr pappír, framleiðsla
+17.2.9.0;Framleiðsla á annarri pappírs- og pappavöru
+17.2.9.0;Eggjabakkar, framleiðsla
+17.2.9.0;Kefli úr pappa, framleiðsla
+18.1.1.0;Dagblöð, prentun
+18.1.1.0;Prentun dagblaða
+18.1.2.0;Önnur prentun
+18.1.2.0;Dagatöl, framleiðsla
+18.1.2.0;Bækur, prentun
+18.1.2.0;Bókaprentun
+18.1.2.0;Fjölritun, prentun
+18.1.2.0;Offsetprentun
+18.1.2.0;Prentun á fatnað o.þ.h.
+18.1.2.0;Prentun bóka
+18.1.2.0;Prentun í fjölritunarvélum
+18.1.2.0;Prentun í ljósritunarvélum
+18.1.2.0;Prentun í tölvuprenturum
+18.1.2.0;Prentun tímarita
+18.1.2.0;Silkiprentun
+18.1.2.0;Sáldprentun
+18.1.2.0;Tímarit, prentun
+18.1.2.0;Textílprentun
+18.1.2.0;Vikublöð, prentun
+18.1.3.0;Umbrot
+18.1.3.0;Skeyting, prentsmíð
+18.1.3.0;Skönnun, undirbúningur fyrir prentun
+18.1.3.0;Prentsmíð
+18.1.3.0;Offsettljósmyndun
+18.1.3.0;Plötugerð, prentsmíð
+18.1.3.0;Ljóssetning
+18.1.3.0;Litgreining
+18.1.3.0;Undirbúningur fyrir prentun
+18.1.4.0;Bókband og tengd þjónusta
+18.1.4.0;Bókband
+18.1.4.0;Umslög, prentun og pökkun
+18.2.0.0;Tölvuefni, fjölföldun
+18.2.0.0;Tónbönd, fjölföldun
+18.2.0.0;Segulbönd, fjölföldun
+18.2.0.0;Kvikmyndir, fjölföldun
+18.2.0.0;Myndbönd, fjölföldun
+18.2.0.0;Mynddiskar (dvd), fjölföldun
+18.2.0.0;Myndefni, fjölföldun
+18.2.0.0;Fjölföldun upptekins efnis
+18.2.0.0;Fjölföldun hljóðritaðs efnis
+18.2.0.0;Fjölföldun myndefnis
+18.2.0.0;Fjölföldun tölvuefnis
+18.2.0.0;Geisladiskar (cd), fjölföldun
+18.2.0.0;Hljómplötur, fjölföldun
+18.2.0.0;Hljóðritað efni, fjölföldun
+19.1.0.0;Hrákol, framleiðsla
+19.1.0.0;Gasframleiðsla, úr kolum
+19.1.0.0;Koksframleiðsla
+19.1.0.0;Bik, framleiðsla
+19.1.0.0;Brúnkolstjara, framleiðsla
+19.1.0.0;Koks, framleiðsla
+19.1.0.0;Kolagas, framleiðsla
+19.2.0.0;Paraffín, framleiðsla
+19.2.0.0;Olíuvörur, hreinsaðar, framleiðsla
+19.2.0.0;Smurfeiti, framleiðsla
+19.2.0.0;Smurolía, framleiðsla
+19.2.0.0;Steinolía, framleiðsla
+19.2.0.0;Terpentína, framleiðsla
+19.2.0.0;Úrgangsolía, framleiðsla
+19.2.0.0;Vaselín, framleiðsla
+19.2.0.0;Brennsluolía, framleiðsla
+19.2.0.0;Eldneytiskögglar, framleiðsla
+19.2.0.0;Eldsneyti, framleiðsla
+19.2.0.0;Eldsneyti, fljótandi, framleiðsla
+19.2.0.0;Díselolía, framleiðsla
+19.2.0.0;Bensín, framleiðsla
+19.2.0.0;Framleiðsla á hreinsuðum olíuvörum
+19.2.0.0;Gasolía, framleiðsla
+20.1.1.0;Gas til iðnaðar, framleiðsla
+20.1.1.0;Iðnaðargas, framleiðsla
+20.1.1.0;Framleiðsla á iðnaðargasi
+20.1.1.0;Argon, framleiðsla
+20.1.1.0;Eðalgös, framleiðsla
+20.1.1.0;Vatnsefni, framleiðsla
+20.1.1.0;Vetni, framleiðsla
+20.1.1.0;Súrefni, framleiðsla
+20.1.1.0;Koltvísýringur, framleiðsla
+20.1.1.0;Kæligas, framleiðsla
+20.1.1.0;Köfnunarefni, framleiðsla
+20.1.2.0;Litur, framleiðsla
+20.1.2.0;Litarefni, framleiðsla
+20.1.2.0;Framleiðsla á lit og litarefnum
+20.1.3.0;Framleiðsla á öðrum ólífrænum grunnefnum til efnaiðnaðar
+20.1.3.0;Eimað vatn, framleiðsla
+20.1.3.0;Alkalímálmar, framleiðsla
+20.1.3.0;Basar, framleiðsla
+20.1.3.0;Bikkox, framleiðsla
+20.1.3.0;Járnkís, brennsla
+20.1.3.0;Ólífrænar sýrur, framleiðsla
+20.1.3.0;Ólífrænir basar, framleiðsla
+20.1.3.0;Natrínlútur, framleiðsla
+20.1.3.0;Úran, auðgun
+20.1.4.0;Trjákol, framleiðsla
+20.1.4.0;Lífræn efnasambönd, framleiðsla
+20.1.4.0;Glýseról, tilbúið, framleiðsla
+20.1.4.0;Ensím, framleiðsla
+20.1.4.0;Eiming koltjöru
+20.1.4.0;Framleiðsla á öðrum lífrænum grunnefnum til efnaiðnaðar
+20.1.4.0;Viðarkol, framleiðsla
+20.1.5.0;Framleiðsla á tilbúnum áburði og köfnunarefnissamböndum
+20.1.5.0;Brennisteinssaltpéturssýra, framleiðsla
+20.1.5.0;Ammóníak, framleiðsla
+20.1.5.0;Áburður, tilbúinn, framleiðsla
+20.1.5.0;Gróðurmoldarblöndur, framleiðsla
+20.1.5.0;Kalíumsölt, hrá, framleiðsla
+20.1.5.0;Hráfosföt, framleiðsla
+20.1.5.0;Köfnunarefni, vörur úr, framleiðsla
+20.1.5.0;Nítröt, framleiðsla
+20.1.5.0;Saltpéturssýra, framleiðsla
+20.1.5.0;Tilbúinn áburður, framleiðsla
+20.1.6.0;Sellulósafjölliður, framleiðsla
+20.1.6.0;Sílikon, framleiðsla
+20.1.6.0;Pólíúretan, framleiðsla
+20.1.6.0;Pólýester, framleiðsla
+20.1.6.0;Plast, óunnið, framleiðsla
+20.1.6.0;Plasthráefni, framleiðsla
+20.1.6.0;Epoxýresín, framleiðsla
+20.1.6.0;Fjölliður, framleiðsla
+20.1.6.0;Akríl, framleiðsla
+20.1.6.0;Framleiðsla á plasthráefnum
+20.1.6.0;Vínýlasetat, framleiðsla
+20.1.7.0;Framleiðsla á syntetísku gúmmíi til úrvinnslu
+20.1.7.0;Gúmmí, syntetískt, framleiðsla
+20.1.7.0;Gervigúmmí, óunnið, framleiðsla
+20.2.0.0;Illgresiseyðir, framleiðsla
+20.2.0.0;Framleiðsla á skordýra- og illgresiseyði og öðrum efnum til nota í landbúnaði
+20.2.0.0;Efnaafurðir til nota í landbúnað, framleiðsla
+20.2.0.0;Plágueyðir, framleiðsla
+20.2.0.0;Nagdýraeyðir, framleiðsla
+20.2.0.0;Rottueitur, framleiðsla
+20.2.0.0;Skordýraeyðir, framleiðsla
+20.2.0.0;Sniglaeitur, framleiðsla
+20.2.0.0;Sótthreinsunarefni, framleiðsla
+20.2.0.0;Sveppaeyðir, framleiðsla
+20.3.0.0;Spartl, framleiðsla
+20.3.0.0;Smeltlakk, framleiðsla
+20.3.0.0;Prentblek, framleiðsla
+20.3.0.0;Lakkframleiðsla
+20.3.0.0;Lakkmálning, framleiðsla
+20.3.0.0;Litarefni, tilbúin, framleiðsla
+20.3.0.0;Litir fyrir gler, postulín o.þ.h., framleiðsla
+20.3.0.0;Litir fyrir myndlist, framleiðsla
+20.3.0.0;Litir, tilbúnir, framleiðsla
+20.3.0.0;Leysiefni, lífræn, framleiðsla
+20.3.0.0;Málning, framleiðsla
+20.3.0.0;Framleiðsla á málningu, lökkum og svipuðum þekjuefnum, prentbleki og fylli- og þéttiefnum
+20.3.0.0;Fylliefni, framleiðsla
+20.3.0.0;Fúavarnarefni, framleiðsla
+20.3.0.0;Þéttiefni, framleiðsla
+20.3.0.0;Þrykkilitir, framleiðsla
+20.4.1.0;Þurrsápa, framleiðsla
+20.4.1.0;Þvottaefni, framleiðsla
+20.4.1.0;Fægiefni til hreingerningar, framleiðsla
+20.4.1.0;Fægiefni, framleiðsla
+20.4.1.0;Glýseról, hrátt, framleiðsla
+20.4.1.0;Ilmefni fyrir húsakynni, framleiðsla
+20.4.1.0;Hreingerningarefni, framleiðsla
+20.4.1.0;Hreinsiefni, framleiðsla
+20.4.1.0;Framleiðsla á sápu, hreinsi- og þvottaefnum, hreingerningar- og fægiefnum
+20.4.1.0;Bón, framleiðsla
+20.4.1.0;Blautsápa, framleiðsla
+20.4.1.0;Lykteyðandi efni, framleiðsla
+20.4.1.0;Lífræn yfirborðsvirk efni
+20.4.1.0;Ræstiefni, framleiðsla
+20.4.1.0;Mýkingarefni í þvott, framleiðsla
+20.4.1.0;Skósverta, framleiðsla
+20.4.1.0;Sápa, framleiðsla
+20.4.1.0;Uppþvottaefni, framleiðsla
+20.4.1.0;Vax, tilbúið, framleiðsla
+20.4.2.0;Svitalyktareyðir, framleiðsla
+20.4.2.0;Tannkrem, framleiðsla
+20.4.2.0;Sjampó, framleiðsla
+20.4.2.0;Sólkrem, framleiðsla
+20.4.2.0;Sólolíur, framleiðsla
+20.4.2.0;Snyrti- og förðunarvörur, framleiðsla
+20.4.2.0;Snyrtivörur, framleiðsla
+20.4.2.0;Sólarvörn, framleiðsla
+20.4.2.0;Naglalakk, framleiðsla
+20.4.2.0;Rakspíri, framleiðsla
+20.4.2.0;Kölnarvatn, framleiðsla
+20.4.2.0;Andlitsfarði, framleiðsla
+20.4.2.0;Baðsölt, framleiðsla
+20.4.2.0;Baðolíur, framleiðsla
+20.4.2.0;Framleiðsla á ilmvatni og snyrtivörum
+20.4.2.0;Hársnyrtivörur, framleiðsla
+20.4.2.0;Handsnyrtivörur, framleiðsla
+20.4.2.0;Handáburður, framleiðsla
+20.4.2.0;Ilmvatn, framleiðsla
+20.4.2.0;Húðsápa, framleiðsla
+20.4.2.0;Förðunarvörur, framleiðsla
+20.5.1.0;Flugeldar, framleiðsla
+20.5.1.0;Hvellettur, framleiðsla
+20.5.1.0;Framleiðsla á sprengiefnum
+20.5.1.0;Eldspýtur, framleiðsla
+20.5.1.0;Púður, sprengiefni, framleiðsla
+20.5.1.0;Sprengiefni, framleiðsla
+20.5.1.0;Skotpúður, framleiðsla
+20.5.2.0;Plastlím, framleiðsla
+20.5.2.0;Lím, framleiðsla
+20.5.2.0;Framleiðsla á lími
+20.5.2.0;Gúmmílím, framleiðsla
+20.5.3.0;Ilmefni fyrir ilmvötn, framleiðsla
+20.5.3.0;Ilmefni fyrir matvæli, framleiðsla
+20.5.3.0;Ilmolíur, framleiðsla
+20.5.3.0;Ilmvökvi, eimaður, framleiðsla
+20.5.3.0;Framleiðsla á ilmolíum
+20.5.3.0;Olíur, rokgjarnar, framleiðsla
+20.5.9.0;Olíur, tilbúnar, framleiðsla
+20.5.9.0;Pappír, ljósnæmur, framleiðsla
+20.5.9.0;Prentlitir, framleiðsla
+20.5.9.0;Ljósmyndafilmur, framleiðsla
+20.5.9.0;Ljósmyndagerð, efni, framleiðsla
+20.5.9.0;Ljósmyndapappír, framleiðsla
+20.5.9.0;Ljósmyndaplötur, framleiðsla
+20.5.9.0;Tússframleiðsla
+20.5.9.0;Framleiðsla á annarri ótalinni efnavöru
+20.5.9.0;Efnahvatar, framleiðsla
+20.5.9.0;Bætiefni í olíur, framleiðsla
+20.5.9.0;Blek, framleiðsla
+20.5.9.0;Íseyðingarefni, framleiðsla
+20.5.9.0;Gelatín, framleiðsla
+20.5.9.0;Filmur, framleiðsla
+20.6.0.0;Gerviþráður, framleiðsla
+20.6.0.0;Garn úr syntetísku eða gerviþráði, framleiðsla
+20.6.0.0;Garn úr tilbúnum trefjum, framleiðsla
+20.6.0.0;Kaðlar úr tilbúnum trefjum, framleiðsla
+20.6.0.0;Einþráðungar úr tilbúnum trefjum, framleiðsla
+20.6.0.0;Framleiðsla gerviþráðar
+20.6.0.0;Tilbúnar trefjar, framleiðsla
+21.1.0.0;Lyfjagerð, hráefni, framleiðsla
+21.1.0.0;Kirtlavökvi, framleiðsla
+21.1.0.0;Salisílsýra, framleiðsla
+21.1.0.0;Framleiðsla á efnum til lyfjagerðar
+21.1.0.0;Virk efni í sýklalyf, framleiðsla
+21.1.0.0;Vinnsla á blóði
+21.2.0.0;Vítamín, framleiðsla
+21.2.0.0;Þungunarpróf, framleiðsla
+21.2.0.0;Lyfjaframleiðsla
+21.2.0.0;Bóluefni, framleiðsla
+21.2.0.0;Jurtate, til lækninga, framleiðsla
+21.2.0.0;Jurtavörur til lyfjagerðar, vinnsla
+21.2.0.0;Jurtalyf, framleiðsla
+21.2.0.0;Penísillín, framleiðsla
+21.2.0.0;Náttúrulyf, framleiðsla
+21.2.0.0;Lyf, framleiðsla
+22.1.1.0;Sólun notaðra hjólbarða
+22.1.1.0;Hjólbarðar, framleiðsla
+22.1.1.0;Hjólbarðar, reiðhjól , framleiðsla
+22.1.1.0;Hjólbarðar, sólun
+22.1.1.0;Hjólbarðaslöngur, framleiðsla
+22.1.1.0;Hjólbarðasólar, framleiðsla
+22.1.1.0;Gúmmídekk, framleiðsla
+22.1.1.0;Gúmmíhjólbarðar, framleiðsla
+22.1.1.0;Gúmmíhjólbarðar, sólun
+22.1.1.0;Gúmmíslöngur í hjólbarða, framleiðsla
+22.1.1.0;Gúmmíslöngur, framleiðsla
+22.1.1.0;Felgubönd fyrir sólningu hjólbarða, framl.
+22.1.1.0;Framleiðsla á gúmmíhjólbörðum og hjólbarðaslöngum, sólun notaðra gúmmíhjólbarða
+22.1.9.0;Framleiðsla á öðrum gúmmívörum
+22.1.9.0;Drifreimar úr gúmmíi, framleiðsla
+22.1.9.0;Blöðrur, gúmmí, framleiðsla
+22.1.9.0;Fatnaður úr gúmmíi
+22.1.9.0;Gúmmísólar, framleiðsla
+22.1.9.0;Gúmmístigvel, framleiðsla
+22.1.9.0;Gúmmíþétti, framleiðsla
+22.1.9.0;Gúmmídýnur, uppblásanlegar, framleiðsla
+22.1.9.0;Gúmmífatnaður, framleiðsla
+22.1.9.0;Gúmmípakkningar, framleiðsla
+22.1.9.0;Gúmmíplötur, framleiðsla
+22.1.9.0;Gúmmíprófílar, framleiðsla
+22.1.9.0;Gúmmírör, framleiðsla
+22.1.9.0;Gúmmíburstar, framleiðsla
+22.1.9.0;Gúmmíbönd, framleiðsla
+22.1.9.0;Færibönd úr gúmmíi, framleiðsla
+22.1.9.0;Hreinlætisvörur úr gúmmíi, framleiðsla
+22.1.9.0;Snuð, framleiðsla
+22.1.9.0;Smokkar, framleiðsla
+22.1.9.0;Slöngur, gúmmí, framleiðsla
+22.1.9.0;Stangir, gúmmí, framleiðsla
+22.1.9.0;Sundhettur, framleiðsla
+22.1.9.0;Viðgerðarefni úr gúmmíi, framleiðsla
+22.1.9.0;Kynlífsvörur úr gúmmíi, framleiðsla
+22.1.9.0;Plötur, gúmmí, framleiðsla
+22.1.9.0;Pakkningar úr gúmmíi, framleiðsla
+22.1.9.0;Rör úr gúmmíi, framleiðsla
+22.1.9.0;Prófílar úr gúmmíi, framleiðsla
+22.1.9.0;Þétti úr gúmmi, framleiðsla
+22.1.9.0;Þéttar úr gúmmí, framleiðsla
+22.2.1.0;Prófílar úr plasti, framleiðsla
+22.2.1.0;Rör, plast, framleiðsla
+22.2.1.0;Plasthimnur, framleiðsla
+22.2.1.0;Plastfilma, framleiðsla
+22.2.1.0;Stangir, plast, framleiðsla
+22.2.1.0;Slöngur, plast, framleiðsla
+22.2.1.0;Sellófanfilmur, framleiðsla
+22.2.1.0;Framleiðsla á plötum, þynnum, slöngum og prófílum úr plasti
+22.2.2.1;Framleiðsla á plastvörum til nota í sjávarútvegi
+22.2.2.1;Fiskiker úr plasti, framleiðsla
+22.2.2.1;Fiskkassar úr plasti, framleiðsla
+22.2.2.1;Netakúlur úr plasti, framleiðsla
+22.2.2.1;Lok á fiskiker úr plasti, framleiðsla
+22.2.2.9;Plastílát, framleiðsla
+22.2.2.9;Plastkassar, framleiðsla
+22.2.2.9;Plastpokar, framleiðsla
+22.2.2.9;Plastumbúðir, framleiðsla
+22.2.2.9;Pokar, plast, framleiðsla
+22.2.2.9;Snældur úr plasti, framleiðsla
+22.2.2.9;Spólur úr plasti, framleiðsla
+22.2.2.9;Umbúðaplast, framleiðsla
+22.2.2.9;Umbúðir úr plasti, framleiðsla
+22.2.2.9;Flöskur, plast, framleiðsla
+22.2.2.9;Kassar úr plasti, framleiðsla
+22.2.2.9;Ílát úr plasti, framleiðsla
+22.2.2.9;Innkaupapokar úr plasti, framleiðsla
+22.2.2.9;Framleiðsla á öðru umbúðaplasti
+22.2.2.9;Blöðrur, plast, framleiðsla
+22.2.2.9;Burðapokar, plast, framleiðsla
+22.2.2.9;Öskjur úr plasti, framleiðsla
+22.2.3.0;Byggingavörur, plast, framleiðsla
+22.2.3.0;Byggingarvörur úr plasti, framleiðsla
+22.2.3.0;Byggingareiningar úr plasti, framleiðsla
+22.2.3.0;Byggingaríhlutir úr plasti, framleiðsla
+22.2.3.0;Einangrunarefni úr plasti, framleiðsla
+22.2.3.0;Baðkör, plast, framleiðsla
+22.2.3.0;Baðker úr plasti, framleiðsla
+22.2.3.0;Framleiðsla á byggingarvörum úr plasti
+22.2.3.0;Hurðir úr plasti, framleiðsla
+22.2.3.0;Hurðir, plast, framleiðsla
+22.2.3.0;Hreinlætistæki úr plasti, framleiðsla
+22.2.3.0;Hreinlætistæki, plast, framleiðsla
+22.2.3.0;Hlerar úr plasti, framleiðsla
+22.2.3.0;Handlaugar, plast, framleiðsla
+22.2.3.0;Gluggarammar úr plasti, framleiðsla
+22.2.3.0;Gluggar, plast, framleiðsla
+22.2.3.0;Gólfefni, plast, framleiðsla
+22.2.3.0;Gólflistar úr plasti, framleiðsla
+22.2.3.0;Veggskilti úr plasti, framleiðsla
+22.2.3.0;Sturtubotnar úr plasti, framleiðsla
+22.2.3.0;Skilti úr plasti, framleiðsla
+22.2.3.0;Salernisskálar úr plasti, framleiðsla
+22.2.3.0;Rúllugardínur úr plasti, framleiðsla
+22.2.3.0;Rimlagluggatjöld úr plasti, framleiðsla
+22.2.3.0;Plasteinangrun, framleiðsla
+22.2.3.0;Loftklæðning, plast, framleiðsla
+22.2.3.0;Klósettsetur, plast, framleiðsla
+22.2.9.0;Lampahlutar úr plasti, framleiðsla
+22.2.9.0;Límbönd, plast, framleiðsla
+22.2.9.0;Líkön úr plasti , framleiðsla
+22.2.9.0;Plastfatnaður, framleiðsla
+22.2.9.0;Plastskálar, framleiðsla
+22.2.9.0;Plastmöppur, framleiðsla
+22.2.9.0;Plastglös, framleiðsla
+22.2.9.0;Plasthanskar, framleiðsla
+22.2.9.0;Möppur úr plasti, framleiðsla
+22.2.9.0;Skálar, plast, framleiðsla
+22.2.9.0;Skólavörur, plast, framleiðsla
+22.2.9.0;Skrifstofuvörur, plast, framleiðsla
+22.2.9.0;Styttur, plast, framleiðsla
+22.2.9.0;Glös úr plasti, framleiðsla
+22.2.9.0;Gluggatjöld, plast, framleiðsla
+22.2.9.0;Færibönd úr plasti, framleiðsla
+22.2.9.0;Fatnaður úr plasti, framleiðsla
+22.2.9.0;Hanskar, plast, framleiðsla
+22.2.9.0;Hnífapör úr plasti, framleiðsla
+22.2.9.0;Framleiðsla á öðrum plastvörum
+22.2.9.0;Bollar úr plasti, framleiðsla
+22.2.9.0;Borðbúnaður, plast, framleiðsla
+22.2.9.0;Borðbúnaður úr plasti, framleiðsla
+22.2.9.0;Einangrunartengi, framleiðsla
+22.2.9.0;Drifreimar úr plasti, framleiðsla
+22.2.9.0;Búsáhöld, plast, framleiðsla
+23.1.1.0;Framleiðsla á flotgleri
+23.1.1.0;Flotgler, framleiðsla
+23.1.1.0;Gler, litað, framleiðsla
+23.1.1.0;Gler, skyggt, framleiðsla
+23.1.1.0;Gler, vírbent, framleiðsla
+23.1.1.0;Gler, vírlagt, framleiðsla
+23.1.2.0;Gler, hert, framleiðsla
+23.1.2.0;Glerslípun
+23.1.2.0;Flotgler, skurður og vinnsla
+23.1.2.0;Skurður og vinnsla á flotgleri
+23.1.2.0;Einangrunargler, framleiðsla
+23.1.2.0;Speglar, framleiðsla
+23.1.2.0;Speglar, slípun og skurður
+23.1.2.0;Rúðugler, framleiðsla
+23.1.2.0;Rúðugler, slípun
+23.1.2.0;Ljósagler, framleiðsla
+23.1.2.0;Ljósagler, slípun
+23.1.3.0;Könnur úr gleri eða kristal, framleiðsla
+23.1.3.0;Könnur, gler, framleiðsla
+23.1.3.0;Skálar, gler eða kristal, framleiðsla
+23.1.3.0;Framleiðsla á glerílátum
+23.1.3.0;Flöskur úr gleri eða kristal, framleiðsla
+23.1.3.0;Flöskur, gler, framleiðsla
+23.1.3.0;Glerblástur
+23.1.3.0;Glerílát, framleiðsla
+23.1.3.0;Glermunir, blásnir, framleiðsla
+23.1.3.0;Glös úr gleri eða kristal, framleiðsla
+23.1.3.0;Glös, framleiðsla
+23.1.3.0;Ílát úr gleri eða kristal, framleiðsla
+23.1.4.0;Glertrefjar, framleiðsla
+23.1.4.0;Glerull, framleiðsla
+23.1.4.0;Framleiðsla á glertrefjum
+23.1.9.0;Framleiðsla og vinnsla á öðru gleri, þ.m.t. glervara til tæknilegra nota
+23.1.9.0;Glerrör, framleiðsla
+23.1.9.0;Glereinangrarar, framleiðsla
+23.1.9.0;Glerstangir, framleiðsla
+23.1.9.0;Glersteinar, framleiðsla
+23.1.9.0;Glerstyttur, framleiðsla
+23.1.9.0;Gler í úr og klukkur, framleiðsla
+23.1.9.0;Flísar, gler, framleiðsla
+23.1.9.0;Sjóngler, frumvinnsla
+23.1.9.0;Stangir, gler, framleiðsla
+23.1.9.0;Úrgler, framleiðsla
+23.1.9.0;Klukkugler, framleiðsla
+23.1.9.0;Lyfjavörur úr gleri, framleiðsla
+23.1.9.0;Rör úr gleri, framleiðsla
+23.1.9.0;Rannsóknartæki úr gleri, framleiðsla
+23.2.0.0;Rör úr eldföstum leir, framleiðsla
+23.2.0.0;Múrsteinar, eldfastir, framleiðsla
+23.2.0.0;Steinlím, eldfast, framleiðsla
+23.2.0.0;Steypa, eldföst, framleiðsla
+23.2.0.0;Flísar, eldfastar, framleiðsla
+23.2.0.0;Flísar úr eldföstum leir, framleiðsla
+23.2.0.0;Hljóðdeyfar úr eldföstum leir, framl.
+23.2.0.0;Framleiðsla á eldföstum vörum
+23.2.0.0;Eldfastar vörur, framleiðsla
+23.2.0.0;Eldföst leirvara, framleiðsla
+23.3.1.0;Framleiðsla á flísum og hellum úr leir
+23.3.1.0;Hellur úr leir eða postulíni, framleiðsla
+23.3.1.0;Flísar úr leir eða postulíni, framleiðsla
+23.3.1.0;Flísar, keramík, óeldfastar, framleiðsla
+23.3.1.0;Gólfflísar, framleiðsla
+23.3.1.0;Steinar í gólf úr leir eða postulíni, framleiðsla
+23.3.1.0;Mósaíkflísar, framleiðsla
+23.3.2.0;Múrsteinar, framleiðsla
+23.3.2.0;Múrsteinar, ekki eldfastir úr leir, framleiðsla
+23.3.2.0;Rör úr brenndum leir, framleiðsla
+23.3.2.0;Tigulsteinar, framleiðsla
+23.3.2.0;Gólfhellur úr brenndum leir, framleiðsla
+23.3.2.0;Hellur í gólf úr brenndum leir, framleiðsla
+23.3.2.0;Framleiðsla á byggingarvörum úr brenndum leir
+23.3.2.0;Byggingarefni, brendur leir, framleiðsla
+23.3.2.0;Byggingarvörur úr brenndum leir, framleiðsla
+23.3.2.0;Þakflísar, framleiðsla
+23.4.1.0;Borðbúnaður, ekki úr góðmálmum, framleiðsla
+23.4.1.0;Borðbúnaður úr leir eða postulíni, framleiðsla
+23.4.1.0;Borðbúnaður úr leir, framleiðsla
+23.4.1.0;Borðbúnaður, keramík, framleiðsla
+23.4.1.0;Baðherbergismunir úr leir eða postulíni, framleiðsla
+23.4.1.0;Framleiðsla á heimilisvörum og skrautmunum úr leir og postulíni
+23.4.1.0;Styttur, keramík, framleiðsla
+23.4.1.0;Styttur úr leir eða postulíni, framleiðsla
+23.4.1.0;Skrautmunir úr leir eða postulíni, framleiðsla
+23.4.1.0;Postulínsmunir, framleiðsla
+23.4.1.0;Nytjaleirmunir, framleiðsla
+23.4.1.0;Leirmunir, framleiðsla
+23.4.2.0;Klósett, keramík, framleiðsla
+23.4.2.0;Salernisskálar úr postulíni, framleiðsla
+23.4.2.0;Skolskálar úr postulíni, framleiðsla
+23.4.2.0;Vaskar, framleiðsla
+23.4.2.0;Framleiðsla á hreinlætistækjum úr leir og postulíni
+23.4.2.0;Baðker úr postulíni, framleiðsla
+23.4.2.0;Baðkör, keramík, framleiðsla
+23.4.2.0;Handlaugar, postulín, framleiðsla
+23.4.2.0;Hreinlætistæki úr leir og postulíni, framleiðsla
+23.4.2.0;Þvagskálar, keramík, framleiðsla
+23.4.3.0;Einangrarar úr leir og postulíni, framleiðsla
+23.4.3.0;Framleiðsla á einangrurum og tengjum úr leir
+23.4.4.0;Framleiðsla á annarri leirvöru til tæknilegra nota
+23.4.4.0;Rannsóknartæki úr leir eða postulíni, framleiðsla
+23.4.4.0;Leirvörur til nota á rannsóknarstofum, framleiðsla
+23.4.4.0;Leirvörur til nota í efnaiðnaði, framleiðsla
+23.4.4.0;Leirvörur til tæknilegra nota, framleiðsla
+23.4.9.0;Leirpottar, framleiðsla
+23.4.9.0;Krukkur úr leir eða postulíni, framleiðsla
+23.4.9.0;Pottar úr leir eða postulíni, framleiðsla
+23.4.9.0;Skálar, leir, framleiðsla
+23.4.9.0;Framleiðsla á öðrum leirvörum
+23.5.1.0;Sementsframleiðsla
+23.5.1.0;Álsement, framleiðsla
+23.5.1.0;Sement, framleiðsla
+23.5.1.0;Portlandsement, framleiðsla
+23.5.2.0;Brennt dólómít, framleiðsla
+23.5.2.0;Kalk- og gifsframleiðsla
+23.5.2.0;Hýdrólískt kalk, framleiðsla
+23.5.2.0;Kalk, framleiðsla
+23.5.2.0;Kalkframleiðsla
+23.5.2.0;Gifs, framleiðsla
+23.6.1.0;Flísar úr steinsteypu, framleiðsla
+23.6.1.0;Forsmíðaðar byggingareiningar úr steinsteypu, framleiðsla
+23.6.1.0;Kantsteinar úr steinsteypu, framleiðsla
+23.6.1.0;Húseiningar úr steinsteypu, framleiðsla
+23.6.1.0;Hellur úr steinsteypu, framleiðsla
+23.6.1.0;Framleiðsla á byggingarefni úr steinsteypu
+23.6.1.0;Byggingareiningar úr steinsteypu, framleiðsla
+23.6.1.0;Rör, steypa, framleiðsla
+23.6.1.0;Rör úr steinsteypu, framleiðsla
+23.6.1.0;Múrsteinar úr steinsteypu, framleiðsla
+23.6.1.0;Steypueiningaverksmiðjur
+23.6.1.0;Steypuvörur, framleiðsla
+23.6.2.0;Byggingarefni, gifs, framleiðsla
+23.6.2.0;Byggingarefni úr gifsi, framleiðsla
+23.6.2.0;Framleiðsla á byggingarefni úr gifsi
+23.6.2.0;Gifsplötur, framleiðsla
+23.6.2.0;Þiljur úr gifsi, framleiðsla
+23.6.3.0;Framleiðsla á tilbúinni steinsteypu
+23.6.3.0;Byggingarefni, steypa, framleiðsla
+23.6.3.0;Steypustöðvar
+23.6.3.0;Steypa, framleiðsla
+23.6.3.0;Steinsteypa, framleiðsla
+23.6.4.0;Steinlím í duftformi, framleiðsla
+23.6.4.0;Framleiðsla á steinlími
+23.6.5.0;Framleiðsla á vörum úr trefjasementi
+23.6.5.0;Byggingarefni úr trefjasementi, framleiðsla
+23.6.5.0;Byggingarefni, jurtahlutir, framleiðsla
+23.6.5.0;Eldhúsvaskar, trefjasement, framleiðsla
+23.6.5.0;Trefjasement, framleiðsla
+23.6.5.0;Trefjasementvörur, framleiðsla
+23.6.5.0;Plötur úr trefjasementi, framleiðsla
+23.6.5.0;Rör úr trefjasementi, framleiðsla
+23.6.5.0;Rör, sellulósasement, framleiðsla
+23.6.5.0;Plötur, sellulósasement, framleiðsla
+23.6.5.0;Krukkur úr trefjasementi, framleiðsla
+23.6.5.0;Þaksteinar úr trefjasementi, framleiðsla
+23.6.9.0;Vasar úr steypu gifsi o.þ.h., framleiðsla
+23.6.9.0;Styttur úr steypu, gifsi o.þ.h., framleiðsla
+23.6.9.0;Blómapottar úr steypu, gifsi o.þ.h., framleiðsla
+23.6.9.0;Framleiðsla á öðrum vörum úr steinsteypu, sementi og gifsi
+23.6.9.0;Gifsvörur, framleiðsla
+23.7.0.0;Húsgögn úr steini, framleiðsla
+23.7.0.0;Steinsmíði
+23.7.0.0;Legsteinar, framleiðsla
+23.7.0.0;Minjagripir úr steini, framleiðsla
+23.9.1.0;Kórund, tilbúinn, framleiðsla
+23.9.1.0;Slípiefni í duftformi, framleiðsla
+23.9.1.0;Smergilsteinar, framleiðsla
+23.9.1.0;Sandpappír, framleiðsla
+23.9.1.0;Skerpingarsteinar, framleiðsla
+23.9.1.0;Framleiðsla á vörum til slípunar
+23.9.1.0;Hverfisteinar, framleiðsla
+23.9.9.0;Kattarsandur, framleiðsla
+23.9.9.0;Gjallull, framleiðsla
+23.9.9.0;Framleiðsla á öðrum ótöldum vörum úr málmlausum steinefnum
+23.9.9.0;Blómavikur, framleiðsla
+23.9.9.0;Asbestþráður, framleiðsla
+23.9.9.0;Steinull, framleiðsla
+23.9.9.0;Límefni úr bikkenndum efnum, framleiðsla
+23.9.9.0;Malbik, framleiðsla
+23.9.9.0;Malbikunarverksmiðjur
+23.9.9.0;Móvörur, framleiðsla
+23.9.9.0;Mór, framleiðsla
+23.9.9.0;Þakpappi, framleiðsla
+23.9.9.0;Vikurvörur, framleiðsla
+24.1.0.0;Plötur, valsað stál, framleiðsla
+24.1.0.0;Stálplötur, valsaðar, framleiðsla
+24.1.0.0;Spegiljárn, framleiðsla
+24.1.0.0;Endurbræðsla brotajárns
+24.1.0.0;Framleiðsla á járni, stáli og járnblendi
+24.1.0.0;Ferrófosfór, framleiðsla
+24.1.0.0;Ferrómangan, kolefnisríkt, framleiðsla
+24.1.0.0;Járnplötur, valsaðar, framleiðsla
+24.1.0.0;Járnprófílar, valsaðir, framleiðsla
+24.1.0.0;Járnastangir, valsaðar, framleiðsla
+24.1.0.0;Járnblendi, framleiðsla
+24.1.0.0;Járnframleiðsla
+24.1.0.0;Járnsalli, framleiðsla
+24.1.0.0;Hálfunnar vörur úr járni, framleiðsla
+24.1.0.0;Hrástál, framleiðsla
+24.1.0.0;Hrájárn, framleiðsla
+24.2.0.0;Járnrör, ekki steypt, framleiðsla
+24.2.0.0;Framleiðsla á rörum, pípum, holum prófílum og tengihlutum úr stáli
+24.2.0.0;Stálprófílar, valsaðir, framleiðsla
+24.2.0.0;Stálrör, ekki steypt, framleiðsla
+24.2.0.0;Prófílar úr stáli, framleiðsla
+24.2.0.0;Rör, stál, framleiðsla
+24.2.0.0;Röratengi úr járni eða stáli, framleiðsla
+24.2.0.0;Rör úr járni eða stáli, framleiðsla
+24.3.1.0;Stangir, kalddregið stál, framleiðsla
+24.3.1.0;Kalddráttur stanga
+24.3.1.0;Járnastangir, kalddráttur, framleiðsla
+24.3.1.0;Kalddráttur
+24.3.2.0;Kaldvölsun
+24.3.2.0;Járn, kaldvalsað, framleiðsla
+24.3.2.0;Kaldvölsun flatstáls
+24.3.2.0;Stangir, valsað stál, framleiðsla
+24.3.2.0;Stálstangir, valsaðar, framleiðsla
+24.3.2.0;Stál, kaldvalsað, framleiðsla
+24.3.2.0;Stálband, kaldvölsun
+24.3.3.0;Stál, kaldmótun, framleiðsla
+24.3.3.0;Prófílar úr stáli, kaldmótun
+24.3.3.0;Prófílar úr járni, kaldmótun
+24.3.3.0;Kaldmótun
+24.3.3.0;Járn, kaldmótun, framleiðsla
+24.3.4.0;Kalddráttur víra
+24.3.4.0;Stál, kalddráttur, framleiðsla
+24.3.4.0;Stálvír, framleiðsla
+24.3.4.0;Stálþráður, kalddreginn, framleiðsla
+24.3.4.0;Vír úr stáli, framleiðsla
+24.3.4.0;Vír, kalddráttur, framleiðsla
+24.3.4.0;Vírdráttur
+24.4.1.0;Silfur, hrátt, framleiðsla
+24.4.1.0;Platína, hrá, framleiðsla
+24.4.1.0;Platínum, framleiðsla
+24.4.1.0;Framleiðsla góðmálma
+24.4.1.0;Hálfunnar vörur úr eðalmálmum, framleiðsla
+24.4.1.0;Góðmálmar, hráir, framleiðsla
+24.4.1.0;Góðmálmar, framleiðsla
+24.4.1.0;Gull, hrátt, framleiðsla
+24.4.2.0;Flatál, framleiðsla
+24.4.2.0;Álframleiðsla
+24.4.2.0;Alcan
+24.4.2.0;Alcoa
+24.4.2.0;Álvír, framleiðsla
+24.4.2.0;Álmelmi, framleiðsla
+24.4.2.0;Álpappír, framleiðsla
+24.4.2.0;Álplötur, framleiðsla
+24.4.2.0;Ál, framleiðsla
+24.4.2.0;Álblöndur, framleiðsla
+24.4.2.0;Plötur, ál, framleiðsla
+24.4.2.0;Norðurál
+24.4.2.0;Prófílar úr áli, framleiðsla
+24.4.2.0;Rör úr áli, framleiðsla
+24.4.2.0;Röratengi úr áli, framleiðsla
+24.4.2.0;Stangir, ál, framleiðsla
+24.4.2.0;Súrál, framleiðsla
+24.4.2.0;Vír úr áli, framleiðsla
+24.4.3.0;Tin, framleiðsla
+24.4.3.0;Sink, framleiðsla
+24.4.3.0;Blý, framleiðsla
+24.4.3.0;Blý-, sink- og tinframleiðsla
+24.4.4.0;Koparframleiðsla
+24.4.4.0;Kopar, framleiðsla
+24.4.5.0;Krómframleiðsla
+24.4.5.0;Króm, framleiðsla
+24.4.5.0;Króm, frumvinnsla
+24.4.5.0;Mangan, framleiðsla
+24.4.5.0;Mangan, frumvinnsla
+24.4.5.0;Nikkel, framleiðsla
+24.4.5.0;Framleiðsla annarra málma sem ekki innihalda járn
+24.4.6.0;Vinnsla á kjarnorkueldsneyti
+24.4.6.0;Eldsneytisstangir í kjarnkljúfa, framleiðsla
+24.4.6.0;Geislavirk frumefni, framleiðsla
+24.4.6.0;Kjarnorkueldsneyti, framleiðsla
+24.4.6.0;Úran, bræðsla og hreinsun
+24.5.1.0;Steypa, hlutir úr járni
+24.5.1.0;Steypujárnshlutir, framleiðsla
+24.5.1.0;Rör úr steypujárni, framleiðsla
+24.5.1.0;Grájárn, steyptir hlutir, framleiðsla
+24.5.1.0;Járnrör, steypt, framleiðsla
+24.5.1.0;Járnvörur, steyping
+24.5.1.0;Járnsteypa
+24.5.2.0;Stálsteypa
+24.5.2.0;Rör úr steypustáli, framleiðsla
+24.5.2.0;Steypa, hlutir úr stáli
+24.5.2.0;Stálvörur, steypun
+24.5.2.0;Stálrör, steypt, framleiðsla
+24.5.3.0;Steypa, vörur úr léttmálmum
+24.5.3.0;Málmsteypa úr léttmálmum
+24.5.3.0;Steypa léttmálma
+24.5.4.0;Steypa annarra málma sem ekki innihalda járn
+24.5.4.0;Málmsteypa úr þungmálmum
+24.5.4.0;Málmsteypa úr góðmálmum
+24.5.4.0;Rör, blý, framleiðsla
+24.5.4.0;Rör, kopar, framleiðsla
+24.5.4.0;Rör, króm, framleiðsla
+24.5.4.0;Rör, mangan, framleiðsla
+24.5.4.0;Rör, nikkel, framleiðsla
+24.5.4.0;Rör, tin, framleiðsla
+24.5.4.0;Rör, sink, framleiðsla
+24.5.4.0;Plötur, sink, framleiðsla
+24.5.4.0;Plötur, tin, framleiðsla
+24.5.4.0;Plötur, blý, framleiðsla
+24.5.4.0;Plötur, kopar, framleiðsla
+24.5.4.0;Plötur, króm, framleiðsla
+24.5.4.0;Plötur, mangan, framleiðsla
+24.5.4.0;Plötur, nikkel, framleiðsla
+24.5.4.0;Steypa, hlutir úr þungmálmum
+24.5.4.0;Steypa, hlutir úr eðalmálmum
+24.5.4.0;Stangir, kopar, framleiðsla
+24.5.4.0;Stangir, króm, framleiðsla
+24.5.4.0;Stangir, mangan, framleiðsla
+24.5.4.0;Stangir, nikkel, framleiðsla
+25.1.1.0;Skúrar úr málmi, framleiðsla
+25.1.1.0;Samlokuplötur, framleiðsla
+25.1.1.0;Uppsetning málmbygginga, eigin framleiðsla
+25.1.1.0;Möstur, framleiðsla
+25.1.1.0;Klefaeiningar úr málmi, framleiðsla
+25.1.1.0;Klæðningar úr áli, framleiðsla
+25.1.1.0;Kraftsperrur úr stáli eða járni, framleiðsla
+25.1.1.0;Framleiðsla á  burðarvirkjum og byggingareiningum úr málmi
+25.1.1.0;Byggingareiningar úr málmi, framleiðsla
+25.1.1.0;Byggingaríhlutir úr málmi, framleiðsla
+25.1.1.0;Burðarvirki úr málmi, framleiðsla
+25.1.1.0;Burðagrindur úr málmi, framleiðsla
+25.1.1.0;Handrið úr járni, framleiðsla
+25.1.1.0;Forsmíðaðar byggingar að mestu úr járni, framleiðsla
+25.1.1.0;Vinnuskúrar, málmur, framleiðsla
+25.1.2.0;Gluggar, málmur, framleiðsla
+25.1.2.0;Hlerar úr málmi, framleiðsla
+25.1.2.0;Hlið úr málmi, framleiðsla
+25.1.2.0;Hurðir, málmur, framleiðsla
+25.1.2.0;Byggingarvörur úr málmi, framleiðsla
+25.1.2.0;Dyrarammar, málmur, framleiðsla
+25.1.2.0;Framleiðsla á hurðum og gluggum úr málmi
+25.1.2.0;Milliveggir úr málmi, framleiðsla
+25.2.1.0;Miðstöðvarkatlar, framleiðsla
+25.2.1.0;Miðstöðvarofnar, framleiðsla
+25.2.1.0;Framleiðsla á miðstöðvarofnum og -kötlum
+25.2.9.0;Framleiðsla á öðrum geymum, kerum og ílátum úr málmi
+25.2.9.0;Ílát úr málmi, framleiðsla
+25.2.9.0;Ker, geymar o.þ.h. úr málmi
+25.3.0.0;Gufukatlar, framleiðsla
+25.3.0.0;Framleiðsla á gufukötlum, þó ekki miðstöðvarkötlum
+25.3.0.0;Rakagjafar, framleiðsla
+25.4.0.0;Skotfæri, framleiðsla
+25.4.0.0;Skotvopn, framleiðsla
+25.4.0.0;Vopna- og skotfæraframleiðsla
+25.4.0.0;Vopn, framleiðsla
+25.5.0.0;Þrýstismíði, málmar
+25.5.0.0;"Eldsmíði og önnur málmsmíði; sindurmótun"
+25.5.0.0;Eldsmíði
+25.5.0.0;Bárujárn, framleiðsla
+25.5.0.0;Sindurmótun
+25.6.1.0;Sandblástur málma
+25.6.1.0;Rafhúðun málma
+25.6.1.0;Málmhúðun
+25.6.1.0;Lökkun málma
+25.6.1.0;Litun málma
+25.6.1.0;Krómhúðun málma
+25.6.1.0;Meðhöndlun og húðun málma
+25.6.1.0;Galvanísering
+25.6.1.0;Gljáslípun málma
+25.6.1.0;Húðun málma
+25.6.1.0;Hreinsun málma
+25.6.1.0;Herðing málms
+25.6.1.0;Yfirborðsmeðhöndlun á málmi
+25.6.2.0;Fræsing málma
+25.6.2.0;Vélvinnsla málma
+25.6.2.0;Blikksmiðjur
+25.6.2.0;Brýning málma
+25.6.2.0;Logsuða
+25.6.2.0;Málmvinnsla
+25.6.2.0;Rafsuða
+25.6.2.0;Réttingar málma
+25.6.2.0;Rennismíði málma
+25.6.2.0;Slíping málma
+25.6.2.0;Slípun málma
+25.6.2.0;Splæsing málma
+25.6.2.0;Stálsmiðjur
+25.6.2.0;Vélsmiðjur
+25.7.1.0;Sverð, framleiðsla
+25.7.1.0;Skæri, framleiðsla
+25.7.1.0;Rakvélablöð, framleiðsla
+25.7.1.0;Rakhnífar, framleiðsla
+25.7.1.0;Borðbúnaður, framleiðsla
+25.7.1.0;Framleiðsla á hnífapörum, hnífum, skærum, o.þ.h.
+25.7.1.0;Hárklippur, framleiðsla
+25.7.1.0;Hnífapör, framleiðsla
+25.7.2.0;Hengilásar, framleiðsla
+25.7.2.0;Hjarir, framleiðsla
+25.7.2.0;Framleiðsla á lásum og lömum
+25.7.2.0;Lyklar, framleiðsla
+25.7.2.0;Lyklasmíði
+25.7.2.0;Lásar, framleiðsla
+25.7.2.0;Lamir, framleiðsla
+25.7.3.0;Sagarblöð, framleiðsla
+25.7.3.0;Sagir, framleiðsla
+25.7.3.0;Mótakassar, framleiðsla
+25.7.3.0;Skrúfjárn, framleiðsla
+25.7.3.0;Skrúfstykki, framleiðsla
+25.7.3.0;Smíðaverkfæri, framleiðsla
+25.7.3.0;Steðjar, framleiðsla
+25.7.3.0;Framleiðsla á verkfærum, þó ekki vélknúnum
+25.7.3.0;Handverkfæri, framleiðsla
+25.7.3.0;Hamrar, framleiðsla
+25.7.3.0;Garðverkfæri, framleiðsla
+25.7.3.0;Þvingur, framleiðsla
+25.9.1.0;Fötur úr málmi, framleiðsla
+25.9.1.0;Framleiðsla á stáltunnum og svipuðum ílátum
+25.9.1.0;Bakkar úr álpappír, framleiðsla
+25.9.1.0;Brúsar úr málmi, framleiðsla
+25.9.1.0;Dósir úr málmi, framleiðsla
+25.9.1.0;Stálkassar, framleiðsla
+25.9.1.0;Tunnur úr málmi, framleiðsla
+25.9.2.0;Umbúðir úr léttmálmum, framleiðsla
+25.9.2.0;Niðursuðudósir, framleiðsla
+25.9.2.0;Málmlok, framleiðsla
+25.9.2.0;Léttmálmur, umbúðir, framleiðsla
+25.9.2.0;Dósir, málmur, framleiðsla
+25.9.2.0;Framleiðsla á umbúðum úr léttmálmi
+25.9.2.0;Kassar úr léttmálmum, framleiðsla
+25.9.2.0;Öskjur úr léttmálmum, framleiðsla
+25.9.3.0;Vír, vörur úr, framleiðsla
+25.9.3.0;Keðjur, málmur, framleiðsla
+25.9.3.0;Kaðlar úr málmi, framleiðsla
+25.9.3.0;Hnoðnaglar, framleiðsla
+25.9.3.0;Gaddavír, framleiðsla
+25.9.3.0;Girðingarnet, framleiðsla
+25.9.3.0;Grindur, framleiðsla
+25.9.3.0;Gormar, framleiðsla
+25.9.3.0;Fjaðrir fyrir farartæki, framleiðsla
+25.9.3.0;Framleiðsla á keðjum,  fjöðrum og vörum úr vír
+25.9.3.0;Bréfaklemmur úr vír, framleiðsla
+25.9.3.0;Málmkaplar, framleiðsla
+25.9.3.0;Naglar, framleiðsla
+25.9.3.0;Nálar, framleiðsla
+25.9.4.0;Rær, framleiðsla
+25.9.4.0;Skrúfur, framleiðsla
+25.9.4.0;Boltar og skrúfur, framleiðsla
+25.9.4.0;Framleiðsla á boltum og skrúfum
+25.9.9.0;Framleiðsla á öðrum ótöldum málmvörum
+25.9.9.0;Bjöllur úr málmi, framleiðsla
+25.9.9.0;Baðkör, sink, framleiðsla
+25.9.9.0;Akkeri, framleiðsla
+25.9.9.0;Eldhústæki, framleiðsla
+25.9.9.0;Eldhústæki, handknúin, framleiðsla
+25.9.9.0;Eldhúsvaskar, málmur, framleiðsla
+25.9.9.0;Flöskur, málmur, framleiðsla
+25.9.9.0;Hreinlætistæki, málmur, framleiðsla
+25.9.9.0;Handlaugar, stál, framleiðsla
+25.9.9.0;Handlaugar, málmur, framleiðsla
+25.9.9.0;Hitaflöskur, framleiðsla
+25.9.9.0;Kertastjakar, járn, framleiðsla
+25.9.9.0;Katlar úr járni, framleiðsla
+25.9.9.0;Smíðahlutir, sink, framleiðsla
+25.9.9.0;Steikingarpönnur, framleiðsla
+25.9.9.0;Stigar, málmur, framleiðsla
+25.9.9.0;Skilti úr málmi, framleiðsla
+25.9.9.0;Skipsskrúfur, framleiðsla
+25.9.9.0;Vegaskilti, málmur, framleiðsla
+25.9.9.0;Rimlagluggatjöld úr málmi, framleiðsla
+25.9.9.0;Pottar, framleiðsla
+25.9.9.0;Peningaskápar, framleiðsla
+25.9.9.0;Málmstigar, framleiðsla
+25.9.9.0;Krókar, málmur, framleiðsla
+26.1.1.0;Prentrásaspjöld, auð, framleiðsla
+26.1.1.0;Prentarasnúrur, framleiðsla
+26.1.1.0;Rafeindaíhlutir, framleiðsla
+26.1.1.0;Rafeindarör, framleiðsla
+26.1.1.0;Tölvukaplar, framleiðsla
+26.1.1.0;Skjásnúrur, framleiðsla
+26.1.1.0;Snúrur, tölvur, framleiðsla
+26.1.1.0;Hálfleiðarar, framleiðsla
+26.1.1.0;Framleiðsla á rafeindaíhlutum
+26.1.1.0;Viðnám fyrir rafmagn, framleiðsla
+26.1.1.0;Þéttar, fyrir rafeindabúnað, framleiðsla
+26.1.1.0;Örgjörvar, framleiðsla
+26.1.2.0;Framleiðsla á fullbúnum rafeindaspjöldum
+26.1.2.0;Prentrásaspjöld, fullbúin, framleiðsla
+26.2.0.0;Prentarar fyrir tölvur, framleiðsla
+26.2.0.0;Prentarar, framleiðsla
+26.2.0.0;Lyklaborð, framleiðsla
+26.2.0.0;Skjávarpar, framleiðsla
+26.2.0.0;Skannar, framleiðsla
+26.2.0.0;Tölvubúnaður, framleiðsla
+26.2.0.0;Tölvuprentarar, framleiðsla
+26.2.0.0;Tölvur, framleiðsla
+26.2.0.0;Stýripinnar, framleiðsla
+26.2.0.0;Sýndarveruleikahjálmar, framleiðsla
+26.2.0.0;Útstöðvar fyrir tölvur, framleiðsla
+26.2.0.0;Framleiðsla á tölvum og jaðarbúnaði
+26.2.0.0;Hraðbankar, framleiðsla
+26.2.0.0;Geisladrif, framleiðsla
+26.3.0.0;Gervihnattadiskar, framleiðsla
+26.3.0.0;Gagnasamskiptabúnaður, framleiðsla
+26.3.0.0;Fjarskiptabúnaður, framleiðsla
+26.3.0.0;Fjarstýringar, framleiðsla
+26.3.0.0;Farsímar, framleiðsla
+26.3.0.0;Faxtæki, framleiðsla
+26.3.0.0;Framleiðsla fjarskiptabúnaðar
+26.3.0.0;Dyrasími, framleiðsla
+26.3.0.0;Brunaviðvörunarkerfi, framleiðsla
+26.3.0.0;Beinar, framleiðsla
+26.3.0.0;Útvarpssendar, framleiðsla
+26.3.0.0;Símaboðar, framleiðsla
+26.3.0.0;Símar, framleiðsla
+26.3.0.0;Sjónvarpseftirlitskerfi, framleiðsla
+26.3.0.0;Sjónvarpsmyndavélar, framleiðsla
+26.3.0.0;Símsvarar, framleiðsla
+26.3.0.0;Loftnet, framleiðsla
+26.3.0.0;Mótöld, framleiðsla
+26.3.0.0;Þjófavörn, rafknúin, framleiðsla
+26.3.0.0;Viðvörunarkerfi, framleiðsla
+26.4.0.0;Myndbandstæki, framleiðsla
+26.4.0.0;Myndbandstökuvélar, framleiðsla
+26.4.0.0;Mynddiskar, upptökutæki, framleiðsla
+26.4.0.0;Magnarar, framleiðsla
+26.4.0.0;Leikjatölvur, framleiðsla
+26.4.0.0;Sjónvörp, framleiðsla
+26.4.0.0;Segulbandstæki, framleiðsla
+26.4.0.0;Útvörp, framleiðsla
+26.4.0.0;Framleiðsla á sjónvarps-, útvarps- og hljómtækjum og skyldum búnaði
+26.4.0.0;Geisladiskaspilarar, framleiðsla
+26.4.0.0;Hljóðupptökutæki, framleiðsla
+26.4.0.0;Hljómflutningstæki, framleiðsla
+26.4.0.0;Hljómplötuspilarar, framleiðsla
+26.4.0.0;Hljóðmagnarakerfi, framleiðsla
+26.4.0.0;Hljóðnemar, framleiðsla
+26.4.0.0;Hátalarar, framleiðsla
+26.4.0.0;Heyrnartól, framleiðsla
+26.5.1.0;Hitamælar, aðrir, framleiðsla
+26.5.1.0;Hitastillar, framleiðsla
+26.5.1.0;Hreyfiskynjarar, framleiðsla
+26.5.1.0;Jarðsprengjuleitartæki, framleiðsla
+26.5.1.0;Geislskynjarar, framleiðsla
+26.5.1.0;Geislamælar, framleiðsla
+26.5.1.0;GPS-staðsetningartæki, framleiðsla
+26.5.1.0;Framleiðsla á tækjum og búnaði til mælinga, prófana og leiðsögu
+26.5.1.0;Síritar, framleiðsla
+26.5.1.0;Leiðsögubúnaður, framleiðsla
+26.5.1.0;Loftþrýstimælar, framleiðsla
+26.5.1.0;Litrófsmælar, framleiðsla
+26.5.1.0;Mælitæki, framleiðsla
+26.5.1.0;Notkunarmælar, framleiðsla
+26.5.1.0;Prófunarbúnaður, framleiðsla
+26.5.1.0;Ratsjá, framleiðsla
+26.5.1.0;Rakastýrar, framleiðsla
+26.5.2.0;Klukkuvísar, framleiðsla
+26.5.2.0;Klukkuhús, framleiðsla
+26.5.2.0;Klukkusmíði
+26.5.2.0;Úr, framleiðsla
+26.5.2.0;Úrsmíði
+26.5.2.0;Stöðumælar, framleiðsla
+26.5.2.0;Tíma-/dagsetningastimplar, framleiðsla
+26.5.2.0;Tímalásar, framleiðsla
+26.5.2.0;Tímamælar, framleiðsla
+26.5.2.0;Tímarofar, framleiðsla
+26.5.2.0;Framleiðsla á úrum og klukkum
+26.5.2.0;Fjaðrir í úr og klukkur, framleiðsla
+26.6.0.0;Geislunarbúnaður, framleiðsla
+26.6.0.0;Heyrnartæki, framleiðsla
+26.6.0.0;Heilaskannar, framleiðsla
+26.6.0.0;Framleiðsla á búnaði til geislunar, raftækjabúnaði til lækninga og meðferðar
+26.6.0.0;Tölvusneiðmyndatæki, framleiðsla
+26.6.0.0;Segulsneiðmyndatæki, framleiðsla
+26.6.0.0;Raftækjabúnaður til lækninga, framleiðsla
+26.6.0.0;Röntgenbúnaður, framleiðsla
+26.6.0.0;Ómtæki, framleiðsla
+26.6.0.0;Öndunarvélar, framleiðsla
+26.7.0.0;Optísk tæki, framleiðsla
+26.7.0.0;Myndvarpar, framleiðsla
+26.7.0.0;Myndavélar, framleiðsla
+26.7.0.0;Kvikmynda- og skyggnusýningarvélar, framleiðsla
+26.7.0.0;Ljósmyndabúnaður, framleiðsla
+26.7.0.0;Sjónaukar, framleiðsla
+26.7.0.0;Smásjár, optískar, framleiðsla
+26.7.0.0;Skyggnusýningarvélar, framleiðsla
+26.7.0.0;Speglar, optískir, framleiðsla
+26.7.0.0;Framleiðsla á optískum tækjum og ljósmyndabúnaði
+26.8.0.0;Framleiðsla á segul- og optískum miðlum
+26.8.0.0;Harðir diskar, framleiðsla
+26.8.0.0;Hljóðbönd, óátekin, framleiðsla
+26.8.0.0;Seguldiskar, óáteknir, framleiðsla
+26.8.0.0;Segulbönd, óátekin, framleiðsla
+26.8.0.0;Myndbönd, óátekin, framleiðsla
+26.8.0.0;Mynddiskar (dvd), óáteknir, framleiðsla
+27.1.1.0;Rafsuðuspennar, framleiðsla
+27.1.1.0;Rafalar, framleiðsla
+27.1.1.0;Rafhreyflar, framleiðsla
+27.1.1.0;Spennustillar, framleiðsla
+27.1.1.0;Jafnstraumsrafalar, framleiðsla
+27.1.1.0;Framleiðsla á rafhreyflum, rafölum og spennubreytum
+27.1.1.0;Dreifispennar, framleiðsla
+27.1.2.0;Dreifibúnaður fyrir raforku, framleiðsla
+27.1.2.0;Framleiðsla á dreifi- og stjórnbúnaði fyrir raforku
+27.1.2.0;Stjórntöflur, rafmagn, framleiðsla
+27.1.2.0;Rafliðir, framleiðsla
+27.1.2.0;Rafalasamstæður, framleiðsla
+27.1.2.0;Rafskiptibúnaður, framleiðsla
+27.1.2.0;Öryggi fyrir rafmagn, framleiðsla
+27.1.2.0;Öryggi, framleiðsla
+27.2.0.0;Rafgeymar, framleiðsla
+27.2.0.0;Rafhlöður, framleiðsla
+27.2.0.0;Framleiðsla rafhlaðna og rafgeyma
+27.3.1.0;Framleiðsla á ljósleiðaraköplum
+27.3.1.0;Ljósleiðarakaplar, framleiðsla
+27.3.2.0;Framleiðsla á öðrum rafeinda- og rafmagnsvírum og köplum
+27.3.2.0;Kaplar, einangraðir, framleiðsla
+27.3.2.0;Vírar, einangraðir, framleiðsla
+27.3.3.0;Framleiðsla á leiðslubúnaði
+27.3.3.0;Eldingaleiðarar, framleiðsla
+27.3.3.0;Rafmagnsinnstungur, framleiðsla
+27.3.3.0;Rafmagnstenglar, framleiðsla
+27.3.3.0;Perustæði, framleiðsla
+27.4.0.0;Perur, rafmagn, framleiðsla
+27.4.0.0;Raflýsing, framleiðsla
+27.4.0.0;Ljósabúnaður fyrr ökutæki, framleiðsla
+27.4.0.0;Ljósabúnaður, framleiðsla
+27.4.0.0;Ljósakrónur, rafmagn, framleiðsla
+27.4.0.0;Ljósaperur, framleiðsla
+27.4.0.0;Ljósaskilti, framleiðsla
+27.4.0.0;Lugt, reiðhjól, framleiðsla
+27.4.0.0;Lugt, vélhjól, framleiðsla
+27.4.0.0;Lampar, framleiðsla
+27.4.0.0;Lampaskermar, framleiðsla
+27.4.0.0;Skilti, ljós, framleiðsla
+27.4.0.0;Vasaljós, framleiðsla
+27.4.0.0;Útiljós, framleiðsla
+27.4.0.0;Blossaperur, framleiðsla
+27.4.0.0;Boglampar, framleiðsla
+27.4.0.0;Borðlampar, framleiðsla
+27.4.0.0;Framleiðsla á rafljósabúnaði
+27.4.0.0;Kastarar, framleiðsla
+27.4.0.0;Jólatrésseríur, framleiðsla
+27.4.0.0;Glóperur, framleiðsla
+27.4.0.0;Götuljós, framleiðsla
+27.4.0.0;Flúrperur, framleiðsla
+27.5.1.0;Frystar til heimilisnota, framleiðsla
+27.5.1.0;Gufugleypar til heimilisnota, framleiðsla
+27.5.1.0;Grill, rafmagn, framleiðsla
+27.5.1.0;Katlar, rafmagns, til heimilisnota, framleiðsla
+27.5.1.0;Kaffivélar, framleiðsla
+27.5.1.0;Ísskápar til heimilisnota, framleiðsla
+27.5.1.0;Hitunartæki, rafknúin til heimilisnota, framleiðsla
+27.5.1.0;Heimilistæki, rafknúin, framleiðsla
+27.5.1.0;Framleiðsla rafknúinna heimilistækja
+27.5.1.0;Blandarar, heimilisnot, framleiðsla
+27.5.1.0;Eldavélar, framleiðsla
+27.5.1.0;Eldavélar til heimilisnota, framleiðsla
+27.5.1.0;Dósaopnarar, rafknúnir, framleiðsla
+27.5.1.0;Brauðristar, rafknúnar, framleiðsla
+27.5.1.0;Uppþvottavélar fyrir heimili, framleiðsla
+27.5.1.0;Tannburstar, rafknúnir, framleiðsla
+27.5.1.0;Straujárn, rafknúin, framleiðsla
+27.5.1.0;Sorpkvarnir, framleiðsla
+27.5.1.0;Kæliskápar, til heimilisnota, framleiðsla
+27.5.1.0;Krullujárnum, framleiðsla
+27.5.1.0;Loftræstitæki til heimilisnota, framleiðsla
+27.5.1.0;Rafkatlar til heimilisnota, framleiðsla
+27.5.1.0;Rafmagnsteppi, framleiðsla
+27.5.1.0;Rafmagnstæki til heimilisnota, framleiðsla
+27.5.1.0;Rafmagnskatlar til heimilisnota, framleiðsla
+27.5.1.0;Rafmagnsofnar til heimilisnota, framleiðsla
+27.5.1.0;Rafmagnsofnar, framleiðsla
+27.5.1.0;Rakvélar, rafmagnsknúnar, framleiðsla
+27.5.1.0;Ryksugur, framleiðsla
+27.5.1.0;Safapressur til heimilisnota, rafknúnar, framleiðsla
+27.5.1.0;Ofnar til matargerðar, framleiðsla
+27.5.1.0;Örbylgjuofnar, framleiðsla
+27.5.1.0;Þurrkarar, til heimilisnota, framleiðsla
+27.5.1.0;Þvottavélar til heimilisnota, framleiðsla
+27.5.2.0;Ofnar, kola- og olíu, framleiðsla
+27.5.2.0;Olíuofnar, framleiðsla
+27.5.2.0;Kolaofnar, framleiðsla
+27.5.2.0;Eldavélar, ekki rafmagns, framleiðsla
+27.5.2.0;Eldstæði, framleiðsla
+27.5.2.0;Framleiðsla heimilistækja, annarra en rafknúinna
+27.5.2.0;Heimilistæki, ekki rafknúin, framleiðsla
+27.9.0.0;Hleðslutæki fyrir rafhlöður, framleiðsla
+27.9.0.0;Framlengingarsnúrur, framleiðsla
+27.9.0.0;Framleiðsla á öðrum rafbúnaði
+27.9.0.0;Lóðboltar, handstýrðir, framleiðsla
+27.9.0.0;Merkjabúnaður, rafknúinn, framleiðsla
+27.9.0.0;Órjúfanlegir aflgjafar, framleiðsla
+27.9.0.0;Rafseglar, framleiðsla
+27.9.0.0;Rafmagnsbjöllur, framleiðsla
+27.9.0.0;Rafmagnsskilti, framleiðsla
+27.9.0.0;Rafmerkjabúnaður, framleiðsla
+27.9.0.0;Rafeindahraðlar, framleiðsla
+27.9.0.0;Sólarrafhlöður, framleiðsla
+27.9.0.0;Sírenur, rafknúnar, framleiðsla
+27.9.0.0;Umferðarstjórnunarbúnaður, rafrænn, framleiðsla
+28.1.1.0;Túrbínur, framleiðsla
+28.1.1.0;Utanborðsmótorar, framleiðsla
+28.1.1.0;Útblásturslokar í brunahreyfla, framleiðsla
+28.1.1.0;Skipshreyflar, framleiðsla
+28.1.1.0;Soglokar í brunahreyfla, framleiðsla
+28.1.1.0;Stimplar fyrir brunahreyfla, framleiðsla
+28.1.1.0;Framleiðsla hreyfla og hverfla, þó ekki í loftför, ökutæki eða vélhjól
+28.1.1.0;Brunahreyflar, ekki í loftför, bíla og vélhjól, framleiðsla
+28.1.1.0;Blöndungar fyrir brunahreyfla, framleiðsla
+28.1.1.0;Gufuhverflar, framleiðsla
+28.1.1.0;Gashverflar, framleiðsla
+28.1.1.0;Hreyflar í báta og skip, framleiðsla
+28.1.1.0;Hreyflar til iðnaðarnota, framleiðsla
+28.1.1.0;Hverflar, framleiðsla
+28.1.1.0;Vökvahverflar, framleiðsla
+28.1.2.0;Vökvaaflsbúnaður, framleiðsla
+28.1.2.0;Framleiðsla á vökvaaflsbúnaði
+28.1.3.0;Framleiðsla á öðrum dælum og þjöppum
+28.1.3.0;Lofttæmisdælur, framleiðsla
+28.1.3.0;Loftpressur, framleiðsla
+28.1.3.0;Loftpumpur, framleiðsla
+28.1.4.0;Lokar til iðnaðarnota, framleiðsla
+28.1.4.0;Kranar í hitunarkerfi, framleiðsla
+28.1.4.0;Kranar í hreinlætistæki, framleiðsla
+28.1.4.0;Kranar og lokar, framleiðsla
+28.1.4.0;Stjórnlokar, framleiðsla
+28.1.4.0;Ventlar til iðnaðar, framleiðsla
+28.1.4.0;Framleiðsla á krönum og lokum
+28.1.4.0;Inntakslokar, framleiðsla
+28.1.4.0;Hitastillilokar, framleiðsla
+28.1.4.0;Hitaventlar, framleiðsla
+28.1.5.0;Framleiðsla á legum, tannhjólum, drifum og drifbúnaði
+28.1.5.0;Drifbúnaður, framleiðsla
+28.1.5.0;Tannhjól, framleiðsla
+28.1.5.0;Sveifluhjól, framleiðsla
+28.1.5.0;Kúlulegur, framleiðsla
+28.1.5.0;Legur, framleiðsla
+28.2.1.0;Ofnar fyrir iðnaðarnota, framleiðsla
+28.2.1.0;Varmaskiptir, framleiðsla
+28.2.1.0;Bræðsluofnar, framleiðsla
+28.2.1.0;Brennarar, framleiðsla
+28.2.1.0;Brennsluofnar, framleiðsla
+28.2.1.0;Framleiðsla á ofnum, bræðsluofnum og brennurum
+28.2.1.0;Iðnaðarofnar, framleiðsla
+28.2.2.0;Iðnaðarþjarkar, handstýrðir, framleiðsla
+28.2.2.0;Hjólbörur, framleiðsla
+28.2.2.0;Færibönd, framleiðsla
+28.2.2.0;Framleiðsla á lyftitækjum og færslubúnaði
+28.2.2.0;Talíur, framleiðsla
+28.2.2.0;Tjakkar, framleiðsla
+28.2.2.0;Rúllustigar, framleiðsla
+28.2.2.0;Kranar, lyftitæki, framleiðsla
+28.2.2.0;Lyftibúnaður, framleiðsla
+28.2.2.0;Lyftur, framleiðsla
+28.2.3.0;Miðasjálfsalar, framleiðsla
+28.2.3.0;Ljósritunarvélar, framleiðsla
+28.2.3.0;Límbandshaldarar, framleiðsla
+28.2.3.0;Ritvélar, framleiðsla
+28.2.3.0;Reiknivélar, framleiðsla
+28.2.3.0;Peningakassar, framleiðsla
+28.2.3.0;Myntflokkunarvélar, framleiðsla
+28.2.3.0;Tússtöflur, framleiðsla
+28.2.3.0;Talritar, framleiðsla
+28.2.3.0;Vélar fyrir skrifstofur, framleiðsla
+28.2.3.0;Vasareiknir, framleiðsla
+28.2.3.0;Skrifstofuvélar, framleiðsla
+28.2.3.0;Skrifstofuáhöld, framleiðsla
+28.2.3.0;Framleiðsla á skrifstofuvélum og –búnaði, þó ekki tölvum og jaðarbúnaði
+28.2.3.0;Bréfaflokkunarvélar, framleiðsla
+28.2.3.0;Afgreiðslukassar, framleiðsla
+28.2.3.0;Gatarar fyrir skrifstofur, framleiðsla
+28.2.3.0;Frímerkjavélar, framleiðsla
+28.2.3.0;Flokkunarvélar fyrir skrifstofur, framleiðsla
+28.2.3.0;Fjölritunarvélar, framleiðsla
+28.2.3.0;Hraðritunarvélar, framleiðsla
+28.2.3.0;Heftarar, framleiðsla
+28.2.3.0;Yddarar, framleiðsla
+28.2.4.0;Heftibyssur, véldrifnar, framleiðsla
+28.2.4.0;Heflar, framleiðsla
+28.2.4.0;Handverkfæri, vélknúin, framleiðsla
+28.2.4.0;Hjólsagir, framleiðsla
+28.2.4.0;Borhamrar, framleiðsla
+28.2.4.0;Borvélar, framleiðsla
+28.2.4.0;Framleiðsla á aflknúnum handverkfærum
+28.2.4.0;Slípivélar, framleiðsla
+28.2.4.0;Vélsög, framleiðsla
+28.2.4.0;Nagalbyssur, framleiðsla
+28.2.5.0;Loftræstikerfi til iðnaðarnota, framleiðsla
+28.2.5.0;Kælikerfi, ekki til heimilisnota, framleiðsla
+28.2.5.0;Kælitæki til iðnaðarnota, framleiðsla
+28.2.5.0;Framleiðsla á kæli- og loftræstibúnaði, þó ekki til  heimilisnota
+28.2.5.0;Frystikerfi, ekki fyrir heimili, framleiðsla
+28.2.5.0;Frystivélar til iðnaðarnota, framleiðsla
+28.2.9.0;Hallarmál, framleiðsla
+28.2.9.0;Háþrýstidælur, framleiðsla
+28.2.9.0;Framleiðsla á öðrum ótöldum vélum til almennra nota
+28.2.9.0;Málband, framleiðsla
+28.2.9.0;Pökkunarvélar, framleiðsla
+28.2.9.0;Slökkvitæki, framleiðsla
+28.2.9.0;Sprautubyssur, framleiðsla
+28.2.9.0;Sjálfsalar, framleiðsla
+28.2.9.0;Sandblástursvélar, framleiðsla
+28.2.9.0;Vogir, framleiðsla
+28.2.9.0;Þeytivindur, framleiðsla
+28.3.0.0;Sáningarvélar, framleiðsla
+28.3.0.0;Sláttuvélar, framleiðsla
+28.3.0.0;Skurðþreskivélar, framleiðsla
+28.3.0.0;Vélar til flokkunar ávaxta, framleiðsla
+28.3.0.0;Vélar fyrir alifuglvinnslu, framleiðsla
+28.3.0.0;Vélar fyrir eggjavinnslu, framleiðsla
+28.3.0.0;Vélar fyrir forvinnslu grænmetis, framleiðsla
+28.3.0.0;Vélar fyrir fóðurframleiðslu, framleiðsla
+28.3.0.0;Vélar fyrir garðyrkju, framleiðsla
+28.3.0.0;Vélar fyrir landbúnað, framleiðsla
+28.3.0.0;Vélar fyrir skógrækt, framleiðsla
+28.3.0.0;Uppskeruvélar, framleiðsla
+28.3.0.0;Tengivagnar fyrir landbúnað, framleiðsla
+28.3.0.0;Mjaltavélar, framleiðsla
+28.3.0.0;Plógar, framleiðsla
+28.3.0.0;Landbúnaðarvélar, framleiðsla
+28.3.0.0;Framleiðsla á vélum til nota í landbúnaði og skógrækt
+28.3.0.0;Dráttarvélar til landbúnaðarnota, framleiðsla
+28.3.0.0;Áburðadreyfarar, framleiðsla
+28.3.0.0;Jarðvegsvinnuvélar fyrir landbúnað, framleiðsla
+28.3.0.0;Garðsláttuvélar, framleiðsla
+28.4.1.0;Framleiðsla á vélum til mótunar á málmi
+28.4.1.0;Málmvinnsla, vélar fyrir, framleiðsla
+28.4.1.0;Vélar fyrir málmvinnslu, framleiðsla
+28.4.9.0;Smíðavélar fyrir trésmíðaverkstæði
+28.4.9.0;Rafhúðunarvélar, framleiðsla
+28.4.9.0;Framleiðsla á öðrum ótöldum smíðavélum
+28.9.1.0;Framleiðsla á vélum til málmvinnslu
+28.9.1.0;Steypuvélar fyrir málmiðnað, framleiðsla
+28.9.1.0;Vélar fyrir málmvölsun, framleiðsla
+28.9.1.0;Vélar fyrir málmiðnað, framleiðsla
+28.9.1.0;Völsunarvélar, framleiðsla
+28.9.2.0;Vélar fyrir sement, framleiðsla
+28.9.2.0;Vélar til mannvirkjagerðar, framleiðsla
+28.9.2.0;Vélar fyrir steinefnavinnslu, framleiðsla
+28.9.2.0;Vélar fyrir steypuframleiðslu, framleiðsla
+28.9.2.0;Vegheflar, framleiðsla
+28.9.2.0;Steypuvélar, framleiðsla
+28.9.2.0;Steypuhrærivélar, framleiðsla
+28.9.2.0;Stauratogarar, framleiðsla
+28.9.2.0;Mulningsvélar, framleiðsla
+28.9.2.0;Malbikunarvélar, framleiðsla
+28.9.2.0;Framleiðsla á vélum til mannvirkjagerðar, námugraftrar og vinnslu hráefna úr jörðu
+28.9.2.0;Ámokstursvélar, framleiðsla
+28.9.2.0;Dráttarvélar til mannvirkjagerðar, framleiðsla
+28.9.2.0;Gröfur, framleiðsla
+28.9.2.0;Fallhamrar, framleiðsla
+28.9.2.0;Jarðvinnuvélar, framleiðsla
+28.9.2.0;Jarðýtur, framleiðsla
+28.9.2.0;Jarðgangabor, framleiðsla
+28.9.3.0;Bökunarvélar, framleiðsla
+28.9.3.0;Framleiðsla á vélum fyrir matvæla-, drykkjarvöru- og tóbaksvinnslu
+28.9.3.0;Kornmölunarvélar, framleiðsla
+28.9.3.0;Mjólkuriðnaður, vélar fyrir, framleiðsla
+28.9.3.0;Ofnar fyrir bakarí, framleiðsla
+28.9.3.0;Rjómaskilvindur, framleiðsla
+28.9.3.0;Vélar fyrir súkkulaði, framleiðsla
+28.9.3.0;Vélar fyrir mjólkurvinnslu, framleiðsla
+28.9.3.0;Vélar fyrir matvæla, drykkjar- og tóbaksvörur, framleiðsla
+28.9.3.0;Vélar fyrir kjötvinnslu, framleiðsla
+28.9.3.0;Vélar fyrir gosdrykkjaiðnað, framleiðsla
+28.9.3.0;Vélar fyrir bakarí, framleiðsla
+28.9.3.0;Vélar fyrir bjórbruggun, framleiðsla
+28.9.3.0;Vélar fyrir drykkjavörur, framleiðsla
+28.9.3.0;Þurrkvélar, landbúnaður, framleiðsla
+28.9.4.0;Þvottavélar fyrir þvottahús, framleiðsla
+28.9.4.0;Þurrkarar, þvottahús, framleiðsla
+28.9.4.0;Vélar fyrir fataframleiðslu, framleiðsla
+28.9.4.0;Vélar fyrir forvinnslu á textíltrefjum, framleiðsla
+28.9.4.0;Vélar fyrir leðuriðnað, framleiðsla
+28.9.4.0;Vélar fyrir meðhöndlun textíls, framleiðsla
+28.9.4.0;Vélar fyrir vinnslu á húðum, framleiðsla
+28.9.4.0;Vélar fyrir vinnslu á loðskinnum, framleiðsla
+28.9.4.0;Vélar fyrir vinnslu á skinnum, framleiðsla
+28.9.4.0;Vefnaðarvélar, framleiðsla
+28.9.4.0;Textílvélar, framleiðsla
+28.9.4.0;Spunavélar, framleiðsla
+28.9.4.0;Strauvélar fyrir þvottahús, framleiðsla
+28.9.4.0;Saumavélar, framleiðsla
+28.9.4.0;Pressunarvélar fyrir þvottahús, framleiðsla
+28.9.4.0;Prjónavélar, framleiðsla
+28.9.4.0;Framleiðsla á vélum fyrir textíl-, fata- og leðurframleiðslu
+28.9.5.0;Framleiðsla á vélum til pappírs- og pappaframleiðslu
+28.9.5.0;Vélar fyrir pappírsiðnað, framleiðsla
+28.9.6.0;Vélar fyrir plastvinnslu, framleiðsla
+28.9.6.0;Vélar fyrir forvinnslu gúmmís, framleiðsla
+28.9.6.0;Framleiðsla á vélum til plast- og gúmmívinnslu
+28.9.9.0;Framleiðsla á öðrum ótöldum sérhæfðum vélum
+28.9.9.0;Bókbandsvélar, framleiðsla
+28.9.9.0;Iðnþjarkar, framleiðsla
+28.9.9.0;Hringekjur, framleiðsla
+28.9.9.0;Vélar fyrir grafítrafskaut, framleiðsla
+28.9.9.0;Vélar fyrir glervinnslu, framleiðsla
+28.9.9.0;Vélar fyrir röraframleiðslu, framleiðsla
+28.9.9.0;Vélar fyrir múrsteinaframleiðslu, framleiðsla
+28.9.9.0;Vélar fyrir korkvinnslu, framleiðsla
+28.9.9.0;Vélar fyrir þaksteinaframleiðslu, framleiðsla
+28.9.9.0;Sólbaðsbekkir, framleiðsla
+28.9.9.0;Prentvélar, framleiðsla
+29.1.0.0;Slökkvibílar, framleiðsla
+29.1.0.0;Strætisvagnar, framleiðsla
+29.1.0.0;Steypubílar, framleiðsla
+29.1.0.0;Vélsleðar, framleiðsla
+29.1.0.0;Vélknúin ökutæki, framleiðsla
+29.1.0.0;Undirvagnar ökutækja, framleiðsla
+29.1.0.0;Torfæruökutæki, framleiðsla
+29.1.0.0;Hreyflar í vörubíla, framleiðsla
+29.1.0.0;Hreyflar í ökutæki, framleiðsla
+29.1.0.0;Fólksbílar, framleiðsla
+29.1.0.0;Götusópar, framleiðsla
+29.1.0.0;Golfbílar, framleiðsla
+29.1.0.0;Bílaverksmiðjur
+29.1.0.0;Áætlunarbifreiðar, framleiðsla
+29.1.0.0;Framleiðsla vélknúinna ökutækja
+29.1.0.0;Vörubílar, framleiðsla
+29.1.0.0;Vöruflutningabifreiðar, framleiðsla
+29.2.0.0;Vörubílapallar, framleiðsla
+29.2.0.0;Yfirbyggingar ökutækja, framleiðsla
+29.2.0.0;Ökumannshús, framleiðsla
+29.2.0.0;Smíði yfirbygginga fyrir vélknúin ökutæki og framleiðsla tengivagna
+29.2.0.0;Gámar til flutninga, framleiðsla
+29.2.0.0;Flutningsgámar, framleiðsla
+29.2.0.0;Hjólhýsi, framleiðsla
+29.2.0.0;Tjaldvagnar, framleiðsla
+29.2.0.0;Tengivagnar, framleiðsla
+29.3.1.0;Segulkveikjur, framleiðsla
+29.3.1.0;Sírenur í bíla, framleiðsla
+29.3.1.0;Rafalar fyrir ökutæki, framleiðsla
+29.3.1.0;Rafmagnskveikjur, framleiðsla
+29.3.1.0;Kveikjukerti, framleiðsla
+29.3.1.0;Kveikjur fyrir brunahreyfla, framleiðsla
+29.3.1.0;Kveikjurafalar, framleiðsla
+29.3.1.0;Framleiðsla á raf- og rafeindabúnaði í vélknúin ökutæki og hreyfla þeirra
+29.3.1.0;Bílflautur, framleiðsla
+29.3.1.0;Bílljós, framleiðsla
+29.3.1.0;Þurrkublöð, framleiðsla
+29.3.1.0;Þjófavarnarkerfi fyrir bíla, framleiðsla
+29.3.2.0;Öryggisbelti, framleiðsla
+29.3.2.0;Öxlar, framleiðsla
+29.3.2.0;Bílsæti, framleiðsla
+29.3.2.0;Bílhurðir, framleiðsla
+29.3.2.0;Aukahlutir í bíla, framleiðsla
+29.3.2.0;Bremsur, ökutæki, framleiðsla
+29.3.2.0;Framleiðsla á öðrum íhlutum og aukabúnaði í vélknúin ökutæki og hreyfla þeirra
+29.3.2.0;Hjól fyrir vélknúin farartæki, framleiðsla
+29.3.2.0;Hljóðkútar fyrir bíla, framleiðsla
+29.3.2.0;Hljóðkútar, ökutæki, framleiðsla
+29.3.2.0;Hreyfilhlutar í vélhjólahreyfla, framleiðsla
+29.3.2.0;Hemlar fyrir bíla, framleiðsla
+29.3.2.0;Íhlutir í bíla, framleiðsla
+29.3.2.0;Hvarfakútar fyrir ökutæki, framleiðsla
+29.3.2.0;Hurðir í bíla, framleiðsla
+29.3.2.0;Gírkassar fyrir ökutæki, framleiðsla
+29.3.2.0;Loftpúðar, framleiðsla
+29.3.2.0;Stuðarar á ökutæki, framleiðsla
+29.3.2.0;Snjókeðjur, framleiðsla
+29.3.2.0;Tengsl fyrir ökutæki, framleiðsla
+29.3.2.0;Stýrishjól fyrir ökutæki, framleiðsla
+29.3.2.0;Stýrisvélar fyrir bíla, framleiðsla
+29.3.2.0;Útblástursrör, framleiðsla
+29.3.2.0;Vatnskassar, ökutæki, framleiðsla
+30.1.1.0;Verksmiðjuskip, smíði
+30.1.1.0;Svifnökkvar, smíði
+30.1.1.0;Tankskip, smíði
+30.1.1.0;Skipasmíðastöðvar
+30.1.1.0;Skip, breytingar
+30.1.1.0;Skip, smíði
+30.1.1.0;Prammar, framleiðsla
+30.1.1.0;Flutningaskip, smíði
+30.1.1.0;Flotkranar, framleiðsla
+30.1.1.0;Fljótandi landgöngubrýr, framleiðsla
+30.1.1.0;Flotbryggjur, framleiðsla
+30.1.1.0;Fiskiskip, smíði
+30.1.1.0;Ferjur, smíði
+30.1.1.0;Herskip, smíði
+30.1.1.0;Smíði skipa og annarra fljótandi mannvirkja
+30.1.1.0;Dráttarbátar, smíði
+30.1.1.0;Borpallar, smíði
+30.1.2.0;Bátasmíði
+30.1.2.0;Árabátar, smíði
+30.1.2.0;Smíði skemmti- og sportbáta
+30.1.2.0;Kanóar, smíði
+30.1.2.0;Skemmti- og sportbátar, smíði
+30.1.2.0;Sjóþotur, framleiðsla
+30.1.2.0;Seglbátar, smíði
+30.1.2.0;Uppblásanlegir bátar eða flekar, framleiðsla
+30.2.0.0;Merkjabúnaður, vélknúinn, framleiðsla
+30.2.0.0;Lestarsæti, framleiðsla
+30.2.0.0;Hjól fyrir járnbrautavagna, framleiðsla
+30.2.0.0;Farþegavagnar, lestir framleiðsla
+30.2.0.0;Framleiðsla eimreiða og járnbrautarvagna
+30.2.0.0;Eimreiðar, framleiðsla
+30.2.0.0;Vöruflutningavagnar, lestir, framleiðsla
+30.3.0.0;Þyrlur, smíði
+30.3.0.0;Framleiðsla á loft- og geimförum og tengdum vélbúnaði
+30.3.0.0;Flugmótorar, framleiðsla
+30.3.0.0;Flugvélar, framleiðsla
+30.3.0.0;Flugvélaverksmiðjur
+30.3.0.0;Gervitungl, framleiðsla
+30.3.0.0;Gervihnettir, framleiðsla
+30.3.0.0;Geimfarartæki, framleiðsla
+30.3.0.0;Grannskoðun flugvéla
+30.3.0.0;Hreyflar í loftför, framleiðsla
+30.3.0.0;Lendingarbúnaður, flug, framleiðsla
+30.3.0.0;Lofstskip, framleiðsla
+30.3.0.0;Loftbelgir, framleiðsla
+30.3.0.0;Svifdrekar, framleiðsla
+30.3.0.0;Svifflugur, framleiðsla
+30.3.0.0;Skrúfur, flug, framleiðsla
+30.4.0.0;Hernaðarökutæki, framleiðsla
+30.4.0.0;Framleiðsla á hernaðarökutækjum
+30.9.1.0;Framleiðsla vélhjóla
+30.9.1.0;Hreyflar í vélhjól, framleiðsla
+30.9.1.0;Skellinöðrur, framleiðsla
+30.9.1.0;Vélhjól, framleiðsla
+30.9.2.0;Reiðhjól, framleiðsla
+30.9.2.0;Hjólastólar, framleiðsla
+30.9.2.0;Farartæki fyrir hreyfihamlaða, framleiðsla
+30.9.2.0;Framleiðsla á reiðhjólum, barnavögnum og farartækjum fyrir hreyfihamlaða
+30.9.2.0;Barnakerrur, framleiðsla
+30.9.2.0;Barnavagnar, framleiðsla
+30.9.9.0;Framleiðsla annarra ótaldra farartækja
+30.9.9.0;Farangurskerrur, framleiðsla
+30.9.9.0;Hestakerrur, framleiðsla
+30.9.9.0;Handvagnar, framleiðsla
+30.9.9.0;Innkaupakerrur, framleiðsla
+30.9.9.0;Vagnar, handdregnir, framleiðsla
+31.0.1.0;Verslunarhúsgögn, framleiðsla
+31.0.1.0;Sýningarkassar, framleiðsla
+31.0.1.0;Sýningarskápar í verslanir, framleiðsla
+31.0.1.0;Skrifstofuhúsgögn, framleiðsla
+31.0.1.0;Skrifborð fyrir skrifstofur, framleiðsla
+31.0.1.0;Skólahúsgögn, framleiðsla
+31.0.1.0;Lagerinnréttingar, framleiðsla
+31.0.1.0;Húsgögn fyrir atvinnuhúsæði, framleiðsla
+31.0.1.0;Hillur í verslanir, framleiðsla
+31.0.1.0;Framleiðsla á húsgögnum og innréttingum fyrir atvinnuhúsnæði
+31.0.1.0;Afgreiðsluborð, framleiðsla
+31.0.1.0;Búðarborð, framleiðsla
+31.0.2.0;Eldhúsinnréttingar, framleiðsla
+31.0.2.0;Framleiðsla á húsgögnum og innréttingum í eldhús
+31.0.3.0;Framleiðsla á dýnum
+31.0.3.0;Dýnur, framleiðsla
+31.0.3.0;Gúmmísvampdýnur, framleiðsla
+31.0.3.0;Rúmbotnar, framleiðsla
+31.0.3.0;Rúmdýnur, framleiðsla
+31.0.3.0;Svampdýnur, framleiðsla
+31.0.9.0;Svefnsófar, framleiðsla
+31.0.9.0;Sjónvarpsskápar, framleiðsla
+31.0.9.0;Sófar, framleiðsla
+31.0.9.0;Stofuborð, framleiðsla
+31.0.9.0;Stólar, framleiðsla
+31.0.9.0;Rúm, framleiðsla
+31.0.9.0;Kommóður, framleiðsla
+31.0.9.0;Garðhúsgögn, framleiðsla
+31.0.9.0;Fataskápar, framleiðsla
+31.0.9.0;Húsgagnalökkun
+31.0.9.0;Húsgagnasmiðir
+31.0.9.0;Húsgögn, yfirborðsmeðferð
+31.0.9.0;Bókaskápar, framleiðsla
+31.0.9.0;Borðstofuborð, framleiðsla
+31.0.9.0;Borð fyrir heimili, framleiðsla
+31.0.9.0;Framleiðsla á öðrum húsgögnum og innréttingum
+32.1.1.0;Myntslátta
+32.1.1.0;Heiðurspeningar, framleiðsla
+32.1.1.0;Mynt, framleiðsla
+32.1.2.0;Perlur, unnar, framleiðsla
+32.1.2.0;Leturgröftur
+32.1.2.0;Leturgröftur á gull- og silfurmuni
+32.1.2.0;Silfursmíði
+32.1.2.0;Skrifborðsgripir úr gulli eða silfri, framleiðsla
+32.1.2.0;Skartgripasmiðir
+32.1.2.0;Skartgripasmíði úr góðmálmum
+32.1.2.0;Verðlaunapeningar, framleiðsla
+32.1.2.0;Viðgerðir á gull- og silfurmunum
+32.1.2.0;Úrólar, úr góðmálmi, framleiðsla
+32.1.2.0;Hálfeðalsteinar, framleiðsla
+32.1.2.0;Gullsmíðaverkstæði
+32.1.2.0;Gullsmíði
+32.1.2.0;Skartgripasmíði og skyld framleiðsla
+32.1.2.0;Borðbúnaður úr silfri, framleiðsla
+32.1.2.0;Eðalsteinar, slípun
+32.1.2.0;Demantaslípun
+32.1.2.0;Viðgerðir á skartgripum
+32.1.3.0;Framleiðsla á óekta skartgripum og skyldum vörum
+32.1.3.0;Úrólar, úr málmi, framleiðsla
+32.1.3.0;Skartgripasmíði úr öðru en góðmálmum
+32.1.3.0;Óekta skartgripir, framleiðsla
+32.2.0.0;Píanó, framleiðsla
+32.2.0.0;Strengjahljóðfæri, framleiðsla
+32.2.0.0;Spiladósir, framleiðsla
+32.2.0.0;Taktmælar, framleiðsla
+32.2.0.0;Tónkvísl, framleiðsla
+32.2.0.0;Hljóðfærasmíði
+32.2.0.0;Blásturshljóðfæri, framleiðsla
+32.2.0.0;Ásláttarhljóðfæri, framleiðsla
+32.2.0.0;Hljóðfæri, framleiðsla
+32.3.0.0;Hjólaskautar, framleiðsla
+32.3.0.0;Hlaupabretti, framleiðsla
+32.3.0.0;Íþróttahanskar, framleiðsla
+32.3.0.0;Íþróttavörur, framleiðsla
+32.3.0.0;Íþróttabúnaður, framleiðsla
+32.3.0.0;Fimleikatæki, framleiðsla
+32.3.0.0;Battar, framleiðsla
+32.3.0.0;Bogar, framleiðsla
+32.3.0.0;Boltar fyrir íþróttir, framleiðsla
+32.3.0.0;Brimbretti, framleiðsla
+32.3.0.0;Framleiðsla á íþróttavörum
+32.3.0.0;Veiðibúnaður fyrir dýraveiðar, framleiðsla
+32.3.0.0;Veiðibúnaður fyrir stangaveiði, framleiðsla
+32.3.0.0;Veiðistangir, framleiðsla
+32.3.0.0;Veiðivörur, framleiðsla
+32.3.0.0;Sportveiðibúnaður, framleiðsla
+32.3.0.0;Sportvörugerð
+32.3.0.0;Skautar, framleiðsla
+32.3.0.0;Skíðaskór, framleiðsla
+32.3.0.0;Skíði, framleiðsla
+32.3.0.0;Seglbretti, framleiðsla
+32.4.0.0;Sjálfsalaleiktæki, framleiðsla
+32.4.0.0;Skáktölvur, framleiðsla
+32.4.0.0;Spilakassar, framleiðsla
+32.4.0.0;Spil, framleiðsla
+32.4.0.0;Módel, leikföng, framleiðsla
+32.4.0.0;Púsluspil, framleiðsla
+32.4.0.0;Rafræn spil, framleiðsla
+32.4.0.0;Kubbar, leikföng, framleiðsla
+32.4.0.0;Leikföng, framleiðsla
+32.4.0.0;Framleiðsla á spilum og leikföngum
+32.4.0.0;Dúkkur, framleiðsla
+32.4.0.0;Borðspil, framleiðsla
+32.4.0.0;Billjarðsborð, framleiðsla
+32.4.0.0;Þríhjól, framleiðsla
+32.5.0.0;Bæklunarlækningar, búnaður til, framleiðsla
+32.5.0.0;Framleiðsla á tækjum og vörum til lækninga og tannlækninga
+32.5.0.0;Gervilíkamshlutar, framleiðsla
+32.5.0.0;Gervitennur, framleiðsla
+32.5.0.0;Gleraugu, framleiðsla
+32.5.0.0;Hækjur, framleiðsla
+32.5.0.0;Hlífðargleraugu, framleiðsla
+32.5.0.0;Holleggir til læknisnota, framleiðsla
+32.5.0.0;Hjartagangráðar, framleiðsla
+32.5.0.0;Hitamælar, lækninga, framleiðsla
+32.5.0.0;Heyrnartæki, framleiðsla
+32.5.0.0;Lækningatæki, framleiðsla
+32.5.0.0;Nálar til lækninganota, framleiðsla
+32.5.0.0;Speglar, til læknisnota, framleiðsla
+32.5.0.0;Sótthreinsunartæki, framleiðsla
+32.5.0.0;Sólgleraugu, framleiðsla
+32.5.0.0;Snertilinsur, framleiðsla
+32.5.0.0;Sprautur, til lækninganota, framleiðsla
+32.5.0.0;Stoðtæki, framleiðsla
+32.5.0.0;Sjúkrahúsrúm, framleiðsla
+32.5.0.0;Sjúkraumbúðir, framleiðsla
+32.5.0.0;Tannlæknastólar, framleiðsla
+32.5.0.0;Tannlækningaáhöld, framleiðsla
+32.5.0.0;Tannsement, framleiðsla
+32.5.0.0;Tannsmíðar
+32.5.0.0;Tannsmíðastofur
+32.9.1.0;Tannburstar, framleiðsla
+32.9.1.0;Uppþvottaburstar, framleiðsla
+32.9.1.0;Skóburstar, framleiðsla
+32.9.1.0;Málningarpenslar, framleiðsla
+32.9.1.0;Málararúllur, framleiðsla
+32.9.1.0;Málarapenslar, framleiðsla
+32.9.1.0;Kústar, framleiðsla
+32.9.1.0;Fataburstar, framleiðsla
+32.9.1.0;Framleiðsla á sópum og burstum
+32.9.1.0;Burstagerð
+32.9.1.0;Burstar, framleiðsla
+32.9.9.0;Björgunarvesti úr korki, framleiðsla
+32.9.9.0;Blekpúðar, framleiðsla
+32.9.9.0;Blómakörfur, framleiðsla
+32.9.9.0;Blýantar, framleiðsla
+32.9.9.0;Önnur ótalin framleiðsla
+32.9.9.0;Eyrnatappar, framleiðsla
+32.9.9.0;Fiskabúr, framleiðsla
+32.9.9.0;Gínur
+32.9.9.0;Gerviblóm, framleiðsla
+32.9.9.0;Gasgrímur, framleiðsla
+32.9.9.0;Göngustafir, framleiðsla
+32.9.9.0;Greiður, framleiðsla
+32.9.9.0;Hárspennur, framleiðsla
+32.9.9.0;Hárkollur, framleiðsla
+32.9.9.0;Hárgreiður, framleiðsla
+32.9.9.0;Hnattlíkön, framleiðsla
+32.9.9.0;Hlífðarfatnaður, framleiðsla
+32.9.9.0;Ilmúðarar, framleiðsla
+32.9.9.0;Kerti, framleiðsla
+32.9.9.0;Kúlupennar, framleiðsla
+32.9.9.0;Kveikjarar, framleiðsla
+32.9.9.0;Líkkistur, framleiðsla
+32.9.9.0;Pennar, framleiðsla
+32.9.9.0;Partývörur, framleiðsla
+32.9.9.0;Regnhlífar, framleiðsla
+32.9.9.0;Reykjarpípur, framleiðsla
+32.9.9.0;Rennilásar, framleiðsla
+32.9.9.0;Skrautvarningur, framleiðsla
+32.9.9.0;Sígarettukveikjarar, framleiðsla
+32.9.9.0;Stimplagerð, dagsetningar- og númerastimplar
+32.9.9.0;Sólhlífar, aðrar, framleiðsla
+32.9.9.0;Uppstoppun dýra
+32.9.9.0;Útstillingargínur, framleiðsla
+32.9.9.0;Tölur, framleiðsla
+32.9.9.0;Þurrkuð blóm, framleiðsla
+33.1.1.0;Skotvopn, viðgerð
+33.1.1.0;Rakagjafar, viðgerð
+33.1.1.0;Málmvörur, viðgerð
+33.1.1.0;Málmsmíðaviðgerðir
+33.1.1.0;Miðstöðvarofnar, viðgerð
+33.1.1.0;Viðgerðir á málmvörum
+33.1.2.0;Viðgerðir á vélbúnaði
+33.1.2.0;Drifbúnaður, viðgerð
+33.1.2.0;Díselhreyflar í skip og báta, viðgerðir
+33.1.2.0;Frystivélar til iðnaðarnota, viðgerð
+33.1.2.0;Ljósritunarvélar, viðgerð
+33.1.2.0;Ritvélar, viðgerð
+33.1.2.0;Skipshreyflar, viðgerðir
+33.1.2.0;Sjálfsalar, viðgerð og viðhald
+33.1.2.0;Utanborðsmótorar, viðgerðir
+33.1.2.0;Ventlar, viðgerð og viðhald
+33.1.2.0;Vélar, viðgerð
+33.1.2.0;Vélar fyrir matvæla- og drykkjarvöruiðnað, viðgerð
+33.1.2.0;Vélar fyrir skógrækt, viðgerð
+33.1.2.0;Viðhald á frystivélum
+33.1.2.0;Viðhald skipshreyfla
+33.1.3.0;Rafeindabúnaður, viðgerð
+33.1.3.0;Optísk tæki, viðgerð
+33.1.3.0;Geislunartæki, viðgerð og viðhald
+33.1.3.0;Heyrnartæki, viðgerð
+33.1.3.0;Hjartagangráðar, viðgerð
+33.1.3.0;Viðgerðir á rafeindabúnaði og optískum tækjum
+33.1.4.0;Viðgerðir á rafbúnaði
+33.1.4.0;Dreifispennar, viðgerð
+33.1.4.0;Rafbúnaður, viðgerð
+33.1.4.0;Rafliðir, viðgerð
+33.1.5.0;Skip, viðgerð og viðhald
+33.1.5.0;Bátar, viðgerð
+33.1.5.0;Viðgerðir og viðhald á skipum og bátum
+33.1.6.0;Viðgerðir og viðhald á loftförum og geimförum
+33.1.6.0;Flugmótorar, viðgerð
+33.1.6.0;Loftför, viðgerð og viðhald
+33.1.7.0;Járnbrautir, viðgerðir
+33.1.7.0;Viðgerðir og viðhald á öðrum ótöldum flutningatækjum
+33.1.9.0;Viðgerðir á öðrum búnaði
+33.1.9.0;Kaðlar, viðgerð
+33.1.9.0;Kúluspil, viðgerð
+33.1.9.0;Orgel, viðgerð
+33.1.9.0;Netaverkstæði
+33.1.9.0;Veiðarfæri, viðgerð
+33.1.9.0;Trébretti, viðgerð/uppsetning
+33.2.0.0;Vélar, uppsetning
+33.2.0.0;Vélar og búnaður, til atvinnunota, uppsetning
+33.2.0.0;Keilubrautir, uppsetning
+33.2.0.0;Iðnaðarvélar, uppsetning
+33.2.0.0;Hitastillar, uppsetning
+33.2.0.0;Uppsetning á vélum og búnaði til nota í atvinnuskyni
+35.1.1.0;Framleiðsla rafmagns
+35.1.1.0;Rafmagn, framleiðsla
+35.1.1.0;Landsvirkjun
+35.1.2.0;Rafmagn, flutningur
+35.1.2.0;Flutningur rafmagns
+35.1.3.0;Dreifing rafmagns
+35.1.3.0;Rafmagn, dreifing
+35.1.4.0;Rafmagn, viðskipti með
+35.1.4.0;Viðskipti með rafmagn
+35.2.1.0;Gasframleiðsla
+35.2.1.0;Gas, framleiðsla
+35.2.2.0;Gas, dreifing
+35.2.2.0;Dreifing á loftkenndu eldsneyti um leiðslur
+35.2.3.0;Viðskipti með gas um leiðslur
+35.2.3.0;Gas, viðskipti með
+35.3.0.0;Hitaveitur
+35.3.0.0;Hitaveita
+35.3.0.0;Orkuveita
+36.0.0.0;Vatnsveitur
+36.0.0.0;Vatnsveita, öflun og meðferð vatns
+37.0.0.0;Fráveita
+37.0.0.0;Holræsi, viðhald
+37.0.0.0;Frárennslisrör, viðhald og hreinsun
+37.0.0.0;Fráveitur
+37.0.0.0;Skólphreinsistöðvar, rekstur
+37.0.0.0;Rotþrær, tæming
+38.1.1.0;Sorpílát, tæming
+38.1.1.0;Úrgangur, ekki hættulegur, söfnun
+38.1.1.0;Söfnun hættulítils sorps
+38.1.2.0;Söfnun hættulegs úrgangs
+38.1.2.0;Úrgangur, hættulegur, söfnun
+38.2.1.0;Sorpstöðvar, Sorpa
+38.2.1.0;Sorp, hættulítið, meðhöndlun og förgun
+38.2.1.0;Sorpbrennslustöðvar
+38.2.1.0;Meðhöndlun og förgun hættulítils sorps
+38.2.2.0;Meðhöndlun og förgun hættulegs úrgangs
+38.2.2.0;Förgun hættulegs úrgangs
+38.2.2.0;Sorp, hættulegt, meðhöndlun og förgun
+38.2.2.0;Kjarnorkuúrgangur, meðhöndlun
+38.3.1.0;Niðurrif, bílar
+38.3.1.0;Skip, niðurrif
+38.3.1.0;Niðurrif á ónýtum hlutum
+38.3.2.0;Endurnýting flokkaðra efna
+38.3.2.0;Málmúrgangur, tæting
+39.0.0.0;Mengunarvarnir
+39.0.0.0;Olíumengun, hreinsun
+39.0.0.0;Afmengun og önnur þjónusta við meðhöndlun úrgangs
+39.0.0.0;Afmengun
+39.0.0.0;Asbest, fjarlæging
+39.0.0.0;Eiturefni, fjarlæging
+39.0.0.0;Grunnvatn, hreinsun
+39.0.0.0;Jarðvegur, afmengun
+41.1.0.0;Byggingarverkefni, þróun
+41.1.0.0;Þróun byggingarverkefna
+41.1.0.0;Lóða- og bygggingarumsýsla
+41.2.0.0;Bygging íbúðar- og atvinnuhúsnæðis
+41.2.0.0;Byggingar, uppsetning forsmíðaðra eininga
+41.2.0.0;Húsnæði, standsetning
+41.2.0.0;Húsbyggingar, bygging íbúða- og atvinnuhúsnæðis
+42.1.1.0;Götumálun
+42.1.1.0;Gatnagerð
+42.1.1.0;Flugbrautir, lagning
+42.1.1.0;Vegagerð
+42.1.1.0;Malbikun
+42.1.1.0;Vegamerkingar, málun
+42.1.1.0;Vegrið og umferðarmerki, uppsetning
+42.1.2.0;Lagning járnbrauta og neðanjarðarjárnbrauta
+42.1.2.0;Járnbrautir, lagning
+42.1.3.0;Jarðgangagerð
+42.1.3.0;Brúarsmíði og jarðgangagerð
+42.1.3.0;Brúarsmíði
+42.2.1.0;Brunnar, borun
+42.2.1.0;Dælustöðvar, bygging
+42.2.1.0;Gerð þjónustumannvirkja fyrir vatn
+42.2.1.0;Hitaveitur, smíði tengdra mannvirki
+42.2.1.0;Fráveitur, smíði tengdra mannvirki
+42.2.1.0;Vatnsveitur, smíði tengdra mannvirki
+42.2.1.0;Skólpveitur, lagning
+42.2.2.0;Rafmagn, bygging þjónustumannvirkja
+42.2.2.0;Raflínulagning
+42.2.2.0;Fjarskipti, bygging þjónustumannvirkja
+42.2.2.0;Bygging þjónustumannvirkja fyrir rafmagn og fjarskipti
+42.9.1.0;Gerð vatnsmannvirkja
+42.9.1.0;Flóðgarðar, bygging
+42.9.1.0;Hafnarmannvirki, bygging
+42.9.1.0;Stíflur, bygging
+42.9.9.0;Tennisvellir, bygging
+42.9.9.0;Golfvellir, bygging
+42.9.9.0;Íþróttaleikvangar, bygging
+42.9.9.0;Bygging annarra ótalinna mannvirkja
+43.1.1.0;Niðurrif
+43.1.1.0;Byggingar, niðurrif
+43.1.1.0;Niðurrif bygginga
+43.1.2.0;Udirbúningur byggingasvæða
+43.1.2.0;Byggingarsvæði, framræsla
+43.1.2.0;Undirbúningsvinna á byggingarsvæði
+43.1.2.0;Jarðvegsverktakar
+43.1.2.0;Jarðvegsvinna
+43.1.3.0;Jarðvegskönnun vegna byggingarframkvæmda
+43.1.3.0;Tilraunaboranir og borvinna
+43.1.3.0;Boranir vegna bygginga og mannvirkja
+43.1.3.0;Tilraunaborun, jarðfræðirannsóknir
+43.2.1.0;Umferðarljós, uppsetning
+43.2.1.0;Viðgerðir á boðlögnum
+43.2.1.0;Raflýsing fyrir vegakerfi o.þ.h., lagning og viðgerðir
+43.2.1.0;Rafverktakar
+43.2.1.0;Loftnet, uppsetning
+43.2.1.0;Boðlagnir
+43.2.1.0;Brunaviðvörunarkerfi, uppsetning
+43.2.1.0;Raflagnir
+43.2.1.0;Fjarskiptakerfi, uppsetning
+43.2.1.0;Viðgerðir á raflögnum
+43.2.1.0;Viðvörunarkerfi, uppsetning
+43.2.1.0;Þjófavörn, uppsetning og viðgerð
+43.2.2.0;Gasbúnaður, uppsetning
+43.2.2.0;Gashitunarkerfi, uppsetning og viðgerð
+43.2.2.0;Hreinlætistæki, uppsetning
+43.2.2.0;Pípulagnir, uppsetning hitunar- og loftræstikerfa
+43.2.2.0;Loftræstibúnaður, uppsetning og viðgerð
+43.2.2.0;Kælikerfi, uppsetning og viðgerð
+43.2.2.0;Ofnar til húshitunar, lagning
+43.2.2.0;Olíukynding, uppsetning og viðgerð
+43.2.2.0;Pípulagnir
+43.2.2.0;Viðgerðir á pípulögnum
+43.2.2.0;Úðakerfi, uppsetning og viðgerð
+43.2.9.0;Rúllustigi, uppsetning og viðgerð
+43.2.9.0;Lyftur, uppsetning og viðgerð
+43.2.9.0;Önnur uppsetning í mannvirki
+43.2.9.0;Einangrun í hús og önnur mannvirki
+43.2.9.0;Hljóðeinangrun bygginga
+43.2.9.0;Hljóðeinangrun, uppsetning
+43.2.9.0;Hitaeinangrun, uppsetning
+43.3.1.0;Múrhúðun
+43.3.1.0;Pússning innanhúss og utan
+43.3.1.0;Múrarar
+43.3.2.0;Viðargólf, lagning
+43.3.2.0;Trésmíðar innanhúss
+43.3.2.0;Stigar, tilbúnir, uppsetning
+43.3.2.0;Uppsetning innréttinga
+43.3.2.0;Eldhúsinnréttingar, uppsetning
+43.3.2.0;Ísetning hurða, glugga o.þ.h.
+43.3.2.0;Innréttingar, uppsetning
+43.3.2.0;Hurðir, ísetning
+43.3.2.0;Færanlegir skilveggir, uppsetning
+43.3.2.0;Gluggar, ísetning
+43.3.3.0;Gólfslípun
+43.3.3.0;Gólflagning
+43.3.3.0;Gólfklæðing úr steinefnum, lagning
+43.3.3.0;Flísalagning
+43.3.3.0;Dúklagning
+43.3.3.0;Lagning gólfefna og veggefna
+43.3.3.0;Teppalagning
+43.3.3.0;Teppalögn
+43.3.3.0;Veggklæðing úr steinefnum, lagning
+43.3.3.0;Veggklæðing úr viði, lagning
+43.3.3.0;Veggdúkur, lagning
+43.3.3.0;Veggfóðrun
+43.3.3.0;Parketgólf, lagning
+43.3.4.1;Málarar
+43.3.4.1;Málningarvinna
+43.3.4.2;Glerjun
+43.3.4.2;Ísetning glers og spegla o.þ.h.
+43.3.4.2;Speglar, uppsetning
+43.3.9.0;Hreinsun nýbygginga
+43.3.9.0;Frágangur bygginga, lokafrágangur
+43.3.9.0;Annar frágangur bygginga
+43.9.1.0;Vinna við þök
+43.9.1.0;Þakpappi, lagning
+43.9.1.0;Þakklæðning
+43.9.1.0;Þakviðgerðir
+43.9.9.0;Vinnuvélar með stjórnanda, leiga
+43.9.9.0;Þungavinnuvélar með stjórnanda, leiga
+43.9.9.0;Önnur ótalin sérhæfð byggingarstarfsemi
+43.9.9.0;Dráttarvélar með stjórnanda, leiga
+43.9.9.0;Byggingarkranar með stjórnanda, leiga
+43.9.9.0;Gufuhreinsun á veggflötum o.þ.h.
+43.9.9.0;Girðingar, uppsetning
+43.9.9.0;Háþrýstiþvottur bygginga
+43.9.9.0;Jarðýtur með stjórnanda, leiga
+43.9.9.0;Járnabinding bygginga
+43.9.9.0;Sandblástur bygginga utanhúss
+43.9.9.0;Vatnsþétting bygginga og mannvirkja
+43.9.9.0;Útleiga á krönum
+43.9.9.0;Útleiga á vinnupöllum með uppsetningu
+43.9.9.0;Körfubílar, leiga með stjórnanda
+43.9.9.0;Leiga á vinnuvélum með stjórnanda
+43.9.9.0;Leiga á byggingarkrönum með stjórnanda
+43.9.9.0;Kranar með stjórnanda, leiga
+43.9.9.0;Rakaþétting bygginga
+45.1.1.0;Fólksbílar, heildsala og smásala
+45.1.1.0;Fólksbílar, smásala
+45.1.1.0;Bílauppboð
+45.1.1.0;Bifreiðaumboð
+45.1.1.0;Bílar, smásala og heildsala
+45.1.1.0;Bílasala
+45.1.9.1;Sala á húsbílum og húsvögnum
+45.1.9.1;Fellihýsi, heild- og smásala
+45.1.9.1;Húsbílar, heild- og smásala
+45.1.9.1;Hjólhýsi, heild- og smásala
+45.1.9.1;Tjaldvagnar, heild- og smásala
+45.1.9.9;Kraftur
+45.1.9.9;Sala á öðrum ótöldum vélknúnum ökutækjum og tengivögnum
+45.1.9.9;Áætlunarbílar, heild- og smásala
+45.1.9.9;Vöruflutningabifreiðar, heild- og smásala
+45.1.9.9;Vörubílar, heild- og smásala
+45.2.0.1;Birfeiðaverkstæði
+45.2.0.1;Bílaviðgerðir
+45.2.0.1;Almenn bílaverkstæði
+45.2.0.1;Jeppabreytingar
+45.2.0.1;Ryðvörn ökutækja
+45.2.0.2;Sprautulökkun bifreiða
+45.2.0.2;Bílaréttingar og -sprautun
+45.2.0.2;Bílamálun
+45.2.0.2;Bílaréttingar
+45.2.0.2;Bílasprautun
+45.2.0.2;Yfirbyggingar bifreiða, viðgerðir
+45.2.0.3;Dekkjaverkstæði og smurstöðvar
+45.2.0.3;Hjólbarðarþjónusta
+45.2.0.3;Smurstöðvar
+45.2.0.4;Bón- og þvottastöðvar
+45.2.0.4;Bílaþvottur og bónun
+45.2.0.4;Bónstöðvar
+45.3.1.0;Dekk, bílar, heildsala
+45.3.1.0;Heildverslun með varahluti og aukabúnað í bíla
+45.3.1.0;Hjólbarðar, bílar, heildsala
+45.3.1.0;Útvörp fyrir bíla, heildsala
+45.3.1.0;Varahlutir fyrir bíla, heildsala
+45.3.1.0;Þjófavarnarkerfi fyrir bíla, heildsala
+45.3.2.0;Þjófavarnarkerfi fyrir bíla, smásala
+45.3.2.0;Varahlutir fyrir bíla, smásala
+45.3.2.0;Útvörp fyrir bíla, smásala
+45.3.2.0;Hjólbarðar, bílar, smásala
+45.3.2.0;Smásala á varahlutum og aukabúnaði í bíla
+45.3.2.0;Dekk, bílar, smásala
+45.4.0.0;Bifhjól, heild- og smásala
+45.4.0.0;Sala, viðhald og viðgerðir vélhjóla og hluta og aukabúnaðar til þeirra
+45.4.0.0;Hjólbarðar fyrir vélhjól, heild- og smásala
+45.4.0.0;Varahlutir í vélhjól, heildsala og smásala
+45.4.0.0;Vélsleðar, heildsala og smásala
+45.4.0.0;Vélhjól, heildsala og smásala
+45.4.0.0;Vélhjól, viðgerð
+45.4.0.0;Torfæruhjól, heildsala og smásala
+45.4.0.0;Skellinöðrur, heildsala og smásala
+45.4.0.0;Viðgerðir á vélhjólum og skellinöðrum
+46.1.1.0;Textílhráefni, umboðsverslun
+46.1.1.0;Vefjariðnaður, hráefni, umboðsverslun
+46.1.1.0;Landbúnaðarhrávörur, umboðsverslun
+46.1.1.0;Landbúnaður, hráefni, umboðsverslun
+46.1.1.0;Lífdýr, umboðsverslun
+46.1.1.0;Húsdýrasala, umboðsverslun
+46.1.1.0;Umboðsverslun með hráefni úr landbúnaði, lifandi dýr, textílhráefni og hálfunna vöru
+46.1.1.0;Dýr, lifandi, umboðsverslun
+46.1.2.0;Eldsneyti, umboðsverslun
+46.1.2.0;Efnavörur til iðnaðarnota, umboðsverslun
+46.1.2.0;Efnavörur, umboðsverslun
+46.1.2.0;Umboðsverslun með eldsneyti, málmgrýti, málma og íðefni til iðnaðarnota
+46.1.2.0;Málmar, umboðsverslun
+46.1.2.0;Málmgrýti, umboðsverslun
+46.1.2.0;Tilbúinn áburður, umboðsverslun
+46.1.3.0;Timbur, umboðsverslun
+46.1.3.0;Umboðsverslun með timbur og byggingarefni
+46.1.3.0;Byggingarefni, umboðsverslun
+46.1.4.0;Umboðsverslun með vélar, iðnaðarvélar, skip og loftför
+46.1.4.0;Iðnaðarvélar, umboðsverslun
+46.1.4.0;Flugvélar, umboðsverslun
+46.1.4.0;Tölvur, umboðsverslun
+46.1.4.0;Skip, umboðsverslun
+46.1.4.0;Skrifstofuvélar, umboðsverslun
+46.1.4.0;Ljósritunarvélar, umboðsverslun
+46.1.4.0;Loftför, umboðsverslun
+46.1.4.0;Landbúnaðarvélar, umboðsverslun
+46.1.4.0;Kælitæki til iðnaðarnota, umboðsverslun
+46.1.5.0;Reiðhjól, umboðsverslun
+46.1.5.0;Verkfæri, umboðsverslun
+46.1.5.0;Húsgögn, umboðsverslun
+46.1.5.0;Járnvörur, umboðsverslun
+46.1.5.0;Heimilisbúnaður, umboðsverslun
+46.1.5.0;Heimilistæki, umboðsverslun
+46.1.5.0;Umboðsverslun með húsgögn, heimilisbúnað og járnvörur
+46.1.6.0;Umboðsverslun með textílefni, fatnað, loðfelda, skófatnað og leðurvörur
+46.1.6.0;Fatnaður, umboðsverslun
+46.1.6.0;Vefnaðarvörur, umboðsverslun
+46.1.6.0;Textílvörur, umboðsverslun
+46.1.6.0;Skófatnaður, umboðsverslun
+46.1.6.0;Leðurvörur, umboðsverslun
+46.1.6.0;Loðskinnsvörur, umboðsverslun
+46.1.7.1;Fiskur og fiskafurðir, umboðsverslun
+46.1.7.1;Umboðsverslun með fisk og fiskafurðir
+46.1.7.2;Fiskmarkaðir
+46.1.7.2;Uppboð á fiski
+46.1.7.9;Tóbak, umboðsverslun
+46.1.7.9;Matvara, umboðsverslun
+46.1.7.9;Umboðsverslun með aðra matvöru, drykkjarvöru og tóbak
+46.1.7.9;Drykkjarvara, umboðsverslun
+46.1.7.9;Áfengi, umboðsverslun
+46.1.7.9;Vindlar, umboðsverslun
+46.1.8.0;Umboðsverslun sem sérhæfir sig í sölu á öðrum tilteknum vörum eða vöruflokkum
+46.1.8.0;Listmunir, umboðsverlsun
+46.1.8.0;Pappír, umboðsverslun
+46.1.9.0;Blönduð umboðsverslun
+46.2.1.0;Heildverslun með korn, óunnið tóbak, fræ og dýrafóður
+46.2.1.0;Dýrafóður, heildsala
+46.2.1.0;Feiti, ekki til manneldis, heildsala
+46.2.1.0;Fræ, heildsala
+46.2.1.0;Hrátóbak, heildsala
+46.2.1.0;Olía, ekki til manneldis, heildsala
+46.2.1.0;Landbúnaðarvörur, heildsala
+46.2.1.0;Korn, heildsala
+46.2.1.0;Tóbak, óunnið, heildsala
+46.2.2.0;Plöntur, heildsala
+46.2.2.0;Jólatré, heildsala
+46.2.2.0;Blómlaukar, heildsala
+46.2.2.0;Blóm, heildsala
+46.2.2.0;Heildverslun með blóm og plöntur
+46.2.3.0;Heildverslun með lifandi dýr
+46.2.3.0;Dýr, lifandi, heildsala
+46.2.3.0;Gæludýr, heildsala
+46.2.3.0;Lífdýr, heildsala
+46.2.4.0;Leður, heildsala
+46.2.4.0;Ull, óunnin, heildsala
+46.2.4.0;Skinn, heildsala
+46.2.4.0;Gervileður, heildsala
+46.2.4.0;Húðir, heildsala
+46.2.4.0;Hráull, heildsala
+46.2.4.0;Heildverslun með húðir, skinn og leður
+46.3.1.0;Heildverslun með ávexti og grænmeti
+46.3.1.0;Ávextir, heildsala
+46.3.1.0;Kartöflur, heildsala
+46.3.1.0;Grænmeti, heildsala
+46.3.2.0;Alifuglakjöt, heildsala
+46.3.2.0;Heildverslun með kjöt og kjötvöru
+46.3.2.0;Skinka, heildsala
+46.3.2.0;Kjöt, heildsala
+46.3.2.0;Kjötkraftur, heildsala
+46.3.2.0;Kjötvörur, heildsala
+46.3.2.0;Kæfa, heildsala
+46.3.2.0;Lifrarkæfa, heildsala
+46.3.2.0;Pylsur, heildsala
+46.3.2.0;Villibráð, heildsala
+46.3.3.0;Rjómaostur, heildsala
+46.3.3.0;Olía og feiti, heildsala
+46.3.3.0;Olía til manneldis, heildsala
+46.3.3.0;Ostur, heildsala
+46.3.3.0;Mjólkurafurðir, heildsala
+46.3.3.0;Mjólkurvörur, heildsala
+46.3.3.0;Matarolía, heildsala
+46.3.3.0;Smjör, heildsala
+46.3.3.0;Smjörlíki, heildsala
+46.3.3.0;Heildverslun með mjólkurafurðir, egg, matarolíu og -feiti
+46.3.3.0;Egg, heildsala
+46.3.3.0;Ger, heildsala
+46.3.3.0;Feiti til manneldis, heildsala
+46.3.3.0;Feiti, heildsala
+46.3.3.0;Kakómjólk, heildsala
+46.3.3.0;Jógúrt, heildsala
+46.3.4.0;Grænmetiskraftur, heildsala
+46.3.4.0;Gosdrykkir, heildsala
+46.3.4.0;Drykkjarvara, heildsala
+46.3.4.0;Áfengi, heildsala
+46.3.4.0;Ávaxtavín, heildsala
+46.3.4.0;Ávaxtasafi, heildsala
+46.3.4.0;Ávaxtadrykkir, heildsala
+46.3.4.0;Bjór, heildsala
+46.3.4.0;Heildverslun með drykkjarvörur
+46.3.4.0;Snafs, heildsala
+46.3.4.0;Sótavatn, heildsala
+46.3.4.0;Spíri, heildsala
+46.3.4.0;Svaladrykkir, heildsala
+46.3.4.0;Óáfengir drykkir, heildsala
+46.3.4.0;Vín, heildsala
+46.3.4.0;Ölkelduvatn, heildsala
+46.3.4.0;Öl, heildsala
+46.3.5.0;Vindlar, heildsala
+46.3.5.0;Píputóbak, heildsala
+46.3.5.0;Tóbaksvörur, heildsala
+46.3.5.0;Sígarettur, heildsala
+46.3.5.0;Sígarettutóbak, heildsala
+46.3.5.0;Heildverslun með tóbaksvöru
+46.3.6.0;Heildverslun með sykur, súkkulaði og sælgæti
+46.3.6.0;Bakarísvörur, heildsala
+46.3.6.0;Brauð, heildsala
+46.3.6.0;Kex, heildsala
+46.3.6.0;Smákökur, heildsala
+46.3.6.0;Tyggigúmmí, heildsala
+46.3.6.0;Súkkulaði, heildsala
+46.3.6.0;Sælgæti, heildsala
+46.3.6.0;Sykurvörur, heildsala
+46.3.6.0;Sykur, heildsala
+46.3.6.0;Konfekt, heildsala
+46.3.6.0;Kökur, heildsala
+46.3.6.0;Lakkrís, heildsala
+46.3.7.0;Krydd, heildsala
+46.3.7.0;Te, heildsala
+46.3.7.0;Kakó, heildsala
+46.3.7.0;Kaffi, heildsala
+46.3.7.0;Jurtate, heildsala
+46.3.7.0;Heildverslun með kaffi, te, kakó og krydd
+46.3.8.1;Heildverslun með fisk og fiskafurðir
+46.3.8.1;Kaviar, heildsala
+46.3.8.1;Hrogn, heildsala
+46.3.8.1;Fiskafurðir, heildsala
+46.3.8.1;Fiskur, heildsala
+46.3.8.1;Fiskútflutningur
+46.3.8.1;Útflutningur á fiski
+46.3.8.9;Súpur, heildsala
+46.3.8.9;Sósur, heildsala
+46.3.8.9;Spagettí, heildsala
+46.3.8.9;Sultur, heildsala
+46.3.8.9;Seyði, heildsala
+46.3.8.9;Matur, tilbúinn, heildsala
+46.3.8.9;Megrunarfæði, heildsala
+46.3.8.9;Makkarónur, heildsala
+46.3.8.9;Majónsósa, heildsala
+46.3.8.9;Pastavörur, heildsala
+46.3.8.9;Morgunkorn, heildsala
+46.3.8.9;Náttúrulyf, heildsala
+46.3.8.9;Gæludýrafóður, heildsala
+46.3.8.9;Gervihunang, heildsala
+46.3.8.9;Hrísmjöl, heildsala
+46.3.8.9;Hveiti, heildsala
+46.3.8.9;Ís, heildsala
+46.3.8.9;Heildverslun með önnur ótalin matvæli
+46.3.8.9;Bökunarvörur, heildsala
+46.3.8.9;Barnamatur, heildsala
+46.3.9.0;Blönduð heildverslun með matvæli, drykkjarvöru og tóbak
+46.3.9.0;Matvæli og drykkjarvörur, blönduð heildverslun
+46.4.1.0;Markissur, heildsala
+46.4.1.0;Kjólaefni, heildsala
+46.4.1.0;Ofin efni, heildsala
+46.4.1.0;Rennilásar, heildsala
+46.4.1.0;Púðar, heildsala
+46.4.1.0;Prjónaefni, heildsala
+46.4.1.0;Prjónagarn, heildsala
+46.4.1.0;Saumavarningur, heildsala
+46.4.1.0;Saumaþráður, heildsala
+46.4.1.0;Saumavörur, heildsala
+46.4.1.0;Seglgarn, heildsala
+46.4.1.0;Sængurlín, heildsala
+46.4.1.0;Sængur, heildsala
+46.4.1.0;Textílvörur, heildsala
+46.4.1.0;Tölur, heildsala
+46.4.1.0;Útsaumur, heildsala
+46.4.1.0;Vefnaðarvörur, heildsala
+46.4.1.0;Heildverslun með textílvöru
+46.4.1.0;Blúndur, heildsala
+46.4.1.0;Dúnn, heildsala
+46.4.1.0;Húsgagnaáklæði, heildsala
+46.4.1.0;Handklæði, heildsala
+46.4.1.0;Gardínuefni, heildsala
+46.4.1.0;Garn, heildsala
+46.4.1.0;Gluggatjaldaefni, heildsala
+46.4.1.0;Gluggatjöld, textíll, heildsala
+46.4.1.0;Fiður og dún, heildsala
+46.4.1.0;Fataefni, heildsala
+46.4.1.0;Viskustykki, heildsala
+46.4.2.0;Vinnusloppar, heildsala
+46.4.2.0;Vinnufatnaður, heildsala
+46.4.2.0;Yfirhafnir, heildsala
+46.4.2.0;Fatnaður, heildsala
+46.4.2.0;Frakkar, heildsala
+46.4.2.0;Gúmmístigvel, heildsala
+46.4.2.0;Fylgihlutir með fatnaði, heildsala
+46.4.2.0;Hálsklútar, heildsala
+46.4.2.0;Hattar, heildsala
+46.4.2.0;Hanskar, heildsala
+46.4.2.0;Húfur, heildsala
+46.4.2.0;Íþróttaskór, heildsala
+46.4.2.0;Íþróttafatnaður, heildsala
+46.4.2.0;Inniskór, heildsala
+46.4.2.0;Jakkar, heildsala
+46.4.2.0;Jakkaföt, heildsala
+46.4.2.0;Einkennisbúningar, heildsala
+46.4.2.0;Buxur, heildsala
+46.4.2.0;Blússur, heildsala
+46.4.2.0;Bleiur úr bómull, heildsala
+46.4.2.0;Bindi, heildsala
+46.4.2.0;Barnaföt, heildsala
+46.4.2.0;Baðföt, heildsala
+46.4.2.0;Axlabönd, heildverslun, heildsala
+46.4.2.0;Heildverslun með fatnað og skófatnað
+46.4.2.0;Undirfatnaður, heildsala
+46.4.2.0;Skófatnaður, heildsala
+46.4.2.0;Sokkar, heildsala
+46.4.2.0;Skyrtur, heildsala
+46.4.2.0;Regnhlífar, heildsala
+46.4.2.0;Regnföt, heildsala
+46.4.2.0;Pils, heildsala
+46.4.2.0;Peysur, heildsala
+46.4.2.0;Nærfatnaður, heildsala
+46.4.2.0;Kjólar, heildsala
+46.4.2.0;Klossar, heildsala
+46.4.2.0;Leðurfatnaður, heildsala
+46.4.2.0;Lífstykki, heildsala
+46.4.2.0;Loðskinnsfatnaður, heildsala
+46.4.2.0;Loðskinnsvörur, heildsala
+46.4.3.0;Loftnet, heildsala
+46.4.3.0;Ljósmyndavörur, heildsala
+46.4.3.0;Ljósmyndabúnaður og sjóntæki, heildsala
+46.4.3.0;Ljósmyndafilmur, heildsala
+46.4.3.0;Leikjatölvur, heildsala
+46.4.3.0;Kæliskápar, til heimilisnota, heildsala
+46.4.3.0;Myndavélar, heildsala
+46.4.3.0;Myndbandstökuvélar, heildsala
+46.4.3.0;Myndbandstæki, heildsala
+46.4.3.0;Mynddiskar, upptökutæki, heildsala
+46.4.3.0;Mynddiskar (dvd), áteknir, heildsala
+46.4.3.0;Myndbönd, átekin, heildsala
+46.4.3.0;Ryskugur, heildsala
+46.4.3.0;Safapressur til heimilisnota, rafknúnar, heildsala
+46.4.3.0;Rafræn spil, heildsala
+46.4.3.0;Rafhlöður, heildsala
+46.4.3.0;Rafkatlar til heimilisnota, heildsala
+46.4.3.0;Rafmagnsofnar, heildsala
+46.4.3.0;Smásjár, heildsala
+46.4.3.0;Snertilinsur, heildsala
+46.4.3.0;Straujárn, rafknúin, heildsala
+46.4.3.0;Segulbandstæki, heildsala
+46.4.3.0;Segulbönd, átekin, heildsala
+46.4.3.0;Sjónvörp, heildsala
+46.4.3.0;Sjónaukar, heildsala
+46.4.3.0;Uppþvottavélar, heildsala
+46.4.3.0;Útvörp, heildsala
+46.4.3.0;Vasaljós, heildsala
+46.4.3.0;Heildverslun með heimilistæki, útvörp, sjónvörp og tengdar vörur
+46.4.3.0;Blandarar, heimilisnot, heildsala
+46.4.3.0;Brauðristar, heildsala
+46.4.3.0;Eldavélar, heildsala
+46.4.3.0;Kaffivélar, heildsala
+46.4.3.0;Hátalarar, heildsala
+46.4.3.0;Heimilistæki, rafknúin, heildsala
+46.4.3.0;Hljóðkerfi, heildsala
+46.4.3.0;Hitunartæki, rafknúin, heildsala
+46.4.3.0;Hljóðbönd, heildsala
+46.4.3.0;Hljómplötuspilarar, heildsala
+46.4.3.0;Geisladiskaspilarar, heildsala
+46.4.3.0;Geisladiskar (cd), áteknir, heildsala
+46.4.3.0;Gervihnattadiskar, heildsala
+46.4.3.0;Gufugleypar til heimilisnota, heildsala
+46.4.3.0;Frystar, heildsala
+46.4.3.0;Örbylgjuofn, heildsala
+46.4.3.0;Þvottevélar, heildsala
+46.4.3.0;Þurrkarar, heildsala
+46.4.4.1;Glös, heildsala
+46.4.4.1;Glervörur, heildsala
+46.4.4.1;Heildverslun með postulín og glervöru
+46.4.4.1;Postulín og gler, heildsala
+46.4.4.1;Kristalsvörur, heildsala
+46.4.4.2;Uppþvottalögur, heildsala
+46.4.4.2;Heildverslun með hreingerningarefni
+46.4.4.2;Bílabón, heildsala
+46.4.4.2;Fægiefni, heildsala
+46.4.4.2;Hreingerningarefni, heildsala
+46.4.4.2;Hreinsiefni, heildsala
+46.4.4.2;Þvottaefni, heildsala
+46.4.5.0;Hársnyrtivörur, heildsala
+46.4.5.0;Handsnyrtivörur, heildsala
+46.4.5.0;Ilmvötn, heildsala
+46.4.5.0;Heildverslun með ilmvötn og snyrtivörur
+46.4.5.0;Tannkrem, heildsala
+46.4.5.0;Svitalyktareyðir, heildsala
+46.4.5.0;Sjampó, heildsala
+46.4.5.0;Sápa, heildsala
+46.4.5.0;Snyrtivörur, heildsala
+46.4.5.0;Sólarvörn, heildsala
+46.4.5.0;Rakvélablöð, heildsala
+46.4.6.0;Nálar til lækninga, heildsala
+46.4.6.0;Lækningavörur, heildsala
+46.4.6.0;Lyf, heildsala
+46.4.6.0;Lyfjavörur, heildsala
+46.4.6.0;Stoðtæki, heildsala
+46.4.6.0;Sjúkrahússtæki, heildsala
+46.4.6.0;Sýklalyf, heildsala
+46.4.6.0;Tannlæknavörur, heildsala
+46.4.6.0;Heildverslun með lyf og lækningavörur
+46.4.6.0;Áhöld og tæki fyrir sjúkrahús, heildsala
+46.4.6.0;Bóluefni, heildsala
+46.4.6.0;Jurtate, til lækninga, heildsala
+46.4.6.0;Hitamælar, lækninga, heildsala
+46.4.6.0;Hjálpartæki fyrir sjúka og fatlaða, heildsala
+46.4.6.0;Heyrnartæki, heildsala
+46.4.6.0;Hjúkrunarvörur, heildsala
+46.4.6.0;Farartæki fyrir hreyfihamlaða, heildsala
+46.4.7.0;Gólfklæðingarefni, heildsala
+46.4.7.0;Gólfefni, teppi, heildsala
+46.4.7.0;Gólfteppi, heildsala
+46.4.7.0;Húsgögn, heildsala
+46.4.7.0;Borðstofuborð, heildsala
+46.4.7.0;Bókaskápar, heildsala
+46.4.7.0;Heildverslun með húsgögn, teppi og ljósabúnað
+46.4.7.0;Teppi, heildsala
+46.4.7.0;Svefnsófar, heildsala
+46.4.7.0;Stofuborð, heildsala
+46.4.7.0;Stólar fyrir heimili, heildsala
+46.4.7.0;Sófar, heildsala
+46.4.7.0;Málmhúsgögn, heildsala
+46.4.7.0;Ljósabúnaður, heildsala
+46.4.7.0;Kommóður, heildsala
+46.4.7.0;Mottur, heildsala
+46.4.7.0;Rúm, heildsala
+46.4.7.0;Rúllugardínur, heildsala
+46.4.7.0;Rimlagluggatjöld, heildsala
+46.4.8.0;Skartgripir, heildsala
+46.4.8.0;Silfurvörur, heildsala
+46.4.8.0;Úr, heildsala
+46.4.8.0;Úrólar, heildsala
+46.4.8.0;Heildverslun með úr og skartgripi
+46.4.8.0;Gullvörur, heildsala
+46.4.9.0;Gjafavörur, heildsala
+46.4.9.0;Ferðatöskur, heildsala
+46.4.9.0;Frímerki, heildsala
+46.4.9.0;Flugeldar, heildsala
+46.4.9.0;Fornmunir, heildsala
+46.4.9.0;Íþróttavörur, heildsala
+46.4.9.0;Íþróttabúnaður, heildsala
+46.4.9.0;Kalkipappír, heildsala
+46.4.9.0;Hjólaskautar, heildsala
+46.4.9.0;Hljóðfæri, heildsala
+46.4.9.0;Hnífar til heimilisnota, heildsala
+46.4.9.0;Handþurrkur úr pappír, heildsala
+46.4.9.0;Heildverslun með aðrar vörur til heimilisnota
+46.4.9.0;Blöð, heildsala
+46.4.9.0;Barnavagnar, heildsala
+46.4.9.0;Búsáhöld, heildsala
+46.4.9.0;Bækur, heildsala
+46.4.9.0;Dagatöl, heildsala
+46.4.9.0;Dagblöð, heildsala
+46.4.9.0;Eldhúsrúllur, heildsala
+46.4.9.0;Einnota borðbúnaður, heildsala
+46.4.9.0;Dúkkur, heildsala
+46.4.9.0;Vasaklútar, pappír, heildsala
+46.4.9.0;Útilegubúnaður, heildsala
+46.4.9.0;Veggspjöld, heildsala
+46.4.9.0;Veiðivörur, heildsala
+46.4.9.0;Svefnpokar, heildsala
+46.4.9.0;Tágavörur, heildsala
+46.4.9.0;Töskur, heildsala
+46.4.9.0;Tímarit, heildsala
+46.4.9.0;Tjöld, heildsala
+46.4.9.0;Trévörur til heimilsnota, heildsala
+46.4.9.0;Tómstundavörur, heildsala
+46.4.9.0;Segl, heildsala
+46.4.9.0;Skautar, heildsala
+46.4.9.0;Skíði, heildsala
+46.4.9.0;Skrifpappír, heildsala
+46.4.9.0;Sólgleraugu, heildsala
+46.4.9.0;Snyrtitöskur, heildsala
+46.4.9.0;Spil, heildsala
+46.4.9.0;Smábarnavörur, heildsala
+46.4.9.0;Strengjahljóðfæri, heildsala
+46.4.9.0;Sportveiðivörur, heildsala
+46.4.9.0;Ritföng, heildsala
+46.4.9.0;Reiðhjól, heildsala
+46.4.9.0;Reiðtygi, heildsala
+46.4.9.0;Salernispappír, heildsala
+46.4.9.0;Póstkort, heildverslun
+46.4.9.0;Minjagripir, heildsala
+46.4.9.0;Möppur, heildsala
+46.4.9.0;Nytjalist, heildsala
+46.4.9.0;Nótur, heildsala
+46.4.9.0;Pennaveski, heildsala
+46.4.9.0;Partývörur, heildsala
+46.4.9.0;Pappír til heimilisnota, heildsala
+46.4.9.0;Pappírsvörur, heildsala
+46.4.9.0;Korkvörur, heildsala
+46.4.9.0;Kolaofn, heildsala
+46.4.9.0;Kveikjarar, heildsala
+46.4.9.0;Leikföng, heildsala
+46.4.9.0;Leðurvörur, heildsala
+46.4.9.0;Lausblaðamöppur, heildsala
+46.4.9.0;Landakort, heildsala
+46.4.9.0;Límbönd, pappír, heildsala
+46.4.9.0;Listmunir, heildsala
+46.4.9.0;Listaverk, heildsala
+46.4.9.0;Merkimiðar úr pappír, heildsala
+46.4.9.0;Viðlegubúnaður, heildsala
+46.5.1.0;Lyklaborð, heildsala
+46.5.1.0;Prentarar, heildsala
+46.5.1.0;Tölvubúnaður, heildsala
+46.5.1.0;Tölvur, heildsala
+46.5.1.0;Heildverslun með tölvur, jaðartæki fyrir tölvur og hugbúnað
+46.5.1.0;Hugbúnaður, heildsala
+46.5.2.0;Hálfleiðarar, heildsala
+46.5.2.0;Fjarskiptabúnaður, heildsala
+46.5.2.0;Farsímar, heildsala
+46.5.2.0;Faxtæki, heildsala
+46.5.2.0;Geisladiskar (cd), óáteknir, heildsala
+46.5.2.0;Heildverslun með rafeinda- og fjarskiptabúnað og tengda hluti
+46.5.2.0;Dyrasími, heildsala
+46.5.2.0;Segulbönd, óátekin, heildsala
+46.5.2.0;Símar, heildsala
+46.5.2.0;Prentrásir, heildsala
+46.5.2.0;Rafeindarör, heildsala
+46.5.2.0;Rafbúnaður, heildsala
+46.5.2.0;Mynddiskar (dvd), óáteknir, heildsala
+46.5.2.0;Myndbönd, óátekin, heildsala
+46.5.2.0;Örflögur, heildsala
+46.6.1.0;Mjaltavélar, heildsala
+46.6.1.0;Plógar, heildsala
+46.6.1.0;Landbúnaðarvélar, heildsala
+46.6.1.0;Landbúnaðartæki, heildsala
+46.6.1.0;Sáningarvélar, heildsala
+46.6.1.0;Sláttuvélar, heildsala
+46.6.1.0;Skurðþreskivél, heildsala
+46.6.1.0;Uppskeruvélar, heildsala
+46.6.1.0;Dráttarvélar, heildsala
+46.6.1.0;Dráttarvélar til landbúnaðarnota, heildsala
+46.6.1.0;Áburðadreyfarar, heildsala
+46.6.1.0;Heildverslun með landbúnaðarvélar, -tæki og hluti til þeirra
+46.6.1.0;Garðverkfæri, heildsala
+46.6.1.0;Garðsláttuvélar, heildsala
+46.6.1.0;Fóðurvogir, heildsala
+46.6.1.0;Jarðvegsvinnuvélar fyrir landbúnað, heildsala
+46.6.2.0;Heildverslun með smíðavélar
+46.6.2.0;Smíðavélar fyrir trésmíði, heildsala
+46.6.2.0;Smíðavélar, tölvustýrðar, heildsala
+46.6.2.0;Smíðavélar fyrir málmsmíði, heildsala
+46.6.3.0;Vélar til mannvirkjagerðar, heildsala
+46.6.3.0;Heildverslun með vélbúnað til námavinnslu, byggingarstarfsemi og mannvirkjagerðar
+46.6.3.0;Vinnuvélar, heildsala
+46.6.4.0;Heildverslun með vélar til textíliðnaðar, sauma- og prjónavélar
+46.6.4.0;Vélar til textíliðnaðar, heildsala
+46.6.4.0;Vélar fyrir byggingarstarfsemi, heildsala
+46.6.4.0;Saumavélar, heildsala
+46.6.4.0;Prjónavélar, heildsala
+46.6.5.0;Skrifstofuhúsgögn, heildsala
+46.6.5.0;Heildverslun með skrifstofuhúsgögn
+46.6.6.0;Heildverslun með aðrar skrifstofuvélar og tæki
+46.6.6.0;Skrifstofuvélar, heildsala
+46.6.6.0;Vasareiknir, heildsala
+46.6.6.0;Reiknivélar, heildsala
+46.6.6.0;Ljósritunarvélar, heildsala
+46.6.6.0;Ljósritunarvélar, heildverslun
+46.6.9.1;Net, heildsala
+46.6.9.1;Veiðibúnaður, heildsala
+46.6.9.1;Veiðarfæri, heildsala
+46.6.9.1;Skipsbúnaður, heildsala
+46.6.9.1;Heildverslun með skipsbúnað, veiðarfæri og fiskvinnsluvélar
+46.6.9.1;Kaðlar, heildsala
+46.6.9.1;Fiskveiðar, búnaður, heildsala
+46.6.9.9;Fálkinn
+46.6.9.9;Kaplar til iðnaðarnota, heildsala
+46.6.9.9;Iðnaðarþjarkar, heildsala
+46.6.9.9;Innkaupakerrur, heildsala
+46.6.9.9;Heildsala raflagna, raflagnir
+46.6.9.9;Heildverslun með aðrar ótaldar vélar og tæki
+46.6.9.9;Afgreiðslukassar, heildsala
+46.6.9.9;Dreifispennar, heildsala
+46.6.9.9;Dælur, heildsala
+46.6.9.9;Brunaviðvörunarkerfi, heildsala
+46.6.9.9;Sjálfsalaleiktæki, heildsala
+46.6.9.9;Mælitæki, heildsala
+46.6.9.9;Mjólkuriðnaður, vélar fyrir, heildsala
+46.6.9.9;Rjómaskilvindur, heildsala
+46.6.9.9;Miðasjálfsalar, heildsala
+46.6.9.9;Leiðsögubúnaður, heildsala
+46.6.9.9;Kælikerfi, heildsala
+46.6.9.9;Viðvörunarkerfi, heildsala
+46.6.9.9;Þjófavörn, heildsala
+46.6.9.9;Þrýstiloftsventlar, heildsala
+46.7.1.0;Kyndiolía, heildsala
+46.7.1.0;Kútagas, heildsala
+46.7.1.0;Koks, heildsala
+46.7.1.0;Kol, heildsala
+46.7.1.0;Smurolía, heildsala
+46.7.1.0;Steinolía, heildsala
+46.7.1.0;Vaselín, heildsala
+46.7.1.0;Trjákol, heildsala
+46.7.1.0;Brennsluolía, heildsala
+46.7.1.0;Díselolía, heildsala
+46.7.1.0;Eldiviður, heildsala
+46.7.1.0;Eldsneyti, fljótandi, heildsala
+46.7.1.0;Eldsneyti, gaskennt, heildsala
+46.7.1.0;Eldsneyti, heildsala
+46.7.1.0;Bensín, heildsala
+46.7.1.0;Heildverslun með fast, fljótandi og loftkennt eldsneyti og skyldar vörur
+46.7.1.0;Hráolía, heildsala
+46.7.1.0;Jarðgas, heildsala
+46.7.1.0;Feiti fyrir vélar, heildsala
+46.7.2.0;Gull, heildsala
+46.7.2.0;Góðmálmar, heildsala
+46.7.2.0;Heildverslun með málma og málmgrýti
+46.7.2.0;Ál til málmsmíða, heildsala
+46.7.2.0;Stál til málmsmíða, heildsala
+46.7.2.0;Málmar, heildsala
+46.7.2.0;Málmgrýti, heildsala
+46.7.3.0;Málarapenslar, heildsala
+46.7.3.0;Málararúllur, heildsala
+46.7.3.0;Málningarvörur, heildsala
+46.7.3.0;Málning, heildsala
+46.7.3.0;Loftklæðning, plast, heildsala
+46.7.3.0;Límtré, heildsala
+46.7.3.0;Klósett, heildsala
+46.7.3.0;Klósettsetur, heildsala
+46.7.3.0;Krossviður, heildsala
+46.7.3.0;Salernisskálar, heildsala
+46.7.3.0;Rammalistar úr viði, heildsala
+46.7.3.0;Mósaíkflísar, heildsala
+46.7.3.0;Möl, heildsala
+46.7.3.0;Spónaplötur, heildsala
+46.7.3.0;Stigar, heildsala
+46.7.3.0;Skrúfur, heildsala
+46.7.3.0;Sandur, heildsala
+46.7.3.0;Trefjaplötur, heildsala
+46.7.3.0;Timbur, heildsala
+46.7.3.0;Vaskar, heildsala
+46.7.3.0;Veggklæðning, heildsala
+46.7.3.0;Veggfóður, heildsala
+46.7.3.0;Baðkör, heildsala
+46.7.3.0;Einingar í innréttingar, heildsala
+46.7.3.0;Byggingarefni, heildsala
+46.7.3.0;Byggingarvörur, heildsala
+46.7.3.0;Heildverslun með timbur, byggingarefni og hreinlætistæki
+46.7.3.0;Gólfefni, annað, heildsala
+46.7.3.0;Glerplötur, heildsala
+46.7.3.0;Forsmíðaðar byggingar, heildsala
+46.7.3.0;Flotgler, heildsala
+46.7.3.0;Hurðir, heildsala
+46.7.3.0;Hreinlætistæki, heildsala
+46.7.3.0;Handlaugar, heildsala
+46.7.3.0;Þéttilistar, heildsala
+46.7.3.0;Viður, heildsala
+46.7.3.0;Vikur, heildsala
+46.7.4.0;Handverkfæri, heildsala
+46.7.4.0;Hamrar, heildsala
+46.7.4.0;Hitalagnaefni, heildsala
+46.7.4.0;Járnvörur, heildsala
+46.7.4.0;Heildverslun með járnvöru, búnað til pípu- og hitalagna og hluti til þeirra
+46.7.4.0;Verkfæri, heildsala
+46.7.4.0;Vélsög, heildsala
+46.7.4.0;Vatnshitarar, heildsala
+46.7.4.0;Skeifur, heildsala
+46.7.4.0;Skrúfur, heildsala
+46.7.4.0;Naglar, heildsala
+46.7.4.0;Pípulagnaefni, heildsala
+46.7.4.0;Rör, heildsala
+46.7.4.0;Kranar, heildsala
+46.7.4.0;Lásar, heildsala
+46.7.5.0;Litarefni, heildsala
+46.7.5.0;Lím, heildsala
+46.7.5.0;Lyktarefni, heildsala
+46.7.5.0;Prentblek, heildsala
+46.7.5.0;Plágueyðir, heildsala
+46.7.5.0;Paraffín, heildsala
+46.7.5.0;Skordýraeyðir, heildsala
+46.7.5.0;Heildverslun með efnavörur
+46.7.5.0;Brennisteinn, heildsala
+46.7.5.0;Bragðefni, heildsala
+46.7.5.0;Efnavörur, heildsala
+46.7.5.0;Efnaafurðir til nota í landbúnað, heildsala
+46.7.5.0;Anilín, heildsala
+46.7.5.0;Áburður, tilbúinn, heildsala
+46.7.5.0;Ilmolíur, heildsala
+46.7.5.0;Illgresiseyðir, heildsala
+46.7.6.0;Fóðurbætiefni, heildsala
+46.7.6.0;Gúmmí, heildsala
+46.7.6.0;Gúmmíslöngur, heildsala
+46.7.6.0;Gúmmívalsar, heildsala
+46.7.6.0;Eðalsteinar, heildsala
+46.7.6.0;Eggjabakkar, heildsala
+46.7.6.0;Bylgjupappi, heildsala
+46.7.6.0;Heildverslun með aðrar hálfunnar vörur
+46.7.6.0;Textíltrefjar, heildsala
+46.7.6.0;Umbúðir úr pappa, heildsala
+46.7.6.0;Umbúðaefni, heildsala
+46.7.6.0;Plastefni í frumgerðum, heildsala
+46.7.6.0;Pappírskvoða, heildsala
+46.7.6.0;Pappír til prentiðnaðar, heildsala
+46.7.6.0;Pappakassar, heildsala
+46.7.6.0;Pokar, heildsala
+46.7.7.0;Sundurhlutun bíla
+46.7.7.0;Úrgangsefni, heildsala
+46.7.7.0;Úrgangur, heildsala
+46.7.7.0;Heildverslun með úrgangsefni og brotajárn
+46.7.7.0;Brotajárn, heildsala
+46.7.7.0;Bílapartasala
+46.7.7.0;Endurvinnsluefni, heildsala
+46.9.0.0;Blönduð heildverslun
+47.1.1.1;Stórmarkaðir og matvöruverslanir
+47.1.1.1;Stórmarkaðir með áherslu á matvöru
+47.1.1.1;Kjörbúðir
+47.1.1.2;Söluturnar
+47.1.9.0;Önnur blönduð smásala
+47.1.9.0;Stórmarkaðir með áherslu á annað en matvöru
+47.2.1.0;Smásala á ávöxtum og grænmeti í sérverslunum
+47.2.1.0;Ávaxta- og grænmetisverslanir
+47.2.1.0;Ávextir, smásala
+47.2.1.0;Grænmeti, smásala
+47.2.2.0;Smásala á kjöti og kjötvöru í sérverslunum
+47.2.2.0;Kjöt og kjötvörur, smásala
+47.2.2.0;Kjötbúðir
+47.2.3.0;Fiskbúðir
+47.2.3.0;Fiskur, smásala
+47.2.4.0;Ísbúðir
+47.2.4.0;Smásala á brauði, kökum, sætabrauði og sælgæti í sérverslunum
+47.2.4.0;Konfekt, smásala
+47.2.4.0;Lakkrís, smásala
+47.2.4.0;Kökur, smásala
+47.2.4.0;Súkkulaði, smásala
+47.2.4.0;Sælgæti, smásala
+47.2.4.0;Sykurvörur, smásala
+47.2.4.0;Sætabrauð, smásala
+47.2.5.0;Óáfengir drykkir, smásala
+47.2.5.0;Smásala á drykkjarvöru í sérverslunum
+47.2.5.0;Áfengi, smásala
+47.2.5.0;Drykkjarvörur, smásala
+47.2.5.0;Vín, smásala
+47.2.6.0;Vindlar, smásala
+47.2.6.0;Smásala á tóbaksvörum í sérverslunum
+47.2.6.0;Píputóbak, smásala
+47.2.6.0;Tóbaksvörur, smásala
+47.2.6.0;Sígarettutóbak, smásala
+47.2.6.0;Sígarettur, smásala
+47.2.6.0;Sígarettupappír, smásala
+47.2.9.0;Sérverslun með matvæli
+47.2.9.0;Te, smásala
+47.2.9.0;Ostaverslanir
+47.2.9.0;Önnur smásala á matvælum í sérverslunum
+47.2.9.0;Kaffi, smásala
+47.2.9.0;Heilsufæði, smásala
+47.3.0.0;Bensínstöðvar
+47.3.0.0;Díselolía, smásala
+47.3.0.0;Eldsneyti, smásala
+47.3.0.0;Bílaeldsneyti, smásala
+47.3.0.0;Bensín, smásala
+47.4.1.0;Smásala á tölvum, jaðarbúnaði og hugbúnaði í sérverslunum
+47.4.1.0;Hugbúnaður, smásala
+47.4.1.0;Jaðartæki fyrir tölvur, smásala
+47.4.1.0;Prentarar, smásala
+47.4.1.0;Rafræn spil, smásala
+47.4.1.0;Leikjatölvur, smásala
+47.4.1.0;Lyklaborð, smásala
+47.4.1.0;Tölvur, smásala
+47.4.1.0;Tölvuspil, smásala
+47.4.1.0;Tölvuleikir, smásala
+47.4.1.0;Tölvubúnaður, smásala
+47.4.2.0;Símar, smásala
+47.4.2.0;Fjarskiptabúnaður, smásala
+47.4.2.0;Farsímar, smásala
+47.4.2.0;Faxtæki, smásala
+47.4.2.0;Smásala á fjarskiptabúnaði í sérverslunum
+47.4.3.0;Smásala á hljóð- og myndbandsbúnaði í sérverslunum
+47.4.3.0;DVD spilarar, smásala
+47.4.3.0;Gervihnattadiskar, smásala
+47.4.3.0;Geislaspilarar, smásala
+47.4.3.0;Geisladiskaspilarar, smásala
+47.4.3.0;Hljómplötuspilarar, smásala
+47.4.3.0;Hljómflutningstæki, smásala
+47.4.3.0;Hátalarar, smásala
+47.4.3.0;Sjónvörp, smásala
+47.4.3.0;Segulbandstæki, smásala
+47.4.3.0;Útvörp, smásala
+47.4.3.0;Útvarpstæki, smásala
+47.4.3.0;Útvarps- og sjónvarpstækjaverslanir
+47.4.3.0;Loftnet, smásala
+47.4.3.0;Plötuspilarar, smásala
+47.4.3.0;Myndbandstæki, smásala
+47.4.3.0;Myndbandstökuvélar, smásala
+47.4.3.0;Mynddiskar (DVD), upptökutæki, smásala
+47.5.1.0;Prjónavöruverslun
+47.5.1.0;Prjónagarn, smásala
+47.5.1.0;Rennilásar, smásala
+47.5.1.0;Markissur, smásala
+47.5.1.0;Kjólaefni, smásala
+47.5.1.0;Útsaumur, smásala
+47.5.1.0;Vefnaðarvöruverslun
+47.5.1.0;Tölur, smásala
+47.5.1.0;Textílvörur, smásala
+47.5.1.0;Sængurlín, smásala
+47.5.1.0;Sængur, smásala
+47.5.1.0;Sængurfatnaður, smásala
+47.5.1.0;Saumavörur, smásala
+47.5.1.0;Saumaþráður, smásala
+47.5.1.0;Garn, smásala
+47.5.1.0;Gardínuefni, smásala
+47.5.1.0;Fataefni, smásala
+47.5.1.0;Blúndur, smásala
+47.5.1.0;Smásala á textílvörum í sérverslunum
+47.5.1.0;Viskustykki, smásala
+47.5.2.1;Viður, smásala
+47.5.2.1;Smásala á járn- og byggingarvöru í sérverslunum
+47.5.2.1;Byggingarvörur, smásala
+47.5.2.1;Byggingarvöruverslanir
+47.5.2.1;Byggingarefni, smásala
+47.5.2.1;Flotgler, smásala
+47.5.2.1;Garðsláttuvélar, smásala
+47.5.2.1;Garðhúsgögn, smásala
+47.5.2.1;Garðtæki í sérverslun, smásala
+47.5.2.1;Hreinlætistæki, smásala
+47.5.2.1;Járnvörur, smásala
+47.5.2.1;Innréttingar, smásala
+47.5.2.1;Sláttuvélar, smásala
+47.5.2.1;Verkfæri, smásala
+47.5.2.1;Klósett, smásala
+47.5.2.2;Málning, smásala
+47.5.2.2;Málningavöruverslanir
+47.5.2.2;Smásala á málningu í sérverslunum
+47.5.3.0;Smásala á teppum, mottum, gluggatjöldum, vegg- og gólfefnum í sérverslunum
+47.5.3.0;Gólfteppi, smásala
+47.5.3.0;Gólfteppaverslanir
+47.5.3.0;Gólfefni, smásala
+47.5.3.0;Gluggatjöld, smásala
+47.5.3.0;Rúllugardínur, smásala
+47.5.3.0;Púðar, smásala
+47.5.3.0;Veggfóðursverslanir
+47.5.3.0;Teppaverslanir
+47.5.4.0;Uppþvottavélar, smásala
+47.5.4.0;Straujárn, smásala
+47.5.4.0;Saumavélar, smásala
+47.5.4.0;Ryksugur, smásala
+47.5.4.0;Ofnar, smásala
+47.5.4.0;Kæliskápar, til heimilisnota, smásala
+47.5.4.0;Gufugleypar til heimilisnota, smásala
+47.5.4.0;Frystar, smásala
+47.5.4.0;Frystiskápar, smásala
+47.5.4.0;Ísskápar, smásala
+47.5.4.0;Kaffivélar, smásala
+47.5.4.0;Heimilistæki, rafknúin, smásala
+47.5.4.0;Smásala á heimilistækjum í sérverslunum
+47.5.4.0;Eldavélar, smásala
+47.5.4.0;Þurrkarar, smásala
+47.5.4.0;Þvottavélar, smásala
+47.5.4.0;Örbylgjuofnar, smásala
+47.5.9.1;Bókaskápar, smásala
+47.5.9.1;Smásala á húsgögnum í sérverslunum
+47.5.9.1;Húsgagnaverslanir
+47.5.9.1;Húsgögn, smásala
+47.5.9.1;Kommóður, smásala
+47.5.9.1;Rúm, smásala
+47.5.9.1;Skrifstofuhúsgögn, smásala
+47.5.9.1;Stólar fyrir heimili, smásala
+47.5.9.1;Stofuborð, smásala
+47.5.9.1;Sófar, smásala
+47.5.9.1;Svefnsófar, smásala
+47.5.9.2;Lampa- og raftækjaverslun
+47.5.9.2;Lampabúðir
+47.5.9.2;Ljósaverslun
+47.5.9.2;Ljósabúnaður, smásala, innflutningur
+47.5.9.2;Smásala á ljósabúnaði í sérverslunum
+47.5.9.3;Smásala á hljóðfærum í sérverslunum
+47.5.9.3;Hljóðfæri, smásala
+47.5.9.3;Hljóðfæraverslanir
+47.5.9.3;Nótur, smásala
+47.5.9.3;Strengjahljóðfæri, smásala
+47.5.9.9;Tágavörur, smásala
+47.5.9.9;Trévörur, smásala
+47.5.9.9;Vefnaðarvörur, smásala
+47.5.9.9;Peningaskápar, smásala
+47.5.9.9;Postulín og gler, smásala
+47.5.9.9;Leirtau, smásala
+47.5.9.9;Korkvörur, smásala
+47.5.9.9;Kristalsverslanir
+47.5.9.9;Hnífapör, smásala
+47.5.9.9;Heimilistæki, ekki rafknúin, smásala
+47.5.9.9;Handklæði, smásala
+47.5.9.9;Glös, smásala
+47.5.9.9;Glervörur, smásala
+47.5.9.9;Smásala á öðrum ótöldum búsáhöldum í sérverslunum
+47.5.9.9;Búsáhöld, smásala
+47.5.9.9;Búsáhaldaverslanir
+47.5.9.9;Öryggiskerfi, smásala
+47.6.1.0;Bóksalar
+47.6.1.0;Bækur, smásala
+47.6.1.0;Smásala á bókum í sérverslunum
+47.6.1.0;Landakort, smásala
+47.6.2.0;Ritföng, smásala
+47.6.2.0;Pappírsvörur, smásala
+47.6.2.0;Möppur, smásala
+47.6.2.0;Veggspjöld, smásala
+47.6.2.0;Skrifpappír, smásala
+47.6.2.0;Skrifstofuvörur, smásala
+47.6.2.0;Smásala á dagblöðum og ritföngum í sérverslunum
+47.6.2.0;Dagblöð, smásala
+47.6.3.0;Smásala á tónlistar- og myndupptökum í sérverslunum
+47.6.3.0;Geisladiskar (cd), smásala
+47.6.3.0;Hljómplötuverslanir
+47.6.3.0;Hljóðbönd, smásala
+47.6.3.0;Segulbönd, smásala
+47.6.3.0;Mynddiskar (dvd), smásala
+47.6.3.0;Myndbönd, smásala
+47.6.3.0;Plötubúðir
+47.6.4.0;Reiðtygi, smásala
+47.6.4.0;Reiðhjól, smásala
+47.6.4.0;Segl, smásala
+47.6.4.0;Seglbátar, smásala
+47.6.4.0;Skíði, smásala
+47.6.4.0;Skotveiðivörur, smásala
+47.6.4.0;Skemmtibátar, smásala
+47.6.4.0;Sportvöruverslanir
+47.6.4.0;Stangveiðiverslanir
+47.6.4.0;Veiðivörur, smásala
+47.6.4.0;Útilegubúnaður, smásala
+47.6.4.0;Tjöld, smásala
+47.6.4.0;Hestaíþróttavörur, smásala
+47.6.4.0;Íþróttafatnaður, smásala
+47.6.4.0;Íþróttavörur, smásala
+47.6.4.0;Íþróttabúnaður, smásala
+47.6.4.0;Gúmmíslöngur, smásala
+47.6.4.0;Smásala á íþrótta- og tómstundabúnaði í sérverslunum
+47.6.4.0;Viðlegubúnaður, smásala
+47.6.5.0;Smásala á spilum og leikföngum í sérverslunum
+47.6.5.0;Tómstundavörur, smásala
+47.6.5.0;Leikföng, smásala
+47.6.5.0;Leikfangaverslanir
+47.7.1.1;Lífstykki, smásala
+47.7.1.1;Loðskinnsvörur, smásala
+47.7.1.1;Loðskinnsfatnaður, smásala
+47.7.1.1;Kvenfataverslanir
+47.7.1.1;Kjólar, smásala
+47.7.1.1;Regnföt, smásala
+47.7.1.1;Nærfatnaður, smásala
+47.7.1.1;Nærfataverslanir
+47.7.1.1;Peysur, smásala
+47.7.1.1;Pils, smásala
+47.7.1.1;Tískuverslanir
+47.7.1.1;Undirfatnaður, smásala
+47.7.1.1;Sokkar, smásala
+47.7.1.1;Skyrtur, smásala
+47.7.1.1;Fataverslanir
+47.7.1.1;Buxur, smásala
+47.7.1.1;Einkennisbúningar, smásala
+47.7.1.1;Blússur, smásala
+47.7.1.1;Blönduð fataverslun
+47.7.1.1;Bindi, smásala
+47.7.1.1;Baðföt, smásala
+47.7.1.1;Fylgihlutir með fatnaði, smásala
+47.7.1.1;Frakkar, smásala
+47.7.1.1;Fataverslun
+47.7.1.1;Fatnaður, smásala
+47.7.1.1;Húfur, smásala
+47.7.1.1;Jakkar, smásala
+47.7.1.1;Jakkaföt, smásala
+47.7.1.1;Herrafataverslanir
+47.7.1.1;Hálsklútar, smásala
+47.7.1.1;Hattar, smásala
+47.7.1.1;Hanskar, smásala
+47.7.1.1;Vinnufatnaður, smásala
+47.7.1.1;Yfirhafnir, smásala
+47.7.1.2;Barnaföt, smásala
+47.7.1.2;Barnafataverslanir
+47.7.2.1;Smásala á skófatnaði í sérverslunum
+47.7.2.1;Skófatnaður, smásala
+47.7.2.1;Skóverslanir
+47.7.2.2;Töskur, smásala
+47.7.2.2;Leðurvöruverslanir
+47.7.2.2;Smásala á leðurvörum í sérverslunum
+47.7.2.2;Ferðatöskur, smásala
+47.7.3.0;Lyfjaverslanir
+47.7.3.0;Apótek
+47.7.3.0;Lyfjaverslun
+47.7.3.0;Lyf, smásala
+47.7.4.0;Lækningavörur, smásala
+47.7.4.0;Stoðtæki, smásala
+47.7.4.0;Smásala á lækninga- og hjúkrunarvörum í sérverslunum
+47.7.4.0;Heyrnartæki, smásala
+47.7.4.0;Hjálpartæki fyrir sjúka og fatlaða, smásala
+47.7.4.0;Hjúkrunarvörur, smásala
+47.7.5.0;Handsnyrtivörur, smásala
+47.7.5.0;Ilmvatn, smásala
+47.7.5.0;Smásala á snyrtivörum og sápum í sérverslunum
+47.7.5.0;Snyrtivörur, smásala
+47.7.5.0;Sólarvörn, smásala
+47.7.5.0;Sápa, smásala
+47.7.5.0;Svitalyktareyðir, smásala
+47.7.6.1;Túnþökusala
+47.7.6.1;Smásala á blómum, plöntum, fræjum og áburði í sérverslunum
+47.7.6.1;Blómasala, smásala
+47.7.6.1;Blómaverslanir
+47.7.6.1;Fræ, smásala
+47.7.6.1;Garðplöntur, smásala
+47.7.6.1;Garðstöðvar, smásala
+47.7.6.2;Gæludýrafóður, smásala
+47.7.6.2;Gæludýraverslanir
+47.7.6.2;Gæludýr, smásala
+47.7.6.2;Smásala á gæludýrum og gæludýrafóðri í sérverslunum
+47.7.7.0;Smásala á úrum og skartgripum í sérverslunum
+47.7.7.0;Gullsmiða- / skartgripaverslanir
+47.7.7.0;Gullvörur, smásala
+47.7.7.0;Gullsmíðaverslanir
+47.7.7.0;Úr, smásala
+47.7.7.0;Úra- og klukkuverslanir
+47.7.7.0;Silfurvörur, smásala
+47.7.7.0;Silfurmunir, smásala
+47.7.7.0;Skartgripir, smásala
+47.7.7.0;Skartgripaverslanir
+47.7.8.1;Sjóntækjafræðingar
+47.7.8.1;Sjóntækjaverslanir
+47.7.8.1;Snertilinsur, smásala
+47.7.8.1;Gleraugu, smásala
+47.7.8.1;Gleraugnaverslanir
+47.7.8.1;Smásala á gleraugum og sjóntækjum í sérverslunum
+47.7.8.2;Smásala á ljósmyndavörum í sérverslunum
+47.7.8.2;Sjónaukar, smásala
+47.7.8.2;Ljósmyndavöruverslanir
+47.7.8.2;Ljósmyndafilmur, smásala
+47.7.8.2;Ljósmyndavélar, smásala
+47.7.8.2;Optísk tæki, smásala
+47.7.8.2;Myndavélar, smásala
+47.7.8.3;Nytjalist, smásala
+47.7.8.3;Listaverk, smásala
+47.7.8.3;Listaverkasala
+47.7.8.3;Listmunahús
+47.7.8.3;Listmunaverslanir
+47.7.8.3;Starfsemi listmunahúsa og listaverkasala
+47.7.8.3;Gallerí
+47.7.8.9;Gjafavörur, smásala
+47.7.8.9;Gjafavöruverslanir
+47.7.8.9;Frímerki, smásala
+47.7.8.9;Frímerkjaverslun
+47.7.8.9;Flögg, smásala
+47.7.8.9;Flöskugas, smásala
+47.7.8.9;Önnur ótalin smásala á nýjum vörum í sérverslunum
+47.7.8.9;Arinn, smásala
+47.7.8.9;Barnavagnar, smásala
+47.7.8.9;Eldiviður, smásala
+47.7.8.9;Brennsluofnar, smásala
+47.7.8.9;Minjagripaverslanir
+47.7.8.9;Kol, smásala
+47.7.8.9;Mynt, smásala
+47.7.8.9;Minnjagripaverslanir
+47.7.8.9;Partývörur, smásala
+47.7.8.9;Skrifstofuvélar, smásala
+47.7.8.9;Skotvopn, smásala
+47.7.8.9;Skotfæri, smásala
+47.7.8.9;Smábarnavörur, smásala
+47.7.8.9;Trúarlegir munir, smásala
+47.7.8.9;Vopn, smásala
+47.7.8.9;Önnur ótalin smávara í sérverslunum
+47.7.9.0;Uppboðshús
+47.7.9.0;Notaðar bækur, smásala
+47.7.9.0;Notaðar vörur, smásala
+47.7.9.0;Notaðir munir, smásala
+47.7.9.0;Smásala á notuðum vörum í verslunum
+47.7.9.0;Fornmunir, smásala
+47.7.9.0;Fornbókasalar
+47.7.9.0;Fornbókaverslanir
+47.7.9.0;Fornmunaverslanir
+47.7.9.0;Fatnaður, notaður, smásala
+47.8.1.0;Smásala á mat-, drykkjar- og tóbaksvörum úr söluvögnum og á mörkuðum
+47.8.1.0;Matvörur smásala úr söluvögnum og á mörkuðum
+47.8.2.0;Smásala á textílvörum, fatnaði og skófatnaði úr söluvögnum og á mörkuðum
+47.8.2.0;Fatnaður, smásala úr söluvögnum og á mörkuðum
+47.8.9.0;Smásala á öðrum vörum úr söluvögnum og á mörkuðum
+47.9.1.0;Smásala póstverslana eða um Netið
+47.9.1.0;Fjarverslun
+47.9.1.0;Internet, uppboð
+47.9.1.0;Póstverslun
+47.9.1.0;Smásöluuppboð á Netinu
+47.9.1.0;Símaverslun
+47.9.9.0;Sjálfsalar, smásala
+47.9.9.0;Heimasala
+47.9.9.0;Önnur smásala, ekki í verslunum, úr söluvögnum eða á mörkuðum
+49.1.0.0;Farþegaflutningar með járnbrautarlestum milli borga
+49.1.0.0;Farþegaflutningar, járnbrautalestir
+49.2.0.0;Vöruflutningar með járnbrautarlestum
+49.2.0.0;Vöruflutningar, járnbrautalestir
+49.3.1.0;Farþegaflutningar á landi, innanbæjar og í úthverfum
+49.3.1.0;Flugvallarútur, rekstur
+49.3.1.0;Strætisvagnar, rekstur
+49.3.2.0;Útleiga á bílum með ökumanni
+49.3.2.0;Leigubílar, akstur
+49.3.2.0;Rekstur leigubíla
+49.3.9.0;Aðrir farþegaflutningar á landi
+49.3.9.0;Áætlunarferðir með hópferðabílum
+49.3.9.0;Akstur fatlaðra
+49.3.9.0;Farþegaflutningar, áætlunarferðir með rútum
+49.3.9.0;Hópferðaakstur
+49.3.9.0;Rútuferðir
+49.3.9.0;Skólabílar, rekstur
+49.4.1.1;Leiga á sendibílum með bílstjóra
+49.4.1.1;Akstur sendibíla
+49.4.1.2;Akstur vörubíla
+49.4.1.2;Leiga á vörubílum með bílstjóra
+49.4.1.2;Útleiga á vörubílum með stjórnanda
+49.4.1.2;Vörubílar með stjórnanda, útleiga
+49.4.1.2;Vörubílar, akstur
+49.4.1.2;Þungaflutningar, opnir bílar
+49.4.1.9;Þungaflutningar, lokaðir bílar
+49.4.1.9;Vöruflutningabílar, rekstur
+49.4.1.9;Aðrir vöruflutningar á vegum
+49.4.1.9;Akstur flutningabíla
+49.4.2.0;Flutningsþjónusta
+49.5.0.0;Flutningar eftir leiðslum
+49.5.0.0;Dælustöðvar, rekstur
+50.1.0.0;Millilanda- og strandsiglingar með farþega
+50.1.0.0;Ferjur, rekstur
+50.1.0.0;Útleiga á skemmtibátum með áhöfn
+50.1.0.0;Útleiga á skipum, með áhöfn
+50.1.0.0;Millilanda- og strandsiglingar, farþegaflutningar
+50.2.0.0;Millilanda- og strandsiglingar, vöruflutningar
+50.2.0.0;Millilanda- og strandsiglingar með vörur
+50.2.0.0;Vöruflutningar á sjó
+50.3.0.0;Farþegaflutningar á skipgengum vatnaleiðum
+50.4.0.0;Vöruflutningar á skipgengum vatnaleiðum
+50.4.0.0;Vöruflutningar á skipgengum vantaleiðum
+51.1.0.1;Farþegaflutningar með áætlunarflugi
+51.1.0.1;Áætlunarflug
+51.1.0.1;Farþegaflutningar, áætlunarflug
+51.1.0.1;Icelandair
+51.1.0.2;Farþegaflutningar, leiguflug
+51.1.0.2;Farþegaflutningar með leiguflugi
+51.1.0.2;Leiguflug
+51.1.0.2;Leiga á loftförum með áhöfn, til farþegaflutninga
+51.1.0.2;Leiga á flugvélum með áhöfn, til farþegaflutninga
+51.1.0.2;Skoðunar- og kynnisferðir með flugi
+51.2.1.0;Leiga á flugvélum með áhöfn, til vöruflutninga
+51.2.1.0;Vöruflutningar með flugi
+51.2.1.0;Flugfrakt
+51.2.2.0;Geimflutningar
+51.2.2.0;Geimskot gervihnatta og geimfarartækja
+51.2.2.0;Geimferðir
+52.1.0.0;Vörugeymsla
+52.1.0.0;Birgðageymslur
+52.1.0.0;Geymslustarfsemi
+52.1.0.0;Frísvæði
+52.1.0.0;Korngeymslur, rekstur
+52.1.0.0;Kæligeymslur
+52.1.0.0;Tollvörugeymslur
+52.1.0.0;Vörugeymslur
+52.2.1.0;Vöruflutningamiðstöðvar
+52.2.1.0;Umferðamiðstöðvar / vöruafgreiðslur
+52.2.1.0;Vegaaðstoð
+52.2.1.0;Leigubílastöðvar
+52.2.1.0;Leigubílastöðvar, rekstur
+52.2.1.0;Fellihýsi og tjaldvagnar, geymsla
+52.2.1.0;Jarðgögn, gjaldtaka, rekstur
+52.2.1.0;Járnbrautastöðvar
+52.2.1.0;Hjólhýsi, geymsla
+52.2.1.0;Bílastæði, rekstur
+52.2.1.0;Bílastöðvar, rekstur
+52.2.1.0;Bílageymslur
+52.2.1.0;Bifreiðastæði
+52.2.1.0;Bifreiðastöðvar, rekstur
+52.2.1.0;Bílskýli
+52.2.1.0;Dráttarbílaþjónusta
+52.2.1.0;Brýr, gjaldtaka, rekstur
+52.2.1.0;Þjónustustarfsemi tengd flutningum á landi
+52.2.2.0;Þjónustustarfsemi tengd flutningum á sjó og vatni
+52.2.2.0;Dráttarbátaþjónusta
+52.2.2.0;Björgunarfélög, þó ekki slysavarnafélög
+52.2.2.0;Björgunarskip
+52.2.2.0;Bátageymslur
+52.2.2.0;Kafarastarfsemi
+52.2.2.0;Hafnarmannvirki, rekstur
+52.2.2.0;Hafnir, rekstur
+52.2.2.0;Hafnsöguþjónusta
+52.2.2.0;Skipastigar, rekstur
+52.2.2.0;Skipaafgreiðsla
+52.2.2.0;Vöruafgreiðsla fyrir flutninga með skipum
+52.2.2.0;Vitavarsla
+52.2.3.0;Slökkvilið á flugvöllum
+52.2.3.0;Flugvellir, rekstur
+52.2.3.0;Flugstöðvar
+52.2.3.0;Flugstöðvar, rekstur
+52.2.3.0;Flugumferðarstjórn
+52.2.3.0;Flugafgreiðsla
+52.2.3.0;Þjónustustarfsemi tengd flutningum með flugi
+52.2.4.0;Vöruafgreiðsla
+52.2.4.0;Útskipunarfyrirtæki
+52.2.4.0;Uppskipunarfyrirtæki
+52.2.4.0;Löndunarþjónusta
+52.2.9.0;Tollvörumiðlun
+52.2.9.0;Skipamiðlun
+52.2.9.0;Önnur þjónusta tengd flutningum
+52.2.9.0;Flutningamiðlun
+53.1.0.0;Almenn póstþjónusta
+53.1.0.0;Póstþjónusta, almenn
+53.2.0.0;Tímarit, dreifing
+53.2.0.0;Útburður dagblaða
+53.2.0.0;Önnur póst- og boðberaþjónusta
+53.2.0.0;Boðberaþjónusta
+53.2.0.0;Dreifing auglýsingaefnis
+53.2.0.0;Dreifing blaða og tímarita
+53.2.0.0;Dagblaðadreifing
+53.2.0.0;Dagblöð, dreifing
+53.2.0.0;Hraðboðastarfsemi
+55.1.0.1;Hótel með veitingaþjónustu
+55.1.0.1;Gistiheimili með veitingaþjónustu
+55.1.0.1;Hótel og gistiheimili með veitingaþjónustu
+55.1.0.2;Hótel og gistiheimili án veitingaþjónustu
+55.1.0.2;Gistiheimili án veitingaþjónstu
+55.1.0.2;Hótel án veitingaþjónstu
+55.2.0.0;Fjallaskálar
+55.2.0.0;Farfuglaheimili
+55.2.0.0;Orlofsdvalarstaðir og annars konar gistiaðstaða
+55.2.0.0;Útleiga á sumarhúsum
+55.2.0.0;Sumarbúðir fyrir börn
+55.2.0.0;Sumarhúsaleiga
+55.3.0.0;Tjaldstæði
+55.3.0.0;Tjaldsvæði, svæði fyrir húsbíla og hjólhýsi
+55.3.0.0;Hjólhýsastæði
+55.9.0.0;Heimavist í skólum
+55.9.0.0;Önnur gistiaðstaða
+55.9.0.0;Námsmannaíbúðir
+56.1.0.0;Pitsustaðir
+56.1.0.0;Pylsuvagnar
+56.1.0.0;Matsölustaðir
+56.1.0.0;Veitingarekstur um borð í ferjum
+56.1.0.0;Skyndibitastaðir
+56.1.0.0;Skemmtistaðir með matsölu
+56.1.0.0;Veitingastaðir
+56.1.0.0;Hamborgarastaðir
+56.1.0.0;Kaffihús, megináhersla á matsölu
+56.1.0.0;Ísbílar
+56.1.0.0;Færanleg veitingasala
+56.2.1.0;Flugeldhús
+56.2.1.0;Veisluþjónusta
+56.2.9.0;Önnur ótalin veitingaþjónusta
+56.2.9.0;Veitingaþjónusta
+56.2.9.0;Mötuneyti
+56.3.0.0;Næturklúbbar
+56.3.0.0;Safabarir
+56.3.0.0;Krár
+56.3.0.0;Skemmtistaðir
+56.3.0.0;Krár, kaffihús og dansstaðir o.þ.h.
+56.3.0.0;Dansstaðir
+56.3.0.0;Diskótek
+56.3.0.0;Barir
+56.3.0.0;Kaffihús
+56.3.0.0;Kaffibarir
+58.1.1.0;Hljóðbækur, útgáfa
+58.1.1.0;Alfræðirit, útgáfa
+58.1.1.0;Bækur, útgáfa
+58.1.1.0;Bókaútgáfa
+58.1.1.0;Landakort, útgáfa
+58.1.2.0;Póstlistar, útgáfa
+58.1.2.0;Símaskrár, útgáfa
+58.1.2.0;Útgáfa skráa og póstlista
+58.1.3.0;Dagblaðaútgáfa
+58.1.3.0;Dagblöð, útgáfa
+58.1.4.0;Tímaritaútgáfa
+58.1.4.0;Fagtímarit, útgáfa
+58.1.4.0;Útgáfa tímarita
+58.1.4.0;Tímarit, útgáfa
+58.1.4.0;Vikublöð, útgáfa
+58.1.9.0;Vörurskrár, útgáfa
+58.1.9.0;Örfilmuefni, útgáfa
+58.1.9.0;Útgáfa veggspjalda
+58.1.9.0;Útgáfa póstkorta
+58.1.9.0;Veggspjöld, útgáfa
+58.1.9.0;Póstkort, útgáfa
+58.1.9.0;Önnur útgáfustarfsemi
+58.1.9.0;Auglýsingaefni, útgáfa
+58.2.1.0;Útgáfa tölvuleikja
+58.2.1.0;Tölvuleikir, útgáfa
+58.2.9.0;Önnur hugbúnaðarútgáfa
+58.2.9.0;Hugbúnaður, útgáfa
+59.1.1.0;Framleiðsla á kvikmyndum, myndböndum og sjónvarpsefni
+59.1.1.0;Auglýsingar, framleiðsla
+59.1.1.0;Tónlistarmyndbönd, framleiðsla
+59.1.1.0;Teiknimyndir, framleiðsla
+59.1.1.0;Sjónvarpsefni, framleiðsla
+59.1.1.0;Kvikmyndir, framleiðsla
+59.1.1.0;Kvikmyndir, upptaka
+59.1.2.0;Kvikmyndir, eftirvinnsla
+59.1.2.0;Sjónvarpsefnis, eftirvinnsla
+59.1.2.0;Eftirvinnsla kvikmynda, myndbanda og sjónvarpsefnis
+59.1.3.0;Dreifing á kvikmyndum, myndböndum og sjónvarpsefni
+59.1.3.0;Kvikmyndir, dreifing
+59.1.3.0;Myndbönd, dreifing
+59.1.4.0;Kvikmyndahús
+59.1.4.0;Kvikmyndaklúbbar
+59.1.4.0;Kvikmyndasýningar
+59.2.0.0;Hljóðupptaka og tónlistarútgáfa
+59.2.0.0;Hljóðritað efni, útgáfa
+59.2.0.0;Hljóðupptaka
+59.2.0.0;Hljómplötur, upptaka
+59.2.0.0;Hljóðver
+59.2.0.0;Hljómplötuútgáfa
+59.2.0.0;Geisladiskar (cd), upptaka
+59.2.0.0;Geisladiskar (cd), útgáfa
+59.2.0.0;Útgáfa geisladiska
+59.2.0.0;Útgáfa hljóðritaðs efnis
+59.2.0.0;Útgáfa hljómplatna
+59.2.0.0;Útvarpsefni, framleiðsla
+60.1.0.0;Útvarpsefni, útsending
+60.1.0.0;Útvarpsstöðvar
+60.1.0.0;Útvarpsútsending og dagskrárgerð
+60.2.0.0;Sjónvarpsútsendingar og dagskrárgerð
+60.2.0.0;Sjónvarpsstöðvar
+60.2.0.0;Sjónvarpsútsendingar
+61.1.0.0;Fjarskipti um streng
+61.1.0.0;Fjarskipti um streng, rekstur
+61.2.0.0;Fjarskipti, þráðlaus, rekstur
+61.2.0.0;Farsímaþjónusta
+61.2.0.0;Þráðlaus fjarskipti
+61.2.0.0;Vodafone
+61.3.0.0;Gervihnattafjarskipti
+61.3.0.0;Fjarskipti um gervihnött, rekstur
+61.9.0.0;Fjarskiptabúnaður, sérhæfður, rekstur
+61.9.0.0;Internetþjónusta, veiting
+61.9.0.0;Önnur fjarskiptastarfsemi
+61.9.0.0;Landsíminn
+61.9.0.0;Ratsjárstöðvar
+62.0.1.0;Tölvuleikir, þróun
+62.0.1.0;Tölvuforritun
+62.0.1.0;Hugbúnaðargerð
+62.0.1.0;Hugbúnaður, sérsmíði
+62.0.1.0;Forritun
+62.0.1.0;Forritun, aðlögun hugbúnaðar
+62.0.2.0;Ráðgjafarstarfsemi á sviði upplýsingatækni
+62.0.2.0;Tölvuvélbúnaður, ráðgjöf
+62.0.2.0;Ráðgjafastarfsemi á sviði upplýsingatækni
+62.0.3.0;Tölvukerfi, rekstur
+62.0.3.0;Rekstur tölvukerfa
+62.0.9.0;Önnur þjónustustarfsemi á sviði upplýsingatækni
+62.0.9.0;Gagnabjörgun
+62.0.9.0;Hugbúnaður, uppsetning
+62.0.9.0;Tölvur, uppsetning
+63.1.1.0;Vefhýsing
+63.1.1.0;Reiknistofa bankanna
+63.1.1.0;Kerfisleigur
+63.1.1.0;Kerfisveitur
+63.1.1.0;Gagnavhýsing
+63.1.1.0;Gagnavinnsla
+63.1.1.0;Gagnavinnsla, hýsing og tengd starfsemi
+63.1.2.0;Vefgáttir
+63.9.1.0;Starfsemi fréttastofa
+63.9.1.0;Fréttastofur, sjálfstætt starfandi
+63.9.9.0;Fjölmiðlavöktun
+63.9.9.0;Önnur ótalin starfsemi á sviði upplýsingaþjónustu
+63.9.9.0;Upplýsingarleitarþjónusta, söfn, sýningar
+63.9.9.0;Upplýsingaþjónusta gegnum síma
+64.1.1.0;Seðlabanki
+64.1.1.0;Starfsemi seðlabanka
+64.1.9.0;Önnur fjármálafyrirtæki
+64.1.9.0;Bankar, fjárfestingabankar
+64.1.9.0;Sparisjóðir
+64.1.9.0;Póstgíróþjónusta
+64.2.0.0;Eignarhaldsfélög, starfsemi
+64.2.0.0;Starfsemi eignarhaldsfélaga
+64.3.0.0;Fjárvörslusjóðir, sjóðir og önnur sérhæfð fjársýslufélög
+64.3.0.0;Áhættusjóðir
+64.3.0.0;Fjárfestingasjóðir
+64.3.0.0;Fjárvörslusjóðir
+64.3.0.0;Verðbréfasjóðir
+64.9.1.0;Eignarleiga
+64.9.1.0;Fjármögnunarleiga
+64.9.2.0;Önnur lánaþjónusta
+64.9.2.0;Fjárfestingarlánasjóðir
+64.9.2.0;Greiðslukortafyrirtæki
+64.9.2.0;Íbúðalánasjóðir
+64.9.2.0;Neytendalán
+64.9.2.0;Lánasjóður sveitarfélaga
+64.9.9.0;Fjárfesting
+64.9.9.0;Fjárfesting fyrir eigin reikning
+64.9.9.0;Önnur ótalin fjármálaþjónusta, þó ekki vátryggingafélög og lífeyrissjóði
+64.9.9.0;Áhættufjárfestingarfélög
+64.9.9.0;Önnur ótalin fjármálaþjónusta
+65.1.1.0;Líftryggingar
+65.1.1.0;Líftrygging
+65.1.2.0;Slysatrygging
+65.1.2.0;Skaðatrygging
+65.1.2.0;Sjúkratrygging
+65.1.2.0;Skaðatryggingar
+65.1.2.0;Bílatryggingar
+65.1.2.0;Eignatryggingar
+65.1.2.0;Brunatrygging
+65.1.2.0;Ferðatrygging
+65.2.0.0;Endurtrygging
+65.2.0.0;Endurtryggingar
+65.3.0.0;Lífeyrissjóðir
+66.1.1.0;Stjórnun fjármálamarkaða
+66.1.1.0;Kauphallarstarfsemi
+66.1.1.0;Verðbréfamarkaðir
+66.1.2.0;Verðbréfamiðlun
+66.1.2.0;Gjaldeyrisviðskipti
+66.1.2.0;Starfsemi við miðlun verðbréfa og hrávörusamninga
+66.1.9.0;Önnur ótalin starfsemi tengd fjármálaþjónustu, þó ekki vátryggingafélögum og lífeyrissjóðum
+66.1.9.0;Fjárfestingarráðgjöf
+66.2.1.0;Áhættu- og tjónamat
+66.2.1.0;Áhættu og tjónamat
+66.2.1.0;Tjónamat
+66.2.1.0;Tjónauppgjör
+66.2.2.0;Tryggingamiðlarar
+66.2.2.0;Tryggingasalar
+66.2.2.0;Starfsemi umboðsmanna og miðlara í vátryggingum
+66.2.9.0;Önnur starfsemi tengd vátryggingum og lífeyrissjóðum
+66.2.9.0;Tryggingafræðileg þjónusta
+66.2.9.0;Vátryggingar, önnur þjónusta
+66.3.0.0;Stýring verðbréfasjóða
+66.3.0.0;Eignastýring
+68.1.0.0;Kaup og sala á eigin fasteignum
+68.1.0.0;Fasteignir, kaup og sala á eigin reikning
+68.2.0.1;Íbúðarhúsnæði, leiga
+68.2.0.1;Leiga íbúðarhúsnæðis
+68.2.0.1;Stúdentagarðar, rekstur
+68.2.0.1;Leiga á íbúðarhúsnæði
+68.2.0.2;Leiga á atvinnuhúsnæði
+68.2.0.2;Leiga atvinnuhúsnæðis
+68.2.0.2;Atvinnuhúsnæði, leiga
+68.2.0.3;Leiga á landi og landréttindum
+68.2.0.3;Veiðifélög
+68.3.1.0;Leigumiðlun
+68.3.1.0;Fasteignamiðlun
+68.3.1.0;Fasteignasalar
+68.3.2.0;Fasteignarekstur
+68.3.2.0;Húsfélög fyrirtækja, án launaðs starfsfólks
+68.3.2.0;Fasteignarekstur gegn þóknun eða samkvæmt samningi
+69.1.0.0;Lögfræðiþjónusta
+69.1.0.0;Einkaleyfi, ráðgjöf
+69.1.0.0;Erfðaskrár, gerð
+69.1.0.0;Lögfræðiaðstoð
+69.1.0.0;Lögfræðistarfsemi
+69.1.0.0;Nauðungaruppboð
+69.2.0.0;Skattaráðgjöf
+69.2.0.0;Endurskoðun
+69.2.0.0;Bókhald
+69.2.0.0;Bókhaldsþjónusta
+69.2.0.0;"Reikningshald, bókhald og endurskoðun; skattaráðgjöf"
+70.1.0.0;Starfsemi höfuðstöðva
+70.2.1.0;Almannatengsl
+70.2.2.0;Viðskiptaráðgjöf og önnur rekstrarráðgjöf
+71.1.1.0;Starfsemi arkitekta
+71.1.1.0;Arkitektar, starfsemi
+71.1.1.0;Byggingarfræðingar
+71.1.1.0;Skipulagshönnun
+71.1.1.0;Ráðgjöf arkitekta
+71.1.1.0;Landslagsarkitektar
+71.1.1.0;Landslagshönnun
+71.1.2.1;Mannvirkjagerð, verkfræðiráðgjöf
+71.1.2.1;Ráðgjöf efnaverkfræðinga
+71.1.2.1;Rafmagnsverkfræðingar
+71.1.2.1;Skipaverkfræðingar
+71.1.2.1;Verkfræðingar
+71.1.2.1;Verkfræðiráðgjöf
+71.1.2.1;Tækniteiknun
+71.1.2.1;Byggingar og mannvirkjagerð, verkfræðiráðgjöf
+71.1.2.1;Byggingartæknifræðingar
+71.1.2.1;Byggingarverkfræðingar
+71.1.2.1;Efnaverkfræðingar
+71.1.2.1;Starfsemi verkfræðinga
+71.1.2.1;Enex
+71.1.2.1;Flugvélaverkfræðingar
+71.1.2.2;Jarðgasleit
+71.1.2.2;Jarðefnakönnun
+71.1.2.2;Jarðfræðilegar rannsóknir
+71.1.2.2;"Starfsemi á sviði landmælinga; jarðfræðilegar rannsóknir"
+71.1.2.2;Byggingar og mannvirkjagerð, mælingar
+71.1.2.2;Vatnamælingar
+71.1.2.2;Mælingar vegna bygginga og mannvirkja
+71.1.2.2;Málmaleit
+71.1.2.2;Landmælingar
+71.2.0.0;Matvælaeftirlit
+71.2.0.0;Matvælarannsóknir
+71.2.0.0;Lögreglurannsóknarstofur, rekstur
+71.2.0.0;Prófanir, tæknilegar
+71.2.0.0;Umhverfisvísar, mælingar/prófanir
+71.2.0.0;Tæknileg prófun/greining
+71.2.0.0;Umhverfismælingar
+71.2.0.0;Bifreiðaskoðun
+71.2.0.0;Tæknilegar prófanir og greining
+71.2.0.0;Öryggisprófanir ökutækja
+71.2.0.0;Vottun
+72.1.1.0;Rannsóknir og þróunarstarf í líftækni
+72.1.1.0;Íslensk erfðagreining
+72.1.1.0;Hafrannsóknarstofnunin
+72.1.1.0;Líftækni, rannsóknir
+72.1.9.0;Lyfjarannsóknir
+72.1.9.0;Rannsóknir í raunvísindum og verkfræði
+72.1.9.0;Rannsóknir í læknavísindum
+72.1.9.0;Rannsóknir í búvísindum
+72.1.9.0;Hafrannsóknastofnun
+72.1.9.0;Aðrar rannsóknir og þróunarstarf í raunvísindum og verkfræði
+72.2.0.0;Rannsóknir og þróunarstarf í félags- og hugvísindum
+72.2.0.0;Rannsóknir í félagsvísindum
+72.2.0.0;Rannsóknir í hugvísindum
+72.2.0.0;Rannsóknir í málvísindum
+72.2.0.0;Rannsóknir í uppeldis- og menntamála
+73.1.1.0;Markaðsetning
+73.1.1.0;Markaðsráðgjöf
+73.1.1.0;Sýningasalir, hönnun
+73.1.1.0;Auglýsingastofur
+73.1.1.0;Auglýsingar, hönnun
+73.1.2.0;Birtingarráðgjöf, auglýsingamiðlun
+73.1.2.0;Auglýsingamiðlun
+73.2.0.0;Markaðsrannsóknir og skoðanakannanir
+73.2.0.0;Skoðanakannanir
+73.2.0.0;Markaðsrannsóknir
+74.1.0.0;Sérhæfð hönnun
+74.1.0.0;Innanhússhönnuðir
+74.1.0.0;Iðnhönnun
+74.1.0.0;Hönnunarstarfsemi
+74.1.0.0;Fatahönnun
+74.1.0.0;Grafísk hönnun
+74.1.0.0;Vöruhönnun
+74.2.0.0;Filmur, framköllun
+74.2.0.0;Fréttaljósmyndarar, sjálfstætt starfandi
+74.2.0.0;Ljósmyndaþjónusta
+74.2.0.0;Auglýsingamyndataka
+74.2.0.0;Ljósmyndastarfsemi
+74.2.0.0;Ljósmyndarar
+74.2.0.0;Ljósmyndun úr lofti
+74.2.0.0;Skólamyndir
+74.2.0.0;Tískuljósmyndun
+74.3.0.0;Túlkun og þýðingar
+74.3.0.0;Þýðingar- og túlkunarþjónusta
+74.3.0.0;Þýðingar og túlkun
+74.9.0.0;Öryggisráðgjöf
+74.9.0.0;Önnur ótalin sérfræðileg, vísindaleg og tæknileg starfsemi
+74.9.0.0;Einkaleyfi, miðlun
+74.9.0.0;Fyrirtækjasala
+74.9.0.0;Jarðræktarráðgjöf
+74.9.0.0;Umhverfisráðgjöf
+74.9.0.0;Umboðsmenn
+74.9.0.0;Verðmat á öðru en fasteignum
+74.9.0.0;Veðurspár
+74.9.0.0;Skipasala
+74.9.0.0;Landbúnaðarráðunautar
+74.9.0.0;Ræktunarsambönd
+75.0.0.0;Sjúkraflutningar dýra
+75.0.0.0;Dýraspítalar
+75.0.0.0;Dýralækningar
+77.1.1.0;Leiga á bifreiðum og léttum vélknúnum ökutækjum
+77.1.1.0;Bílaleiga
+77.1.1.0;Útleiga á bílum án stjórnanda
+77.1.1.0;Rekstrarleiga fólksbifreiða
+77.1.1.0;Leiga á bílum
+77.1.2.0;Leiga á húsbílum
+77.1.2.0;Leiga á vöruflutningabílum án bílstjóra
+77.1.2.0;Rekstrarleiga vörubifreiða
+77.1.2.0;Leiga á vörubifreiðum
+77.1.2.0;Vöruflutningabílar án bílstjóra, leiga
+77.2.1.0;Leiga á tómstunda- og íþróttavörum
+77.2.1.0;Reiðhjólaleiga
+77.2.1.0;Leiga á vörum til frístunda og íþrótta
+77.2.1.0;Leiga á skemmtibátum án áhafnar
+77.2.1.0;Leiga á skíðum
+77.2.1.0;Leiga á tjöldum
+77.2.1.0;Leiga á tómstundabátum án áhafnar
+77.2.1.0;Leiga á íþróttabúnaði
+77.2.1.0;Leiga á kanóum
+77.2.1.0;Leiga á reiðhjólum
+77.2.1.0;Skemmtibátaleiga
+77.2.2.0;Videoleigur
+77.2.2.0;Leiga á myndböndum
+77.2.2.0;Leiga á mynddiskum (dvd)
+77.2.2.0;Leiga á geisladiskum (cd)
+77.2.2.0;Mynddiskar (dvd), útleiga
+77.2.2.0;Myndbandaleiga
+77.2.2.0;Leiga á myndböndum og -diskum
+77.2.2.0;Geisladiskar (cd), útleiga
+77.2.9.0;Leiga á öðrum ótöldum munum til einka- og heimilisnota
+77.2.9.0;Borðbúnaður, leiga
+77.2.9.0;Leiga á glervörum
+77.2.9.0;Leiga á gullvörum
+77.2.9.0;Leiga á heimilistækjum
+77.2.9.0;Leiga á hljóðfærum
+77.2.9.0;Leiga á fatnaði
+77.2.9.0;Leiga á húsgögnum
+77.2.9.0;Leiga á leikmunum
+77.2.9.0;Leiga á leirvörum
+77.2.9.0;Leiga á rafbúnaði til heimilisnota
+77.2.9.0;Leiga á silfurvörum
+77.2.9.0;Leiga á sjónvörpum
+77.2.9.0;Leiga á skartgripum
+77.2.9.0;Leiga á textílvörum
+77.2.9.0;Leiga á vélum og tækjum til heimilisnota
+77.2.9.0;Leiga á vikublöðum
+77.2.9.0;Leiga á blómum og plöntum
+77.2.9.0;Leiga á borðbúnaði
+77.2.9.0;Leiga á bókum
+77.2.9.0;Leiga á búningum
+77.3.1.0;Landbúnaðarvélar án stjórnanda, leiga
+77.3.1.0;Landbúnaðarvélar, leiga
+77.3.1.0;Leiga á landbúnaðarvélum án stjórnanda
+77.3.1.0;Leiga á dráttarvélum
+77.3.1.0;Rekstrarleiga landbúnaðarvéla
+77.3.1.0;Dráttarvélar, leiga
+77.3.1.0;Leiga á landbúnaðarvélum og -tækjum
+77.3.2.0;Leiga á vinnuvélum og tækjum til byggingaframkvæmda og mannvirkjagerðar
+77.3.2.0;Rekstrareiga á vinnuvélum og tækjum til byggingaframkvæmda án stjórnenda
+77.3.2.0;Leiga á vinnupöllum án uppsetningar
+77.3.2.0;Leiga á vinnuvélum án stjórnanda
+77.3.2.0;Leiga á vinnuvélum og tækjum til byggingaframkvæmda án stjórnenda
+77.3.2.0;Vinnuvélar og tæki til byggingaframkvæmda án stjórnanda, leiga
+77.3.2.0;Vinnuvélar og tæki til byggingaframkvæmda án stjórnanda, rekstrarleiga
+77.3.2.0;Vinnuvélar án stjórnanda, leiga
+77.3.2.0;Vinnupallaleiga
+77.3.2.0;Vinnupallar án uppsetningar, leiga
+77.3.3.0;Leiga á tölvum
+77.3.3.0;Leiga á skrifstofuvélum
+77.3.3.0;Leiga á ljósritunarvélum
+77.3.3.0;Rekstrarleiga á tölvum og skrifstofubúnaði
+77.3.3.0;Tölvubúnaður, leiga
+77.3.3.0;Tölvur, leiga
+77.3.3.0;Skrifstofuvélar, leiga
+77.3.3.0;Leiga á tölvum, skrifstofuvélum og -búnaði
+77.3.4.0;Leiga á búnaði til flutninga á sjó- og vatnaleiðum
+77.3.4.0;Bátaleiga
+77.3.4.0;Skip, leiga án stjórnanda
+77.3.4.0;Rekstrarlega á skipum og bátum
+77.3.4.0;Leiga á skipum, án áhafnar
+77.3.4.0;Leiga á bátum
+77.3.5.0;Leiga á loftförum án áhafnar
+77.3.5.0;Leiga á flugvélum án áhafnar
+77.3.5.0;Loftför, leiga án áhafnar
+77.3.5.0;Rekstrarleiga á loftförum
+77.3.5.0;Leiga á loftförum
+77.3.9.0;Leiga á öðrum ótöldum vélum og búnaði
+77.3.9.0;Áhaldaleiga
+77.3.9.0;Húsvagnar, leiga
+77.3.9.0;Rekstrarleiga á öðrum vélum og búnaði án stjórnanda
+77.3.9.0;Leiga á húsvögnum
+77.3.9.0;Leiga á gámum
+77.3.9.0;Leiga á ljósakerfum og hljóðkerfum
+77.3.9.0;Leiga á mælibúnaði án umsjónamanns
+77.3.9.0;Leiga á námubúnaði án stjórnenda
+77.3.9.0;Leiga á olíuvinnslubúnaði án stjórnenda
+77.3.9.0;Leiga á sjálfsalaleiktækjum
+77.3.9.0;Leiga á samkomutjöldum
+77.3.9.0;Leiga á vélhjólum
+77.3.9.0;Leiga á tjaldvögnum
+77.3.9.0;Leiga og rekstrarleiga á búnaði til kvikmyndaframleiðslu
+77.3.9.0;Leiga á vörubrettum
+77.3.9.0;Tjaldvagnar, leiga
+77.4.0.0;Leiga á hugverkum
+77.4.0.0;Leiga á hugverkum og skyldum eignum sem ekki njóta höfundarréttar
+78.1.0.0;Ráðningarstofur
+78.1.0.0;Vinnumiðlun
+78.2.0.0;Starfsmannaleigur
+78.2.0.0;Starfsmannaleiga
+78.3.0.0;Starfsmannahald, tengd þjónusta
+78.3.0.0;Önnur þjónusta tengd starfsmannahaldi
+79.1.1.0;Ferðaskrifstofur
+79.1.2.0;Ferðaskipuleggjendur
+79.9.0.0;Önnur bókunarþjónusta og önnur starfsemi tengd ferðaþjónustu
+79.9.0.0;Bókunarþjónusta
+79.9.0.0;Fararstjórar
+79.9.0.0;Upplýsingamiðstöðvar
+79.9.0.0;Leiðsögumenn
+79.9.0.0;Miðasala
+80.1.0.0;Lífvarðaþjónusta
+80.1.0.0;Verðmætaflutningar
+80.1.0.0;Einkarekin öryggisþjónusta
+80.1.0.0;Vöktunarþjónusta, einkarekin
+80.1.0.0;Öryggisþjónusta, einkarekin
+80.2.0.0;Öryggiskerfi, þjónusta
+80.2.0.0;Starfsemi við öryggiskerfaþjónustu
+80.2.0.0;Brunaviðvörunarkerfi, viðgerð
+80.2.0.0;Fjargæsla öryggiskerfa
+80.3.0.0;Rannsóknarstarfsemi
+80.3.0.0;Leynilögregluþjónusta
+81.1.0.0;Blönduð fasteignarumsýsla
+81.1.0.0;Fasteignaumsýsla
+81.1.0.0;Húsfélög fyrirtækja með launuðu starfsfólki
+81.2.1.0;ISS Ísland
+81.2.1.0;Hreingerning
+81.2.1.0;Almenn þrif bygginga
+81.2.1.0;Þrif, almenn
+81.2.2.0;Þrif, sérhæfð
+81.2.2.0;Önnur þrif á byggingum og í iðnaði
+81.2.2.0;Gluggaþvottur
+81.2.2.0;Sérhæfð þrif
+81.2.9.0;Snjómokstur
+81.2.9.0;Sótthreinsun
+81.2.9.0;Meindýraeyðing
+81.2.9.0;Götusópun
+81.2.9.0;Önnur ótalin hreingerningarþjónusta
+81.3.0.0;Skrúðgarðyrkja
+81.3.0.0;Almenningsgarðar
+81.3.0.0;Hellulögn
+82.1.1.0;Blönduð skrifstofuþjónusta
+82.1.1.0;Skrifstofuþjónusta, blönduð
+82.1.9.0;Skrifstofuþjónusta, sérhæfð
+82.1.9.0;Útleiga á pósthólfum
+82.1.9.0;Ljósritun
+82.1.9.0;Ljósritunarþjónusta
+82.1.9.0;Ritaraþjónusta
+82.1.9.0;Prófarkalestur
+82.1.9.0;Ljósritun, meðferð skjala og önnur sérhæfð skrifstofuþjónusta
+82.2.0.0;Símsvörun og úthringiþjónusta
+82.2.0.0;Úthringiþjónusta
+82.2.0.0;Símasvörun
+82.3.0.0;Ráðstefnur, skipulagning
+82.3.0.0;Skipulagning á ráðstefnum og vörusýningum
+82.3.0.0;Vörusýningar
+82.9.1.0;Innheimtuþjónusta og upplýsingar um lánstraust
+82.9.1.0;Innheimtuþjónusta
+82.9.1.0;Lánstraustupplýsingar
+82.9.2.0;Pökkunarstarfsemi
+82.9.9.0;Önnur ótalin þjónusta við atvinnurekstur
+82.9.9.0;Hraðritunarþjónusta
+82.9.9.0;Fjáröflunarþjónusta gegn þóknun
+82.9.9.0;Strikjamerkingarþjónusta
+82.9.9.0;Strikjamerkjaprentun
+84.1.1.0;Stjórnsýsla á sviði kirkjumála
+84.1.1.0;Stjórnsýsla á sviði dómsmála
+84.1.1.0;Samband Íslenskra sveitarfélaga
+84.1.1.0;Skattheimta
+84.1.1.0;Utanríkisráðuneytið
+84.1.1.0;Tollstjórn
+84.1.1.0;Sveitarstjórnir
+84.1.1.0;Opinber hagskýrslugerð
+84.1.1.0;Opinber stjórnsýsla, almenn
+84.1.1.0;Fjármál hins opinbera
+84.1.1.0;Fjármálaráðuneytið
+84.1.1.0;Forseti Íslands
+84.1.1.0;Forsætisráðuneytið
+84.1.1.0;Félagsmálaráðuneytið
+84.1.1.0;Hagstofa Íslands
+84.1.1.0;Almenn stjórnsýsla og löggjöf
+84.1.1.0;Alþingi
+84.1.2.0;Stjórnsýsla á sviði heilbrigðisþjónustu, mennta- og menningarmála og félagsmála, þó ekki almannatryggingar
+84.1.2.0;Félagsmálastofnanir sveitarfélaga
+84.1.2.0;Stjórnsýsla á sviði félagsmála
+84.1.2.0;Stjórnsýsla á sviði heilbrigðisþjónustu
+84.1.2.0;Stjórnsýsla á sviði menntamála
+84.1.3.0;Stjórnsýsla á sviði samgöngumála
+84.1.3.0;Stjórnsýsla á sviði sjávarútvegs
+84.1.3.0;Stjórnsýsla á sviði viðskipta
+84.1.3.0;Stjórnsýsla á sviði iðnaðar
+84.1.3.0;Stjórnsýsla á sviði landbúnaðar
+84.1.3.0;Stjórnsýsla á sviði byggðamála
+84.1.3.0;Samkeppniseftirlitið
+84.1.3.0;Fiskistofa
+84.1.3.0;Stjórnsýsla í þágu atvinnuveganna
+84.2.1.0;Utanríkisþjónusta
+84.2.1.0;Sendiráð, íslensk erlendis
+84.2.1.0;Ræðisskrifsofur erlendis
+84.2.2.0;Stjórnsýsla á sviði landvarna og hermála
+84.2.2.0;Varnarmál
+84.2.3.0;Dómstólar og fangelsi
+84.2.3.0;Dómstólar
+84.2.3.0;Fangelsi
+84.2.3.0;Ríkissaksóknari
+84.2.4.0;Landhelgisgæsla
+84.2.4.0;Löggæsla
+84.2.4.0;Útlendingaeftirlit
+84.2.4.0;Almannavarnir
+84.2.4.0;Löggæsla og almannaöryggi
+84.2.5.0;Slökkviliðs- og björgunarstarfsemi
+84.2.5.0;Björgunarstarfsemi
+84.2.5.0;Björgunarsveitir
+84.2.5.0;Slysavarnafélög
+84.2.5.0;Slökkvilið
+84.3.0.0;Atvinnuleysistryggingar
+84.3.0.0;Almannatryggingar
+84.3.0.0;Fæðingarorlof, greiðslur bóta
+85.1.0.0;Fræðslustarfsemi á leikskólastigi
+85.1.0.0;Dagvistun barna í leikskólum
+85.1.0.0;Leikskólar
+85.2.0.0;Barnaskólar
+85.2.0.0;Fræðslustarfsemi á grunnskólastigi
+85.2.0.0;Grunnskólar
+85.3.1.0;Framhaldsskólar, bóknám
+85.3.1.0;Fjölbrautaskólar
+85.3.1.0;Fræðslustarfsemi á framhaldsskólastigi - bóknám
+85.3.1.0;Menntaskólar
+85.3.1.0;Verslunarskólar
+85.3.2.0;Verkmenntaskólar
+85.3.2.0;Tækniskólar á framhaldsskólastigi
+85.3.2.0;Snyrtiskólar
+85.3.2.0;Starfsmenntunarskólar
+85.3.2.0;Skipsstjórnarskólar
+85.3.2.0;Lögregluskólar
+85.3.2.0;Fræðslustarfsemi á framhaldsskólastigi – iðn- og verknám
+85.3.2.0;Flugskólar, atvinnuflugmenn
+85.3.2.0;Framhaldsskólar, iðn- og verknám, fjölsmiðjan
+85.3.2.0;Fullorðinsfræðsla, iðn- og verknám
+85.3.2.0;Herskólar
+85.3.2.0;Iðnskólar
+85.3.2.0;Ökuskólar, atvinnubílstjórar
+85.4.1.0;Fræðslustarfsemi á viðbótarstigi
+85.4.2.0;Fræðslustarfsemi á háskólastigi
+85.4.2.0;Háskólar
+85.4.2.0;Fræslustarfsemi á háskólastigi
+85.5.1.0;Íþrótta- og tómstundakennsla
+85.5.1.0;Einkaþjálfarar
+85.5.1.0;Reiðskólar
+85.5.1.0;Þjálfarar, faglærðir
+85.5.2.0;Listaskólar
+85.5.2.0;Listnám, þó ekki á háskólastigi
+85.5.2.0;Ljósmyndaskólar
+85.5.2.0;Leiklistarskólar, þó ekki á háskólastigi
+85.5.2.0;Tónlistarskólar, þó ekki á háskólastigi
+85.5.2.0;Dansskólar
+85.5.2.0;Listnám
+85.5.3.0;Ökuskólar, flugskólar o.þ.h.
+85.5.3.0;Flugskólar, einkaflugmenn
+85.5.3.0;Stýrimannapróf á smábátum, nám
+85.5.3.0;Ökukennarar
+85.5.9.0;Tungumálaskólar
+85.5.9.0;Trúarbragðakennsla
+85.5.9.0;Tölvunámskeið
+85.5.9.0;Kvöldskólar fyrir fullorðna
+85.5.9.0;Ræðunámskeið
+85.5.9.0;Námskeiðahald
+85.5.9.0;Hraðlestur, kennsla
+85.5.9.0;Önnur ótalin fræðslustarfsemi
+85.5.9.0;Einkakennsla
+85.5.9.0;Björgunarþjálfun
+85.6.0.0;Þjónusta við fræðslustarfsemi
+85.6.0.0;Námsráðgjöf
+86.1.0.0;Sjúkrahús
+86.1.0.0;Áfengismeðferð með læknisþjónustu
+86.1.0.0;Heilsuhæli með læknisþjónustu
+86.1.0.0;Endurhæfingarstöðvar með læknisþjónustu
+86.2.1.0;Göngudeildir sjúkrahúsa
+86.2.1.0;Heilsugæslustöðvar
+86.2.1.0;Heimilislæknar
+86.2.1.0;Heilsugæsla og heimilislækningar
+86.2.1.0;Mæðravernd
+86.2.1.0;Ónæmisvarnir
+86.2.1.0;Læknar, heilsugæslu- og heimilislæknar
+86.2.1.0;Ungbarnaeftirlit
+86.2.2.0;Læknar, sérfræðingar
+86.2.2.0;Meðferðardeildir
+86.2.2.0;Sérfræðilækningar
+86.2.2.0;Augnlæknar
+86.2.3.0;Tannlækningar
+86.2.3.0;Tannréttingar
+86.9.0.1;Sjúkraþjálfarar
+86.9.0.1;Starfsemi sjúkraþjálfara
+86.9.0.2;Starfsemi sálfræðinga
+86.9.0.2;Sálfræðingar, starfsemi
+86.9.0.2;Sálfræðiráðgjöf
+86.9.0.3;Röntgenrannsóknarstofur, óháðar sjúkrahússrekstri
+86.9.0.3;Rannsóknarstofur í læknisfræði
+86.9.0.9;Önnur ótalin heilbrigðisþjónusta
+86.9.0.9;Blóðbankar
+86.9.0.9;Blóðbankar, óháðir sjúkrahúsrekstri
+86.9.0.9;Heimahjúkrun
+86.9.0.9;Hnykkjarar
+86.9.0.9;Hjúkrunarfræðingar, sjálfstætt starfandi
+86.9.0.9;Iðjuþjálfar
+86.9.0.9;Fótaaðgerðafræðingar
+86.9.0.9;Fótameinafræðingar
+86.9.0.9;Nálastunga
+86.9.0.9;Næringarráðgjafar
+86.9.0.9;Meinatæknar, sjálfstætt starfandi
+86.9.0.9;Ljósmæður, sjálfstætt starfandi
+86.9.0.9;Líffærabankar
+86.9.0.9;Kírópraktorar
+86.9.0.9;Sjúkraflutningar
+86.9.0.9;Sjúkranuddarar
+86.9.0.9;Smáskammtalækningar
+86.9.0.9;Sæðisbankar
+86.9.0.9;Svæðameðferð
+87.1.0.0;Hjúkrunarheimili
+87.1.0.0;Hjúkrunarvistun
+87.1.0.0;Hressingarhæli með hjúkrun
+87.1.0.0;Elliheimili með hjúkrun
+87.1.0.0;Dvalarheimili með hjúkrun
+87.2.0.0;Dvalarheimili á sviði þroskahömlunar, geðheilbrigðis og vímuefnamisnotkunar
+87.2.0.0;Endurhæfingarstofnanir fyrir áfengissjúka
+87.2.0.0;Endurhæfingarstofnanir fyrir fíkniefnaneytendur
+87.2.0.0;Dvalarheimili á sviði þroskahömlunar
+87.2.0.0;Dvalarheimili fyrir þroskahefta
+87.2.0.0;Áfengismeðferð án læknisþjónustu
+87.2.0.0;Áfangaheimili fyrir geðsjúka
+87.2.0.0;Áfangastaðir fyrir áfengissjúklinga
+87.2.0.0;Áfangastaðir fyrir fíkniefnaneytendur
+87.2.0.0;Sólahringsvistun fyrir þroskahamlaða
+87.2.0.0;Sambýli fyrir þroskahamlaða
+87.2.0.0;Meðferðaheimili fyrir fíkla
+87.2.0.0;Þjónustuíbúðir fyrir fatlaða
+87.2.0.0;Vímuefnamisnotkun, meðferðarheimili
+87.3.0.1;Þjónustuíbúðir fyrir aldraða
+87.3.0.1;Elliheimili með lágmarkshjúkrun
+87.3.0.1;Dvalarheimili fyrir aldraða
+87.3.0.2;Heimili fyrir fatlaða
+87.3.0.2;Sambýli fyrir fatlaða
+87.3.0.2;Sólahringsvistun fyrir fatlaða
+87.9.0.0;Sveitaheimili, dvöl barna
+87.9.0.0;Unglingaheimili
+87.9.0.0;Unglingasambýli
+87.9.0.0;Vegalaus börn, heimili
+87.9.0.0;Önnur ótalin dvalarheimili
+87.9.0.0;Áfangaheimili
+87.9.0.0;Athvarf fyrir heimilislausa
+87.9.0.0;Barnaheimili, sólarhringsumönnun
+87.9.0.0;Heimili fyrir börn og unglinga
+87.9.0.0;Vistheimili barna
+87.9.0.0;Vistun á einkaheimilum
+88.1.0.0;Þjónustumiðstöðvar fyrir aldraða
+88.1.0.0;Þjálfunarstöðvar fyrir fatlaða eða sjúka
+88.1.0.0;Heimahjálp
+88.1.0.0;Heimaþjónusta
+88.1.0.0;Heimilishjálp
+88.1.0.0;Hæfingarstöðvar
+88.1.0.0;Félagsmiðstöðvar fyrir aldraða
+88.1.0.0;Endurhæfingarstöðvar fyrir fatlaða
+88.1.0.0;Dagvistun fullorðinna
+88.1.0.0;Dagvistun fyrir aldaðra og fatlaða
+88.1.0.0;Félagsþjónusta án gistiaðstöðu fyrir aldraða og fatlaða
+88.1.0.0;Verndaðir vinnustaðir
+88.1.0.0;Ummönnun fatlaðra, heimahjálp
+88.9.1.1;Dagvistun barna
+88.9.1.1;Dagmæður
+88.9.1.1;Dagvistun barna í heimhúsum
+88.9.1.2;Frístundaheimili og skóladagheimili
+88.9.1.2;Frístundaheimili
+88.9.1.2;Skóladagheimili
+88.9.9.0;Skólagarðar
+88.9.9.0;Sumarstarf fyrir börn og unglinga
+88.9.9.0;Styrktarsjóðir sem tengjast félagsþjónustu
+88.9.9.0;Unglingaráðgjöf
+88.9.9.0;Unglingadeildir
+88.9.9.0;Unglingavinna, bæjarvinna
+88.9.9.0;Útideildir fyrir unglinga
+88.9.9.0;Kvennaathvarf
+88.9.9.0;Minningarsjóðir sem tengjast félagsþjónustu
+88.9.9.0;Ráðgjafastöðvar, börn og unglingar
+88.9.9.0;Rauði Kross Íslands
+88.9.9.0;Fjölskylduráðgjöf
+88.9.9.0;Flóttamannabúðir
+88.9.9.0;Flóttamannaráðgjöf
+88.9.9.0;Félagsmiðstöðvar fyrir börn og unglinga
+88.9.9.0;Félagsráðgjafar, sjálfstætt starfandi
+88.9.9.0;Félagsráðgjöf
+88.9.9.0;Önnur ótalin félagsþjónusta án dvalar á stofnun
+88.9.9.0;Áfengismeðferð án dvalar á stofnun
+88.9.9.0;Athvarf fyrir atvinnulausa
+88.9.9.0;Vímuefnaráðgjöf
+88.9.9.0;Vímuefnamisnotkun, meðferð án dvalar á stofnun
+88.9.9.0;Ættleiðingarsamtök
+88.9.9.0;Æskulýðsstarfsemi
+90.0.1.0;Sviðslistir
+90.0.1.0;Fyrirlesarar, sjálfstætt starfandi
+90.0.1.0;Íslenska óperan
+90.0.1.0;Hljómsveitir
+90.0.1.0;Leiklistastarfsemi
+90.0.1.0;Listdansflokkar
+90.0.1.0;Leikarar, sjálfstætt starfandi
+90.0.1.0;Sviðsleikarar, sjálfstætt starfandi
+90.0.1.0;Tónlistarmenn
+90.0.1.0;Tónleikahald
+90.0.2.0;Sviðsmenn
+90.0.2.0;Sýningastjórar
+90.0.2.0;Leikstjórar
+90.0.2.0;Ljósamenn
+90.0.2.0;Framleiðendur, sviðslistir
+90.0.2.0;Þjónusta við sviðslistir
+90.0.3.0;Listsköpun
+90.0.3.0;Fréttamenn, sjálfstætt starfandi
+90.0.3.0;Listaverk, lagfæringar
+90.0.3.0;Listamenn, þó ekki sviðslistamenn, sjálfstætt starfandi
+90.0.3.0;Rithöfundar, sjálfstætt starfandi
+90.0.3.0;Myndhöggvarar
+90.0.4.0;Listamiðstöðvar
+90.0.4.0;Menningarhús, rekstur
+90.0.4.0;Menningarmiðstöðvar
+90.0.4.0;Leikhús, rekstur
+90.0.4.0;Tónleikahús, rekstur
+90.0.4.0;Samkomusalir fyrir listviðburði, rekstur
+90.0.4.0;Rekstur húsnæðis og aðstöðu fyrir menningarstarfsemi
+91.0.1.0;Starfsemi bóka- og skjalasafna
+91.0.1.0;Almenningsbókasöfn
+91.0.1.0;Bókasöfn
+91.0.1.0;Héraðsskjalasöfn
+91.0.1.0;Háskólabókasöfn
+91.0.1.0;Skólabókasöfn
+91.0.1.0;Skjalasöfn
+91.0.1.0;Rannsóknarbókasöfn
+91.0.1.0;Þjóðskjalasafn
+91.0.2.0;Minjasöfn
+91.0.2.0;Náttúrgripasöfn
+91.0.2.0;Listasöfn
+91.0.2.0;Tæknisöfn
+91.0.2.0;Söfn, önnur en bóka- og skjalasöfn
+91.0.2.0;Starfsemi safna
+91.0.3.0;Rekstur sögulegra staða og bygginga og áþekkra ferðamannastaða
+91.0.3.0;Sögulegir staðir, rekstur
+91.0.4.0;Varðveisla náttúruverndarsvæða
+91.0.4.0;Skrúðgarðar
+91.0.4.0;Starfsemi grasagarða, dýragarða og þjóðgarða
+91.0.4.0;Dýragarðar
+91.0.4.0;Grasagarðar
+91.0.4.0;Þjóðgarðar
+92.0.0.0;Getraunastarfsemi
+92.0.0.0;Fjárhættuspil á Netinu, rekstur
+92.0.0.0;Happdrætti
+92.0.0.0;Fjárhættu- og veðmálastarfsemi
+92.0.0.0;Sjálfsalaleiktæki, rekstur
+92.0.0.0;Spilasalir
+92.0.0.0;Spilavíti
+92.0.0.0;Spilakassar, rekstur
+92.0.0.0;Veðmangarar
+92.0.0.0;Veðmálastarfsemi
+92.0.0.0;Lottó
+93.1.1.0;Knattspyrnuvellir, rekstur
+93.1.1.0;Tennisvellir, útleiga
+93.1.1.0;Sundlaugar
+93.1.1.0;Skeiðvellir, rekstur
+93.1.1.0;Skíðasvæði, rekstur
+93.1.1.0;Rekstur íþróttamannvirkja
+93.1.1.0;Íþróttaleikvangar, rekstur
+93.1.1.0;Íþróttamannvirki, rekstur
+93.1.1.0;Íþróttahús, rekstur
+93.1.1.0;Keilusalir, rekstur
+93.1.1.0;Fótboltavellir, rekstur
+93.1.1.0;Golfvellir, rekstur
+93.1.2.0;Golfklúbbar
+93.1.2.0;Íþróttafélög
+93.1.2.0;Íþróttasambönd
+93.1.2.0;Hnefaleikafélög
+93.1.2.0;Starfsemi íþróttafélaga
+93.1.2.0;Skákfélög
+93.1.2.0;Skotfélög
+93.1.2.0;Spilaklúbbar
+93.1.2.0;Sundfélög
+93.1.2.0;Knattspyrnufélög
+93.1.3.0;Líkamsræktarstöðvar
+93.1.3.0;Heilsu- og líkamsræktarstöðvar
+93.1.3.0;Bláa lónið
+93.1.3.0;Heilsuræktarstöðvar
+93.1.3.0;Heilsu og líkamsræktarstöðvar, heilsuráðgjöf
+93.1.9.0;Íþróttadómarar
+93.1.9.0;Keppnishaldarar (íþróttir)
+93.1.9.0;Önnur íþróttastarfsemi
+93.1.9.0;Sala veiðileyfa
+93.1.9.0;Veiðileyfi, sala
+93.1.9.0;Stangveiði
+93.1.9.0;Stangveiðifélög
+93.2.1.0;Skemmtigarðar
+93.2.1.0;Tívolí
+93.2.1.0;Starfsemi skemmti- og þemagarða
+93.2.1.0;Ferðatívolí
+93.2.9.0;Hestaleigur
+93.2.9.0;Önnur ótalin skemmtun og tómstundastarf
+93.2.9.0;Billjarðsstofur
+93.2.9.0;Bátaleiga til tómstundagamans
+93.2.9.0;Baðstrandastarfsemi
+93.2.9.0;Skemmtibátahöfn
+93.2.9.0;Sjóstangaveiði, starfsemi
+93.2.9.0;Smábátahafnir
+93.2.9.0;Leiktækjarekstur
+93.2.9.0;Leiga á bátum til tómstundagamans
+94.1.1.0;Samtök atvinnulífsins
+94.1.1.0;Samtök í atvinnulífinu, starfsemi
+94.1.1.0;Starfsemi samtaka í atvinnulífinu og félaga atvinnurekenda
+94.1.1.0;Félög atvinnurekenda
+94.1.2.0;Fagfélög, starfsemi
+94.1.2.0;Fræðafélög, starfsemi
+94.1.2.0;Starfsemi fagfélaga
+94.2.0.0;Starfsemi stéttarfélaga
+94.2.0.0;Stéttarfélög
+94.2.0.0;Verkalýðsfélög
+94.9.1.0;Trúfélög, starfsemi
+94.9.1.0;Kirkjur
+94.9.1.0;Klaustur
+94.9.1.0;Starfsemi trúfélaga
+94.9.2.0;Starfsemi stjórnmálasamtaka
+94.9.2.0;Stjórnmálaflokkar
+94.9.9.1;Starfsemi húsfélaga íbúðareigenda
+94.9.9.1;Húsfélög íbúðareigenda
+94.9.9.9;Húsmæðrafélög
+94.9.9.9;Hagsmunafélög, önnur en félög vinnumarkaðarins
+94.9.9.9;Handverksfélög
+94.9.9.9;Frímerkjaklúbbar
+94.9.9.9;Foreldrafélög
+94.9.9.9;Ferðafélög
+94.9.9.9;Garðyrkjufélög
+94.9.9.9;Starfsemi annarra ótalinna félagasamtaka
+94.9.9.9;Átthagafélög
+94.9.9.9;Andófshreyfingar
+94.9.9.9;Bókmennta- og bókafélög
+94.9.9.9;Bókmenntafélög
+94.9.9.9;Dýraverndarfélög
+94.9.9.9;Dýraverndunarsamtök
+94.9.9.9;Styrktarsjóðir, ótengdir félagsþjónustu
+94.9.9.9;Styrkveitingar félagasamtaka
+94.9.9.9;Starfsmannafélög
+94.9.9.9;Skátafélög
+94.9.9.9;Tónlistarfélög
+94.9.9.9;Tómstundafélög og -klúbbar
+94.9.9.9;Umhverfissamtök
+94.9.9.9;Sögufélög
+94.9.9.9;Útivistarfélög
+94.9.9.9;Kvikmyndaklúbbar, áhugamanna
+94.9.9.9;Leigjendasamtök
+94.9.9.9;Listafélög
+94.9.9.9;Ljósmyndaklúbbar
+94.9.9.9;Menningarfélög
+94.9.9.9;Sagnfræðifélög
+94.9.9.9;Námsmannasamtök
+94.9.9.9;Neytendasamtök
+94.9.9.9;Minningarsjóðir ótengdir félagsþjónustu
+94.9.9.9;Æskulýðsfélög
+95.1.1.0;Viðgerðir á tölvum og tölvubúnaði
+95.1.1.0;Tölvubúnaður, viðgerð og viðhald
+95.1.1.0;Viðgerðir á tölvum og jaðarbúnaði
+95.1.2.0;Viðgerðir á fjarskiptabúnaði
+95.1.2.0;Farsímar, viðgerðir
+95.1.2.0;Faxtæki, viðgerðir
+95.1.2.0;Símar, viðgerðir
+95.1.2.0;Loftnet, viðgerðir
+95.2.1.0;Sjónvarpsviðgerðir
+95.2.1.0;Útvörp, viðgerðir
+95.2.1.0;Hljómtæki, viðgerðir
+95.2.1.0;Viðgerðir á sjónvarps-, útvarps- og hljómtækjum og skyldum búnaði
+95.2.2.0;Viðgerðir á heimilistækjum og heimilis- og garðyrkjuáhöldum
+95.2.2.0;Heimilistæki, viðgerðir
+95.2.2.0;Sláttuvélar til heimilisnota, viðgerðir
+95.2.3.0;Skófatnaður, viðgerðir
+95.2.3.0;Skóviðgerðir
+95.2.3.0;Töskuviðgerðir
+95.2.3.0;Leðurvörur, viðgerðir
+95.2.3.0;Viðgerðir á skófatnaði og leðurvörum
+95.2.4.0;Viðgerðir á húsgögnum og áklæðum
+95.2.4.0;Húsgögn, viðgerðir
+95.2.5.0;Viðgerðir á úrum, klukkum og skartgripum
+95.2.5.0;Klukkuviðgerðir
+95.2.5.0;Úraviðgerðir
+95.2.5.0;Skartgripir, viðgerðir
+95.2.5.0;Viðgerðir á úrum og klukkum
+95.2.9.0;Lásar, viðgerðir
+95.2.9.0;Ljósmyndavélar, viðgerðir
+95.2.9.0;Orgelstillingar
+95.2.9.0;Píanóstillingar
+95.2.9.0;Reiðhjól, viðgerðir
+95.2.9.0;Viðgerðir á öðrum hlutum til einka- og heimilisnota
+95.2.9.0;Hljóðfæraviðgerðir
+95.2.9.0;Fataviðgerðir
+96.0.1.0;Þvottahús og efnalaugar
+96.0.1.0;Efnalaugar
+96.0.1.0;Lín, útleiga
+96.0.1.0;Sjálfsafgreiðsluþvottahús
+96.0.1.0;Útleiga þvottahúsa á líni
+96.0.1.0;Útleiga þvottahúsa á vinnufatnaði
+96.0.1.0;Teppahreinsun
+96.0.1.0;Þvottahús
+96.0.2.1;Hárgreiðslustofur
+96.0.2.2;Snyrtistofur
+96.0.3.0;Útfararþjónusta og tengd starfsemi
+96.0.3.0;Útfararþjónusta
+96.0.3.0;Líkbrennsla
+96.0.3.0;Kirkjugarðar
+96.0.4.0;Nuddstofur
+96.0.4.0;Sólbaðsstofur
+96.0.4.0;Nuddstofur, sólbaðsstofur, gufuböð o.þ.h.
+96.0.4.0;Gufuböð
+96.0.9.0;Gæludýrasnyrting
+96.0.9.0;Fylgdarþjónusta
+96.0.9.0;Hjónabandsmiðlun
+96.0.9.0;Hundasnyrting
+96.0.9.0;Hundaþjálfun
+96.0.9.0;Hundahótel
+96.0.9.0;Húðflúr- og götunarstofur
+96.0.9.0;Kattahótel
+96.0.9.0;Önnur ótalin þjónustustarfsemi
+96.0.9.0;Dýrahótel
+96.0.9.0;Spákonur
+96.0.9.0;Spíritistar, starfsemi
+96.0.9.0;Stefnumótaþjónusta
+96.0.9.0;Stjörnuspekingar
+96.0.9.0;Skóburstun
+96.0.9.0;Rithandarsérfræðingar
+96.0.9.0;Ljósmyndaklefar, rekstur
+96.0.9.0;Miðlar
+96.0.9.0;Ættfræðifélög
+96.0.9.0;Ættfræðistofur
+97.0.0.0;Heimilishald með launuðu starfsfólki
+98.1.0.0;Framleiðsla á heimilum á ýmis konar vöru til eigin nota
+98.2.0.0;Ýmis konar þjónustustarfsemi á heimilum í eigin þágu
+99.0.0.0;Starfsemi alþjóðlegra stofnana og samtaka með úrlendisrétt
+99.0.0.0;Alþjóðastarfsemi
+99.0.0.0;Alþjóðastofnanir
+99.0.0.0;Erlend sendiráð
+99.0.0.0;Ræðisskrifstofur erlendra ríkja á Íslandi
+99.0.0.0;Sendiráð, erlend á Íslandi
+99.9.9.9;Óþekkt starfsemi

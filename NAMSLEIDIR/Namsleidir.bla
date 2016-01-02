@@ -1,0 +1,20 @@
+DATAMODEL Namsleidir "Námsleiðir"
+
+
+
+SECONDARY
+  stigNáms
+  Námsleið      = Námsgrein(TRIGRAM)
+  
+ PRIMARY
+    fastanumer
+
+FIELDS
+  fastanumer                 : INTEGER
+  Námsgrein                  : STRING[120]
+  ISCED97                    : STRING[4]
+  SviðNáms                   : STRING[4]
+  stigNáms                   : STRING[4]
+
+
+ENDMODEL

@@ -1,0 +1,6 @@
+Range error
+Field: Fjölskylda.Heimilismaður[2].Kyn
+File: urtak 
+Record number: 52
+Value: REFUSAL
+

@@ -1,0 +1,24 @@
+{This file was automatically converted to Ansi on 27.9.2000 at 16:24:50 by Oem2Ansi.exe}
+{STFELAG.BLA
+   ÚTG. 2
+   ÓH (c) SEPT 2000 }
+
+DATAMODEL STFELAG "Stéttarfélagakóti vinnumarkaðskannana"
+
+LIBRARIES
+  TSTFELAG 'TSTFELAG'
+
+SECONDARY
+  Tri  = Atriðisorð(TRIGRAM)
+
+FIELDS
+  FélagaKóti : TSTFELAG 
+  Atriðisorð  "Stéttarfélög" : STRING[60]
+
+
+RULES
+  Atriðisorð
+  Félagakóti
+
+ENDMODEL
+

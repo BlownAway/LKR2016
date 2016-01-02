@@ -1,0 +1,4 @@
+SELECT heiti,ISTARF08_Koti,Stada,'K'+REPLACE(ISTARF08_Koti,'.','') AS stuttheiti
+FROM KONNUN_INS.dbo.Kotun_ISTARF08
+WHERE Stada>0
+ORDER BY ISTARF08_Koti

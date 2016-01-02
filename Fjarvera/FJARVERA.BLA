@@ -1,0 +1,23 @@
+{   Fjarvera.BLA
+    ÓH (c) okt. 2002
+}
+DATAMODEL Fjarvera "Ástæður fjarveru"
+
+LIBRARIES
+  TFjarvera  'TFjarvera'
+
+SECONDARY
+  Tri  = Ástæða(TRIGRAM)
+
+
+FIELDS
+  Fjarverukóti               : TFjarvera
+  Ástæða                     : STRING[70]
+
+
+RULES
+  Ástæða
+  Fjarverukóti
+
+ENDMODEL
+

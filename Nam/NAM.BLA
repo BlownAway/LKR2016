@@ -1,0 +1,24 @@
+{   Nám.BLA
+    ÓH (c) okt.  2002
+}
+DATAMODEL Nám "Skólarogbrautir"
+
+LIBRARIES
+  TNAM 'TNAM'
+
+
+SECONDARY
+  Tri  = Skólibraut(TRIGRAM)
+
+
+FIELDS
+
+  Námskóti                   : TNAM
+  Skólibraut                 : STRING[90]
+
+RULES
+  SkóliBraut
+  Námskóti
+
+ENDMODEL
+
