@@ -97,3 +97,4 @@
 97;Læknisfræði cand.med.et.chir.;5A0 ;721 ;700 
 98;Læknisfræði, erlendir skiptinemar;5A0 ;721 ;500 
 99;Lögfræði B.A.;5A0 ;380 ;600 
+9999;Nám óflokkað og óskilgreint;;;

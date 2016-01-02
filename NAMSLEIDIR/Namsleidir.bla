@@ -1,20 +1,24 @@
 DATAMODEL Namsleidir "Námsleiðir"
 
-
-
 SECONDARY
-  stigNáms
-  Námsleið      = Námsgrein(TRIGRAM)
-  
+  Námsgrein_stafróf    = Námsgrein
+  Námsgrein_tri        = Námsgrein(TRIGRAM)
+
  PRIMARY
     fastanumer
 
 FIELDS
   fastanumer                 : INTEGER
   Námsgrein                  : STRING[120]
-  ISCED97                    : STRING[4]
-  SviðNáms                   : STRING[4]
-  stigNáms                   : STRING[4]
+  ISCED97                    : STRING[4],empty
+  SviðNáms                   : STRING[4],empty
+  stigNáms                   : STRING[4],empty
 
-
+RULES
+    fastanumer
+    Námsgrein
+    ISCED97
+    SviðNáms
+    StigNáms
+    
 ENDMODEL

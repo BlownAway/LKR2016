@@ -40,11 +40,21 @@ viðmiðunardagur : DateType
 persóna : Tpersóna
 O : BlokkO
 
+EMBEDDED BLOCK BSkolaLeit
+    FIELDS
+        HeitiSkóla : STRING[50]
+        ROUTER leita ALIEN('LookUpManager.msu','prc_skoliLookup2')
+    RULES
+        HeitiSkóla
+ENDBLOCK
 
+FIELDS
+    SkolaLeit : BSkolaLeit
+    
 AUXFIELDS
     vinnutími :0..220
     Fæðár : 1900..2020
-
+    sklFastNr : INTEGER
 
     {Breytur sem tilheyra Types}
     n : (karl2p "n",kona2p " ",karl3p "n",kona3p " ", óvíst3p "/n")
@@ -62,6 +72,8 @@ viðmiðunardagur:=sysdate
 persóna
 Fæðár
 O (viðmiðunardagur, persóna, FæðÁr)
-AllarSpurningar 
+AllarSpurningar
 
+ 
+ 
 ENDMODEL
