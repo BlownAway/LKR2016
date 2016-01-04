@@ -1,16 +1,16 @@
 DATAMODEL Skolar "Skólar landsins"
-LIBRARIES TSkolar
+LIBRARIES EducationTypes  '..\Typelib\TEducation'
 
 SECONDARY
   heiti_stafróf = Skolaheiti
   heiti         = Skolaheiti(TRIGRAM)
-  
+
 PRIMARY
     SkoliID
 
 FIELDS
   SkoliID                    : INTEGER
   Skolaheiti                 : STRING[50]
-  Stig                       : TSkolastig,empty
+  Stig                       : TSkyldunám
 
 ENDMODEL

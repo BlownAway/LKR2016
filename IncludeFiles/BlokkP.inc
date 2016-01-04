@@ -7,173 +7,128 @@ EMBEDDED BLOCK BlokkP "Menntun"
   PARAMETERS
     {IMPORT fsv_menntun : STRING}
     IMPORT viðmiðunardagur : DateType
-    import FæðÁr : integer
-
-  EXTERNALS
-    FinnaMenntun : MENNTUN ('Menntun\MENNTUN')
-
+    IMPORT persóna : TPersóna
+    IMPORT FæðÁr : integer
+    
+  EMBEDDED BLOCK BFinnaMenntun
+        FIELDS
+            PHvað_b " @GÝttu á BILSTÖNGINA til að fá viðeigandi menntunarflokka@G
+                       @/@/Verið er að leita að réttu skólastigi og námsgrein.
+                       Ef þú finnur nokkrar svipaðar námsgreinar sem passa
+                       skiptir ekki máli hver er valin ef allar er á sama stigi og sviði.@G": STRING[120]
+            ROUTER leita ALIEN('LookupManager.msu','prc_menntunLookup')
+        RULES
+            PHvað_b 
+    ENDBLOCK
+    
   FIELDS
+    FinnaMenntun : BFinnaMenntun 
     PSkylda (P01)
-      "^haus@/^fsvar@/^strik@/
-      Hefur^ðu lokið námi eftir skyldunám?
+      "Hefur^ðu lokið námi eftir skyldunám?
       @/@/@GÁtt er við það nám sem var skyldunám þegar viðkomandi var í skóla@G"
-      "^haus@/^fsvar@/^strik@/
-      ^Have ^you completed studies after compulsory schooling?
+      "H^ave_you completed studies after compulsory schooling?
       @/@/@GÁtt er við það nám sem var skyldunám þegar viðkomandi var í skóla@G"
       /"Nám eftir skyldunám"
       : TJáNei
     PBarna (P02)
-      "^haus@/^fsvar@/^strik@/
-      Hvaða skólastigi hefur^ðu lokið?"
-      "^haus@/^fsvar@/^strik@/
-      What level of schooling ^have ^you completed?"
+      "Hvaða skólastigi hefur^ðu lokið?"
+      "What level of schooling h^ave_you completed?"
       /"Lokið skólastig"
-      : (
-      Ekkert                          "< 12 ára. Engu eða yngra en 12 ára"  "<12 years. None or younger than 12",
-      Barnaskóli                      "12-13 ára. Barnaskólapróf"           "12-13 years old",
-      Unglingaskóli                   "14-15 ára. Unglingapróf"             "14-15 years old",
-      Miðskóli                        "15-16 ára. Miðskólapróf / landspróf" "15-16 years old. Old school leaving certificate",
-      Grunnskóli                      "15-16 ára. Grunnskólapróf"           "15-16 years old. Basic school certificate",
-      Gagnfræðaskóli                  "16-17 ára. Gagnfræðapróf"            "16-17 years old. Old secondary school certificate",
-      StuttFramhald                   "17+ ára. Amk ein önn í framhaldsskóla eða verknámi"
-                                      "17- years. At least one term in secondary or vocational school")
+      : TBarnaskóli
+      
     PFrhnám (P03)
-      "^haus@/^fsvar@/^strik@/
-      Hvaða námi hefur^ðu lokið?
+      "Hvaða námi hefur^ðu lokið?
       @/@/@GHér er ekki verið að leita eftir núverandi/yfirstandandi námi heldur því námi sem lokið er með útskrift.
       Ekki er átt við námskeið eða styttra nám utans hins formlega skólakerfis eins og í spurningum hér að framan um námskeið og ráðstefnur.@G"
-     "^haus@/^fsvar@/^strik@/
-       Which education ^have ^you received?
+     "Which education h^ave_you received?
       @/@/@GHér er ekki verið að leita eftir núverandi/yfirstandandi námi heldur því námi sem lokið er, heldur það nám sem lokið er með útskrift.
       Ekki er átt við námskeið eða styttra nám utans hins formlega skólakerfis eins og í spurningum hér að framan um námskeið og ráðstefnur.@G"
        /"Lokið nám"
-      : (
-      Gagnfræðapróf                   "Gagnfræðapróf"                                                              "16-17 years old. Old secondary school certificate",
-      Framhaldspróf                   "Framhaldsmenntun, iðn- eða starfsmenntun  sem er ekki á háskólastigi"       "Secondary school, vocational school (not university level)",
-      Stúdentspróf                    "Stúdentspróf"                                                               "University entrant certificate",
-      Háskólapróf                     "Háskólamenntun"                                                             "University degree",
-      AnnaðPróf                       "Önnur menntun"                                                              "Other")
+      : TFrhMenntun
 
     PHvað (P04)
-     "^haus@/^fsvar@/^strik@/
-       Í hvaða grein hefur^ðu lokið námi?"
-     "^haus@/^fsvar@/^strik@/
-       Which field of education ^have ^you finished?"
+     "Í hvaða grein hefur^ðu lokið námi?"
+     "Which field of education h^ave_you finished?"
      /"Svið menntunar"
       : STRING[50]
     PKóti (P04b)
-     "^haus@/^fsvar@/^strik@/
-       @GÝttu á BILSTÖNGINA til að fá viðeigandi menntunarflokka@G"
+     "@GÝttu á BILSTÖNGINA til að fá viðeigandi menntunarflokka@G"
      /"Próf sem lokið er"
       : TMenntun
+    PMenntNr "Fastanúmer menntunar:" : INTEGER
     PMeist (P05)
-      "^haus@/^fsvar@/^strik@/
-      Hefur^ðu öðlast meistararéttindi?"
-      "^haus@/^fsvar@/^strik@/
-      ^Have ^you acquired a master tradesman's papers?"
+      "Hefur^ðu öðlast meistararéttindi?"
+      "H^ave_you acquired a master tradesman's papers?"
       /"Meistararéttindi"
       : TJáNei
     PMSKóli (P05b)
-      "^haus@/^fsvar@/^strik@/
-      Lauk^stu námi úr meistaraskóla?"
-      "^haus@/^fsvar@/^strik@/
-      Did ^you complete studies at a master tradesmen's college?"
+      "Lauk^stu námi úr meistaraskóla?"
+      "Did ^you complete studies at a master tradesmen's college?"
       /"Meistaraskóli"
       : TJáNei
     PGráða (P06)
-      "^haus@/^fsvar@/^strik@/
-      Hvaða prófgráðu hefur^ðu lokið?"
-      "^haus@/^fsvar@/^strik@/
-      What examination or degree of studies ^have ^you completed?"
+      "Hvaða prófgráðu hefur^ðu lokið?"
+      "What examination or degree of studies h^ave_you completed?"
       /"Lokin prófgráða"
-      : (
-      MinnaEnBA                       "Minna en BA eða sambærilegt nám án gráðu"    "Less than BA or comparable without a degree",
-      StuttHagnýtt                    "Stutt hagnýtt nám úr háskóla"            "Short 1 - 1½ years diploma",
-      BA                              "BA, BS, Bed eða sambærilegt"             "BA, BSc, BEd or comporable",
-      Kandidat                        "Kandidats- eða embættispróf"               "Candiate's examination",
-      Master                          "Masterspróf eða sambærilegt"             "Masters degree or comparable",
-      Doktor                          "Doktorspróf eða sambærilegt"             "Doctorate or comparable")
+      : TGráða
+      
     PÁr (P07)
-      "^haus@/^fsvar@/^strik@/
-      Hvaða ár lauk^stu þessu námi?"
-      "^haus@/^fsvar@/^strik@/
-      What year did ^you complete this exam or degree?"
+      "Hvaða ár lauk^stu þessu námi?"
+      "What year did ^you complete this exam or degree?"
       /"Ár lokið námi"
       : TÁrtal
 
     PÁr_gisk
-      "^haus@/^fsvar@/^strik@/
-      En hvað heldurðu að ^þú hafi verið ^ggamall?"
-      "^haus@/^fsvar@/^strik@/
-      But how old do you think ^you was?"
+      "En hvað heldur^ðu að ^þú hafi verið ^ggamall?"
+      "But how old do you think ^you was?"
       /"Ár lokið námi ágiskun"
       : 10..100
 
     PNámskð (P08)
-      "^haus@/^fsvar@/^strik@/
-      Hefur^ðu lokið starfstengdum námskeiðum sem voru 100 klukkustundir eða lengri?
+      "Hefur^ðu lokið starfstengdum námskeiðum sem voru 100 klukkustundir eða lengri?
       @/@/@GHér er einkum átt við 100 klst. eða lengri starfsréttindanámskeið eða til að undirbúa undir starf@G"
-      "^haus@/^fsvar@/^strik@/
-      ^Have ^you completed any courses which grant job qualification?
+      "H^ave_you completed any courses which grant job qualification?
       @/@/@GThis refers especially to job oriented courses 100 hours or more@G"
       /"Starfsréttindanámskeið"
       : TJáNei
     PHvaða (P09)
-      "^haus@/^fsvar@/^strik@/
-      Hvaða námskeiðum?"
-      "^haus@/^fsvar@/^strik@/
-      Which courses?"
+      "Hvaða námskeiðum?"
+      "Which courses?"
       /"Hvaða námskeið"
       :String [80]
-      
+
 PISCED (P10)
-      "^haus@/^fsvar@/^strik@/
-      Hvar mundir þú flokka menntun ^þína miðað við almenna skólakerfið á Íslandi?"
-      "^haus@/^fsvar@/^strik@/
-      How would you classify ^your education relative to the general Icelandic schooling system?"
+      "Hvar mundir þú flokka menntun ^þína miðað við almenna skólakerfið á Íslandi?"
+      "How would you classify ^your education relative to the general Icelandic schooling system?"
       /"Menntaflokkun"
-      : (
-       Engin                        (1)   "Engin formleg menntun"
-                                     "No formal education",
-      Fullnaðarpróf                (2)  "Fullnaðarpróf (barnaskólapróf)"
-                                      "Old school leaving certificate (age 12 years)",
-      Unglingapróf                 (3)   "Unglingapróf"
-                                      "Old school leaving certificate (age 14 years)",
-      Grunnskólapróf               (4)   "Grunnskólapróf"
-                                     "Basic school leaving certificate",
-      Gagnfræðapróf                (5)   "Gagnfræðapróf"
-                                      "16-17 years old. Old secondary school certificate",
-      StuttStarfsnám               (6)   "Eins til tveggja ára starfsnám"
-                                      "1-2 years' vocational training",
-      MilliStarfsnám               (15)   "Tveggja til þriggja ára starfsnám"
-                                      "2-3 years' vocational training",
-      LangtStarfsnám               (7)   "Þriggja ára eða lengra starfsnám"
-                                     "3 years' or longer vocational training",
-      LöngAlmenn                   (8)   "Þriggja ára almenn menntun úr framhaldsskóla"
-                                      "3 years' general secondary education",
-      Millistig                    (9)   "Eins til tveggja ára menntun eftir framhaldsskóla"
-                                      "1-2 years' education after secondary level",
-      StuttHagnýtt                 (10)   "Stutt hagnýtt nám á háskólastigi"
-                                      "Short 1 - 1½ years diploma course at university level",
-      StarfHáskóli                 (11)   "Starfsnám á háskólastigi"
-                                      "Vocational training at university level",
-      GrunnHáskóla                 (12)   "Grunnnám (1. gráða, td. BA) í háskóla"
-                                      "First university degree (e.g. BA)",
-      FramhHáskóla                 (13)   "Framhaldspróf (2. gráða, td. MA) í háskóla"
-                                      "Second university degree (e.g. MA)",
-      Doktor                       (14)   "Doktorspróf"
-                                      "Doctorate")
+      : TISCED 
 
 
 
   AUXFIELDS
     mKóti : STRING
 
+    ðu   :(karl2p "ðu",kona2p "ðu",karl3p " hann",kona3p " hún",óvíst3p " hann/hún")
+    ave_you: (karl2p "ave you",kona2p "ave you",karl3p "as he",kona3p "as she",óvíst3p "as he/she")
+    stu  :(karl2p "stu",kona2p "stu",karl3p " hann",kona3p " hún",óvíst3p " hann/hún")
+    you :  (karl2p "you",kona2p "you",karl3p "he",kona3p "she",óvíst3p "he/she")
+    þú   : (karl2p "þú",kona2p "þú",karl3p "hann",kona3p "hún",óvíst3p "hann/hún")
+    ggamall :  (karl2p "gamall",kona2p "gömul",karl3p "gamall",kona3p "gömul",óvíst3p "gamall")
+    þína :(karl2p "þína",kona2p "þína",karl3p "hans",kona3p "hennar",óvíst3p "hans/hennar")
+    your : (karl2p "your",kona2p "your",karl3p "his",kona3p "her",óvíst3p "his/her")
+    
   RULES
-
-    {IF fsv_menntun = '' THEN}
-      PSkylda
-{    ENDIF}
+    ðu := persóna.ord
+    ave_you := persóna.ord
+    stu := persóna.ord
+    you :=persóna.ord
+    þú :=persóna.ord
+    ggamall:=persóna.ord
+    þína:=persóna.ord
+    your:=persóna.ord
+    
+    
+    PSkylda
     IF PSkylda = Nei THEN
       PBarna
       IF PBarna = Barnaskóli THEN
@@ -184,46 +139,55 @@ PISCED (P10)
         PÁr := FæðÁr + 16
       ELSEIF PBarna = Gagnfræðaskóli THEN
         PÁr := FæðÁr + 17
-      ENDIF {PBarna = Barnaskóli THEN}
-    ELSE {PSkylda = Nei THEN}
+      ENDIF {PBarna = Barnaskóli}
+      
+    ELSE {PSkylda = Já,dk,rf}
       PFrhnám
+
       IF PFrhNám In [Framhaldspróf, Háskólapróf, AnnaðPróf] THEN
         PHvað
-        PKóti|FinnaMenntun.LOOKUP(Tri:=(PHvað)).MenntunarKóti
-        mKóti := ClassToStr(PKóti)
+        FinnaMenntun.leita
+        {PKóti|FinnaMenntun.LOOKUP(Tri:=(PHvað)).MenntunarKóti
+        mKóti := ClassToStr(PKóti)}
+        PMenntNr.show
+        mKóti.show
+        
         IF PFrhNám = Framhaldspróf OR Substring(mKóti,1,3) = '3.3' THEN
           PMeist
-          IF PMeist = Já THEN PMSKóli ENDIF
+          IF PMeist = Já THEN
+            PMSKóli
+          ENDIF
         ENDIF
-      ENDIF {PFrhNám In [Framhaldspróf, Háskólapróf, AnnaðPróf] THEN}
-      IF PFrhNám = Háskólapróf OR Substring(mKóti,1,1) = '5' THEN PGráða ENDIF
+      ENDIF {PFrhNám In [Framhaldspróf, Háskólapróf, AnnaðPróf]}
+      
+      IF PFrhNám = Háskólapróf OR Substring(mKóti,1,1) = '5' THEN
+         PGráða
+      ENDIF
+      
       IF PFrhNám = Gagnfræðapróf THEN
         PÁr := FæðÁr + 17
-      ELSEIF PFrhNám <> Refusal THEN
+      ELSEIF PFrhNám <> REFUSAL THEN
         PÁr
-      ENDIF
-      if PÁr = dk then PÁr_gisk endif
-      IF PÁr = RESPONSE THEN
-        {Hér þarf að koma Y2K tékk:   }
-        IF PÁr < 1000 THEN
-           PÁr >= 1000 "Árið verður að vera 4 tölustafir !"
+        IF PÁr=RESPONSE THEN 
+{UNLESS}  PÁr >= 1000         "Árið verður að vera 4 tölustafir!"
+{UNLESS} (PÁr - FæðÁr) >= 0   "Lauk námi fyrir fæðingu!"
+{UNLESS} (PÁr - FæðÁr) >= 10  "Lauk nám fyrir 10 ára aldur!"
+{UNLESS}  PÁr <= Year(viðmiðunardagur) "Ekki má skrá ár fram í tímann!"
+        ENDIF 
+        IF PÁr = DONTKNOW THEN
+            PÁr_gisk 
         ENDIF
-        IF (PÁr - FæðÁr)  < 0 THEN
-          (PÁr - FæðÁr) >= 0 "Lauk námi áður en fæddist!"
-        ELSEIF (PÁr - FæðÁr) < 10 THEN
-          (PÁr - FæðÁr) >= 10 "Lauk fyrir 10 ára!"
-        ENDIF
-        IF PÁr > YEAR(viðmiðunardagur) THEN
-          PÁr <= Year(viðmiðunardagur) "Ekki má skrá ár fram í tímann!"
-        ENDIF
-      ENDIF {PÁr = RESPONSE THEN}
-
-    ENDIF {PSkylda = Nei THEN}
-    IF PSkylda = Nei Or PFrhNám = Gagnfræðapróf THEN
+      ENDIF {PFrhNám = Gagnfræðapróf}
+    ENDIF {PSkylda = Nei}
+    
+    IF PSkylda = Nei OR PFrhNám = Gagnfræðapróf THEN
       PNámskð
-      IF PNámskð = Já THEN PHvaða ENDIF
-      ENDIF     
-      IF PFrhNám = DontKnow Or PKóti = DontKnow OR Substring(mKóti,1,1) = '9' THEN
+      IF PNámskð = Já THEN
+        PHvaða
+        ENDIF
+    ENDIF
+    IF PFrhNám = DONTKNOW OR PKóti = DONTKNOW OR Substring(mKóti,1,1) = '9'
+    THEN
         PISCED
     ENDIF
 

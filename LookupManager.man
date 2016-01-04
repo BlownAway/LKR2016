@@ -42,8 +42,11 @@ DIALOGBOX NamLookup
   LOOKUP Námsgreinar
     SEARCH = YES
     SEARCHTEXT = '^searchtext'
-    FIELDS Námsgrein
-           StigNáms
+    BESTFIT = YES
+    FIELDS StigNáms
+           SviðNáms
+           Námsgrein
+           
   BUTTON dialogResult
     CAPTION = 'Velja'
     STORE = YES
@@ -57,37 +60,40 @@ DIALOGBOX NamLookup
     VALUE = HættaVið
     CAPTION = 'Hætta við'
 
+DIALOGBOX MenntunLookup
+  ESCAPE = NO
+  LOOKUP Námsgreinar
+    SEARCH = YES
+    SEARCHTEXT = '^searchtext'
+    BESTFIT = YES
+    FIELDS StigNáms {todo: hafa tvö mismunandi stig fyrir nám og menntun}
+           SviðNáms
+           Námsgrein
+           
+  BUTTON dialogResult
+    CAPTION = 'Velja'
+    STORE = YES
+    VALUE = Fannst
+  BUTTON dialogResult
+    CAPTION = 'Ekkert Fannst'
+    STORE = YES
+    VALUE = EkkertFannst
+  BUTTON dialogResult
+    STORE = YES
+    VALUE = HættaVið
+    CAPTION = 'Hætta við'
 
 PROCEDURE prc_skoliLookup
-    searchtext := survey.GETVALUE('O.OSkHvaða')
-    IF ROUTERSTATUS = BLRSPREEDIT THEN
-        SkolarLookup
-        IF dialogResult = Fannst  THEN
-          survey.putvalue('O.OSkHvaða_b',Skólalisti.Skolaheiti)
-          survey.putvalue('O.Namsstig',STR(ORD(Skólalisti.stig)))
-          survey.putvalue('O.OSklID',STR(skólalisti.skoliID))
-          survey.PUTVALUE(ACTIVEFIELD,'Fannst')
-          survey.checkrules
-        ELSE
-          Skólalisti.GET(9999)
-          survey.putvalue('O.OSkHvaða_b',Skólalisti.Skolaheiti)
-          survey.putvalue('O.OSklID',STR(skólalisti.skoliID))
-          survey.PUTVALUE(ACTIVEFIELD,'EkkertFannst')
-          survey.checkrules
-        ENDIF
-    ENDIF
-    SETALIENROUTERACTION(BLRANEXTQUESTION)
-ENDPROCEDURE
-
-PROCEDURE prc_skoliLookup2
     IF ROUTERSTATUS = BLRSEDIT THEN
         searchtext := survey.GETVALUE('O.OSkHvaða')
         SkolarLookup
         IF(dialogResult<>HættaVið) THEN
            IF((Skólalisti.Skolaheiti=EMPTY) OR (dialogResult=EkkertFannst)) THEN
                Skólalisti.GET(9999)
+               survey.putvalue('O.Skólastig',EMPTY)
+               survey.putvalue('O.OSkstig',EMPTY)
            ELSE
-               survey.putvalue('O.Namsstig',STR(ORD(Skólalisti.stig)))
+               survey.putvalue('O.Skólastig',STR(ORD(Skólalisti.stig)))
            ENDIF
            survey.PUTVALUE(ACTIVEFIELD,Skólalisti.Skolaheiti)
            survey.putvalue('O.OSklID',STR(skólalisti.skoliID))
@@ -101,20 +107,32 @@ PROCEDURE prc_namLookup
         searchtext := survey.GETVALUE('O.ONamHvað')
         NamLookup
         IF(dialogResult<>HættaVið) THEN
-          IF dialogResult = Fannst  THEN
+          IF dialogResult = EkkertFannst  THEN
+            Námsgreinar.GET(9999)
+          ENDIF
             survey.putvalue(ACTIVEFIELD,Námsgreinar.Námsgrein)
             survey.putvalue('O.skóti',Námsgreinar.StigNáms)
-            survey.putvalue('O.OSklKóti',STR(Námsgreinar.fastanumer))
-          ELSE
-            Námsgreinar.GET(9999)
-            survey.putvalue(ACTIVEFIELD,Námsgreinar.Námsgrein)
-            survey.putvalue('O.OSklKóti',STR(Námsgreinar.fastanumer))
-          ENDIF
+            survey.putvalue('O.OSklKóti',STR(Námsgreinar.fastanumer))          
         ENDIF
         SETALIENROUTERACTION(BLRADEFAULT)
     ENDIF
 ENDPROCEDURE
 
+PROCEDURE prc_menntunLookup
+    IF ROUTERSTATUS = BLRSEDIT THEN
+        searchtext := survey.GETVALUE('P.PHvað')
+        MenntunLookup
+        IF(dialogResult<>HættaVið) THEN
+          IF dialogResult = EkkertFannst  THEN
+            Námsgreinar.GET(9999)
+          ENDIF
+            survey.putvalue(ACTIVEFIELD,Námsgreinar.Námsgrein)
+            survey.putvalue('P.mKóti',Námsgreinar.StigNáms)
+            survey.putvalue('P.PMenntNr',STR(Námsgreinar.fastanumer))          
+        ENDIF
+        SETALIENROUTERACTION(BLRADEFAULT)
+    ENDIF
+ENDPROCEDURE
 
 
 DIALOGBOX Test2

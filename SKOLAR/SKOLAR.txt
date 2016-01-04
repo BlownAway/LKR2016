@@ -1,58 +1,58 @@
-46;Alþjóðaskólinn á Íslandi;2
-247;Dalskóli;2
-248;Grunnskóli Fjallabyggðar;2
-250;Álfhólsskóli;2
-251;Klettaskóli;2
-252;Kerhólsskóli;2
-253;Háaleitisskóli Rvk;2
-254;Kelduskóli;2
-255;Vættaskóli;2
-256;Árskógarskóli;2
-257;Þingeyjarskóli;2
-258;Háaleitisskóli - Ásbrú;2
-259;Alþjóðaskólinn - Hamraskóla;2
-260;Laugarvatnsskóli;2
-261;Reykholtsskóli;2
-9111;Fjölbrautaskólinn í Breiðholti;9
-9112;Fjölbrautaskólinn við Ármúla;9
-9114;Borgarholtsskóli;9
-9119;Fjölbrautaskólinn í Garðabæ;9
-9121;Flensborgarskóli;9
-9122;Framhaldsskólinn í Mosfellsbæ;9
-9123;Fjölbrautaskóli Suðurnesja;9
-9124;Menntaskóli Borgarfjarðar;9
-9125;Fjölbrautaskóli Vesturlands;9
-9128;Fjölbrautaskóli Snæfellinga;9
-9131;Fjölbrautaskóli Norðurlands vestra;9
-9134;Framhaldsskólinn á Laugum;9
-9135;Verkmenntaskólinn á Akureyri;9
-9136;Framhaldsskólinn á Húsavík;9
-9137;Verkmenntaskóli Austurlands;9
-9138;Menntaskólinn á Tröllaskaga;9
-9139;Framhaldsskólinn í Austur-Skaftafellssýslu;9
-9141;Framhaldsskólinn í Vestmannaeyjum;9
-9143;Fjölbrautaskóli Suðurlands;9
-9151;Menntaskólinn í Reykjavík;9
-9152;Menntaskólinn Hraðbraut;9
-9153;Menntaskólinn við Hamrahlíð;9
-9155;Menntaskólinn við Sund;9
-9157;Menntaskólinn í Kópavogi;9
-9159;Menntaskólinn á Ísafirði;9
-9161;Menntaskólinn á Akureyri;9
-9163;Menntaskólinn á Egilsstöðum;9
-9165;Menntaskólinn að Laugarvatni;9
-9171;Verslunarskóli Íslands;9
-9181;Kvennaskólinn í Reykjavík;9
-9202;Tækniskólinn - skóli atvinnulífsins;9
-9209;Iðnnemar á samningi utan skóla;9
-9213;Iðnskólinn í Hafnarfirði;9
-9252;Fisktækniskóli Íslands;9
-9263;Hólaskóli/Háskólinn á Hólum;9
-9316;Fræðslunetið - símenntun á Suðurlandi;9
-9318;Mímir - símenntun;9
-9319;"Símey; Símenntunarmiðstöð Eyjafjarðar";9
-9320;Heilsumeistaraskólinn;9
-9325;Tannsmiðaskóli Íslands;9
-9327;Nuddskóli Íslands;9
-9355;Snyrtiskólinn;9
+46;Alþjóðaskólinn á Íslandi;1
+247;Dalskóli;1
+248;Grunnskóli Fjallabyggðar;1
+250;Álfhólsskóli;1
+251;Klettaskóli;1
+252;Kerhólsskóli;1
+253;Háaleitisskóli Rvk;1
+254;Kelduskóli;1
+255;Vættaskóli;1
+256;Árskógarskóli;1
+257;Þingeyjarskóli;1
+258;Háaleitisskóli - Ásbrú;1
+259;Alþjóðaskólinn - Hamraskóla;1
+260;Laugarvatnsskóli;1
+261;Reykholtsskóli;1
+9111;Fjölbrautaskólinn í Breiðholti;2
+9112;Fjölbrautaskólinn við Ármúla;2
+9114;Borgarholtsskóli;2
+9119;Fjölbrautaskólinn í Garðabæ;2
+9121;Flensborgarskóli;2
+9122;Framhaldsskólinn í Mosfellsbæ;2
+9123;Fjölbrautaskóli Suðurnesja;2
+9124;Menntaskóli Borgarfjarðar;2
+9125;Fjölbrautaskóli Vesturlands;2
+9128;Fjölbrautaskóli Snæfellinga;2
+9131;Fjölbrautaskóli Norðurlands vestra;2
+9134;Framhaldsskólinn á Laugum;2
+9135;Verkmenntaskólinn á Akureyri;2
+9136;Framhaldsskólinn á Húsavík;2
+9137;Verkmenntaskóli Austurlands;2
+9138;Menntaskólinn á Tröllaskaga;2
+9139;Framhaldsskólinn í Austur-Skaftafellssýslu;2
+9141;Framhaldsskólinn í Vestmannaeyjum;2
+9143;Fjölbrautaskóli Suðurlands;2
+9151;Menntaskólinn í Reykjavík;2
+9152;Menntaskólinn Hraðbraut;2
+9153;Menntaskólinn við Hamrahlíð;2
+9155;Menntaskólinn við Sund;2
+9157;Menntaskólinn í Kópavogi;2
+9159;Menntaskólinn á Ísafirði;2
+9161;Menntaskólinn á Akureyri;2
+9163;Menntaskólinn á Egilsstöðum;2
+9165;Menntaskólinn að Laugarvatni;2
+9171;Verslunarskóli Íslands;2
+9181;Kvennaskólinn í Reykjavík;2
+9202;Tækniskólinn - skóli atvinnulífsins;2
+9209;Iðnnemar á samningi utan skóla;2
+9213;Iðnskólinn í Hafnarfirði;2
+9252;Fisktækniskóli Íslands;2
+9263;Hólaskóli/Háskólinn á Hólum;2
+9316;Fræðslunetið - símenntun á Suðurlandi;2
+9318;Mímir - símenntun;2
+9319;"Símey; Símenntunarmiðstöð Eyjafjarðar";2
+9320;Heilsumeistaraskólinn;2
+9325;Tannsmiðaskóli Íslands;2
+9327;Nuddskóli Íslands;2
+9355;Snyrtiskólinn;2
 9999;Skóli ekki á skrá;

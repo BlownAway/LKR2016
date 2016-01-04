@@ -1,0 +1,96 @@
+LIBRARY EducationTypes  "Nám og menntun"
+    LANGUAGES = ISL, ENG
+
+    TYPE TSkyldunám = (
+        Grunnskóli   "Grunnskóli"
+                     "Compulsary schooling",
+        Framhaldsnám "Framhaldsnám"
+                     "Studies after compulsary schooling"
+        )                   
+
+    TYPE TBarnaskóli = (
+      Ekkert           "< 12 ára. Engu eða yngra en 12 ára"
+                       "<12 years. None or younger than 12",
+      Barnaskóli       "12-13 ára. Barnaskólapróf"
+                       "12-13 years old",
+      Unglingaskóli    "14-15 ára. Unglingapróf"
+                       "14-15 years old",
+      Miðskóli         "15-16 ára. Miðskólapróf / landspróf"
+                       "15-16 years old. Old school leaving certificate",
+      Grunnskóli       "15-16 ára. Grunnskólapróf"
+                       "15-16 years old. Basic school certificate",
+      Gagnfræðaskóli   "16-17 ára. Gagnfræðapróf"
+                       "16-17 years old. Old secondary school certificate",
+      StuttFramhald    "17 ára eða eldri. A.m.k. ein önn í framhaldsskóla eða verknámi"
+                       "17 or older. At least one term in secondary or vocational school")
+    TYPE TFrhMenntun = (
+      Gagnfræðapróf    "Gagnfræðaprófi"
+                       "16-17 years old. Old secondary school certificate",
+      Framhaldspróf    "Framhaldsmenntun, iðn- eða starfsmenntun  sem er ekki á háskólastigi"
+                       "Secondary school, vocational school (not university level)",
+      Stúdentspróf     "Stúdentsprófi"
+                       "University entrant certificate",
+      Háskólapróf      "Háskólamenntun"
+                       "University degree",
+      AnnaðPróf        "Annarri menntun"
+                       "Other")
+    TYPE TFrhNám  = (
+       Stúdentspróf     "Námi til stúdentsprófs?"
+                        "A matriculation examination?",
+  	   Framhaldspróf	"Iðn- eða starfsnámi sem er ekki á háskólastigi, til dæmis námi til sveinsprófs? "
+                        "Vocational qualifications not at university level, such as a journeyman examination?",
+  	   {Meistarapróf		"Námi til meistaraprófs?"
+                        "A master craft- or tradesman examination?",}
+       Háskólapróf      "Háskólanámi?"
+                        "A university degree or examination?",
+  	   AnnaðPróf		"Eða öðru námi?"
+                        "or other studies?"
+    )                  
+    TYPE TGráða = (
+      MinnaEnBA        "Minna en BA eða sambærilegt nám án gráðu"
+                       "Less than BA or comparable without a degree",
+      StuttHagnýtt     "Stutt hagnýtt nám úr háskóla"
+                       "Short 1 - 1½ years diploma",
+      BA               "BA, BS, Bed eða sambærilegt"
+                       "BA, BSc, BEd or comporable",
+      Kandidat         "Kandidats- eða embættispróf"
+                       "Candiate's examination",
+      Master           "Masterspróf eða sambærilegt"
+                       "Masters degree or comparable",
+      Doktor           "Doktorspróf eða sambærilegt"
+                       "Doctorate or comparable"
+    )  
+   TYPE TISCED = (
+      Engin          (1)  "Engin formleg menntun"
+                          "No formal education",
+      Fullnaðarpróf  (2)  "Fullnaðarpróf (barnaskólapróf)"
+                          "Old school leaving certificate (age 12 years)",
+      Unglingapróf   (3)  "Unglingapróf"
+                          "Old school leaving certificate (age 14 years)",
+      Grunnskólapróf (4)  "Grunnskólapróf"
+                          "Basic school leaving certificate",
+      Gagnfræðapróf  (5)  "Gagnfræðapróf"
+                          "16-17 years old. Old secondary school certificate",
+      StuttStarfsnám (6)  "Eins til tveggja ára starfsnám"
+                          "1-2 years' vocational training",
+      MilliStarfsnám (15) "Tveggja til þriggja ára starfsnám"
+                          "2-3 years' vocational training",
+      LangtStarfsnám (7)  "Þriggja ára eða lengra starfsnám"
+                          "3 years' or longer vocational training",
+      LöngAlmenn     (8)  "Þriggja ára almenn menntun úr framhaldsskóla"
+                          "3 years' general secondary education",
+      Millistig      (9)  "Eins til tveggja ára menntun eftir framhaldsskóla"
+                          "1-2 years' education after secondary level",
+      StuttHagnýtt   (10) "Stutt hagnýtt nám á háskólastigi"
+                          "Short 1 - 1½ years diploma course at university level",
+      StarfHáskóli   (11) "Starfsnám á háskólastigi"
+                          "Vocational training at university level",
+      GrunnHáskóla   (12) "Grunnnám (1. gráða, td. BA) í háskóla"
+                          "First university degree (e.g. BA)",
+      FramhHáskóla   (13) "Framhaldspróf (2. gráða, td. MA) í háskóla"
+                          "Second university degree (e.g. MA)",
+      Doktor         (14) "Doktorspróf"
+                          "Doctorate")
+   
+   
+END

@@ -13,25 +13,26 @@
         ELSE
             fæðár  := 1900 + VAL(SUBSTRING(kennitala,5,2))
         ENDIF
- ENDPROCEDURE   
-    
+ ENDPROCEDURE
+
  PROCEDURE prc_aldur
  PARAMETERS
     IMPORT kennitala : STRING
+    IMPORT viðmiðunardagur : DateType
     EXPORT aldur : INTEGER
-    
+
     LOCALS fæðÁr: INTEGER
     RULES
         prc_fæðÁr(kennitala,fæðÁr)
-        aldur := YEAR(SYSDATE) - 1 - fæðÁr
+        aldur := YEAR(viðmiðunardagur) - fæðÁr
  ENDPROCEDURE
-    
+
  PROCEDURE prc_fæðingardagur
  PARAMETERS
     IMPORT kennitala : STRING
     EXPORT fæðingardagur: DATETYPE
     EXPORT aldur : INTEGER
-    
+
     LOCALS fæðÁr,fmánuður,fdagur: INTEGER
     RULES
         prc_fæðÁr(kennitala,fæðÁr)
@@ -40,7 +41,7 @@
         fæðingardagur := (fæðár,fmánuður ,fdagur)
         aldur := YEAR(SYSDATE) - 1 - fæðÁr
  ENDPROCEDURE
- 
+
 
 
  PROCEDURE prc_Mánuður

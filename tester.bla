@@ -1,7 +1,7 @@
 DATAMODEL tester
 LANGUAGES   = ISL "Íslenska", ENG "Enska"
 
-LIBRARIES
+{LIBRARIES
     TMENNTUN   'Menntun\TMENNTUN',
     TSTFELAG   'StFelag\TSTFELAG',
     TSVEIT     'Sveit\TSVEIT',
@@ -10,7 +10,7 @@ LIBRARIES
     TNÁM       'Nam\TNAM',
     TBrottfall 'Brottfall\TBrottfall',
     TISAT2008  'ISAT2008\TISAT2008',
-    TSkolar    'SKOLAR\TSKOLAR'
+    EducationTypes    'Typelib\TEducation'
 
 USES
     MENNTUN   'Menntun\MENNTUN',
@@ -21,59 +21,39 @@ USES
     NÁM       'Nam\NAM',
     IÐN       'IDN\IDN',
     ISAT2008  'ISAT2008\ISAT2008',
-    Skólar    'SKOLAR\SKOLAR'
+    Skólar    'SKOLAR\SKOLAR1'}
 
 ATTRIBUTES = DontKnow, Refusal
 INCLUDE "IncludeFiles\Types.inc"
 INCLUDE "IncludeFiles\Stefjur.inc"
-INCLUDE "IncludeFiles\BlokkA.inc"
-INCLUDE "IncludeFiles\BlokkB.inc"
-INCLUDE "IncludeFiles\BlokkD.inc"
-INCLUDE "IncludeFiles\BlokkGd.inc"
-INCLUDE "IncludeFiles\BlokkI.inc"
-INCLUDE "IncludeFiles\BlokkJ.inc"
-INCLUDE "IncludeFiles\BlokkK.inc"
-INCLUDE "IncludeFiles\BlokkO.inc"
+INCLUDE "IncludeFiles\BlokkQ.inc"
+
 FIELDS
-AllarSpurningar : TJáNei
+
 viðmiðunardagur : DateType
-persóna : Tpersóna
-O : BlokkO
+persóna : Tpersóna 
+Q "^haus@/^fsvar@/^strik@/": BlokkQ
 
-EMBEDDED BLOCK BSkolaLeit
-    FIELDS
-        HeitiSkóla : STRING[50]
-        ROUTER leita ALIEN('LookUpManager.msu','prc_skoliLookup2')
-    RULES
-        HeitiSkóla
-ENDBLOCK
 
-FIELDS
-    SkolaLeit : BSkolaLeit
-    
 AUXFIELDS
-    vinnutími :0..220
-    Fæðár : 1900..2020
-    sklFastNr : INTEGER
-
+    fæðingarár:1900..2020
     {Breytur sem tilheyra Types}
     n : (karl2p "n",kona2p " ",karl3p "n",kona3p " ", óvíst3p "/n")
     ur: (karl2p "ur",kona2p " ",karl3p "ur",kona3p " ",óvíst3p "(ur)")
     ekkill: (karl2p "Ekkill",kona2p "Ekkja",karl3p "Ekkill",kona3p "Ekkja",óvíst "Ekkill/Ekkja")
-
-    sama_og_síðast,same_as_last_time: STRING
-
-    {Breytur sem tilheyra spurningaskjá}
-     haus           : STRING[500]
-     fsvar          : STRING[77]
-     strik          : STRING[50]
+    
+LOCALS
+{Breytur sem tilheyra spurningaskjá} 
+haus,fsvar,strik:STRING
+sama_og_síðast,same_as_last_time: STRING
 RULES
+haus:='prófunarumhverfi'
 viðmiðunardagur:=sysdate
 persóna
-Fæðár
-O (viðmiðunardagur, persóna, FæðÁr)
-AllarSpurningar
+fæðingarár
+Q (viðmiðunardagur, persóna, fæðingarár)
 
- 
- 
+
+
+
 ENDMODEL
