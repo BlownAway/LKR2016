@@ -48,6 +48,7 @@ LOCALS
 {Breytur sem tilheyra spurningaskjá}
 haus,fsvar,strik:STRING
 sama_og_síðast,same_as_last_time: STRING
+
 RULES
 haus:='<html><center><b>prófunarumhverfi</b><left></html>'
 viðmiðunardagur:=sysdate
