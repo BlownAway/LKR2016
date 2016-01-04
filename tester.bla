@@ -1,7 +1,8 @@
 DATAMODEL tester
 LANGUAGES   = ISL "Íslenska", ENG "Enska"
-
-{LIBRARIES
+LIBRARIES
+	EducationTypes    'Typelib\TEducation'
+{
     TMENNTUN   'Menntun\TMENNTUN',
     TSTFELAG   'StFelag\TSTFELAG',
     TSVEIT     'Sveit\TSVEIT',
@@ -10,7 +11,7 @@ LANGUAGES   = ISL "Íslenska", ENG "Enska"
     TNÁM       'Nam\TNAM',
     TBrottfall 'Brottfall\TBrottfall',
     TISAT2008  'ISAT2008\TISAT2008',
-    EducationTypes    'Typelib\TEducation'
+    
 
 USES
     MENNTUN   'Menntun\MENNTUN',
@@ -26,13 +27,14 @@ USES
 ATTRIBUTES = DontKnow, Refusal
 INCLUDE "IncludeFiles\Types.inc"
 INCLUDE "IncludeFiles\Stefjur.inc"
-INCLUDE "IncludeFiles\BlokkQ.inc"
+INCLUDE "IncludeFiles\BlokkO.inc"
 
 FIELDS
 
 viðmiðunardagur : DateType
-persóna : Tpersóna 
-Q "^haus@/^fsvar@/^strik@/": BlokkQ
+persóna "^haus" : Tpersóna
+aldur : INTEGER[2]
+O "^haus@/^fsvar@/^strik@/": BlokkO
 
 
 AUXFIELDS
@@ -41,17 +43,17 @@ AUXFIELDS
     n : (karl2p "n",kona2p " ",karl3p "n",kona3p " ", óvíst3p "/n")
     ur: (karl2p "ur",kona2p " ",karl3p "ur",kona3p " ",óvíst3p "(ur)")
     ekkill: (karl2p "Ekkill",kona2p "Ekkja",karl3p "Ekkill",kona3p "Ekkja",óvíst "Ekkill/Ekkja")
-    
+
 LOCALS
-{Breytur sem tilheyra spurningaskjá} 
+{Breytur sem tilheyra spurningaskjá}
 haus,fsvar,strik:STRING
 sama_og_síðast,same_as_last_time: STRING
 RULES
-haus:='prófunarumhverfi'
+haus:='<html><center><b>prófunarumhverfi</b><left></html>'
 viðmiðunardagur:=sysdate
 persóna
-fæðingarár
-Q (viðmiðunardagur, persóna, fæðingarár)
+aldur:=18
+O (viðmiðunardagur, persóna, aldur)
 
 
 

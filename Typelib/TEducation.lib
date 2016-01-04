@@ -6,7 +6,7 @@ LIBRARY EducationTypes  "Nám og menntun"
                      "Compulsary schooling",
         Framhaldsnám "Framhaldsnám"
                      "Studies after compulsary schooling"
-        )                   
+        )
 
     TYPE TBarnaskóli = (
       Ekkert           "< 12 ára. Engu eða yngra en 12 ára"
@@ -45,7 +45,7 @@ LIBRARY EducationTypes  "Nám og menntun"
                         "A university degree or examination?",
   	   AnnaðPróf		"Eða öðru námi?"
                         "or other studies?"
-    )                  
+    )
     TYPE TGráða = (
       MinnaEnBA        "Minna en BA eða sambærilegt nám án gráðu"
                        "Less than BA or comparable without a degree",
@@ -59,7 +59,7 @@ LIBRARY EducationTypes  "Nám og menntun"
                        "Masters degree or comparable",
       Doktor           "Doktorspróf eða sambærilegt"
                        "Doctorate or comparable"
-    )  
+    )
    TYPE TISCED = (
       Engin          (1)  "Engin formleg menntun"
                           "No formal education",
@@ -91,6 +91,32 @@ LIBRARY EducationTypes  "Nám og menntun"
                           "Second university degree (e.g. MA)",
       Doktor         (14) "Doktorspróf"
                           "Doctorate")
-   
-   
+
+ TYPE TNAM =
+		CLASSIFICATION
+			HIERARCHY
+			{1}		Barnaskólastig		(1)	"Barnaskólastig" =(
+ 				{1.1}	Fullnaðarpróf (1)  "Fullnaðarpróf",
+ 				{1.2}	Unglingapróf  (2)  "Unglingapróf" ),
+			{2}		Unglingastig		(2)	"Unglingastig" =(
+				{2.1}	Grunnskóli	  (1)  "Grunnskóli" ,
+				{2.2}	Gagnfræðaskóli(2)  "Gagnfræðaskóli",
+				{2.3}   Starfsnám     (3)  "Starfsnám á grunnskólastigi" ),
+			{3}		Framhaldsskólastig	(3)  "Framhaldsskólastig" =(
+				{3.1}	Öldungadeild  (1)  "Öldungadeild - Námskeið, ekki stefnt að gráðu",
+				{3.2}	Starfsnám	  (2)  "Starfsnám á framhaldsskólastigi",
+				{3.3}	Iðnnám		  (3)  "Iðnnám",
+				{3.4}	Listnám		  (4)  "Listnám á framhaldsskólastigi",
+				{3.5}   AlmenntNám	  (5)  "Almennt framhaldsskólanám"),
+			{4}		Viðbótarstig		(4)  "Viðbótarstig" =(
+				{4.1}	Iðnmeistaranám(1)  "Iðnmeistaranám",
+				{4.2}   Annað 	      (2)  "Annað starfsnám á millistigi"),
+			{5}		Háskólastig			(5)  "Háskólastig" =(
+ 				{5.1}	StuttHagnýtt  (1)  "Stutt hagnýtt nám á háskólastigi",
+				{5.2}	Starfsnám     (2)  "Starfsnám í háskóla",
+				{5.3}   Grunnám 	  (3)  "Grunnám í háskóla",
+				{5.4}   Mastersnám    (4)  "Mastersnám"),
+			{6}		Doktorsstig			(6)  "Doktorsstig",
+			{9}		Óþekkt				(9)  "Óþekkt"
+		ENDCLASSIFICATION
 END

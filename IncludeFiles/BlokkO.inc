@@ -12,15 +12,15 @@ EMBEDDED BLOCK BlokkO "Skólaganga"
       {EXPORT Menntun : TGMenntun
       EXPORT Skólakóti : TNAM}
 
-   EXTERNALS
+   {EXTERNALS
      námsbraut : Nám
      iðngrein  : Iðn
-     skólar    : Skólar
+     skólar    : Skólar}
 
     EMBEDDED BLOCK BSkolaLeit
         FIELDS
             OSkHvaða_b "@GFlettu upp viðeigandi skóla með því að ýta á BILSTÖNGINA" : STRING[50]
-            ROUTER leita ALIEN('LookupManager.msu','prc_skoliLookup2')
+            ROUTER leita ALIEN('LookupManager.msu','prc_skoliLookup')
         RULES
             OSkHvaða_b
     ENDBLOCK
@@ -88,7 +88,7 @@ EMBEDDED BLOCK BlokkO "Skólaganga"
   	  "Er^tu í..."
       "^Are_you studying for... "
   	 /"Gráða"
-  	 : TFrhNám  
+  	 : TFrhNám
 
      ONamHaskoli (o04b)
   	  "Hvaða prófgráðu miðast námið að?"
@@ -104,10 +104,10 @@ EMBEDDED BLOCK BlokkO "Skólaganga"
 
     síðustufjórumvikum : STRING
     lastfourweeks : STRING
-      
+
     sKóti    : String
     Skólastig : TSkyldunám
-    
+
     stu  : (karl2p "stu",kona2p "stu",karl3p " hann",kona3p " hún",óvíst3p " hann/hún")
     ere_you : (karl2p "ere you",kona2p "ere you",karl3p "as he",kona3p "as she",óvíst3p "as he/she")
     n : (karl2p "n",kona2p " ",karl3p "n",kona3p " ", óvíst3p "/n")
@@ -115,13 +115,13 @@ EMBEDDED BLOCK BlokkO "Skólaganga"
     are_you:  (karl2p "Are you",kona2p "Are you",karl3p "Is he",kona3p "Is she",óvíst3p "Is he/she")
     tu   :(karl2p "tu",kona2p "tu",karl3p " hann",kona3p " hún",óvíst3p " hann/hún")
     you :  (karl2p "you",kona2p "you",karl3p "he",kona3p "she",óvíst3p "he/she")
-    
+
 
   LOCALS
     iKóti    : String
     námsgrein : string
     field     :string
-      
+
   RULES
       stu:=persóna.ord
       ere_you:=persóna.ord
@@ -141,17 +141,17 @@ EMBEDDED BLOCK BlokkO "Skólaganga"
         OSklID.show
       ENDIF
       Skólastig.keep
-      IF Skólastig=empty THEN 
-         IF (aldur<18) THEN 
+      IF Skólastig=empty THEN
+         IF (aldur<18) THEN
            OSkstig
          ELSE
-           OSkstig:= Framhaldsnám 
+           OSkstig:= Framhaldsnám
            OSkstig.show
          ENDIF
       ELSE
         OSkstig:=Skólastig
         OSkstig.show
-      ENDIF  
+      ENDIF
       námsgrein:='námsgrein'
       field :='field'
       IF OSkóli IN [námssamningur, bæði] THEN
@@ -165,7 +165,7 @@ EMBEDDED BLOCK BlokkO "Skólaganga"
          sKóti.show
          {Skólakóti := OSklKóti}
       ENDIF
-      
+
 
 
 

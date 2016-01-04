@@ -46,7 +46,7 @@ DIALOGBOX NamLookup
     FIELDS StigNáms
            SviðNáms
            Námsgrein
-           
+
   BUTTON dialogResult
     CAPTION = 'Velja'
     STORE = YES
@@ -69,7 +69,7 @@ DIALOGBOX MenntunLookup
     FIELDS StigNáms {todo: hafa tvö mismunandi stig fyrir nám og menntun}
            SviðNáms
            Námsgrein
-           
+
   BUTTON dialogResult
     CAPTION = 'Velja'
     STORE = YES
@@ -112,7 +112,7 @@ PROCEDURE prc_namLookup
           ENDIF
             survey.putvalue(ACTIVEFIELD,Námsgreinar.Námsgrein)
             survey.putvalue('O.skóti',Námsgreinar.StigNáms)
-            survey.putvalue('O.OSklKóti',STR(Námsgreinar.fastanumer))          
+            survey.putvalue('O.OSklKóti',STR(Námsgreinar.fastanumer))
         ENDIF
         SETALIENROUTERACTION(BLRADEFAULT)
     ENDIF
@@ -128,7 +128,7 @@ PROCEDURE prc_menntunLookup
           ENDIF
             survey.putvalue(ACTIVEFIELD,Námsgreinar.Námsgrein)
             survey.putvalue('P.mKóti',Námsgreinar.StigNáms)
-            survey.putvalue('P.PMenntNr',STR(Námsgreinar.fastanumer))          
+            survey.putvalue('P.PMenntNr',STR(Námsgreinar.fastanumer))
         ENDIF
         SETALIENROUTERACTION(BLRADEFAULT)
     ENDIF
@@ -147,6 +147,6 @@ DIALOGBOX Test2
 
 MANIPULATE
   searchtext := parameter(1)
-  NamLookup
+  SkolarLookup
   Test2
 

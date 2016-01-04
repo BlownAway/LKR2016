@@ -33,6 +33,7 @@
 9141;Framhaldsskólinn í Vestmannaeyjum;2
 9143;Fjölbrautaskóli Suğurlands;2
 9151;Menntaskólinn í Reykjavík;2
+9151;MR;2
 9152;Menntaskólinn Hrağbraut;2
 9153;Menntaskólinn viğ Hamrahlíğ;2
 9155;Menntaskólinn viğ Sund;2
